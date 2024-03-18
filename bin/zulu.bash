@@ -63,7 +63,10 @@ do
 	METADATA_FILE="${METADATA_DIR}/${ZULU_FILE}.json"
 	ZULU_ARCHIVE="${TEMP_DIR}/${ZULU_FILE}"
 	ZULU_URL="https://static.azul.com/zulu/bin/${ZULU_FILE}"
-	if [[ -f "${METADATA_FILE}" ]]
+	if [[ "${ZULU_FILE}" == *"zre"* ]]
+	then
+		echo  "Ignoring ${ZULU_FILE}"	    
+	elif [[ -f "${METADATA_FILE}" ]]
 	then
 		echo "Skipping ${ZULU_FILE}"
 	else
