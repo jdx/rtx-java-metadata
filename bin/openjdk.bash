@@ -43,7 +43,7 @@ download_file 'http://jdk.java.net/21/' "${INDEX_21}"
 download_file 'http://jdk.java.net/22/' "${INDEX_22}"
 download_file 'http://jdk.java.net/23/' "${INDEX_23}"
 
-URLS=$(grep -h -o -E 'href="https://download.java.net/java/.*/[^/]*\.(tar\.gz|zip)"' "${INDEX_ARCHIVE}" "${INDEX_19}" "${INDEX_20}" "${INDEX_21}" "${INDEX_22}" | perl -pe 's/href="(.+)"/$1/g' | sort -V)
+URLS=$(grep -h -o -E 'href="https://download.java.net/java/.*/[^/]*\.(tar\.gz|zip)"' "${INDEX_ARCHIVE}" "${INDEX_21}" "${INDEX_22}" "${INDEX_23}" | perl -pe 's/href="(.+)"/$1/g' | sort -V)
 for URL in ${URLS}
 do
 	FILE="$(perl -pe 's/https.*\/([^\/]+)/$1/g' <<< "${URL}")"
