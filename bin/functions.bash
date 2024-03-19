@@ -18,7 +18,7 @@ function download_github_releases {
 	if [[ -n "${GITHUB_API_TOKEN:-}" ]]; then
 		args+=('-H' "Authorization: token ${GITHUB_API_TOKEN}")
 	fi
-	curl "${args[@]}" "https://api.github.com/repos/${org}/${repo}/releases"
+	curl "${args[@]}" "https://api.github.com/repos/${org}/${repo}/releases?per_page=100"
 }
 
 function download_file {
