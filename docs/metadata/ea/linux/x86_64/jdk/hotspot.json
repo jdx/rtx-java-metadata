@@ -20497,7 +20497,7 @@
     "size": 207723788,
     "url": "https://static.azul.com/zulu/bin/zulu12-ea-jdk12-linux_x64.tar.gz",
     "vendor": "zulu",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -20520,7 +20520,7 @@
     "size": 207723788,
     "url": "https://static.azul.com/zulu/bin/zulu12-ea-jdk12.0.0-ea-linux_x64.tar.gz",
     "vendor": "zulu",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",

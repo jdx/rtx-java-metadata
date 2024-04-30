@@ -18808,7 +18808,7 @@
     "size": 73691254,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -18833,7 +18833,7 @@
     "size": 73519602,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-macos-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -18856,7 +18856,7 @@
     "size": 276805838,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -18879,7 +18879,7 @@
     "size": 282634642,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -19144,7 +19144,7 @@
     "size": 75464168,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -19169,7 +19169,7 @@
     "size": 75337497,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-macos-amd64-lite.pkg",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -19192,7 +19192,7 @@
     "size": 282384313,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -19215,7 +19215,7 @@
     "size": 282745460,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-macos-amd64.pkg",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -19238,7 +19238,7 @@
     "size": 287778542,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -38804,7 +38804,7 @@
     "size": 200843096,
     "url": "https://download.java.net/java/GA/jdk10/10/binaries/openjdk-10_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "10"
+    "version": "10.0.0"
   },
   {
     "architecture": "x86_64",
@@ -38873,7 +38873,7 @@
     "size": 182717049,
     "url": "https://download.java.net/java/ga/jdk11/openjdk-11_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "x86_64",
@@ -38942,7 +38942,7 @@
     "size": 189970526,
     "url": "https://download.java.net/java/GA/jdk12/33/GPL/openjdk-12_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -39011,7 +39011,7 @@
     "size": 189943388,
     "url": "https://download.java.net/java/GA/jdk13/5b8a42f3905b406298b72d750b6919f6/33/GPL/openjdk-13_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -39080,7 +39080,7 @@
     "size": 193317458,
     "url": "https://download.java.net/java/GA/jdk14/076bab302c7b4508975440c56f6cc26a/36/GPL/openjdk-14_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "14"
+    "version": "14.0.0"
   },
   {
     "architecture": "x86_64",
@@ -39149,7 +39149,7 @@
     "size": 192743279,
     "url": "https://download.java.net/java/GA/jdk15/779bf45e88a44cbd9ea6621d33e33db1/36/GPL/openjdk-15_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "15"
+    "version": "15.0.0"
   },
   {
     "architecture": "x86_64",
@@ -39218,7 +39218,7 @@
     "size": 181599030,
     "url": "https://download.java.net/java/GA/jdk16/7863447f0ab643c585b9bdebf67c69db/36/GPL/openjdk-16_osx-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "16"
+    "version": "16.0.0"
   },
   {
     "architecture": "x86_64",
@@ -39287,7 +39287,7 @@
     "size": 184007871,
     "url": "https://download.java.net/java/GA/jdk17/0d483333a00540d886896bac774ff48b/35/GPL/openjdk-17_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -39402,7 +39402,7 @@
     "size": 185375922,
     "url": "https://download.java.net/java/GA/jdk18/43f95e8614114aeaa8e8a5fcf20a682d/36/GPL/openjdk-18_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -39471,7 +39471,7 @@
     "size": 192323254,
     "url": "https://download.java.net/java/GA/jdk19/877d6127e982470ba2a7faa31cc93d04/36/GPL/openjdk-19_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -39540,7 +39540,7 @@
     "size": 194328775,
     "url": "https://download.java.net/java/GA/jdk20/bdc68b4b9cbc4ebcb30745c85038d91d/36/GPL/openjdk-20_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -39609,7 +39609,7 @@
     "size": 199663920,
     "url": "https://download.java.net/java/GA/jdk21/fd2272bbf8e04c3dbaee13770090416c/35/GPL/openjdk-21_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -39655,7 +39655,7 @@
     "size": 198169544,
     "url": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/35/GPL/openjdk-22_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "x86_64",
@@ -39908,7 +39908,7 @@
     "size": 313139510,
     "url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21_macos-x64_bin.tar.gz",
     "vendor": "oracle-graalvm",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -40483,7 +40483,7 @@
     "size": 176826806,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_macos-x64_bin.dmg",
     "vendor": "oracle",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -40506,7 +40506,7 @@
     "size": 177463987,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_macos-x64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -40713,7 +40713,7 @@
     "size": 178055482,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_macos-x64_bin.dmg",
     "vendor": "oracle",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -40736,7 +40736,7 @@
     "size": 178674835,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_macos-x64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -40851,7 +40851,7 @@
     "size": 185247892,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_macos-x64_bin.dmg",
     "vendor": "oracle",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -40874,7 +40874,7 @@
     "size": 185908835,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_macos-x64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -40989,7 +40989,7 @@
     "size": 187206293,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_macos-x64_bin.dmg",
     "vendor": "oracle",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -41012,7 +41012,7 @@
     "size": 187912823,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_macos-x64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -41127,7 +41127,7 @@
     "size": 192370237,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_macos-x64_bin.dmg",
     "vendor": "oracle",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -41150,7 +41150,7 @@
     "size": 193085094,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_macos-x64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -42507,7 +42507,7 @@
     "size": 206863534,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14/sapmachine-jdk-14_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "14"
+    "version": "14.0.0"
   },
   {
     "architecture": "x86_64",
@@ -42530,7 +42530,7 @@
     "size": 196690978,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14/sapmachine-jdk-14_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "14"
+    "version": "14.0.0"
   },
   {
     "architecture": "x86_64",
@@ -42645,7 +42645,7 @@
     "size": 208980491,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15/sapmachine-jdk-15_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15"
+    "version": "15.0.0"
   },
   {
     "architecture": "x86_64",
@@ -42668,7 +42668,7 @@
     "size": 196153659,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15/sapmachine-jdk-15_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15"
+    "version": "15.0.0"
   },
   {
     "architecture": "x86_64",
@@ -42783,7 +42783,7 @@
     "size": 208925488,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16/sapmachine-jdk-16_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16"
+    "version": "16.0.0"
   },
   {
     "architecture": "x86_64",
@@ -42806,7 +42806,7 @@
     "size": 196116975,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16/sapmachine-jdk-16_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16"
+    "version": "16.0.0"
   },
   {
     "architecture": "x86_64",
@@ -43565,7 +43565,7 @@
     "size": 188812709,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17/sapmachine-jdk-17_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -43588,7 +43588,7 @@
     "size": 179929830,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17/sapmachine-jdk-17_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -43795,7 +43795,7 @@
     "size": 189968964,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18/sapmachine-jdk-18_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -43818,7 +43818,7 @@
     "size": 181223016,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18/sapmachine-jdk-18_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -43979,7 +43979,7 @@
     "size": 196756607,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19/sapmachine-jdk-19_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -44002,7 +44002,7 @@
     "size": 187667436,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19/sapmachine-jdk-19_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -44163,7 +44163,7 @@
     "size": 197957018,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20/sapmachine-jdk-20_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -44186,7 +44186,7 @@
     "size": 189052922,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20/sapmachine-jdk-20_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -44347,7 +44347,7 @@
     "size": 203601924,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21/sapmachine-jdk-21_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -44370,7 +44370,7 @@
     "size": 194299298,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21/sapmachine-jdk-21_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -44439,7 +44439,7 @@
     "size": 211800010,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22/sapmachine-jdk-22_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "x86_64",
@@ -44462,7 +44462,7 @@
     "size": 201319016,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22/sapmachine-jdk-22_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "x86_64",

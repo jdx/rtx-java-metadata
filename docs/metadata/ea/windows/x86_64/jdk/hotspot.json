@@ -24423,7 +24423,7 @@
     "size": 204251626,
     "url": "https://static.azul.com/zulu/bin/zulu12-ea-jdk12-win_x64.zip",
     "vendor": "zulu",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -24446,7 +24446,7 @@
     "size": 204251626,
     "url": "https://static.azul.com/zulu/bin/zulu12-ea-jdk12.0.0-ea-win_x64.zip",
     "vendor": "zulu",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",

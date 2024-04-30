@@ -68,7 +68,7 @@
     "size": 76253099,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -91,7 +91,7 @@
     "size": 175851106,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -114,7 +114,7 @@
     "size": 205777357,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6307,7 +6307,7 @@
     "size": 63934714,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6332,7 +6332,7 @@
     "size": 65633400,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6357,7 +6357,7 @@
     "size": 68784459,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6380,7 +6380,7 @@
     "size": 179266392,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6403,7 +6403,7 @@
     "size": 187955844,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6426,7 +6426,7 @@
     "size": 209699163,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6739,7 +6739,7 @@
     "size": 65567656,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6764,7 +6764,7 @@
     "size": 66949532,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6789,7 +6789,7 @@
     "size": 69848649,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6812,7 +6812,7 @@
     "size": 184362384,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6835,7 +6835,7 @@
     "size": 192801688,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6858,7 +6858,7 @@
     "size": 213658342,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "arm32-vfp-hflt",

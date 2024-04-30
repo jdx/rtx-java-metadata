@@ -1285,7 +1285,7 @@
     "size": 205157783,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14/sapmachine-jdk-14_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "14"
+    "version": "14.0.0"
   },
   {
     "architecture": "x86_64",
@@ -1423,7 +1423,7 @@
     "size": 201597590,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15/sapmachine-jdk-15_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15"
+    "version": "15.0.0"
   },
   {
     "architecture": "x86_64",
@@ -1561,7 +1561,7 @@
     "size": 206645053,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16/sapmachine-jdk-16_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16"
+    "version": "16.0.0"
   },
   {
     "architecture": "x86_64",
@@ -2572,7 +2572,7 @@
     "size": 192760593,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17/sapmachine-jdk-17_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -2877,7 +2877,7 @@
     "size": 193610222,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18/sapmachine-jdk-18_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -3138,7 +3138,7 @@
     "size": 201191590,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19/sapmachine-jdk-19_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -3376,7 +3376,7 @@
     "size": 202953905,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20/sapmachine-jdk-20_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -3399,7 +3399,7 @@
     "size": 201775473,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20/sapmachine-jdk-20_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -3660,7 +3660,7 @@
     "size": 209095924,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21/sapmachine-jdk-21_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -3683,7 +3683,7 @@
     "size": 207537945,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21/sapmachine-jdk-21_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -3802,7 +3802,7 @@
     "size": 207710858,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22/sapmachine-jdk-22_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "x86_64",
@@ -3825,6 +3825,6 @@
     "size": 206182866,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22/sapmachine-jdk-22_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22"
+    "version": "22.0.0"
   }
 ]

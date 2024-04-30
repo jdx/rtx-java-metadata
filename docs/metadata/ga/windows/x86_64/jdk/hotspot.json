@@ -8556,7 +8556,7 @@
     "size": 192366999,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "x86_64",
@@ -12709,7 +12709,7 @@
     "size": 75055104,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -12734,7 +12734,7 @@
     "size": 74088274,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -12757,7 +12757,7 @@
     "size": 274776064,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -12780,7 +12780,7 @@
     "size": 279067460,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -12997,7 +12997,7 @@
     "size": 76468224,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -13022,7 +13022,7 @@
     "size": 75453405,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -13045,7 +13045,7 @@
     "size": 271036416,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -13068,7 +13068,7 @@
     "size": 275267247,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -24473,7 +24473,7 @@
     "size": 198895590,
     "url": "https://download.java.net/java/GA/jdk10/10/binaries/openjdk-10_windows-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "10"
+    "version": "10.0.0"
   },
   {
     "architecture": "x86_64",
@@ -24542,7 +24542,7 @@
     "size": 187396683,
     "url": "https://download.java.net/java/ga/jdk11/openjdk-11_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "x86_64",
@@ -24611,7 +24611,7 @@
     "size": 196405895,
     "url": "https://download.java.net/java/GA/jdk12/33/GPL/openjdk-12_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -24680,7 +24680,7 @@
     "size": 195897761,
     "url": "https://download.java.net/java/GA/jdk13/5b8a42f3905b406298b72d750b6919f6/33/GPL/openjdk-13_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -24749,7 +24749,7 @@
     "size": 198745139,
     "url": "https://download.java.net/java/GA/jdk14/076bab302c7b4508975440c56f6cc26a/36/GPL/openjdk-14_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "14"
+    "version": "14.0.0"
   },
   {
     "architecture": "x86_64",
@@ -24818,7 +24818,7 @@
     "size": 195901213,
     "url": "https://download.java.net/java/GA/jdk15/779bf45e88a44cbd9ea6621d33e33db1/36/GPL/openjdk-15_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "15"
+    "version": "15.0.0"
   },
   {
     "architecture": "x86_64",
@@ -24887,7 +24887,7 @@
     "size": 183613419,
     "url": "https://download.java.net/java/GA/jdk16/7863447f0ab643c585b9bdebf67c69db/36/GPL/openjdk-16_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "16"
+    "version": "16.0.0"
   },
   {
     "architecture": "x86_64",
@@ -24956,7 +24956,7 @@
     "size": 185665886,
     "url": "https://download.java.net/java/GA/jdk17/0d483333a00540d886896bac774ff48b/35/GPL/openjdk-17_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -25071,7 +25071,7 @@
     "size": 187504061,
     "url": "https://download.java.net/java/GA/jdk18/43f95e8614114aeaa8e8a5fcf20a682d/36/GPL/openjdk-18_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -25140,7 +25140,7 @@
     "size": 194357214,
     "url": "https://download.java.net/java/GA/jdk19/877d6127e982470ba2a7faa31cc93d04/36/GPL/openjdk-19_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -25209,7 +25209,7 @@
     "size": 196174504,
     "url": "https://download.java.net/java/GA/jdk20/bdc68b4b9cbc4ebcb30745c85038d91d/36/GPL/openjdk-20_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -25278,7 +25278,7 @@
     "size": 201151266,
     "url": "https://download.java.net/java/GA/jdk21/fd2272bbf8e04c3dbaee13770090416c/35/GPL/openjdk-21_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -25324,7 +25324,7 @@
     "size": 200521507,
     "url": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/35/GPL/openjdk-22_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "x86_64",
@@ -25577,7 +25577,7 @@
     "size": 321689150,
     "url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21_windows-x64_bin.zip",
     "vendor": "oracle-graalvm",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -26428,7 +26428,7 @@
     "size": 159373640,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_windows-x64_bin.exe",
     "vendor": "oracle",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -26451,7 +26451,7 @@
     "size": 158212096,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_windows-x64_bin.msi",
     "vendor": "oracle",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -26474,7 +26474,7 @@
     "size": 178931791,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_windows-x64_bin.zip",
     "vendor": "oracle",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -26773,7 +26773,7 @@
     "size": 160637136,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_windows-x64_bin.exe",
     "vendor": "oracle",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -26796,7 +26796,7 @@
     "size": 159469568,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_windows-x64_bin.msi",
     "vendor": "oracle",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -26819,7 +26819,7 @@
     "size": 180923656,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_windows-x64_bin.zip",
     "vendor": "oracle",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -26980,7 +26980,7 @@
     "size": 166559384,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_windows-x64_bin.exe",
     "vendor": "oracle",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -27003,7 +27003,7 @@
     "size": 165355520,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_windows-x64_bin.msi",
     "vendor": "oracle",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -27026,7 +27026,7 @@
     "size": 187743924,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_windows-x64_bin.zip",
     "vendor": "oracle",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -27187,7 +27187,7 @@
     "size": 167705232,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_windows-x64_bin.exe",
     "vendor": "oracle",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -27210,7 +27210,7 @@
     "size": 166432768,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_windows-x64_bin.msi",
     "vendor": "oracle",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -27233,7 +27233,7 @@
     "size": 189578813,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_windows-x64_bin.zip",
     "vendor": "oracle",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -27394,7 +27394,7 @@
     "size": 171745904,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_windows-x64_bin.exe",
     "vendor": "oracle",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -27417,7 +27417,7 @@
     "size": 170467328,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_windows-x64_bin.msi",
     "vendor": "oracle",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -27440,7 +27440,7 @@
     "size": 194361047,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_windows-x64_bin.zip",
     "vendor": "oracle",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -28797,7 +28797,7 @@
     "size": 196562944,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14/sapmachine-jdk-14_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "14"
+    "version": "14.0.0"
   },
   {
     "architecture": "x86_64",
@@ -28820,7 +28820,7 @@
     "size": 200945464,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14/sapmachine-jdk-14_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "14"
+    "version": "14.0.0"
   },
   {
     "architecture": "x86_64",
@@ -28935,7 +28935,7 @@
     "size": 202117120,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15/sapmachine-jdk-15_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15"
+    "version": "15.0.0"
   },
   {
     "architecture": "x86_64",
@@ -28958,7 +28958,7 @@
     "size": 206409000,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15/sapmachine-jdk-15_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15"
+    "version": "15.0.0"
   },
   {
     "architecture": "x86_64",
@@ -29073,7 +29073,7 @@
     "size": 207249408,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16/sapmachine-jdk-16_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16"
+    "version": "16.0.0"
   },
   {
     "architecture": "x86_64",
@@ -29096,7 +29096,7 @@
     "size": 211538146,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16/sapmachine-jdk-16_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16"
+    "version": "16.0.0"
   },
   {
     "architecture": "x86_64",
@@ -29855,7 +29855,7 @@
     "size": 193396736,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17/sapmachine-jdk-17_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -29878,7 +29878,7 @@
     "size": 196726068,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17/sapmachine-jdk-17_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -30085,7 +30085,7 @@
     "size": 195059712,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18/sapmachine-jdk-18_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -30108,7 +30108,7 @@
     "size": 198314490,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18/sapmachine-jdk-18_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -30269,7 +30269,7 @@
     "size": 201637888,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19/sapmachine-jdk-19_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -30292,7 +30292,7 @@
     "size": 204519844,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19/sapmachine-jdk-19_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -30453,7 +30453,7 @@
     "size": 204165120,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20/sapmachine-jdk-20_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -30476,7 +30476,7 @@
     "size": 207074288,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20/sapmachine-jdk-20_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -30637,7 +30637,7 @@
     "size": 209461248,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21/sapmachine-jdk-21_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -30660,7 +30660,7 @@
     "size": 212401924,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21/sapmachine-jdk-21_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -30729,7 +30729,7 @@
     "size": 208719872,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22/sapmachine-jdk-22_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "x86_64",
@@ -30752,7 +30752,7 @@
     "size": 211632551,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22/sapmachine-jdk-22_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "x86_64",

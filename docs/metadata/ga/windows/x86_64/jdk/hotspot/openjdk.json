@@ -66,7 +66,7 @@
     "size": 198895590,
     "url": "https://download.java.net/java/GA/jdk10/10/binaries/openjdk-10_windows-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "10"
+    "version": "10.0.0"
   },
   {
     "architecture": "x86_64",
@@ -135,7 +135,7 @@
     "size": 187396683,
     "url": "https://download.java.net/java/ga/jdk11/openjdk-11_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "x86_64",
@@ -204,7 +204,7 @@
     "size": 196405895,
     "url": "https://download.java.net/java/GA/jdk12/33/GPL/openjdk-12_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -273,7 +273,7 @@
     "size": 195897761,
     "url": "https://download.java.net/java/GA/jdk13/5b8a42f3905b406298b72d750b6919f6/33/GPL/openjdk-13_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -342,7 +342,7 @@
     "size": 198745139,
     "url": "https://download.java.net/java/GA/jdk14/076bab302c7b4508975440c56f6cc26a/36/GPL/openjdk-14_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "14"
+    "version": "14.0.0"
   },
   {
     "architecture": "x86_64",
@@ -411,7 +411,7 @@
     "size": 195901213,
     "url": "https://download.java.net/java/GA/jdk15/779bf45e88a44cbd9ea6621d33e33db1/36/GPL/openjdk-15_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "15"
+    "version": "15.0.0"
   },
   {
     "architecture": "x86_64",
@@ -480,7 +480,7 @@
     "size": 183613419,
     "url": "https://download.java.net/java/GA/jdk16/7863447f0ab643c585b9bdebf67c69db/36/GPL/openjdk-16_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "16"
+    "version": "16.0.0"
   },
   {
     "architecture": "x86_64",
@@ -549,7 +549,7 @@
     "size": 185665886,
     "url": "https://download.java.net/java/GA/jdk17/0d483333a00540d886896bac774ff48b/35/GPL/openjdk-17_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "x86_64",
@@ -664,7 +664,7 @@
     "size": 187504061,
     "url": "https://download.java.net/java/GA/jdk18/43f95e8614114aeaa8e8a5fcf20a682d/36/GPL/openjdk-18_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "x86_64",
@@ -733,7 +733,7 @@
     "size": 194357214,
     "url": "https://download.java.net/java/GA/jdk19/877d6127e982470ba2a7faa31cc93d04/36/GPL/openjdk-19_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "x86_64",
@@ -802,7 +802,7 @@
     "size": 196174504,
     "url": "https://download.java.net/java/GA/jdk20/bdc68b4b9cbc4ebcb30745c85038d91d/36/GPL/openjdk-20_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "x86_64",
@@ -871,7 +871,7 @@
     "size": 201151266,
     "url": "https://download.java.net/java/GA/jdk21/fd2272bbf8e04c3dbaee13770090416c/35/GPL/openjdk-21_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -917,7 +917,7 @@
     "size": 200521507,
     "url": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/35/GPL/openjdk-22_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "x86_64",

@@ -66,7 +66,7 @@
     "size": 181735146,
     "url": "https://download.java.net/java/GA/jdk17/0d483333a00540d886896bac774ff48b/35/GPL/openjdk-17_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "aarch64",
@@ -181,7 +181,7 @@
     "size": 183221810,
     "url": "https://download.java.net/java/GA/jdk18/43f95e8614114aeaa8e8a5fcf20a682d/36/GPL/openjdk-18_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "aarch64",
@@ -250,7 +250,7 @@
     "size": 190416515,
     "url": "https://download.java.net/java/GA/jdk19/877d6127e982470ba2a7faa31cc93d04/36/GPL/openjdk-19_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "aarch64",
@@ -319,7 +319,7 @@
     "size": 191881541,
     "url": "https://download.java.net/java/GA/jdk20/bdc68b4b9cbc4ebcb30745c85038d91d/36/GPL/openjdk-20_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "aarch64",
@@ -388,7 +388,7 @@
     "size": 197305058,
     "url": "https://download.java.net/java/GA/jdk21/fd2272bbf8e04c3dbaee13770090416c/35/GPL/openjdk-21_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "aarch64",
@@ -434,7 +434,7 @@
     "size": 195890605,
     "url": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/35/GPL/openjdk-22_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "aarch64",

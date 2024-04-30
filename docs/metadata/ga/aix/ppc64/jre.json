@@ -2642,7 +2642,7 @@
     "size": 41428573,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22/sapmachine-jre-22_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "ppc64",

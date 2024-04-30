@@ -8380,7 +8380,7 @@
     "size": 67645440,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-i586-lite.msi",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "i686",
@@ -8405,7 +8405,7 @@
     "size": 66714995,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-i586-lite.zip",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "i686",
@@ -8428,7 +8428,7 @@
     "size": 245981184,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-i586.msi",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "i686",
@@ -8451,7 +8451,7 @@
     "size": 249356980,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-i586.zip",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "i686",
@@ -8668,7 +8668,7 @@
     "size": 68841472,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-windows-i586-lite.msi",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "i686",
@@ -8691,7 +8691,7 @@
     "size": 243838976,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-windows-i586.msi",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "i686",
@@ -8714,7 +8714,7 @@
     "size": 247137098,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-windows-i586.zip",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "i686",

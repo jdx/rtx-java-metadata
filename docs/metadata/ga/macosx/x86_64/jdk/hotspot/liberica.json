@@ -7265,7 +7265,7 @@
     "size": 73691254,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -7290,7 +7290,7 @@
     "size": 73519602,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-macos-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -7313,7 +7313,7 @@
     "size": 276805838,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -7336,7 +7336,7 @@
     "size": 282634642,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -7601,7 +7601,7 @@
     "size": 75464168,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -7626,7 +7626,7 @@
     "size": 75337497,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-macos-amd64-lite.pkg",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -7649,7 +7649,7 @@
     "size": 282384313,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -7672,7 +7672,7 @@
     "size": 282745460,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-macos-amd64.pkg",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -7695,7 +7695,7 @@
     "size": 287778542,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",

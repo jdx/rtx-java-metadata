@@ -91,7 +91,7 @@
     "size": 72247114,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-aarch64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "aarch64",
@@ -114,7 +114,7 @@
     "size": 167944968,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-aarch64.deb",
     "vendor": "liberica",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "aarch64",
@@ -137,7 +137,7 @@
     "size": 196570950,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-aarch64.tar.gz",
     "vendor": "liberica",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8004,7 +8004,7 @@
     "size": 70063328,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64-lite.deb",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8029,7 +8029,7 @@
     "size": 71839940,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64-lite.rpm",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8054,7 +8054,7 @@
     "size": 75193472,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8077,7 +8077,7 @@
     "size": 174406012,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64.deb",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8100,7 +8100,7 @@
     "size": 182723420,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64.rpm",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8123,7 +8123,7 @@
     "size": 204079207,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64.tar.gz",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8436,7 +8436,7 @@
     "size": 72290934,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64-lite.deb",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8461,7 +8461,7 @@
     "size": 73817032,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64-lite.rpm",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8486,7 +8486,7 @@
     "size": 77019464,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8509,7 +8509,7 @@
     "size": 243618404,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64.deb",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8532,7 +8532,7 @@
     "size": 255123520,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64.rpm",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",
@@ -8555,7 +8555,7 @@
     "size": 286197107,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64.tar.gz",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",

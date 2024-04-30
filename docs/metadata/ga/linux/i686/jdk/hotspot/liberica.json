@@ -4054,7 +4054,7 @@
     "size": 64728182,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-i586-lite.deb",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "i686",
@@ -4079,7 +4079,7 @@
     "size": 66541732,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-i586-lite.rpm",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "i686",
@@ -4104,7 +4104,7 @@
     "size": 69360748,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-i586-lite.tar.gz",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "i686",
@@ -4127,7 +4127,7 @@
     "size": 162606396,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-i586.deb",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "i686",
@@ -4150,7 +4150,7 @@
     "size": 170287604,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-i586.rpm",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "i686",
@@ -4173,7 +4173,7 @@
     "size": 189504897,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-i586.tar.gz",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "i686",
@@ -4486,7 +4486,7 @@
     "size": 66659882,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-i586-lite.deb",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "i686",
@@ -4511,7 +4511,7 @@
     "size": 68138304,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-i586-lite.rpm",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "i686",
@@ -4536,7 +4536,7 @@
     "size": 70880575,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-i586-lite.tar.gz",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "i686",
@@ -4559,7 +4559,7 @@
     "size": 166263676,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-i586.deb",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "i686",
@@ -4582,7 +4582,7 @@
     "size": 173754228,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-i586.rpm",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "i686",
@@ -4605,7 +4605,7 @@
     "size": 192329799,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-i586.tar.gz",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "i686",

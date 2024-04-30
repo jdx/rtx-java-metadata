@@ -940,7 +940,7 @@
     "size": 321218654,
     "url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21_linux-aarch64_bin.tar.gz",
     "vendor": "oracle-graalvm",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -963,7 +963,7 @@
     "size": 335271969,
     "url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21_linux-x64_bin.tar.gz",
     "vendor": "oracle-graalvm",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "aarch64",
@@ -986,7 +986,7 @@
     "size": 325626507,
     "url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21_macos-aarch64_bin.tar.gz",
     "vendor": "oracle-graalvm",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -1009,7 +1009,7 @@
     "size": 313139510,
     "url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21_macos-x64_bin.tar.gz",
     "vendor": "oracle-graalvm",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "x86_64",
@@ -1032,7 +1032,7 @@
     "size": 321689150,
     "url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21_windows-x64_bin.zip",
     "vendor": "oracle-graalvm",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "aarch64",

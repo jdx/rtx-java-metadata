@@ -43,7 +43,7 @@
     "size": 192366999,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "x86_64",
@@ -4196,7 +4196,7 @@
     "size": 75055104,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -4221,7 +4221,7 @@
     "size": 74088274,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -4244,7 +4244,7 @@
     "size": 274776064,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -4267,7 +4267,7 @@
     "size": 279067460,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "x86_64",
@@ -4484,7 +4484,7 @@
     "size": 76468224,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -4509,7 +4509,7 @@
     "size": 75453405,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -4532,7 +4532,7 @@
     "size": 271036416,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",
@@ -4555,7 +4555,7 @@
     "size": 275267247,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "x86_64",

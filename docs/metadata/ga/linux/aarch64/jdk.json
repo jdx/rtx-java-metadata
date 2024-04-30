@@ -9463,7 +9463,7 @@
     "size": 72247114,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-aarch64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "aarch64",
@@ -9486,7 +9486,7 @@
     "size": 167944968,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-aarch64.deb",
     "vendor": "liberica",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "aarch64",
@@ -9509,7 +9509,7 @@
     "size": 196570950,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-aarch64.tar.gz",
     "vendor": "liberica",
-    "version": "11"
+    "version": "11.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17376,7 +17376,7 @@
     "size": 70063328,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64-lite.deb",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17401,7 +17401,7 @@
     "size": 71839940,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64-lite.rpm",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17426,7 +17426,7 @@
     "size": 75193472,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17449,7 +17449,7 @@
     "size": 174406012,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64.deb",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17472,7 +17472,7 @@
     "size": 182723420,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64.rpm",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17495,7 +17495,7 @@
     "size": 204079207,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-aarch64.tar.gz",
     "vendor": "liberica",
-    "version": "12"
+    "version": "12.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17808,7 +17808,7 @@
     "size": 72290934,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64-lite.deb",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17833,7 +17833,7 @@
     "size": 73817032,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64-lite.rpm",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17858,7 +17858,7 @@
     "size": 77019464,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17881,7 +17881,7 @@
     "size": 243618404,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64.deb",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17904,7 +17904,7 @@
     "size": 255123520,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64.rpm",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",
@@ -17927,7 +17927,7 @@
     "size": 286197107,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-aarch64.tar.gz",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "aarch64",
@@ -38557,7 +38557,7 @@
     "size": 170467678,
     "url": "https://download.java.net/java/GA/jdk15/779bf45e88a44cbd9ea6621d33e33db1/36/GPL/openjdk-15_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "15"
+    "version": "15.0.0"
   },
   {
     "architecture": "aarch64",
@@ -38626,7 +38626,7 @@
     "size": 174456613,
     "url": "https://download.java.net/java/GA/jdk16/7863447f0ab643c585b9bdebf67c69db/36/GPL/openjdk-16_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "16"
+    "version": "16.0.0"
   },
   {
     "architecture": "aarch64",
@@ -38695,7 +38695,7 @@
     "size": 185360648,
     "url": "https://download.java.net/java/GA/jdk17/0d483333a00540d886896bac774ff48b/35/GPL/openjdk-17_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "aarch64",
@@ -38810,7 +38810,7 @@
     "size": 186983593,
     "url": "https://download.java.net/java/GA/jdk18/43f95e8614114aeaa8e8a5fcf20a682d/36/GPL/openjdk-18_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "aarch64",
@@ -38879,7 +38879,7 @@
     "size": 194401252,
     "url": "https://download.java.net/java/GA/jdk19/877d6127e982470ba2a7faa31cc93d04/36/GPL/openjdk-19_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "aarch64",
@@ -38948,7 +38948,7 @@
     "size": 195952958,
     "url": "https://download.java.net/java/GA/jdk20/bdc68b4b9cbc4ebcb30745c85038d91d/36/GPL/openjdk-20_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "aarch64",
@@ -39017,7 +39017,7 @@
     "size": 201583910,
     "url": "https://download.java.net/java/GA/jdk21/fd2272bbf8e04c3dbaee13770090416c/35/GPL/openjdk-21_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "aarch64",
@@ -39063,7 +39063,7 @@
     "size": 200160565,
     "url": "https://download.java.net/java/GA/jdk22/830ec9fcccef480bb3e73fb7ecafe059/35/GPL/openjdk-22_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "aarch64",
@@ -39293,7 +39293,7 @@
     "size": 321218654,
     "url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21_linux-aarch64_bin.tar.gz",
     "vendor": "oracle-graalvm",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "aarch64",
@@ -39868,7 +39868,7 @@
     "size": 160556524,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_linux-aarch64_bin.rpm",
     "vendor": "oracle",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "aarch64",
@@ -39891,7 +39891,7 @@
     "size": 179257618,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_linux-aarch64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "17"
+    "version": "17.0.0"
   },
   {
     "architecture": "aarch64",
@@ -40098,7 +40098,7 @@
     "size": 161589356,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_linux-aarch64_bin.rpm",
     "vendor": "oracle",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "aarch64",
@@ -40121,7 +40121,7 @@
     "size": 181008645,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_linux-aarch64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "18"
+    "version": "18.0.0"
   },
   {
     "architecture": "aarch64",
@@ -40236,7 +40236,7 @@
     "size": 167518396,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_linux-aarch64_bin.rpm",
     "vendor": "oracle",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "aarch64",
@@ -40259,7 +40259,7 @@
     "size": 188361601,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_linux-aarch64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "aarch64",
@@ -40374,7 +40374,7 @@
     "size": 189659625,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_linux-aarch64_bin.rpm",
     "vendor": "oracle",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "aarch64",
@@ -40397,7 +40397,7 @@
     "size": 189938218,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_linux-aarch64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "aarch64",
@@ -40512,7 +40512,7 @@
     "size": 195088065,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_linux-aarch64_bin.rpm",
     "vendor": "oracle",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "aarch64",
@@ -40535,7 +40535,7 @@
     "size": 195401923,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_linux-aarch64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "aarch64",
@@ -41754,7 +41754,7 @@
     "size": 198744282,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19/sapmachine-jdk-19_linux-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19"
+    "version": "19.0.0"
   },
   {
     "architecture": "aarch64",
@@ -41846,7 +41846,7 @@
     "size": 200065235,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20/sapmachine-jdk-20_linux-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20"
+    "version": "20.0.0"
   },
   {
     "architecture": "aarch64",
@@ -41938,7 +41938,7 @@
     "size": 205691292,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21/sapmachine-jdk-21_linux-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21"
+    "version": "21.0.0"
   },
   {
     "architecture": "aarch64",
@@ -41984,7 +41984,7 @@
     "size": 204128992,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22/sapmachine-jdk-22_linux-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22"
+    "version": "22.0.0"
   },
   {
     "architecture": "aarch64",

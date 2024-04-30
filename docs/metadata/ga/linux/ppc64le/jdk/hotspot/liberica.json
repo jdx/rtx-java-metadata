@@ -3910,7 +3910,7 @@
     "size": 65909428,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "ppc64le",
@@ -3935,7 +3935,7 @@
     "size": 67483876,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "ppc64le",
@@ -3960,7 +3960,7 @@
     "size": 70813988,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "ppc64le",
@@ -3983,7 +3983,7 @@
     "size": 157179684,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "ppc64le",
@@ -4006,7 +4006,7 @@
     "size": 164438636,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "ppc64le",
@@ -4029,7 +4029,7 @@
     "size": 182861549,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "13"
+    "version": "13.0.0"
   },
   {
     "architecture": "ppc64le",

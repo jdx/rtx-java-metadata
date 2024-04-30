@@ -204,6 +204,6 @@
     "size": 325626507,
     "url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21_macos-aarch64_bin.tar.gz",
     "vendor": "oracle-graalvm",
-    "version": "21"
+    "version": "21.0.0"
   }
 ]
