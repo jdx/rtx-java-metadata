@@ -11,9 +11,15 @@ jobs:
     runs-on: 'ubuntu-latest'
     steps:
     - uses: actions/checkout@v4
+      with:
+        submodules: 'true'
     - name: Install dependencies
-      run: sudo apt -y install shellcheck
+      run: |
+        apt-get update
+        apt -y install shellcheck
     - name: Run ShellCheck
       run: |
         shellcheck -V
         shellcheck -x bin/*.bash
+    - name: Run tests
+      run: ./tests/run-all.bash

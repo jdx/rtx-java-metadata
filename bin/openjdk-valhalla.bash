@@ -69,7 +69,7 @@ do
 			"${VENDOR}" \
 			"${FILE}" \
 			"$(normalize_release_type "${VERSION}")" \
-			"${VERSION}" \
+			"$(normalize_version "${VERSION}")" \
 			"${VERSION}" \
 			'hotspot' \
 			"$(normalize_os "${OS}")" \

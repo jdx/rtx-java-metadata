@@ -52,7 +52,7 @@ function download {
 			"${VENDOR}" \
 			"${filename}" \
 			'ea' \
-			"${JAVA_VERSION}" \
+			"$(normalize_version "${JAVA_VERSION}")" \
 			"${JAVA_VERSION}" \
 			'graalvm' \
 			"$(normalize_os "${OS}")" \

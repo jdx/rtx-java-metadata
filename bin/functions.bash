@@ -114,6 +114,20 @@ function metadata_json {
 		size="${17}"
 }
 
+function normalize_version {
+  local version="${1}"
+  if [[ "${version}" =~ ^(.[^+]*-[0-9]+)([-+].+)?$ ]]
+  then
+    if [[ -z "${BASH_REMATCH[2]}" ]]
+    then
+      version="${BASH_REMATCH[1]}.0.0"
+    else
+      version="${BASH_REMATCH[1]}.0.0${BASH_REMATCH[2]}"
+    fi
+  fi
+  echo "${version}"
+}
+
 function normalize_os {
 	case "${1}" in
 	'linux'|'Linux'|'alpine-linux') echo 'linux'

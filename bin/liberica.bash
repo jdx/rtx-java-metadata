@@ -94,7 +94,7 @@ function download {
 			"${VENDOR}" \
 			"${filename}" \
 			"$(get_release_type "${VERSION}" "${is_prerelease}")" \
-			"${VERSION}" \
+			"$(normalize_version "${VERSION}")" \
 			"${VERSION}" \
 			'hotspot' \
 			"$(normalize_os "${OS}")" \
