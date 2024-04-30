@@ -15861,7 +15861,7 @@
     "size": 288766523,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64-full.dmg",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -15888,7 +15888,7 @@
     "size": 286150058,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64-full.pkg",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -15915,7 +15915,7 @@
     "size": 291100485,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64-full.zip",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -15940,7 +15940,7 @@
     "size": 79663646,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -15965,7 +15965,7 @@
     "size": 76478829,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64-lite.pkg",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -15990,7 +15990,7 @@
     "size": 76323324,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16013,7 +16013,7 @@
     "size": 206777347,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16036,7 +16036,7 @@
     "size": 204103484,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64.pkg",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16059,7 +16059,7 @@
     "size": 208447310,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16536,7 +16536,7 @@
     "size": 273768133,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-macos-amd64-full.dmg",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16563,7 +16563,7 @@
     "size": 271351392,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-macos-amd64-full.pkg",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16590,7 +16590,7 @@
     "size": 275051806,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-macos-amd64-full.zip",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16615,7 +16615,7 @@
     "size": 71769009,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16640,7 +16640,7 @@
     "size": 68587353,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-macos-amd64-lite.pkg",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16665,7 +16665,7 @@
     "size": 68318861,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-macos-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16688,7 +16688,7 @@
     "size": 191009570,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16711,7 +16711,7 @@
     "size": 188501219,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-macos-amd64.pkg",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16734,7 +16734,7 @@
     "size": 191615616,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -17436,7 +17436,7 @@
     "size": 296421924,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-macos-amd64-full.dmg",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -17463,7 +17463,7 @@
     "size": 293971355,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-macos-amd64-full.pkg",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -17490,7 +17490,7 @@
     "size": 298781271,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-macos-amd64-full.zip",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -17515,7 +17515,7 @@
     "size": 80239681,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -17540,7 +17540,7 @@
     "size": 77055613,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-macos-amd64-lite.pkg",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -17565,7 +17565,7 @@
     "size": 76832521,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-macos-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -17588,7 +17588,7 @@
     "size": 212327479,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -17611,7 +17611,7 @@
     "size": 209856345,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-macos-amd64.pkg",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -17634,7 +17634,7 @@
     "size": 214038200,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -18111,7 +18111,7 @@
     "size": 283075663,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64-full.dmg",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -18138,7 +18138,7 @@
     "size": 281841527,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64-full.pkg",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -18165,7 +18165,7 @@
     "size": 286675343,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64-full.zip",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -18190,7 +18190,7 @@
     "size": 72839701,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -18215,7 +18215,7 @@
     "size": 70883805,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64-lite.pkg",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -18240,7 +18240,7 @@
     "size": 71640552,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -18263,7 +18263,7 @@
     "size": 196633071,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -18286,7 +18286,7 @@
     "size": 195362585,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64.pkg",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -18309,7 +18309,7 @@
     "size": 199604661,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -22536,7 +22536,7 @@
     "size": 285852173,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64-full.dmg",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -22563,7 +22563,7 @@
     "size": 283119743,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64-full.pkg",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -22590,7 +22590,7 @@
     "size": 283015671,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64-full.tar.gz",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -22617,7 +22617,7 @@
     "size": 287995182,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64-full.zip",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -22642,7 +22642,7 @@
     "size": 73864767,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -22667,7 +22667,7 @@
     "size": 71431706,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64-lite.pkg",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -22692,7 +22692,7 @@
     "size": 71315160,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -22717,7 +22717,7 @@
     "size": 72192366,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -22740,7 +22740,7 @@
     "size": 198724443,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -22763,7 +22763,7 @@
     "size": 196242415,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64.pkg",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -22786,7 +22786,7 @@
     "size": 196116864,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64.tar.gz",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -22809,7 +22809,7 @@
     "size": 200486522,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24036,7 +24036,7 @@
     "size": 296258341,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64-full.dmg",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24063,7 +24063,7 @@
     "size": 293035798,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64-full.pkg",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24090,7 +24090,7 @@
     "size": 292908063,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64-full.tar.gz",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24117,7 +24117,7 @@
     "size": 297889781,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64-full.zip",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24142,7 +24142,7 @@
     "size": 77022171,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24167,7 +24167,7 @@
     "size": 74093021,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64-lite.pkg",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24192,7 +24192,7 @@
     "size": 73979370,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24217,7 +24217,7 @@
     "size": 74836622,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24240,7 +24240,7 @@
     "size": 206626396,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24263,7 +24263,7 @@
     "size": 203702047,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64.pkg",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24286,7 +24286,7 @@
     "size": 203585596,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64.tar.gz",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24309,7 +24309,7 @@
     "size": 207953868,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24936,7 +24936,7 @@
     "size": 314158262,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64-full.dmg",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24963,7 +24963,7 @@
     "size": 307991210,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64-full.pkg",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -24990,7 +24990,7 @@
     "size": 307579391,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64-full.tar.gz",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25017,7 +25017,7 @@
     "size": 312276187,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64-full.zip",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25042,7 +25042,7 @@
     "size": 81103492,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25067,7 +25067,7 @@
     "size": 75212619,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64-lite.pkg",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25092,7 +25092,7 @@
     "size": 74802341,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25117,7 +25117,7 @@
     "size": 75657067,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25140,7 +25140,7 @@
     "size": 220189287,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25163,7 +25163,7 @@
     "size": 214419548,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64.pkg",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25186,7 +25186,7 @@
     "size": 214006688,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64.tar.gz",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25209,7 +25209,7 @@
     "size": 218184899,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25836,7 +25836,7 @@
     "size": 321921540,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64-full.dmg",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25863,7 +25863,7 @@
     "size": 315727464,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64-full.pkg",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25890,7 +25890,7 @@
     "size": 315322660,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64-full.tar.gz",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25917,7 +25917,7 @@
     "size": 320081459,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64-full.zip",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25942,7 +25942,7 @@
     "size": 83301058,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25967,7 +25967,7 @@
     "size": 77432087,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64-lite.pkg",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25992,7 +25992,7 @@
     "size": 77022742,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26017,7 +26017,7 @@
     "size": 77870614,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26040,7 +26040,7 @@
     "size": 226247209,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26063,7 +26063,7 @@
     "size": 220320183,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64.pkg",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26086,7 +26086,7 @@
     "size": 219908829,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64.tar.gz",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26109,7 +26109,7 @@
     "size": 224120857,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27036,7 +27036,7 @@
     "size": 324134525,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64-full.dmg",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27063,7 +27063,7 @@
     "size": 317721049,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64-full.pkg",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27090,7 +27090,7 @@
     "size": 317311383,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64-full.tar.gz",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27117,7 +27117,7 @@
     "size": 321876821,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64-full.zip",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27142,7 +27142,7 @@
     "size": 82899782,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64-lite.dmg",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27167,7 +27167,7 @@
     "size": 76950641,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64-lite.pkg",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27192,7 +27192,7 @@
     "size": 76542246,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27217,7 +27217,7 @@
     "size": 77189559,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27240,7 +27240,7 @@
     "size": 225255444,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64.dmg",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27263,7 +27263,7 @@
     "size": 219136183,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64.pkg",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27286,7 +27286,7 @@
     "size": 218723509,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64.tar.gz",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27309,7 +27309,7 @@
     "size": 222758357,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-macos-amd64.zip",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -35786,7 +35786,7 @@
     "size": 198424761,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-23-loom+2-48_macos-x64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "23-loom+2-48"
+    "version": "23.0.0-loom+2-48"
   },
   {
     "architecture": "x86_64",
@@ -39949,7 +39949,7 @@
     "size": 204340962,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jdk-19-snapshot_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-snapshot"
+    "version": "19.0.0-snapshot"
   },
   {
     "architecture": "x86_64",
@@ -39972,7 +39972,7 @@
     "size": 194246406,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jdk-19-snapshot_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-snapshot"
+    "version": "19.0.0-snapshot"
   },
   {
     "architecture": "x86_64",
@@ -40133,7 +40133,7 @@
     "size": 206239958,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jdk-20-snapshot.35_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-snapshot.35"
+    "version": "20.0.0-snapshot.35"
   },
   {
     "architecture": "x86_64",
@@ -40156,7 +40156,7 @@
     "size": 196199624,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jdk-20-snapshot.35_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-snapshot.35"
+    "version": "20.0.0-snapshot.35"
   },
   {
     "architecture": "x86_64",

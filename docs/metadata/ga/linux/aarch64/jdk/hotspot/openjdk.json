@@ -595,6 +595,6 @@
     "size": 200430266,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-23-loom+2-48_linux-aarch64_bin.tar.gz",
     "vendor": "openjdk",
-    "version": "23-loom+2-48"
+    "version": "23.0.0-loom+2-48"
   }
 ]

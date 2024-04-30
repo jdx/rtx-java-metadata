@@ -2688,7 +2688,7 @@
     "size": 204340962,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jdk-19-snapshot_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-snapshot"
+    "version": "19.0.0-snapshot"
   },
   {
     "architecture": "x86_64",
@@ -2711,7 +2711,7 @@
     "size": 194246406,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jdk-19-snapshot_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-snapshot"
+    "version": "19.0.0-snapshot"
   },
   {
     "architecture": "x86_64",
@@ -2872,7 +2872,7 @@
     "size": 206239958,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jdk-20-snapshot.35_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-snapshot.35"
+    "version": "20.0.0-snapshot.35"
   },
   {
     "architecture": "x86_64",
@@ -2895,7 +2895,7 @@
     "size": 196199624,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jdk-20-snapshot.35_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-snapshot.35"
+    "version": "20.0.0-snapshot.35"
   },
   {
     "architecture": "x86_64",

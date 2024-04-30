@@ -494,7 +494,7 @@
     "size": 72514404,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-riscv64-lite.deb",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "riscv64",
@@ -519,7 +519,7 @@
     "size": 74058816,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-riscv64-lite.rpm",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "riscv64",
@@ -544,7 +544,7 @@
     "size": 77533208,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-riscv64-lite.tar.gz",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "riscv64",
@@ -567,7 +567,7 @@
     "size": 168434604,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-riscv64.deb",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "riscv64",
@@ -590,7 +590,7 @@
     "size": 174998604,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-riscv64.rpm",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "riscv64",
@@ -613,7 +613,7 @@
     "size": 194632300,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-riscv64.tar.gz",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "riscv64",
@@ -918,7 +918,7 @@
     "size": 25807792,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-riscv64.deb",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "riscv64",
@@ -941,7 +941,7 @@
     "size": 29300084,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-riscv64.rpm",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "riscv64",
@@ -964,7 +964,7 @@
     "size": 43026844,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-riscv64.tar.gz",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "riscv64",

@@ -16372,7 +16372,7 @@
     "size": 187396683,
     "url": "https://download.java.net/openjdk/jdk11/ri/openjdk-11+28_windows-x64_bin.zip",
     "vendor": "java-se-ri",
-    "version": "11+28"
+    "version": "11.0.0+28"
   },
   {
     "architecture": "x86_64",
@@ -16395,7 +16395,7 @@
     "size": 196420386,
     "url": "https://download.java.net/openjdk/jdk12/ri/openjdk-12+32_windows-x64_bin.zip",
     "vendor": "java-se-ri",
-    "version": "12+32"
+    "version": "12.0.0+32"
   },
   {
     "architecture": "x86_64",
@@ -16418,7 +16418,7 @@
     "size": 195897761,
     "url": "https://download.java.net/openjdk/jdk13/ri/openjdk-13+33_windows-x64_bin.zip",
     "vendor": "java-se-ri",
-    "version": "13+33"
+    "version": "13.0.0+33"
   },
   {
     "architecture": "x86_64",
@@ -16441,7 +16441,7 @@
     "size": 198745139,
     "url": "https://download.java.net/openjdk/jdk14/ri/openjdk-14+36_windows-x64_bin.zip",
     "vendor": "java-se-ri",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16464,7 +16464,7 @@
     "size": 195901213,
     "url": "https://download.java.net/openjdk/jdk15/ri/openjdk-15+36_windows-x64_bin.zip",
     "vendor": "java-se-ri",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16487,7 +16487,7 @@
     "size": 183613419,
     "url": "https://download.java.net/openjdk/jdk16/ri/openjdk-16+36_windows-x64_bin.zip",
     "vendor": "java-se-ri",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16510,7 +16510,7 @@
     "size": 185665886,
     "url": "https://download.java.net/openjdk/jdk17/ri/openjdk-17+35_windows-x64_bin.zip",
     "vendor": "java-se-ri",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -16533,7 +16533,7 @@
     "size": 187504061,
     "url": "https://download.java.net/openjdk/jdk18/ri/openjdk-18+36_windows-x64_bin.zip",
     "vendor": "java-se-ri",
-    "version": "18+36"
+    "version": "18.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16556,7 +16556,7 @@
     "size": 194357214,
     "url": "https://download.java.net/openjdk/jdk19/ri/openjdk-19+36_windows-x64_bin.zip",
     "vendor": "java-se-ri",
-    "version": "19+36"
+    "version": "19.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -16579,7 +16579,7 @@
     "size": 196174504,
     "url": "https://download.java.net/openjdk/jdk20/ri/openjdk-20+36_windows-x64_bin.zip",
     "vendor": "java-se-ri",
-    "version": "20+36"
+    "version": "20.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22130,7 +22130,7 @@
     "size": 274587648,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22157,7 +22157,7 @@
     "size": 278876924,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22182,7 +22182,7 @@
     "size": 77725696,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22207,7 +22207,7 @@
     "size": 76688810,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22230,7 +22230,7 @@
     "size": 203698176,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22253,7 +22253,7 @@
     "size": 207400083,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22580,7 +22580,7 @@
     "size": 255868928,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22607,7 +22607,7 @@
     "size": 259033872,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22632,7 +22632,7 @@
     "size": 68845568,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22657,7 +22657,7 @@
     "size": 67825261,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22680,7 +22680,7 @@
     "size": 184713216,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -22703,7 +22703,7 @@
     "size": 187302826,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -23180,7 +23180,7 @@
     "size": 277594112,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -23207,7 +23207,7 @@
     "size": 281782035,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -23232,7 +23232,7 @@
     "size": 77316096,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -23257,7 +23257,7 @@
     "size": 76265842,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -23280,7 +23280,7 @@
     "size": 205774848,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -23303,7 +23303,7 @@
     "size": 209385201,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -23630,7 +23630,7 @@
     "size": 265523200,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -23657,7 +23657,7 @@
     "size": 268973325,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -23682,7 +23682,7 @@
     "size": 71745536,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -23707,7 +23707,7 @@
     "size": 70923064,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -23730,7 +23730,7 @@
     "size": 191877120,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -23753,7 +23753,7 @@
     "size": 194222727,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -25880,7 +25880,7 @@
     "size": 268238848,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25907,7 +25907,7 @@
     "size": 271589871,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25932,7 +25932,7 @@
     "size": 72593408,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25957,7 +25957,7 @@
     "size": 71764843,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -25980,7 +25980,7 @@
     "size": 193372160,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26003,7 +26003,7 @@
     "size": 196174380,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26630,7 +26630,7 @@
     "size": 275156992,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26657,7 +26657,7 @@
     "size": 278087518,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26682,7 +26682,7 @@
     "size": 74403840,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26707,7 +26707,7 @@
     "size": 73563277,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26730,7 +26730,7 @@
     "size": 198455296,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -26753,7 +26753,7 @@
     "size": 200892451,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27080,7 +27080,7 @@
     "size": 290779136,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27107,7 +27107,7 @@
     "size": 293599038,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27132,7 +27132,7 @@
     "size": 76369920,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27157,7 +27157,7 @@
     "size": 75359753,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27180,7 +27180,7 @@
     "size": 210083840,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27203,7 +27203,7 @@
     "size": 212415359,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27530,7 +27530,7 @@
     "size": 297762816,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27557,7 +27557,7 @@
     "size": 300651482,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27582,7 +27582,7 @@
     "size": 78446592,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27607,7 +27607,7 @@
     "size": 77437159,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27630,7 +27630,7 @@
     "size": 215298048,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -27653,7 +27653,7 @@
     "size": 217663465,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -28130,7 +28130,7 @@
     "size": 301973504,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -28157,7 +28157,7 @@
     "size": 304900342,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -28182,7 +28182,7 @@
     "size": 77987840,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-windows-amd64-lite.msi",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -28207,7 +28207,7 @@
     "size": 77003150,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-windows-amd64-lite.zip",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -28230,7 +28230,7 @@
     "size": 214519808,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -28253,7 +28253,7 @@
     "size": 216898422,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -34267,7 +34267,7 @@
     "size": 84107264,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -34294,7 +34294,7 @@
     "size": 83531528,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -34317,7 +34317,7 @@
     "size": 54947840,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -34340,7 +34340,7 @@
     "size": 54217394,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -34567,7 +34567,7 @@
     "size": 74289152,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -34594,7 +34594,7 @@
     "size": 73714550,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -34617,7 +34617,7 @@
     "size": 44978176,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -34640,7 +34640,7 @@
     "size": 44274478,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -34967,7 +34967,7 @@
     "size": 79384576,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -34994,7 +34994,7 @@
     "size": 78817787,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -35017,7 +35017,7 @@
     "size": 49692672,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -35040,7 +35040,7 @@
     "size": 49000796,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "x86_64",
@@ -35267,7 +35267,7 @@
     "size": 77332480,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -35294,7 +35294,7 @@
     "size": 76958585,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -35317,7 +35317,7 @@
     "size": 46682112,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -35340,7 +35340,7 @@
     "size": 45844974,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "x86_64",
@@ -36767,7 +36767,7 @@
     "size": 77963264,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -36794,7 +36794,7 @@
     "size": 77598145,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -36817,7 +36817,7 @@
     "size": 46706688,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -36840,7 +36840,7 @@
     "size": 46203488,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37267,7 +37267,7 @@
     "size": 80093184,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37294,7 +37294,7 @@
     "size": 79714239,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37317,7 +37317,7 @@
     "size": 47927296,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37340,7 +37340,7 @@
     "size": 47404489,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37567,7 +37567,7 @@
     "size": 89899008,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37594,7 +37594,7 @@
     "size": 89473017,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37617,7 +37617,7 @@
     "size": 55803904,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37640,7 +37640,7 @@
     "size": 55212805,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37867,7 +37867,7 @@
     "size": 94343168,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37894,7 +37894,7 @@
     "size": 93938978,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37917,7 +37917,7 @@
     "size": 59125760,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -37940,7 +37940,7 @@
     "size": 58554040,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "21+37"
+    "version": "21.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -38267,7 +38267,7 @@
     "size": 96305152,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -38294,7 +38294,7 @@
     "size": 95905554,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -38317,7 +38317,7 @@
     "size": 59002880,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -38340,7 +38340,7 @@
     "size": 58408889,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "x86_64",
@@ -43400,7 +43400,7 @@
     "size": 200759650,
     "url": "https://download.java.net/java/early_access/loom/2/openjdk-23-loom+2-48_windows-x64_bin.zip",
     "vendor": "openjdk",
-    "version": "23-loom+2-48"
+    "version": "23.0.0-loom+2-48"
   },
   {
     "architecture": "x86_64",
@@ -48184,7 +48184,7 @@
     "size": 201396224,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jdk-19-snapshot_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19-snapshot"
+    "version": "19.0.0-snapshot"
   },
   {
     "architecture": "x86_64",
@@ -48207,7 +48207,7 @@
     "size": 204280097,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jdk-19-snapshot_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19-snapshot"
+    "version": "19.0.0-snapshot"
   },
   {
     "architecture": "x86_64",
@@ -48368,7 +48368,7 @@
     "size": 204152832,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jdk-20-snapshot.35_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20-snapshot.35"
+    "version": "20.0.0-snapshot.35"
   },
   {
     "architecture": "x86_64",
@@ -48391,7 +48391,7 @@
     "size": 207067900,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jdk-20-snapshot.35_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20-snapshot.35"
+    "version": "20.0.0-snapshot.35"
   },
   {
     "architecture": "x86_64",
@@ -51496,7 +51496,7 @@
     "size": 48930816,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jre-19-snapshot_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19-snapshot"
+    "version": "19.0.0-snapshot"
   },
   {
     "architecture": "x86_64",
@@ -51519,7 +51519,7 @@
     "size": 48954580,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jre-19-snapshot_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19-snapshot"
+    "version": "19.0.0-snapshot"
   },
   {
     "architecture": "x86_64",
@@ -51680,7 +51680,7 @@
     "size": 49868800,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jre-20-snapshot.35_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20-snapshot.35"
+    "version": "20.0.0-snapshot.35"
   },
   {
     "architecture": "x86_64",
@@ -51703,7 +51703,7 @@
     "size": 49923795,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jre-20-snapshot.35_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20-snapshot.35"
+    "version": "20.0.0-snapshot.35"
   },
   {
     "architecture": "x86_64",

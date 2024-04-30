@@ -595,7 +595,7 @@
     "size": 44846011,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+20/sapmachine-jre-17-internal.0_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-internal.0"
+    "version": "17.0.0-internal.0"
   },
   {
     "architecture": "ppc64le",

@@ -4096,7 +4096,7 @@
     "size": 35492702,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4123,7 +4123,7 @@
     "size": 40666264,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4150,7 +4150,7 @@
     "size": 55845443,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4173,7 +4173,7 @@
     "size": 31723002,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4196,7 +4196,7 @@
     "size": 36275488,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4219,7 +4219,7 @@
     "size": 50029944,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "14+36"
+    "version": "14.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4546,7 +4546,7 @@
     "size": 28649456,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4573,7 +4573,7 @@
     "size": 32705076,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4600,7 +4600,7 @@
     "size": 46864656,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4623,7 +4623,7 @@
     "size": 24769660,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4646,7 +4646,7 @@
     "size": 28307744,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4669,7 +4669,7 @@
     "size": 41054998,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "15+36"
+    "version": "15.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5146,7 +5146,7 @@
     "size": 29058372,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5173,7 +5173,7 @@
     "size": 33169780,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5200,7 +5200,7 @@
     "size": 47780235,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5223,7 +5223,7 @@
     "size": 25298508,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5246,7 +5246,7 @@
     "size": 28862128,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5269,7 +5269,7 @@
     "size": 42029756,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "16+36"
+    "version": "16.0.0+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5596,7 +5596,7 @@
     "size": 29144660,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5623,7 +5623,7 @@
     "size": 33305656,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5650,7 +5650,7 @@
     "size": 47864972,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5673,7 +5673,7 @@
     "size": 25403220,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5696,7 +5696,7 @@
     "size": 28966724,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -5719,7 +5719,7 @@
     "size": 42125221,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "17+35"
+    "version": "17.0.0+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7846,7 +7846,7 @@
     "size": 29175132,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7873,7 +7873,7 @@
     "size": 33360100,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7900,7 +7900,7 @@
     "size": 47916754,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7923,7 +7923,7 @@
     "size": 25462916,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7946,7 +7946,7 @@
     "size": 29021576,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7969,7 +7969,7 @@
     "size": 42181770,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "18+37"
+    "version": "18.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8596,7 +8596,7 @@
     "size": 30046612,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8623,7 +8623,7 @@
     "size": 34493912,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8650,7 +8650,7 @@
     "size": 49733276,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8673,7 +8673,7 @@
     "size": 26285000,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8696,7 +8696,7 @@
     "size": 30124804,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8719,7 +8719,7 @@
     "size": 43938941,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "19+37"
+    "version": "19.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9046,7 +9046,7 @@
     "size": 30025004,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9073,7 +9073,7 @@
     "size": 34661300,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9100,7 +9100,7 @@
     "size": 50331595,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9123,7 +9123,7 @@
     "size": 26263558,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9146,7 +9146,7 @@
     "size": 30307756,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9169,7 +9169,7 @@
     "size": 44547317,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "20+37"
+    "version": "20.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9946,7 +9946,7 @@
     "size": 31424226,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9973,7 +9973,7 @@
     "size": 36185948,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -10000,7 +10000,7 @@
     "size": 52423861,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -10023,7 +10023,7 @@
     "size": 27475172,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -10046,7 +10046,7 @@
     "size": 31625784,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -10069,7 +10069,7 @@
     "size": 46302421,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "22+37"
+    "version": "22.0.0+37"
   },
   {
     "architecture": "arm32-vfp-hflt",

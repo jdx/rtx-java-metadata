@@ -1683,7 +1683,7 @@
     "size": 49278347,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19/sapmachine-jre-19-beta_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-beta"
+    "version": "19.0.0-beta"
   },
   {
     "architecture": "x86_64",
@@ -1706,7 +1706,7 @@
     "size": 49077101,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jre-19-snapshot_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-snapshot"
+    "version": "19.0.0-snapshot"
   },
   {
     "architecture": "x86_64",
@@ -1731,7 +1731,7 @@
     "size": 49056564,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jre-19-snapshotbeta_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-snapshotbeta"
+    "version": "19.0.0-snapshotbeta"
   },
   {
     "architecture": "x86_64",
@@ -1873,7 +1873,7 @@
     "size": 50001067,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jre-20-snapshot.35_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-snapshot.35"
+    "version": "20.0.0-snapshot.35"
   },
   {
     "architecture": "x86_64",
@@ -1898,7 +1898,7 @@
     "size": 49987446,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jre-20-snapshotbeta.35_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-snapshotbeta.35"
+    "version": "20.0.0-snapshotbeta.35"
   },
   {
     "architecture": "x86_64",

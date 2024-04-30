@@ -503,7 +503,7 @@
     "size": 199501793,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15/sapmachine-jdk-15-beta_linux-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-beta"
+    "version": "15.0.0-beta"
   },
   {
     "architecture": "aarch64",
@@ -572,7 +572,7 @@
     "size": 204822994,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16/sapmachine-jdk-16-beta_linux-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-beta"
+    "version": "16.0.0-beta"
   },
   {
     "architecture": "aarch64",
@@ -641,7 +641,7 @@
     "size": 190482100,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17/sapmachine-jdk-17-beta_linux-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-beta"
+    "version": "17.0.0-beta"
   },
   {
     "architecture": "aarch64",
@@ -1032,7 +1032,7 @@
     "size": 191497488,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18/sapmachine-jdk-18-beta_linux-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-beta"
+    "version": "18.0.0-beta"
   },
   {
     "architecture": "aarch64",
@@ -1147,7 +1147,7 @@
     "size": 198358137,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jdk-19-snapshot_linux-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-snapshot"
+    "version": "19.0.0-snapshot"
   },
   {
     "architecture": "aarch64",
@@ -1239,7 +1239,7 @@
     "size": 200885136,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jdk-20-snapshot.35_linux-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-snapshot.35"
+    "version": "20.0.0-snapshot.35"
   },
   {
     "architecture": "aarch64",
