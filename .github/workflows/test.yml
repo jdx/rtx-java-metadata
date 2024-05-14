@@ -14,9 +14,7 @@ jobs:
       with:
         submodules: 'true'
     - name: Install dependencies
-      run: |
-        apt-get update
-        apt -y install shellcheck
+      run: sudo apt-get update && apt-get install -y shellcheck
     - name: Run ShellCheck
       run: |
         shellcheck -V
