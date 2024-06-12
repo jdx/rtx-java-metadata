@@ -10528,6 +10528,150 @@
       "lite"
     ],
     "file_type": "deb",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "e6b109ba5249c9922a0e2bfcacde90cb",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a10195f15d8158afa88ee1603b430c66c3f2c786",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb.sha1",
+    "sha256": "37f1a2b5e0e42d53ae9492231c620b9e52c7912a0ce83dc951c417dc8fb58168",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb.sha256",
+    "sha512": "9e5c5d865a6b32f441eeb7c73b036808c89fd1b46912e80ef95cca229b5c0ba58d45cab8fd86cfcfb84c3045ace15e9a47ac6fbc6d0bfdaa2f7773a936f2464b",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb.sha512",
+    "size": 64726112,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "fb59a97b8e9382f33bf25d025a8eaa97",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "58008704ddd105857680606ff77002844f6fe327",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm.sha1",
+    "sha256": "34372a279ce79a77061b113165b9c68ddd483a27ced11f5d141f5907b525c5c3",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm.sha256",
+    "sha512": "2d736c887a4bce51dee9c3b846353b311430d8e4359c62ec5463e0d4e2f788df95fc9369c27bdf10904b3276fd7ef5bc4d7222bde199d23f7423429396989994",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm.sha512",
+    "size": 66413792,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "b9b979fb200d0cd00e9ca70973d10f1d",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "71b267dff52e730d38061f7904303af147616545",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz.sha1",
+    "sha256": "771112809ca893cf2be0e83f825169bbe96d741cd469cb5cbfdc48586ca85632",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz.sha256",
+    "sha512": "03cad6cf37733372f771610a9f291f762e374b998ea139d05e21015a2d9f2298e72b8e0a9fd8deb61ffeaff530868a674b92b57f1d77bffbe8cb8241f7c4085b",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz.sha512",
+    "size": 70097782,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le.deb",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "2e749c1a12eb7e712e9dc9fb7367e30d",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "18ef0a0b894dde3aa0db3abe4422f8c6316cc54a",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.deb.sha1",
+    "sha256": "8260a139cab8fc15b33919671ec415ed96d10c2cfce9a56fc532e4d2090ac033",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.deb.sha256",
+    "sha512": "d61a713c7d4dd73babb37458c2d23740f51a9e527781f70e5f77a4c627f3b3242d27796d58d7cb8c0b4960dd7e2b1e17355c3308f5d572223f8561dc6cebd642",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.deb.sha512",
+    "size": 155142140,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "503c2b6ee66368e098c0093be38ad347",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "978a9d0c72d547691400a5919e5701dd19e66ad9",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.rpm.sha1",
+    "sha256": "c79340c120fd883653ae877ef4ebde7d5b4ec22ca9fa21ceff0c99ab8b087bad",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.rpm.sha256",
+    "sha512": "65cf7f96eead193353f3027ae29f6f1d4f4c054432be09c5932dee0c5ee947a0bb97ace5cd7499ebc381ddd36860110cbd0d41dcab5b6dbee1575ae276dee43b",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.rpm.sha512",
+    "size": 162165488,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "73081715f6e13131a3c733f606aba99a",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "970f13a92f468157e9a6816c1b482205d9d76e82",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "dd0d130eb3f755e737c4537b2427bd81b6ed0e9d4127037d1fcd5d7bcce10686",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "58207d98b714ab153370705e808345fff846c9173489ed848411278debe012e8100a632726885702a60901354ff5e9ff0c43f540a179def35499e11426159a4b",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz.sha512",
+    "size": 181911155,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
     "filename": "bellsoft-jdk11.0.5+11-linux-ppc64le-lite.deb",
     "image_type": "jdk",
     "java_version": "11.0.5+11",
@@ -11841,7 +11985,7 @@
     "size": 65909428,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -11866,7 +12010,7 @@
     "size": 67483876,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -11891,7 +12035,7 @@
     "size": 70813988,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -11914,7 +12058,7 @@
     "size": 157179684,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -11937,7 +12081,7 @@
     "size": 164438636,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -11960,7 +12104,7 @@
     "size": 182861549,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -12369,7 +12513,7 @@
     "size": 67433468,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -12394,7 +12538,7 @@
     "size": 68994720,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -12419,7 +12563,7 @@
     "size": 72335833,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -12442,7 +12586,7 @@
     "size": 160034702,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -12465,7 +12609,7 @@
     "size": 167384808,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -12488,7 +12632,7 @@
     "size": 186329114,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -12801,7 +12945,7 @@
     "size": 64642132,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -12826,7 +12970,7 @@
     "size": 66313204,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -12851,7 +12995,7 @@
     "size": 69584787,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -12874,7 +13018,7 @@
     "size": 157178796,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -12897,7 +13041,7 @@
     "size": 164171212,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -12920,7 +13064,7 @@
     "size": 183416450,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -13377,7 +13521,7 @@
     "size": 66078708,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -13402,7 +13546,7 @@
     "size": 67787636,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -13427,7 +13571,7 @@
     "size": 71153282,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -13450,7 +13594,7 @@
     "size": 160189984,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -13473,7 +13617,7 @@
     "size": 167425596,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -13496,7 +13640,7 @@
     "size": 187409591,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -13809,7 +13953,7 @@
     "size": 66492440,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -13834,7 +13978,7 @@
     "size": 68271848,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -13859,7 +14003,7 @@
     "size": 71921360,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -13882,7 +14026,7 @@
     "size": 161404160,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -13905,7 +14049,7 @@
     "size": 168764240,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -13928,7 +14072,7 @@
     "size": 189049321,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -14361,6 +14505,150 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+10/bellsoft-jdk17.0.11+10-linux-ppc64le.tar.gz",
     "vendor": "liberica",
     "version": "17.0.11+10"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "dacf405e4a3aaaac9f0fcd53296149b3",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2a9a06f0d545edebe09e0b9187ddb76afc5785de",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb.sha1",
+    "sha256": "e1b678a3a425fb667b234c7f3661bd8ca33ce8e8af420d17ecfedff54245a320",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb.sha256",
+    "sha512": "0473725753ba318213532dc1244fe809cd4f24050438cd483ae399aea08e37424b6c7ac214b868d31ac7e4095bd557549bfb7b63e4bef6d057037b50f88f0076",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb.sha512",
+    "size": 67272592,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "c64887839702c332b409fae735960a7f",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2ecca0b8e90decda3bb4411eec3544c2f1dc7810",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm.sha1",
+    "sha256": "39ec73c5976f10d6fe302f77d1e9c566ed6fdc413a421d296ad48bd177bd2652",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm.sha256",
+    "sha512": "7ba6c430890e31b1f047d3e2b384b3b4eb1b38b60879d4b52cf550828878b7ae2fe36541c7027ea73d2f6909b711300155da0c8122411483f9b161e4452674a3",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm.sha512",
+    "size": 69148364,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "4325239ef6ec71ae8512e982ff31317b",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "6f3cdf3f3b26410bb84577da3b753ee8e4a10ea1",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz.sha1",
+    "sha256": "4829a80d8192f2b4ce9f745b1978052c8d9b9a1f3be20d959deae19ead66c7e2",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz.sha256",
+    "sha512": "3cf391929130eaa0c1ec5c92d40e17092ae73eb240e83dd72e5507ace2a219209a6f98dc91349366928a65163522d33c8bd6f13c4b8796cc9d8b3fe9d48cf000",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz.sha512",
+    "size": 73099294,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "547441a7d491d591a4a05891efa4f5e3",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9635d3844ca6afde07b7e03a7cb5c0d7e183f45b",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.deb.sha1",
+    "sha256": "41e5d4cd4c8a30d8e39477d10db3fec7f2da5c4d170d3b5270da7501f30170c4",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.deb.sha256",
+    "sha512": "439db2eb0d366bf9bc23d25f6772fc2269207950400872a642ee487ad556524499b8f548a43aa2c93f8a7ad1d1361e4836e1c0f8fd3f00133764b153c7f49105",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.deb.sha512",
+    "size": 163671488,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "3d66705724748d4e0fcf612a0e1cb916",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "5f28d30de349ffafa0fad63d53c03097d54f8cd9",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.rpm.sha1",
+    "sha256": "5ca70c3f19a9a14e9b6dd21a000a1584a8023f2b828290023693b58ae7a0ee59",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.rpm.sha256",
+    "sha512": "a2ab92722ad84ca3bdcc869b1adaf26c81645b89bd27039bb10adf86cc26a8d58120d24d74be6a0a22164ed539852ef46d35d3f490f36faccafe82c356da01f0",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.rpm.sha512",
+    "size": 170918424,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "eece275fb771964a720d6e25fd63d39c",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "48a19bc9c1d99997bd7767e1c964f1ad06b00dc4",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "9538129a4111cefe1c1d6a804e45be96095d6c67294069874b88521fd30c1def",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "d9894cbc649e3eaf09e08440acd9dab6a806f10e455590b66573da3b645b72b04b666eea03621e2fb7c412b9ed2135bf85a0b1a59d64e527a0fdcef3670fa27c",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz.sha512",
+    "size": 191421615,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
   },
   {
     "architecture": "ppc64le",
@@ -15969,7 +16257,7 @@
     "size": 67180568,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -15994,7 +16282,7 @@
     "size": 68808028,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -16019,7 +16307,7 @@
     "size": 73152564,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -16042,7 +16330,7 @@
     "size": 163474708,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -16065,7 +16353,7 @@
     "size": 170482932,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -16088,7 +16376,7 @@
     "size": 191413233,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -16689,7 +16977,7 @@
     "size": 69504210,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -16714,7 +17002,7 @@
     "size": 71125232,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -16739,7 +17027,7 @@
     "size": 75850100,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -16762,7 +17050,7 @@
     "size": 168551638,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -16785,7 +17073,7 @@
     "size": 176313304,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -16808,7 +17096,7 @@
     "size": 198626126,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -17121,7 +17409,7 @@
     "size": 69783460,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -17146,7 +17434,7 @@
     "size": 71432564,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -17171,7 +17459,7 @@
     "size": 76576378,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -17194,7 +17482,7 @@
     "size": 169935712,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -17217,7 +17505,7 @@
     "size": 177277096,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -17240,7 +17528,7 @@
     "size": 200196385,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -17553,7 +17841,7 @@
     "size": 71607128,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -17578,7 +17866,7 @@
     "size": 73274996,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -17603,7 +17891,7 @@
     "size": 79098975,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -17626,7 +17914,7 @@
     "size": 174570740,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -17649,7 +17937,7 @@
     "size": 182133144,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -17672,7 +17960,7 @@
     "size": 206039998,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -18112,6 +18400,150 @@
       "lite"
     ],
     "file_type": "deb",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "d8488e90535e9f1f0e1019c63588612c",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ccf4c9dfe7fdcb41b99adba537f00f610394e684",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb.sha1",
+    "sha256": "c8f90fc11f72eddd06e2f9b2a14776351678ed5d287415241d81d36b33071396",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb.sha256",
+    "sha512": "bd2cc3da120d0df2b1be007ee0e6aebdcfdb47793e53acc74974e90a1a5b2517ba7de18276f7e320083c181e255407e5f564d715963d947eb55f6a847665e90e",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb.sha512",
+    "size": 71767418,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "bf0d58ec6adaec2940b77b7c73e0b9c3",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f1082054e0730a4eebcebaedc5368ff65b90b3d5",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm.sha1",
+    "sha256": "f312c01542e00b3c83d3a2c0652172248b363c86d67865f1e17b0b50141078c0",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm.sha256",
+    "sha512": "0f8557fad5e0a95656591b4a8787495f5fdbf3afe85360a5ee18b4a80d3f9bfc2863d13785c9f3508ef45f467e1cf4ad8ae6d80943ab804dc17eadad39c91b08",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm.sha512",
+    "size": 73424992,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "92a39b93e9c7d6fd654f29bf30ba22f6",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c17286224bf575d7f253548d87ca6814a7500113",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz.sha1",
+    "sha256": "42a4e63266cec9f7aa987f3fc47cd37612be3cbd1daccc9682b52c56727891b6",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz.sha256",
+    "sha512": "54a6623065f3d32467edda52f2282e8a17af6f0554f63bce8cd5d04e69e69067f4257838e75f87129007d6b7e557ce52c377da7766337ee444b5c5d37292773d",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz.sha512",
+    "size": 79282590,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "bef4f8b22e79b7a70476066c9d5be52d",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2dc509f3a63d1c4f996713301f64521286fb1f5b",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.deb.sha1",
+    "sha256": "b5b7032b5353e6f1346e977af4d5b1b192af85e51b390e2600c208a44ebe267e",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.deb.sha256",
+    "sha512": "73a51a6657bc8634ef10e6f2320d7b50e238eebff1e568a46c5035204321a671f30909987fa6f3a642c6695042ce4cac71a0b253e3b1af7e16f84fcc9963ae82",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.deb.sha512",
+    "size": 174533106,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "b0fabe8d9e8f16ab839ced99f01bf4d8",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "263728a7d63b165552acc3489d6c5f8250a20b6a",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.rpm.sha1",
+    "sha256": "1901baed95573b084db77dac5a09282bbfbab9d8979285e0170786d2fd062151",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.rpm.sha256",
+    "sha512": "447a9e77d853c3b4284f3516dd7ecb91082a1af477f9fa2e2a6d0fe4c3585605e02673678a3301828b8a790c553f6e7fbfebf5c34997e3d764af94cd9c0ce40f",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.rpm.sha512",
+    "size": 182468348,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "038e3bbb8dc719a2d6b766f61b189aa9",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ac7a50f5ee8825de0ca191da078abc710ccd9798",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "71d044a4542375c2b5eda3575df80c903e0418d231ecf9093ba8fc71440d8992",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "59be6f0363595025e04a70a25e6172c60f9a529f8a9919256c440f392deea5645eeefa19b4d347a8ec873f83dda37d451cd6f2de2dd4a8a43ce2101eea19a9b0",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz.sha512",
+    "size": 206383054,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
     "filename": "bellsoft-jdk22+37-linux-ppc64le-lite.deb",
     "image_type": "jdk",
     "java_version": "22+37",
@@ -18129,7 +18561,7 @@
     "size": 72151120,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -18154,7 +18586,7 @@
     "size": 74050604,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -18179,7 +18611,7 @@
     "size": 78284961,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -18202,7 +18634,7 @@
     "size": 174561848,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -18225,7 +18657,7 @@
     "size": 182260332,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -18248,7 +18680,7 @@
     "size": 204354848,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -18393,6 +18825,150 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+10/bellsoft-jdk22.0.1+10-linux-ppc64le.tar.gz",
     "vendor": "liberica",
     "version": "22.0.1+10"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "2289b58df3f76926f775a56bfb81d382",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9dadafe05fa90937f190bf37b5b7eebcec31ccc9",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb.sha1",
+    "sha256": "ca722e76f7b4fdea8a19073cd7eb0e38e725acb7a0bece8081f6ad1d3daac745",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb.sha256",
+    "sha512": "49a4f19604b3ebbd182ed1547a177435facb21c82adbee73982caa63c5e248cd13cd0ad00d7230f2ff02afdd46442769dda0010c338e009031090428dca70f50",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb.sha512",
+    "size": 72178018,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "58464a90a0bcd778c3a594fd8bddd180",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "0443bc0c955e97ae1b151f8c84879b559c83f9d4",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm.sha1",
+    "sha256": "f9171149050da23a98a05e3e70be197126b86ab6ead2e315e1dadab7b1d75ed6",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm.sha256",
+    "sha512": "1baa85c7df4e12140226939436a187b50c4b12ffab73f0fbe83d254046115ff17f93f15bb3a2b9d1fe0a31ec840050311d6526821cf05c8ccb3bf0c0cd4408c6",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm.sha512",
+    "size": 74055460,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "ad212405f84a6db37a876dfe06d710e6",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "edb39fbdfc8bcbe53f702e6ecf0fd09c0f22f328",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz.sha1",
+    "sha256": "aa2b7923130e43f2c2bed9289dca48f319530099da2bde024489d1f3fd714382",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz.sha256",
+    "sha512": "08b9577f9292fcffd4686ec4ac170c3d0620e58c2d2349db3a7c68cdeab0f67e8389f28661cd6506f430f88afe1ed509ebd7382128f83b6bbc821bf503f731a8",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz.sha512",
+    "size": 78295588,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le.deb",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "03a58f6ec8508317250a113aac93dbb0",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "0205187a23458e905a1b80cb0589842d31b8996b",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.deb.sha1",
+    "sha256": "0491c5c0a0ae02706de63d8644e1e84a6acc2190b3ce1c9a0aeace9ee5b436eb",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.deb.sha256",
+    "sha512": "36e20872f8fee11fa0320541a4ae9d95d423dfff52fee7256c6bd8ae2586e432ef93f6a55ea762b4f4690d6f9dc4c98d8cd813a1b4af84471dcb12cabf1d8e38",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.deb.sha512",
+    "size": 174115724,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "d885a49d65304ffa06d87221bae63016",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2f57cddcd01213f259b5c1215567475f3ce2cc14",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.rpm.sha1",
+    "sha256": "7e5d6e1f34d6f19240b3e00d6bcda2b0b881d6c896396565c0ccbd02912b046e",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.rpm.sha256",
+    "sha512": "975af42eef54ed4e11e5219bdce464a1b0663676b8c3c79720d72a9be649dd6bfd43aa37e98829f0db17bc2c8930e307d8dae5e65e13a5edd48a57ce487a6bd1",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.rpm.sha512",
+    "size": 182277228,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "7e5dcbcef43e380801b024693e4c9088",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "37598c4fb0e99f880722d0aedd3e6842b2c03920",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "133a22e8dbbd29e9d4743c06de07067c60b98fdf313c143d97f07bf0a34814bc",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "5fd255aaebd8440ae580f01a41b91ca03a44861179b06c2d328e5d319c34a747f703f0777a81bffbb7b8c7441a27a4a0e0162a7c737e7fa6a08f5e8a26ee7c86",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz.sha512",
+    "size": 204366395,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
   },
   {
     "architecture": "ppc64le",
@@ -22277,6 +22853,75 @@
     "architecture": "ppc64le",
     "features": [],
     "file_type": "deb",
+    "filename": "bellsoft-jre11.0.23+12-linux-ppc64le.deb",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "5f82dbfb444e62faa6d78f94d44b0e3f",
+    "md5_file": "bellsoft-jre11.0.23+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "8c05bc545ddc5726f56194c6990f2ce33654e733",
+    "sha1_file": "bellsoft-jre11.0.23+12-linux-ppc64le.deb.sha1",
+    "sha256": "28e738bac9ee1d1f22d9dc221d81cbdcf5f54201ce4818fad56e7a08295410f9",
+    "sha256_file": "bellsoft-jre11.0.23+12-linux-ppc64le.deb.sha256",
+    "sha512": "2fcf8a867491deefb2e086e565f19020499f194bc6153fae309945251c6aa67e4d0c132b394e8dd6885d494be8671cafe8f23cfc6be9b7b192a05febf40e5f0b",
+    "sha512_file": "bellsoft-jre11.0.23+12-linux-ppc64le.deb.sha512",
+    "size": 25918800,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre11.0.23+12-linux-ppc64le.rpm",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "4eaa39e141c5ba3378a2701ca4363f35",
+    "md5_file": "bellsoft-jre11.0.23+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ebaa9f36f46163f24a7b1a35610405777985c7f4",
+    "sha1_file": "bellsoft-jre11.0.23+12-linux-ppc64le.rpm.sha1",
+    "sha256": "6b6c80ab9201073c3ae015b19d563c7738465381b388a10e4c675fdfdec38104",
+    "sha256_file": "bellsoft-jre11.0.23+12-linux-ppc64le.rpm.sha256",
+    "sha512": "a754c69302e31b0c486f52d91424326ab7bdfa9d85900c9d2d70ac14835eea1e6cd890ace1d4972057e002b795b61934c02ae9e69742adecd72ad2eb7206adc3",
+    "sha512_file": "bellsoft-jre11.0.23+12-linux-ppc64le.rpm.sha512",
+    "size": 29778912,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre11.0.23+12-linux-ppc64le.tar.gz",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "887530fea4727d57297034e191ba18c7",
+    "md5_file": "bellsoft-jre11.0.23+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9419020e9315175233c46edd078cf7d5b8c6df50",
+    "sha1_file": "bellsoft-jre11.0.23+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "79e3b39362dd0cea6d9ef3375dd6c1d2d205e8b935a55dfbf20f2fe1cc810cba",
+    "sha256_file": "bellsoft-jre11.0.23+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "441af65b531babacbc20b4d623668d34767a8ac7bab9424cf8f3778d4b18b6a2417747fac0533846d51530b15304ab44a5985dcdd9cf3b2fb0360cbbf631f599",
+    "sha512_file": "bellsoft-jre11.0.23+12-linux-ppc64le.tar.gz.sha512",
+    "size": 42560370,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
     "filename": "bellsoft-jre11.0.5+11-linux-ppc64le.deb",
     "image_type": "jre",
     "java_version": "11.0.5+11",
@@ -23053,7 +23698,7 @@
     "size": 31678552,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -23076,7 +23721,7 @@
     "size": 36135788,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -23099,7 +23744,7 @@
     "size": 50220757,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -23260,7 +23905,7 @@
     "size": 26657328,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -23283,7 +23928,7 @@
     "size": 30429128,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -23306,7 +23951,7 @@
     "size": 43694650,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -23536,7 +24181,7 @@
     "size": 27357476,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -23559,7 +24204,7 @@
     "size": 31194280,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -23582,7 +24227,7 @@
     "size": 45048698,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -23743,7 +24388,7 @@
     "size": 27392932,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -23766,7 +24411,7 @@
     "size": 31273668,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -23789,7 +24434,7 @@
     "size": 45110411,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -23997,6 +24642,75 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+10/bellsoft-jre17.0.11+10-linux-ppc64le.tar.gz",
     "vendor": "liberica",
     "version": "17.0.11+10"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jre17.0.11+12-linux-ppc64le.deb",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "e6fe4960cb0afab2ce9720d374e4b724",
+    "md5_file": "bellsoft-jre17.0.11+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "872859be9ccd4872a00c8ad6e2e8378188de34b2",
+    "sha1_file": "bellsoft-jre17.0.11+12-linux-ppc64le.deb.sha1",
+    "sha256": "261b6dc50a24b3e2a88fba2212163d0bbb4e06a15a59738591d5776a64e248c5",
+    "sha256_file": "bellsoft-jre17.0.11+12-linux-ppc64le.deb.sha256",
+    "sha512": "2b44aeda2ad2e1bfb27b99b8568b680383e927fd9366a3f905881a095fc4f6c46b06eaa47ca010b413a8cee7c923616941534c8a352ed645b3d6965e45453a79",
+    "sha512_file": "bellsoft-jre17.0.11+12-linux-ppc64le.deb.sha512",
+    "size": 27979252,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre17.0.11+12-linux-ppc64le.rpm",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "231aa8c7943a23bad79cf363b812616e",
+    "md5_file": "bellsoft-jre17.0.11+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "7f98aeb1ef4ac869024eeb869dea16d5dc170913",
+    "sha1_file": "bellsoft-jre17.0.11+12-linux-ppc64le.rpm.sha1",
+    "sha256": "b69d601940a88cb07a0d60d9a146ec5ada8e42f5ca393d407cd25c11469c8ccc",
+    "sha256_file": "bellsoft-jre17.0.11+12-linux-ppc64le.rpm.sha256",
+    "sha512": "e23d8c930489ee90fec58427bdecb3a883eb7d58344fa5032b2f9285ada6db050fc9afeece3115152b44ad87c216cdaadec687aba5bb425542b3e686b3b42aa2",
+    "sha512_file": "bellsoft-jre17.0.11+12-linux-ppc64le.rpm.sha512",
+    "size": 32004316,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre17.0.11+12-linux-ppc64le.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "d087f6da1461e0794210f346a01e9a34",
+    "md5_file": "bellsoft-jre17.0.11+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d2952c8c5bf87ad2473bc172431319035e5a3baa",
+    "sha1_file": "bellsoft-jre17.0.11+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "f619b0fb2b46f10861b945b00f7236278facdc89d779c167937b66b667ba41fa",
+    "sha256_file": "bellsoft-jre17.0.11+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "695dd89f018c6434407d23fd9177a30b81cd1033fc0298ea7d405dadd0141c8f63285619da53dd949846acdd59396cfa0dd28d68785212a93232821f61867772",
+    "sha512_file": "bellsoft-jre17.0.11+12-linux-ppc64le.tar.gz.sha512",
+    "size": 46102232,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
   },
   {
     "architecture": "ppc64le",
@@ -24778,7 +25492,7 @@
     "size": 27690432,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -24801,7 +25515,7 @@
     "size": 31649456,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -24824,7 +25538,7 @@
     "size": 45651565,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -25123,7 +25837,7 @@
     "size": 28800096,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -25146,7 +25860,7 @@
     "size": 33230808,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -25169,7 +25883,7 @@
     "size": 48059118,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -25330,7 +26044,7 @@
     "size": 29224836,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -25353,7 +26067,7 @@
     "size": 33509480,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -25376,7 +26090,7 @@
     "size": 48791345,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -25537,7 +26251,7 @@
     "size": 31268080,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -25560,7 +26274,7 @@
     "size": 35655312,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -25583,7 +26297,7 @@
     "size": 51986613,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -25796,6 +26510,75 @@
     "architecture": "ppc64le",
     "features": [],
     "file_type": "deb",
+    "filename": "bellsoft-jre21.0.3+12-linux-ppc64le.deb",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "bbd52a7a10e8461dcf184a6f643c35cd",
+    "md5_file": "bellsoft-jre21.0.3+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "937b3f5626eb54d50e1fe9e5934e8e5c51e14880",
+    "sha1_file": "bellsoft-jre21.0.3+12-linux-ppc64le.deb.sha1",
+    "sha256": "addc1e9b30391d7090c8091615e949afdeb600ad10ef9c753ae2e2d704bc8709",
+    "sha256_file": "bellsoft-jre21.0.3+12-linux-ppc64le.deb.sha256",
+    "sha512": "2183bf64f6984f3ef8c607c84f77cf0b9026da0bb59b6f15f061d77a156977828cc09fc21157d8ae4bf47a17904e435f61129f703cc542ad4aa604793bac7335",
+    "sha512_file": "bellsoft-jre21.0.3+12-linux-ppc64le.deb.sha512",
+    "size": 31084194,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre21.0.3+12-linux-ppc64le.rpm",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "a5a529824851a71e15ea4e022cef7517",
+    "md5_file": "bellsoft-jre21.0.3+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "54a64e0320d9c9ad3e4e089e497f20052e1d5d50",
+    "sha1_file": "bellsoft-jre21.0.3+12-linux-ppc64le.rpm.sha1",
+    "sha256": "b66de004e3c555fef88edb0c2b1cfb5b9abe0aa53241b779001688054d36cea1",
+    "sha256_file": "bellsoft-jre21.0.3+12-linux-ppc64le.rpm.sha256",
+    "sha512": "d926392bbdae2bbed60c8feb82f3aac50ed253b4e55a572334b20623ca5b7a2eb948365af298683fc0235ef286e74127a0e7684dda5f9d73b2861534a4a63d7f",
+    "sha512_file": "bellsoft-jre21.0.3+12-linux-ppc64le.rpm.sha512",
+    "size": 35788652,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre21.0.3+12-linux-ppc64le.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "a4487da0327f7b54008026e06466ec9c",
+    "md5_file": "bellsoft-jre21.0.3+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2c0fc3cd6f6a1b1775cfd33a2346d2a5a60d3c40",
+    "sha1_file": "bellsoft-jre21.0.3+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "b86e237370499537868a9f6277127c9d25e3d49adb4fdc2d459e20f26f6d206a",
+    "sha256_file": "bellsoft-jre21.0.3+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "6c10c996104aaef666956822de2c834b1c9e45f34e3a0827686eeb96bd3de574a4e8150b0b13675edd38f44fbf6c9c9f7ed5d90fd606d34e3664fb5c45f600c7",
+    "sha512_file": "bellsoft-jre21.0.3+12-linux-ppc64le.tar.gz.sha512",
+    "size": 52176878,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
     "filename": "bellsoft-jre22+37-linux-ppc64le.deb",
     "image_type": "jre",
     "java_version": "22+37",
@@ -25813,7 +26596,7 @@
     "size": 31087712,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -25836,7 +26619,7 @@
     "size": 35477032,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -25859,7 +26642,7 @@
     "size": 51398043,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -25929,6 +26712,75 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+10/bellsoft-jre22.0.1+10-linux-ppc64le.tar.gz",
     "vendor": "liberica",
     "version": "22.0.1+10"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jre22.0.1+12-linux-ppc64le.deb",
+    "image_type": "jre",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "f19829c44fb19bf1c8e4f608c41db168",
+    "md5_file": "bellsoft-jre22.0.1+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "4a7fb32a6952727661e21b7f2593f51b58e59caa",
+    "sha1_file": "bellsoft-jre22.0.1+12-linux-ppc64le.deb.sha1",
+    "sha256": "9171df7ed937479adde39e3a77536a4a5679589d364d7e5128606b2e2b703a85",
+    "sha256_file": "bellsoft-jre22.0.1+12-linux-ppc64le.deb.sha256",
+    "sha512": "ee629728577d48c2fad199d2e7be5be9a4e4d3ea76100915044e69e62a52d82edb1bada968508ce4a08b9d48128f5c8874c7ac2a8f094534578f65dd1c48aa3b",
+    "sha512_file": "bellsoft-jre22.0.1+12-linux-ppc64le.deb.sha512",
+    "size": 30784270,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre22.0.1+12-linux-ppc64le.rpm",
+    "image_type": "jre",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "f26cd43fa9c63e6e9af1c62ebb0f822c",
+    "md5_file": "bellsoft-jre22.0.1+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c7b671ed7e7652bc7ca798b57aa00d601ae2b473",
+    "sha1_file": "bellsoft-jre22.0.1+12-linux-ppc64le.rpm.sha1",
+    "sha256": "ce0e791e4e52c8e5a2cea1ea8d2d86e21229c42e01db40fd4742245f87f03768",
+    "sha256_file": "bellsoft-jre22.0.1+12-linux-ppc64le.rpm.sha256",
+    "sha512": "1211acce19fd8f5b4a5f0e6a36fb01b893889110763184663552e0e2580dd6dee3e211ce643457628a54bd6f302c7e716b3965b1f9c293df8893690377cb1c88",
+    "sha512_file": "bellsoft-jre22.0.1+12-linux-ppc64le.rpm.sha512",
+    "size": 35484896,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre22.0.1+12-linux-ppc64le.tar.gz",
+    "image_type": "jre",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "de03782632eab0a5786fffadb39e1165",
+    "md5_file": "bellsoft-jre22.0.1+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "077e8e821ad7aa2b0f59db07dfd33c6bc880aade",
+    "sha1_file": "bellsoft-jre22.0.1+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "c3b3b17fe40fc9c718b78c9241c4902703bc35a4ed53ba8d086d8f185bf8281f",
+    "sha256_file": "bellsoft-jre22.0.1+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "166e644fc0131df4c94176a527a3b364466fe1c6f1dae2a9056e22bec7f5e6179cef10b4e68d507734aeb894373d4e1262f925a60f54ae45262968a179604c07",
+    "sha512_file": "bellsoft-jre22.0.1+12-linux-ppc64le.tar.gz.sha512",
+    "size": 51412186,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
   },
   {
     "architecture": "ppc64le",
@@ -27929,7 +28781,7 @@
     "size": 186208783,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14/sapmachine-jdk-14_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "14.0.0"
+    "version": "14"
   },
   {
     "architecture": "ppc64le",
@@ -27998,7 +28850,7 @@
     "size": 183219506,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15/sapmachine-jdk-15_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15.0.0"
+    "version": "15"
   },
   {
     "architecture": "ppc64le",
@@ -28090,7 +28942,7 @@
     "size": 187275909,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16/sapmachine-jdk-16_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16.0.0"
+    "version": "16"
   },
   {
     "architecture": "ppc64le",
@@ -28113,7 +28965,7 @@
     "size": 188514391,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+20/sapmachine-jdk-17-internal.0_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17.0.0-internal.0"
+    "version": "17-internal.0"
   },
   {
     "architecture": "ppc64le",
@@ -28228,7 +29080,7 @@
     "size": 190516840,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17/sapmachine-jdk-17_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "ppc64le",
@@ -28297,7 +29149,7 @@
     "size": 193040989,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18/sapmachine-jdk-18_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "ppc64le",
@@ -28711,7 +29563,7 @@
     "size": 50175313,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14/sapmachine-jre-14_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "14.0.0"
+    "version": "14"
   },
   {
     "architecture": "ppc64le",
@@ -28780,7 +29632,7 @@
     "size": 51951429,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15/sapmachine-jre-15_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15.0.0"
+    "version": "15"
   },
   {
     "architecture": "ppc64le",
@@ -28872,7 +29724,7 @@
     "size": 44914369,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16/sapmachine-jre-16_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16.0.0"
+    "version": "16"
   },
   {
     "architecture": "ppc64le",
@@ -28895,7 +29747,7 @@
     "size": 44846011,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+20/sapmachine-jre-17-internal.0_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17.0.0-internal.0"
+    "version": "17-internal.0"
   },
   {
     "architecture": "ppc64le",
@@ -29010,7 +29862,7 @@
     "size": 45796467,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17/sapmachine-jre-17_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "ppc64le",
@@ -29079,7 +29931,7 @@
     "size": 46549029,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18/sapmachine-jre-18_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "ppc64le",
@@ -29430,6 +30282,29 @@
     "architecture": "ppc64le",
     "features": [],
     "file_type": "rpm",
+    "filename": "ibm-semeru-open-11-jdk-11.0.23.9_0.44.0-1.ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.23+9",
+    "jvm_impl": "openj9",
+    "md5": "104f6d5fded3ba8921c3440a94088a65",
+    "md5_file": "ibm-semeru-open-11-jdk-11.0.23.9_0.44.0-1.ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ed2d894051bd8908973fe62f9a2bf23382488c49",
+    "sha1_file": "ibm-semeru-open-11-jdk-11.0.23.9_0.44.0-1.ppc64le.rpm.sha1",
+    "sha256": "1addb2ba1fdb70515f3f53d31f8e47bf7dd9c487a7947710603567931209beed",
+    "sha256_file": "ibm-semeru-open-11-jdk-11.0.23.9_0.44.0-1.ppc64le.rpm.sha256",
+    "sha512": "c278a907545eb72daeca58d69793ecc032208e55ced3df637e5fe791159d897b3061811153c837e16f61ad13dfc1e8afd93da23250e330362fa3e5e664b1051c",
+    "sha512_file": "ibm-semeru-open-11-jdk-11.0.23.9_0.44.0-1.ppc64le.rpm.sha512",
+    "size": 179292809,
+    "url": "https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.23+9_openj9-0.44.0/ibm-semeru-open-11-jdk-11.0.23.9_0.44.0-1.ppc64le.rpm",
+    "vendor": "semeru",
+    "version": "11.0.23+9_openj9-0.44.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
     "filename": "ibm-semeru-open-11-jre-11.0-12.0.ppc64le.rpm",
     "image_type": "jre",
     "java_version": "11.0.12+7",
@@ -29775,6 +30650,29 @@
     "architecture": "ppc64le",
     "features": [],
     "file_type": "rpm",
+    "filename": "ibm-semeru-open-11-jre-11.0.23.9_0.44.0-1.ppc64le.rpm",
+    "image_type": "jre",
+    "java_version": "11.0.23+9",
+    "jvm_impl": "openj9",
+    "md5": "75fa2b8a0911d24255381b06f16ea046",
+    "md5_file": "ibm-semeru-open-11-jre-11.0.23.9_0.44.0-1.ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "8287c50d2b445031fe9b4aecf599770ff6c23b5f",
+    "sha1_file": "ibm-semeru-open-11-jre-11.0.23.9_0.44.0-1.ppc64le.rpm.sha1",
+    "sha256": "160c19cc2b0fc019104eaa40c68714609a99f57e9a6293d59edb695953009bce",
+    "sha256_file": "ibm-semeru-open-11-jre-11.0.23.9_0.44.0-1.ppc64le.rpm.sha256",
+    "sha512": "98c25b0b6b046ac19ab69f87aaeb776691a3d335915225d96145741c3a4843d6d75a5275eed0c814332e3bd64918055cbe3cdd0b7cebbaa04f5b45b0ee7ab125",
+    "sha512_file": "ibm-semeru-open-11-jre-11.0.23.9_0.44.0-1.ppc64le.rpm.sha512",
+    "size": 30610117,
+    "url": "https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.23+9_openj9-0.44.0/ibm-semeru-open-11-jre-11.0.23.9_0.44.0-1.ppc64le.rpm",
+    "vendor": "semeru",
+    "version": "11.0.23+9_openj9-0.44.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
     "filename": "ibm-semeru-open-16-jdk-16.0-2.0.ppc64le.rpm",
     "image_type": "jdk",
     "java_version": "16.0.2+7",
@@ -29908,6 +30806,29 @@
     "url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.10+7_openj9-0.43.0/ibm-semeru-open-17-jdk-17.0.10.7_0.43.0-1.ppc64le.rpm",
     "vendor": "semeru",
     "version": "17.0.10+7_openj9-0.43.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-17-jdk-17.0.11.9_0.44.0-1.ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "17.0.11+9",
+    "jvm_impl": "openj9",
+    "md5": "83e7107e973c17303563efba5afa53dc",
+    "md5_file": "ibm-semeru-open-17-jdk-17.0.11.9_0.44.0-1.ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a4fc2edefa3aa1303b546f68172e498d6307bb46",
+    "sha1_file": "ibm-semeru-open-17-jdk-17.0.11.9_0.44.0-1.ppc64le.rpm.sha1",
+    "sha256": "7a439eb09c8a9032bc86cc19e6f368a110c005df75bf9f9c678b18ce7fabe1b3",
+    "sha256_file": "ibm-semeru-open-17-jdk-17.0.11.9_0.44.0-1.ppc64le.rpm.sha256",
+    "sha512": "e3782f2949a0f34d4544450bd82089239e393c53733f5ad5b0e4768f57c83557aa12716e9f339f91aaa708a3ae29cb757cd151313e4dd9cca24f2977c0612a59",
+    "sha512_file": "ibm-semeru-open-17-jdk-17.0.11.9_0.44.0-1.ppc64le.rpm.sha512",
+    "size": 184005469,
+    "url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.11+9_openj9-0.44.0/ibm-semeru-open-17-jdk-17.0.11.9_0.44.0-1.ppc64le.rpm",
+    "vendor": "semeru",
+    "version": "17.0.11+9_openj9-0.44.0"
   },
   {
     "architecture": "ppc64le",
@@ -30184,6 +31105,29 @@
     "url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.10+7_openj9-0.43.0/ibm-semeru-open-17-jre-17.0.10.7_0.43.0-1.ppc64le.rpm",
     "vendor": "semeru",
     "version": "17.0.10+7_openj9-0.43.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-17-jre-17.0.11.9_0.44.0-1.ppc64le.rpm",
+    "image_type": "jre",
+    "java_version": "17.0.11+9",
+    "jvm_impl": "openj9",
+    "md5": "6341d4871772473de8c09522fc4bab4b",
+    "md5_file": "ibm-semeru-open-17-jre-17.0.11.9_0.44.0-1.ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "cc2c31d198b93bcc6482176995a3dea45a876dbd",
+    "sha1_file": "ibm-semeru-open-17-jre-17.0.11.9_0.44.0-1.ppc64le.rpm.sha1",
+    "sha256": "0023174a36eb97069c40b210b169c6c37b6c68ef121f393b032595c39a9fe581",
+    "sha256_file": "ibm-semeru-open-17-jre-17.0.11.9_0.44.0-1.ppc64le.rpm.sha256",
+    "sha512": "0f50f119cdd69006e5d6e0ae951be8d7462ed3ba94ed9a654ceb767f6e870573a9ed34ce6b0fcb07aab4528cae4346e14e09264a15ef33257257cc9efe134008",
+    "sha512_file": "ibm-semeru-open-17-jre-17.0.11.9_0.44.0-1.ppc64le.rpm.sha512",
+    "size": 29867217,
+    "url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.11+9_openj9-0.44.0/ibm-semeru-open-17-jre-17.0.11.9_0.44.0-1.ppc64le.rpm",
+    "vendor": "semeru",
+    "version": "17.0.11+9_openj9-0.44.0"
   },
   {
     "architecture": "ppc64le",
@@ -30787,6 +31731,29 @@
     "architecture": "ppc64le",
     "features": [],
     "file_type": "rpm",
+    "filename": "ibm-semeru-open-21-jdk-21.0.3.9_0.44.0-1.ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.3+9",
+    "jvm_impl": "openj9",
+    "md5": "441b0ca91e4f505cb1b7d9f36b8ec023",
+    "md5_file": "ibm-semeru-open-21-jdk-21.0.3.9_0.44.0-1.ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "960083a3db9836901a3ca490647539c87dd74fb8",
+    "sha1_file": "ibm-semeru-open-21-jdk-21.0.3.9_0.44.0-1.ppc64le.rpm.sha1",
+    "sha256": "b719dabb8b94e699cb91d99eb156a6687836143419bb2aa17b5fe136ab204644",
+    "sha256_file": "ibm-semeru-open-21-jdk-21.0.3.9_0.44.0-1.ppc64le.rpm.sha256",
+    "sha512": "58d48f3065aa47be04f07151364ccbf729be9111709134d4cb953e901c8dd34fd314e1579c467d2861d2ae4985345d70b0b83634dcd008957ed9d26b5a2dee3c",
+    "sha512_file": "ibm-semeru-open-21-jdk-21.0.3.9_0.44.0-1.ppc64le.rpm.sha512",
+    "size": 193610493,
+    "url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.3+9_openj9-0.44.0/ibm-semeru-open-21-jdk-21.0.3.9_0.44.0-1.ppc64le.rpm",
+    "vendor": "semeru",
+    "version": "21.0.3+9_openj9-0.44.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
     "filename": "ibm-semeru-open-21-jre-21.0.1.12_0.42.0-1.ppc64le.rpm",
     "image_type": "jre",
     "java_version": "21.0.1+12",
@@ -30828,6 +31795,29 @@
     "url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.2+13_openj9-0.43.0/ibm-semeru-open-21-jre-21.0.2.13_0.43.0-1.ppc64le.rpm",
     "vendor": "semeru",
     "version": "21.0.2+13_openj9-0.43.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-21-jre-21.0.3.9_0.44.0-1.ppc64le.rpm",
+    "image_type": "jre",
+    "java_version": "21.0.3+9",
+    "jvm_impl": "openj9",
+    "md5": "6d6a8f1a061ee67f895381b78fa8af06",
+    "md5_file": "ibm-semeru-open-21-jre-21.0.3.9_0.44.0-1.ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "682d5dd73c53c4bfd0ccce76761ae90ec212661d",
+    "sha1_file": "ibm-semeru-open-21-jre-21.0.3.9_0.44.0-1.ppc64le.rpm.sha1",
+    "sha256": "882f0b6aada0706e84b8d5bc6a0ef49617e9fd99674d1cda88023b988bbeb2e1",
+    "sha256_file": "ibm-semeru-open-21-jre-21.0.3.9_0.44.0-1.ppc64le.rpm.sha256",
+    "sha512": "7ad55221f8655618a8ed77c582516adac3cac3dc5bdf4c04475914eb8192086a81f28fe49ad8b9e19122292a7fb3a3390c2d93b8e7dc75adae63395b65ad0350",
+    "sha512_file": "ibm-semeru-open-21-jre-21.0.3.9_0.44.0-1.ppc64le.rpm.sha512",
+    "size": 31772197,
+    "url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.3+9_openj9-0.44.0/ibm-semeru-open-21-jre-21.0.3.9_0.44.0-1.ppc64le.rpm",
+    "vendor": "semeru",
+    "version": "21.0.3+9_openj9-0.44.0"
   },
   {
     "architecture": "ppc64le",
@@ -31132,6 +32122,29 @@
     "architecture": "ppc64le",
     "features": [],
     "file_type": "rpm",
+    "filename": "ibm-semeru-open-8-jdk-1.8.0.412.b08_0.44.0-1.ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "8u412-b08",
+    "jvm_impl": "openj9",
+    "md5": "5504cf08a8ff47b7adc6c66bfd530e3e",
+    "md5_file": "ibm-semeru-open-8-jdk-1.8.0.412.b08_0.44.0-1.ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "51b5791fa3efe2bd556865543dd473dfdee226be",
+    "sha1_file": "ibm-semeru-open-8-jdk-1.8.0.412.b08_0.44.0-1.ppc64le.rpm.sha1",
+    "sha256": "24092333c7b73377ce7e7040c7941290a1e0e028fc6d7ca93a8dd1197714e7f6",
+    "sha256_file": "ibm-semeru-open-8-jdk-1.8.0.412.b08_0.44.0-1.ppc64le.rpm.sha256",
+    "sha512": "06a03151e331979b63703cba5b18ea4ecbec2e20775ce15a07ffa14f2543148f123259781c173036b71a9af6e190b9fa704a44d8809b683994743d5756970af9",
+    "sha512_file": "ibm-semeru-open-8-jdk-1.8.0.412.b08_0.44.0-1.ppc64le.rpm.sha512",
+    "size": 94113229,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u412-b08_openj9-0.44.0/ibm-semeru-open-8-jdk-1.8.0.412.b08_0.44.0-1.ppc64le.rpm",
+    "vendor": "semeru",
+    "version": "8u412-b08_openj9-0.44.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
     "filename": "ibm-semeru-open-8-jre-1.8.0.302.b08-1.ppc64le.rpm",
     "image_type": "jre",
     "java_version": "8u302-b08",
@@ -31426,6 +32439,29 @@
     "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u402-b06_openj9-0.43.0/ibm-semeru-open-8-jre-1.8.0.402.b06_0.43.0-1.ppc64le.rpm",
     "vendor": "semeru",
     "version": "8u402-b06_openj9-0.43.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-open-8-jre-1.8.0.412.b08_0.44.0-1.ppc64le.rpm",
+    "image_type": "jre",
+    "java_version": "8u412-b08",
+    "jvm_impl": "openj9",
+    "md5": "eb7b4a6dc027b49130eb0641fadc7fea",
+    "md5_file": "ibm-semeru-open-8-jre-1.8.0.412.b08_0.44.0-1.ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ab301dbe52fb1e91873eb505b72f18bee30e2202",
+    "sha1_file": "ibm-semeru-open-8-jre-1.8.0.412.b08_0.44.0-1.ppc64le.rpm.sha1",
+    "sha256": "2b9f5592b05b45864283c878691a2228351406d6d2db48591d688470a1468efc",
+    "sha256_file": "ibm-semeru-open-8-jre-1.8.0.412.b08_0.44.0-1.ppc64le.rpm.sha256",
+    "sha512": "77451c2685741421498b3856b3907bc09ec86bfa41a612c11a0248fe8745f6fcb855f342ff36f29b4bcad6249165d9da93319281db8d6d5d141d0656eca745e3",
+    "sha512_file": "ibm-semeru-open-8-jre-1.8.0.412.b08_0.44.0-1.ppc64le.rpm.sha512",
+    "size": 34258225,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u412-b08_openj9-0.44.0/ibm-semeru-open-8-jre-1.8.0.412.b08_0.44.0-1.ppc64le.rpm",
+    "vendor": "semeru",
+    "version": "8u412-b08_openj9-0.44.0"
   },
   {
     "architecture": "ppc64le",
@@ -31776,6 +32812,29 @@
     "architecture": "ppc64le",
     "features": [],
     "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jdk_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.23+9",
+    "jvm_impl": "openj9",
+    "md5": "f48bbd7de7df6fa0193a737b40424f89",
+    "md5_file": "ibm-semeru-open-jdk_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "da6afff0ebe2e8ca9a40c58eb56057025ec52eac",
+    "sha1_file": "ibm-semeru-open-jdk_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz.sha1",
+    "sha256": "ceb327c697959cff964f078a875c8374ecdce5096bfff1da980f6b94cb5099ea",
+    "sha256_file": "ibm-semeru-open-jdk_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz.sha256",
+    "sha512": "89847ca637042ef432ce8a62aa42418ec75a538434f398d445927bad9c4ef89ea305e93774d89a6d7177fe5acd441cacb18bcae38d6c4c19605dfb4e9b685dce",
+    "sha512_file": "ibm-semeru-open-jdk_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz.sha512",
+    "size": 214692145,
+    "url": "https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.23+9_openj9-0.44.0/ibm-semeru-open-jdk_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz",
+    "vendor": "semeru",
+    "version": "11.0.23+9_openj9-0.44.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
     "filename": "ibm-semeru-open-jdk_ppc64le_linux_16.0.2_7_openj9-0.27.0.tar.gz",
     "image_type": "jdk",
     "java_version": "16.0.2+7",
@@ -31840,6 +32899,29 @@
     "url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.10+7_openj9-0.43.0/ibm-semeru-open-jdk_ppc64le_linux_17.0.10_7_openj9-0.43.0.tar.gz",
     "vendor": "semeru",
     "version": "17.0.10+7_openj9-0.43.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jdk_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.11+9",
+    "jvm_impl": "openj9",
+    "md5": "dfd0c39bb69c61718ef48e4d6c9f5331",
+    "md5_file": "ibm-semeru-open-jdk_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "588a094265fb26c2a18ad5d778accd726038a711",
+    "sha1_file": "ibm-semeru-open-jdk_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz.sha1",
+    "sha256": "af07d5b5d8a980826a1edd8954b868361709c1a11ef3402b28fa246c55c4e415",
+    "sha256_file": "ibm-semeru-open-jdk_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz.sha256",
+    "sha512": "3749342ba218f5166c47ce554c2a579cc8293cba64e0e48276a7b93cb74b1f79c1fa9fce496155f7638191c20ad420e5c68e1927ca51e376d5fb41902a436665",
+    "sha512_file": "ibm-semeru-open-jdk_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz.sha512",
+    "size": 218681168,
+    "url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.11+9_openj9-0.44.0/ibm-semeru-open-jdk_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz",
+    "vendor": "semeru",
+    "version": "17.0.11+9_openj9-0.44.0"
   },
   {
     "architecture": "ppc64le",
@@ -32305,6 +33387,29 @@
     "architecture": "ppc64le",
     "features": [],
     "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jdk_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.3+9",
+    "jvm_impl": "openj9",
+    "md5": "186196662b0c429164e3def1b25b63a8",
+    "md5_file": "ibm-semeru-open-jdk_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "87bfaa0dbbe546d0a2ec1d7d3d0e06319608f21c",
+    "sha1_file": "ibm-semeru-open-jdk_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz.sha1",
+    "sha256": "e3a467fcd088304c08a1c1c61f5ea2c065c10a312b01089d2eca9dd9611aab2c",
+    "sha256_file": "ibm-semeru-open-jdk_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz.sha256",
+    "sha512": "048e1799edf439c75b74fe2324c36577c8711b7130ae3d8bcdb25c4394d372ba3abdfb597ae7686291ce436c39fb0595509b9be06324f17fda5b18fd4e5c9e5c",
+    "sha512_file": "ibm-semeru-open-jdk_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz.sha512",
+    "size": 232061236,
+    "url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.3+9_openj9-0.44.0/ibm-semeru-open-jdk_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz",
+    "vendor": "semeru",
+    "version": "21.0.3+9_openj9-0.44.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
     "filename": "ibm-semeru-open-jdk_ppc64le_linux_8u302b08_openj9-0.27.0.tar.gz",
     "image_type": "jdk",
     "java_version": "8u302-b08",
@@ -32599,6 +33704,29 @@
     "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u402-b06_openj9-0.43.0/ibm-semeru-open-jdk_ppc64le_linux_8u402b06_openj9-0.43.0.tar.gz",
     "vendor": "semeru",
     "version": "8u402-b06_openj9-0.43.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jdk_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz",
+    "image_type": "jdk",
+    "java_version": "8u412-b08",
+    "jvm_impl": "openj9",
+    "md5": "235fe94fbb2991f3a559756d5cec237f",
+    "md5_file": "ibm-semeru-open-jdk_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "267676dbed8e2e71e80727395693e4aec66b5abc",
+    "sha1_file": "ibm-semeru-open-jdk_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz.sha1",
+    "sha256": "6b4b2bca348877aaf8941f021a989d647b9575fb84b4ef001abf7182787772ff",
+    "sha256_file": "ibm-semeru-open-jdk_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz.sha256",
+    "sha512": "dccd268a54d06ec2e2b3beda4281f9bcc2eb454b76aadae36083b6397be1051c8664191fe146bb6bcd724e1bf8cab2933ba8adb10df512e7757dcf44e1a531e6",
+    "sha512_file": "ibm-semeru-open-jdk_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz.sha512",
+    "size": 117173462,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u412-b08_openj9-0.44.0/ibm-semeru-open-jdk_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz",
+    "vendor": "semeru",
+    "version": "8u412-b08_openj9-0.44.0"
   },
   {
     "architecture": "ppc64le",
@@ -32949,6 +34077,29 @@
     "architecture": "ppc64le",
     "features": [],
     "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jre_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz",
+    "image_type": "jre",
+    "java_version": "11.0.23+9",
+    "jvm_impl": "openj9",
+    "md5": "8f7a20f72aa19e155c7f470e60b2db1d",
+    "md5_file": "ibm-semeru-open-jre_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "35ddaaf73f13af2461aed5762c63ffd40dbe4476",
+    "sha1_file": "ibm-semeru-open-jre_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz.sha1",
+    "sha256": "e2c5dc88e0701b067cde828f0f1c1593d81393de656a077bbb0baf8e5fdc7f7e",
+    "sha256_file": "ibm-semeru-open-jre_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz.sha256",
+    "sha512": "f76fef7fd600c9d1839b038b26b8152cf1897e658e04a626d48e0d99053061577ab699bad1634edefe799a55d47e8499564ddb62e5a99459ffa86e7ef9bd9960",
+    "sha512_file": "ibm-semeru-open-jre_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz.sha512",
+    "size": 52567793,
+    "url": "https://github.com/ibmruntimes/semeru11-binaries/releases/download/jdk-11.0.23+9_openj9-0.44.0/ibm-semeru-open-jre_ppc64le_linux_11.0.23_9_openj9-0.44.0.tar.gz",
+    "vendor": "semeru",
+    "version": "11.0.23+9_openj9-0.44.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
     "filename": "ibm-semeru-open-jre_ppc64le_linux_16.0.2_7_openj9-0.27.0.tar.gz",
     "image_type": "jre",
     "java_version": "16.0.2+7",
@@ -33013,6 +34164,29 @@
     "url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.10+7_openj9-0.43.0/ibm-semeru-open-jre_ppc64le_linux_17.0.10_7_openj9-0.43.0.tar.gz",
     "vendor": "semeru",
     "version": "17.0.10+7_openj9-0.43.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jre_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.11+9",
+    "jvm_impl": "openj9",
+    "md5": "aa4a3d5b91419161a04a1d00d4fe6ca6",
+    "md5_file": "ibm-semeru-open-jre_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "e2867370cd446cad24ee7135c13a7920bdba857c",
+    "sha1_file": "ibm-semeru-open-jre_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz.sha1",
+    "sha256": "12a951e5353f4bccae5430de05a7204b6e1ad983780d3ecccacd2179936cc9ee",
+    "sha256_file": "ibm-semeru-open-jre_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz.sha256",
+    "sha512": "2e32653df52ca2d2129d59b215ed4a7e26207031e0e01bebbc674ede9a861999b24375f34eea03556137de2d80eb62a4c43f94ab1caf2ae8bd8e24b84750594a",
+    "sha512_file": "ibm-semeru-open-jre_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz.sha512",
+    "size": 52109988,
+    "url": "https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.11+9_openj9-0.44.0/ibm-semeru-open-jre_ppc64le_linux_17.0.11_9_openj9-0.44.0.tar.gz",
+    "vendor": "semeru",
+    "version": "17.0.11+9_openj9-0.44.0"
   },
   {
     "architecture": "ppc64le",
@@ -33478,6 +34652,29 @@
     "architecture": "ppc64le",
     "features": [],
     "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jre_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.3+9",
+    "jvm_impl": "openj9",
+    "md5": "c03ec6948e709851da4998cfd68b76f9",
+    "md5_file": "ibm-semeru-open-jre_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c075cbe437878d408d32add72793fc199d809027",
+    "sha1_file": "ibm-semeru-open-jre_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz.sha1",
+    "sha256": "a2058c477df602e34d13bcdd45811abe592c72765e7f0c48c72771df22ef406b",
+    "sha256_file": "ibm-semeru-open-jre_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz.sha256",
+    "sha512": "84039d547d8ec7c83fdd7f7917d2368e94e7a45fe5bd3569638429161d39e2db944bb12c2e33695a55a691877631a8a9dd7f6a1e9e93405f38d920104c1278c5",
+    "sha512_file": "ibm-semeru-open-jre_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz.sha512",
+    "size": 56621933,
+    "url": "https://github.com/ibmruntimes/semeru21-binaries/releases/download/jdk-21.0.3+9_openj9-0.44.0/ibm-semeru-open-jre_ppc64le_linux_21.0.3_9_openj9-0.44.0.tar.gz",
+    "vendor": "semeru",
+    "version": "21.0.3+9_openj9-0.44.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
     "filename": "ibm-semeru-open-jre_ppc64le_linux_8u302b08_openj9-0.27.0.tar.gz",
     "image_type": "jre",
     "java_version": "8u302-b08",
@@ -33772,6 +34969,29 @@
     "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u402-b06_openj9-0.43.0/ibm-semeru-open-jre_ppc64le_linux_8u402b06_openj9-0.43.0.tar.gz",
     "vendor": "semeru",
     "version": "8u402-b06_openj9-0.43.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-open-jre_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz",
+    "image_type": "jre",
+    "java_version": "8u412-b08",
+    "jvm_impl": "openj9",
+    "md5": "e7ca02694a86d793294b09769898b2d6",
+    "md5_file": "ibm-semeru-open-jre_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "4d534161350d2e355a9d3eb351ec3713589d7801",
+    "sha1_file": "ibm-semeru-open-jre_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz.sha1",
+    "sha256": "a15f8041250126c9f20e52f8877fea80e20219635811b59bf537bce756f75a09",
+    "sha256_file": "ibm-semeru-open-jre_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz.sha256",
+    "sha512": "688bda366de205851070f528666ec6088383bf3001d551d46432045055ec798e3dbbd8feda00276e62315b288936ca7dcff0f6b2e2610cf6f12593a3bbf65929",
+    "sha512_file": "ibm-semeru-open-jre_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz.sha512",
+    "size": 51101676,
+    "url": "https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u412-b08_openj9-0.44.0/ibm-semeru-open-jre_ppc64le_linux_8u412b08_openj9-0.44.0.tar.gz",
+    "vendor": "semeru",
+    "version": "8u412-b08_openj9-0.44.0"
   },
   {
     "architecture": "ppc64le",

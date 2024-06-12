@@ -204,6 +204,6 @@
     "size": 321689150,
     "url": "https://download.oracle.com/graalvm/21/archive/graalvm-jdk-21_windows-x64_bin.zip",
     "vendor": "oracle-graalvm",
-    "version": "21.0.0"
+    "version": "21"
   }
 ]

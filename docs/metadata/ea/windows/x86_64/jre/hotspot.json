@@ -4648,6 +4648,98 @@
   {
     "architecture": "x86_64",
     "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-11.0.24-ea.3_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "11.0.24-ea.3",
+    "jvm_impl": "hotspot",
+    "md5": "2fa8818ebac77f99748f61e19958a71a",
+    "md5_file": "sapmachine-jre-11.0.24-ea.3_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "7a446241acc29774eb735843d37392cc44058963",
+    "sha1_file": "sapmachine-jre-11.0.24-ea.3_windows-x64_bin.zip.sha1",
+    "sha256": "8e10f19b1a694ca5e369f89653c4508d53c8a36c0bd3c2d618c86324975231b4",
+    "sha256_file": "sapmachine-jre-11.0.24-ea.3_windows-x64_bin.zip.sha256",
+    "sha512": "099f64e10a9bc046cbb75c2f85b836ba4565bf69c77be0913ccbfd89ca7b4b4db44d0e6aa628965165d5c06d538c8a17e32709b89e47128125cf9857316d2c91",
+    "sha512_file": "sapmachine-jre-11.0.24-ea.3_windows-x64_bin.zip.sha512",
+    "size": 43571576,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.24+3/sapmachine-jre-11.0.24-ea.3_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "11.0.24-ea.3"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-11.0.24-ea.4_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "11.0.24-ea.4",
+    "jvm_impl": "hotspot",
+    "md5": "8f8cd8096a2a3b6d5cf9fc1f78242952",
+    "md5_file": "sapmachine-jre-11.0.24-ea.4_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "2870e4f31b94f185834989bd339ec14373e4ee4b",
+    "sha1_file": "sapmachine-jre-11.0.24-ea.4_windows-x64_bin.zip.sha1",
+    "sha256": "465ee80485cf73ae03f71a45011b860bfdd5dbf032289cd1f09f2a0703942670",
+    "sha256_file": "sapmachine-jre-11.0.24-ea.4_windows-x64_bin.zip.sha256",
+    "sha512": "bb0874d499dfc45035f94cd9592b4c0f9277c1fa2f810493eb8edc65455b9551f1858e4376d25d9261b71bf4d925243b264403d923d70cada72df442266b1853",
+    "sha512_file": "sapmachine-jre-11.0.24-ea.4_windows-x64_bin.zip.sha512",
+    "size": 43570940,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.24+4/sapmachine-jre-11.0.24-ea.4_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "11.0.24-ea.4"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-11.0.24-ea.5_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "11.0.24-ea.5",
+    "jvm_impl": "hotspot",
+    "md5": "f0d291a19ca432e59d4012e7ebd4a156",
+    "md5_file": "sapmachine-jre-11.0.24-ea.5_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "4531ddb84abbfbaf822fab628c94eefaf6ded015",
+    "sha1_file": "sapmachine-jre-11.0.24-ea.5_windows-x64_bin.zip.sha1",
+    "sha256": "620c64f9d24030f20caeecc034460a591cb5c2d2d98c937e213d94d902ee6efe",
+    "sha256_file": "sapmachine-jre-11.0.24-ea.5_windows-x64_bin.zip.sha256",
+    "sha512": "88fc9d5ba05a02a185d4f284385e1e99648fa90054fdd289f8b5eaa83fbd2fa6e321d6a1213b8832a26945316d565944d2ed397654c5ed06fabb9b7ef9374fa4",
+    "sha512_file": "sapmachine-jre-11.0.24-ea.5_windows-x64_bin.zip.sha512",
+    "size": 43572912,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.24+5/sapmachine-jre-11.0.24-ea.5_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "11.0.24-ea.5"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-11.0.24-ea.6_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "11.0.24-ea.6",
+    "jvm_impl": "hotspot",
+    "md5": "df0c9c22781601cb4bd7523f5c51b920",
+    "md5_file": "sapmachine-jre-11.0.24-ea.6_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "b898459df2486b4949d301eb5bdb965670f43d55",
+    "sha1_file": "sapmachine-jre-11.0.24-ea.6_windows-x64_bin.zip.sha1",
+    "sha256": "14cc67125b832d5010e31d07e268cb5b19248cfb8dbb4e35585833af9ca10eb7",
+    "sha256_file": "sapmachine-jre-11.0.24-ea.6_windows-x64_bin.zip.sha256",
+    "sha512": "160153e132f2dc5cc018600c5bb8ccb9982b76fb6c10f0e592b730b706ed559edaac42e3b8ca0d8346eaa9ce1915028441e8eadebfad53c8900d9881c7523066",
+    "sha512_file": "sapmachine-jre-11.0.24-ea.6_windows-x64_bin.zip.sha512",
+    "size": 43570710,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-11.0.24+6/sapmachine-jre-11.0.24-ea.6_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "11.0.24-ea.6"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
     "file_type": "msi",
     "filename": "sapmachine-jre-11.0.6-ea.10_windows-x64_bin.msi",
     "image_type": "jre",
@@ -6138,7 +6230,7 @@
     "size": 50851840,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+32/sapmachine-jre-14-ea.32_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "14.0.0-ea.32"
+    "version": "14-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -6161,7 +6253,7 @@
     "size": 50876416,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+33/sapmachine-jre-14-ea.33_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "14.0.0-ea.33"
+    "version": "14-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -6184,7 +6276,7 @@
     "size": 50839022,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+33/sapmachine-jre-14-ea.33_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "14.0.0-ea.33"
+    "version": "14-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -6207,7 +6299,7 @@
     "size": 50884608,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+34/sapmachine-jre-14-ea.34_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "14.0.0-ea.34"
+    "version": "14-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -6230,7 +6322,7 @@
     "size": 50843780,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+34/sapmachine-jre-14-ea.34_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "14.0.0-ea.34"
+    "version": "14-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -6253,7 +6345,7 @@
     "size": 50933760,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+36/sapmachine-jre-14-ea.36_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "14.0.0-ea.36"
+    "version": "14-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -6460,7 +6552,7 @@
     "size": 50909184,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+10/sapmachine-jre-15-ea.10_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.10"
+    "version": "15-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -6483,7 +6575,7 @@
     "size": 50862115,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+10/sapmachine-jre-15-ea.10_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.10"
+    "version": "15-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -6506,7 +6598,7 @@
     "size": 50786304,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+11/sapmachine-jre-15-ea.11_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.11"
+    "version": "15-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -6529,7 +6621,7 @@
     "size": 50761967,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+11/sapmachine-jre-15-ea.11_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.11"
+    "version": "15-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -6552,7 +6644,7 @@
     "size": 50827264,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+12/sapmachine-jre-15-ea.12_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.12"
+    "version": "15-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -6575,7 +6667,7 @@
     "size": 50805457,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+12/sapmachine-jre-15-ea.12_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.12"
+    "version": "15-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -6598,7 +6690,7 @@
     "size": 50831360,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+13/sapmachine-jre-15-ea.13_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.13"
+    "version": "15-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -6621,7 +6713,7 @@
     "size": 50803410,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+13/sapmachine-jre-15-ea.13_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.13"
+    "version": "15-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -6644,7 +6736,7 @@
     "size": 50831360,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+14/sapmachine-jre-15-ea.14_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.14"
+    "version": "15-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -6667,7 +6759,7 @@
     "size": 50800389,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+14/sapmachine-jre-15-ea.14_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.14"
+    "version": "15-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -6690,7 +6782,7 @@
     "size": 50827264,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+15/sapmachine-jre-15-ea.15_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.15"
+    "version": "15-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -6713,7 +6805,7 @@
     "size": 50801629,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+15/sapmachine-jre-15-ea.15_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.15"
+    "version": "15-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -6736,7 +6828,7 @@
     "size": 50847744,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+16/sapmachine-jre-15-ea.16_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.16"
+    "version": "15-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -6759,7 +6851,7 @@
     "size": 50830287,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+16/sapmachine-jre-15-ea.16_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.16"
+    "version": "15-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -6782,7 +6874,7 @@
     "size": 54853632,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+17/sapmachine-jre-15-ea.17_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.17"
+    "version": "15-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -6805,7 +6897,7 @@
     "size": 54839292,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+17/sapmachine-jre-15-ea.17_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.17"
+    "version": "15-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -6828,7 +6920,7 @@
     "size": 54833152,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+18/sapmachine-jre-15-ea.18_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.18"
+    "version": "15-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -6851,7 +6943,7 @@
     "size": 54809243,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+18/sapmachine-jre-15-ea.18_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.18"
+    "version": "15-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -6874,7 +6966,7 @@
     "size": 54845440,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+19/sapmachine-jre-15-ea.19_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.19"
+    "version": "15-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -6897,7 +6989,7 @@
     "size": 54831701,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+19/sapmachine-jre-15-ea.19_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.19"
+    "version": "15-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -6920,7 +7012,7 @@
     "size": 53272576,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+20/sapmachine-jre-15-ea.20_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.20"
+    "version": "15-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -6943,7 +7035,7 @@
     "size": 53259239,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+20/sapmachine-jre-15-ea.20_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.20"
+    "version": "15-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -6966,7 +7058,7 @@
     "size": 53600256,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+21/sapmachine-jre-15-ea.21_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.21"
+    "version": "15-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -6989,7 +7081,7 @@
     "size": 53597045,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+21/sapmachine-jre-15-ea.21_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.21"
+    "version": "15-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -7012,7 +7104,7 @@
     "size": 53600256,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+23/sapmachine-jre-15-ea.23_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.23"
+    "version": "15-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -7035,7 +7127,7 @@
     "size": 53600600,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+23/sapmachine-jre-15-ea.23_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.23"
+    "version": "15-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -7058,7 +7150,7 @@
     "size": 56479744,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+24/sapmachine-jre-15-ea.24_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.24"
+    "version": "15-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -7081,7 +7173,7 @@
     "size": 56507663,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+24/sapmachine-jre-15-ea.24_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.24"
+    "version": "15-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -7104,7 +7196,7 @@
     "size": 56459264,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+25/sapmachine-jre-15-ea.25_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.25"
+    "version": "15-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -7127,7 +7219,7 @@
     "size": 56488589,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+25/sapmachine-jre-15-ea.25_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.25"
+    "version": "15-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -7150,7 +7242,7 @@
     "size": 56512512,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+26/sapmachine-jre-15-ea.26_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.26"
+    "version": "15-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -7173,7 +7265,7 @@
     "size": 56531659,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+26/sapmachine-jre-15-ea.26_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.26"
+    "version": "15-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -7196,7 +7288,7 @@
     "size": 56610816,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+27/sapmachine-jre-15-ea.27_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.27"
+    "version": "15-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -7219,7 +7311,7 @@
     "size": 56643161,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+27/sapmachine-jre-15-ea.27_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.27"
+    "version": "15-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -7242,7 +7334,7 @@
     "size": 56614912,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+28/sapmachine-jre-15-ea.28_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.28"
+    "version": "15-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -7265,7 +7357,7 @@
     "size": 56641938,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+28/sapmachine-jre-15-ea.28_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.28"
+    "version": "15-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -7288,7 +7380,7 @@
     "size": 56619008,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+29/sapmachine-jre-15-ea.29_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.29"
+    "version": "15-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -7311,7 +7403,7 @@
     "size": 56646165,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+29/sapmachine-jre-15-ea.29_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.29"
+    "version": "15-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -7334,7 +7426,7 @@
     "size": 56619008,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+30/sapmachine-jre-15-ea.30_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.30"
+    "version": "15-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -7357,7 +7449,7 @@
     "size": 56651652,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+30/sapmachine-jre-15-ea.30_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.30"
+    "version": "15-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -7380,7 +7472,7 @@
     "size": 56627200,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+31/sapmachine-jre-15-ea.31_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.31"
+    "version": "15-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -7403,7 +7495,7 @@
     "size": 56657688,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+31/sapmachine-jre-15-ea.31_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.31"
+    "version": "15-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -7426,7 +7518,7 @@
     "size": 56631296,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+32/sapmachine-jre-15-ea.32_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.32"
+    "version": "15-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -7449,7 +7541,7 @@
     "size": 56654569,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+32/sapmachine-jre-15-ea.32_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.32"
+    "version": "15-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -7472,7 +7564,7 @@
     "size": 56631296,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+33/sapmachine-jre-15-ea.33_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.33"
+    "version": "15-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -7495,7 +7587,7 @@
     "size": 56653904,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+33/sapmachine-jre-15-ea.33_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.33"
+    "version": "15-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -7518,7 +7610,7 @@
     "size": 56631296,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+34/sapmachine-jre-15-ea.34_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.34"
+    "version": "15-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -7541,7 +7633,7 @@
     "size": 56655120,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+34/sapmachine-jre-15-ea.34_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.34"
+    "version": "15-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -7564,7 +7656,7 @@
     "size": 56631296,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+35/sapmachine-jre-15-ea.35_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.35"
+    "version": "15-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -7587,7 +7679,7 @@
     "size": 56655406,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+35/sapmachine-jre-15-ea.35_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.35"
+    "version": "15-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -7610,7 +7702,7 @@
     "size": 56635392,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+36/sapmachine-jre-15-ea.36_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.36"
+    "version": "15-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -7633,7 +7725,7 @@
     "size": 56657581,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+36/sapmachine-jre-15-ea.36_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.36"
+    "version": "15-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -7656,7 +7748,7 @@
     "size": 50900992,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+6/sapmachine-jre-15-ea.6_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.6"
+    "version": "15-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -7679,7 +7771,7 @@
     "size": 50855976,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+6/sapmachine-jre-15-ea.6_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.6"
+    "version": "15-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -7702,7 +7794,7 @@
     "size": 50905088,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+7/sapmachine-jre-15-ea.7_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.7"
+    "version": "15-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -7725,7 +7817,7 @@
     "size": 50867131,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+7/sapmachine-jre-15-ea.7_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.7"
+    "version": "15-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -7748,7 +7840,7 @@
     "size": 50921472,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+9/sapmachine-jre-15-ea.9_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.9"
+    "version": "15-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -7771,7 +7863,7 @@
     "size": 50882738,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+9/sapmachine-jre-15-ea.9_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "15.0.0-ea.9"
+    "version": "15-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -7886,7 +7978,7 @@
     "size": 49672192,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+0/sapmachine-jre-16-ea.0_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.0"
+    "version": "16-ea.0"
   },
   {
     "architecture": "x86_64",
@@ -7909,7 +8001,7 @@
     "size": 49666934,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+0/sapmachine-jre-16-ea.0_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.0"
+    "version": "16-ea.0"
   },
   {
     "architecture": "x86_64",
@@ -7932,7 +8024,7 @@
     "size": 56881152,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+10/sapmachine-jre-16-ea.10_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.10"
+    "version": "16-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -7955,7 +8047,7 @@
     "size": 56900947,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+10/sapmachine-jre-16-ea.10_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.10"
+    "version": "16-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -7978,7 +8070,7 @@
     "size": 56881152,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+11/sapmachine-jre-16-ea.11_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.11"
+    "version": "16-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -8001,7 +8093,7 @@
     "size": 56900782,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+11/sapmachine-jre-16-ea.11_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.11"
+    "version": "16-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -8024,7 +8116,7 @@
     "size": 56881152,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+12/sapmachine-jre-16-ea.12_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.12"
+    "version": "16-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -8047,7 +8139,7 @@
     "size": 56904845,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+12/sapmachine-jre-16-ea.12_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.12"
+    "version": "16-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -8070,7 +8162,7 @@
     "size": 56889344,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+13/sapmachine-jre-16-ea.13_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.13"
+    "version": "16-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -8093,7 +8185,7 @@
     "size": 56908107,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+13/sapmachine-jre-16-ea.13_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.13"
+    "version": "16-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -8116,7 +8208,7 @@
     "size": 56848384,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+14/sapmachine-jre-16-ea.14_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.14"
+    "version": "16-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -8139,7 +8231,7 @@
     "size": 56866680,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+14/sapmachine-jre-16-ea.14_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.14"
+    "version": "16-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -8162,7 +8254,7 @@
     "size": 56864768,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+15/sapmachine-jre-16-ea.15_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.15"
+    "version": "16-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -8185,7 +8277,7 @@
     "size": 56887722,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+15/sapmachine-jre-16-ea.15_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.15"
+    "version": "16-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -8208,7 +8300,7 @@
     "size": 56967168,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+16/sapmachine-jre-16-ea.16_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.16"
+    "version": "16-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -8231,7 +8323,7 @@
     "size": 56991755,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+16/sapmachine-jre-16-ea.16_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.16"
+    "version": "16-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -8254,7 +8346,7 @@
     "size": 56971264,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+17/sapmachine-jre-16-ea.17_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.17"
+    "version": "16-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -8277,7 +8369,7 @@
     "size": 56987260,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+17/sapmachine-jre-16-ea.17_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.17"
+    "version": "16-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -8300,7 +8392,7 @@
     "size": 56868864,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+18/sapmachine-jre-16-ea.18_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.18"
+    "version": "16-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -8323,7 +8415,7 @@
     "size": 56881225,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+18/sapmachine-jre-16-ea.18_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.18"
+    "version": "16-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -8346,7 +8438,7 @@
     "size": 56864768,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+19/sapmachine-jre-16-ea.19_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.19"
+    "version": "16-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -8369,7 +8461,7 @@
     "size": 56882692,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+19/sapmachine-jre-16-ea.19_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.19"
+    "version": "16-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -8392,7 +8484,7 @@
     "size": 56758272,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+1/sapmachine-jre-16-ea.1_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.1"
+    "version": "16-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -8415,7 +8507,7 @@
     "size": 56790920,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+1/sapmachine-jre-16-ea.1_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.1"
+    "version": "16-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -8438,7 +8530,7 @@
     "size": 56958976,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+20/sapmachine-jre-16-ea.20_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.20"
+    "version": "16-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -8461,7 +8553,7 @@
     "size": 56969509,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+20/sapmachine-jre-16-ea.20_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.20"
+    "version": "16-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -8484,7 +8576,7 @@
     "size": 57851904,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+21/sapmachine-jre-16-ea.21_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.21"
+    "version": "16-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -8507,7 +8599,7 @@
     "size": 57870165,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+21/sapmachine-jre-16-ea.21_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.21"
+    "version": "16-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -8530,7 +8622,7 @@
     "size": 57835520,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+22/sapmachine-jre-16-ea.22_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.22"
+    "version": "16-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -8553,7 +8645,7 @@
     "size": 57865911,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+22/sapmachine-jre-16-ea.22_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.22"
+    "version": "16-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -8576,7 +8668,7 @@
     "size": 57839616,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+23/sapmachine-jre-16-ea.23_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.23"
+    "version": "16-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -8599,7 +8691,7 @@
     "size": 57868155,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+23/sapmachine-jre-16-ea.23_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.23"
+    "version": "16-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -8622,7 +8714,7 @@
     "size": 58011648,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+24/sapmachine-jre-16-ea.24_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.24"
+    "version": "16-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -8645,7 +8737,7 @@
     "size": 58026331,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+24/sapmachine-jre-16-ea.24_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.24"
+    "version": "16-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -8668,7 +8760,7 @@
     "size": 58093568,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+25/sapmachine-jre-16-ea.25_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.25"
+    "version": "16-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -8691,7 +8783,7 @@
     "size": 58112171,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+25/sapmachine-jre-16-ea.25_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.25"
+    "version": "16-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -8714,7 +8806,7 @@
     "size": 58298368,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+26/sapmachine-jre-16-ea.26_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.26"
+    "version": "16-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -8737,7 +8829,7 @@
     "size": 58314863,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+26/sapmachine-jre-16-ea.26_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.26"
+    "version": "16-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -8760,7 +8852,7 @@
     "size": 49647616,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+27/sapmachine-jre-16-ea.27_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.27"
+    "version": "16-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -8783,7 +8875,7 @@
     "size": 49642151,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+27/sapmachine-jre-16-ea.27_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.27"
+    "version": "16-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -8806,7 +8898,7 @@
     "size": 49676288,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+28/sapmachine-jre-16-ea.28_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.28"
+    "version": "16-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -8829,7 +8921,7 @@
     "size": 49668347,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+28/sapmachine-jre-16-ea.28_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.28"
+    "version": "16-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -8852,7 +8944,7 @@
     "size": 49676288,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+29/sapmachine-jre-16-ea.29_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.29"
+    "version": "16-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -8875,7 +8967,7 @@
     "size": 49669785,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+29/sapmachine-jre-16-ea.29_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.29"
+    "version": "16-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -8898,7 +8990,7 @@
     "size": 56664064,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+2/sapmachine-jre-16-ea.2_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.2"
+    "version": "16-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -8921,7 +9013,7 @@
     "size": 56697969,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+2/sapmachine-jre-16-ea.2_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.2"
+    "version": "16-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -8944,7 +9036,7 @@
     "size": 49672192,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+30/sapmachine-jre-16-ea.30_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.30"
+    "version": "16-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -8967,7 +9059,7 @@
     "size": 49664888,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+30/sapmachine-jre-16-ea.30_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.30"
+    "version": "16-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -8990,7 +9082,7 @@
     "size": 49668096,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+31/sapmachine-jre-16-ea.31_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.31"
+    "version": "16-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -9013,7 +9105,7 @@
     "size": 49670194,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+31/sapmachine-jre-16-ea.31_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.31"
+    "version": "16-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -9036,7 +9128,7 @@
     "size": 49668096,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+32/sapmachine-jre-16-ea.32_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.32"
+    "version": "16-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -9059,7 +9151,7 @@
     "size": 49663518,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+32/sapmachine-jre-16-ea.32_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.32"
+    "version": "16-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -9082,7 +9174,7 @@
     "size": 49668096,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+33/sapmachine-jre-16-ea.33_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.33"
+    "version": "16-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -9105,7 +9197,7 @@
     "size": 49663888,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+33/sapmachine-jre-16-ea.33_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.33"
+    "version": "16-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -9128,7 +9220,7 @@
     "size": 49668096,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+34/sapmachine-jre-16-ea.34_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.34"
+    "version": "16-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -9151,7 +9243,7 @@
     "size": 49667021,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+34/sapmachine-jre-16-ea.34_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.34"
+    "version": "16-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -9174,7 +9266,7 @@
     "size": 49664000,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+35/sapmachine-jre-16-ea.35_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.35"
+    "version": "16-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -9197,7 +9289,7 @@
     "size": 49664987,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+35/sapmachine-jre-16-ea.35_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.35"
+    "version": "16-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -9220,7 +9312,7 @@
     "size": 49664022,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+36/sapmachine-jre-16-ea.36_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.36"
+    "version": "16-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -9243,7 +9335,7 @@
     "size": 56655872,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+3/sapmachine-jre-16-ea.3_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.3"
+    "version": "16-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -9266,7 +9358,7 @@
     "size": 56684620,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+3/sapmachine-jre-16-ea.3_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.3"
+    "version": "16-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -9289,7 +9381,7 @@
     "size": 56664064,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+4/sapmachine-jre-16-ea.4_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.4"
+    "version": "16-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -9312,7 +9404,7 @@
     "size": 56693289,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+4/sapmachine-jre-16-ea.4_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.4"
+    "version": "16-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -9335,7 +9427,7 @@
     "size": 56737792,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+5/sapmachine-jre-16-ea.5_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.5"
+    "version": "16-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -9358,7 +9450,7 @@
     "size": 56767496,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+5/sapmachine-jre-16-ea.5_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.5"
+    "version": "16-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -9381,7 +9473,7 @@
     "size": 56741888,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+6/sapmachine-jre-16-ea.6_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.6"
+    "version": "16-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -9404,7 +9496,7 @@
     "size": 56766008,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+6/sapmachine-jre-16-ea.6_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.6"
+    "version": "16-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -9427,7 +9519,7 @@
     "size": 56741888,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+7/sapmachine-jre-16-ea.7_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.7"
+    "version": "16-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -9450,7 +9542,7 @@
     "size": 56764869,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+7/sapmachine-jre-16-ea.7_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.7"
+    "version": "16-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -9473,7 +9565,7 @@
     "size": 56881152,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+8/sapmachine-jre-16-ea.8_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.8"
+    "version": "16-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -9496,7 +9588,7 @@
     "size": 56897771,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+8/sapmachine-jre-16-ea.8_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.8"
+    "version": "16-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -9519,7 +9611,7 @@
     "size": 56890116,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+9/sapmachine-jre-16-ea.9_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "16.0.0-ea.9"
+    "version": "16-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -9726,7 +9818,7 @@
     "size": 49639424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+10/sapmachine-jre-17-ea.10_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.10"
+    "version": "17-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -9749,7 +9841,7 @@
     "size": 49650558,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+10/sapmachine-jre-17-ea.10_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.10"
+    "version": "17-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -9772,7 +9864,7 @@
     "size": 49647616,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+11/sapmachine-jre-17-ea.11_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.11"
+    "version": "17-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -9795,7 +9887,7 @@
     "size": 49654908,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+11/sapmachine-jre-17-ea.11_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.11"
+    "version": "17-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -9818,7 +9910,7 @@
     "size": 49643520,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+12/sapmachine-jre-17-ea.12_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.12"
+    "version": "17-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -9841,7 +9933,7 @@
     "size": 49654310,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+12/sapmachine-jre-17-ea.12_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.12"
+    "version": "17-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -9864,7 +9956,7 @@
     "size": 49643520,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+13/sapmachine-jre-17-ea.13_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.13"
+    "version": "17-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -9887,7 +9979,7 @@
     "size": 49631947,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+13/sapmachine-jre-17-ea.13_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.13"
+    "version": "17-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -9910,7 +10002,7 @@
     "size": 49266688,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+14/sapmachine-jre-17-ea.14_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.14"
+    "version": "17-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -9933,7 +10025,7 @@
     "size": 49254138,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+14/sapmachine-jre-17-ea.14_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.14"
+    "version": "17-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -9956,7 +10048,7 @@
     "size": 49266688,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+15/sapmachine-jre-17-ea.15_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.15"
+    "version": "17-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -9979,7 +10071,7 @@
     "size": 49251019,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+15/sapmachine-jre-17-ea.15_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.15"
+    "version": "17-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -10002,7 +10094,7 @@
     "size": 49291264,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+16/sapmachine-jre-17-ea.16_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.16"
+    "version": "17-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -10025,7 +10117,7 @@
     "size": 49277205,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+16/sapmachine-jre-17-ea.16_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.16"
+    "version": "17-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -10048,7 +10140,7 @@
     "size": 49356800,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+17/sapmachine-jre-17-ea.17_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.17"
+    "version": "17-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -10071,7 +10163,7 @@
     "size": 49343091,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+17/sapmachine-jre-17-ea.17_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.17"
+    "version": "17-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -10094,7 +10186,7 @@
     "size": 49369088,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+18/sapmachine-jre-17-ea.18_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.18"
+    "version": "17-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -10117,7 +10209,7 @@
     "size": 49354129,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+18/sapmachine-jre-17-ea.18_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.18"
+    "version": "17-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -10140,7 +10232,7 @@
     "size": 49348608,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+19/sapmachine-jre-17-ea.19_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.19"
+    "version": "17-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -10163,7 +10255,7 @@
     "size": 49328223,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+19/sapmachine-jre-17-ea.19_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.19"
+    "version": "17-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -10186,7 +10278,7 @@
     "size": 49672192,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+1/sapmachine-jre-17-ea.1_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.1"
+    "version": "17-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -10209,7 +10301,7 @@
     "size": 49667903,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+1/sapmachine-jre-17-ea.1_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.1"
+    "version": "17-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -10232,7 +10324,7 @@
     "size": 46264320,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+20/sapmachine-jre-17-ea.20_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.20"
+    "version": "17-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -10255,7 +10347,7 @@
     "size": 46244819,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+20/sapmachine-jre-17-ea.20_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.20"
+    "version": "17-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -10278,7 +10370,7 @@
     "size": 46272512,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+21/sapmachine-jre-17-ea.21_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.21"
+    "version": "17-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -10301,7 +10393,7 @@
     "size": 46251150,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+21/sapmachine-jre-17-ea.21_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.21"
+    "version": "17-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -10324,7 +10416,7 @@
     "size": 46292992,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+22/sapmachine-jre-17-ea.22_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.22"
+    "version": "17-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -10347,7 +10439,7 @@
     "size": 46269240,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+22/sapmachine-jre-17-ea.22_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.22"
+    "version": "17-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -10370,7 +10462,7 @@
     "size": 46338048,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+23/sapmachine-jre-17-ea.23_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.23"
+    "version": "17-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -10393,7 +10485,7 @@
     "size": 46306759,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+23/sapmachine-jre-17-ea.23_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.23"
+    "version": "17-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -10416,7 +10508,7 @@
     "size": 46366720,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+24/sapmachine-jre-17-ea.24_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.24"
+    "version": "17-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -10439,7 +10531,7 @@
     "size": 46332668,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+24/sapmachine-jre-17-ea.24_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.24"
+    "version": "17-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -10462,7 +10554,7 @@
     "size": 46301184,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+25/sapmachine-jre-17-ea.25_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.25"
+    "version": "17-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -10485,7 +10577,7 @@
     "size": 46271455,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+25/sapmachine-jre-17-ea.25_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.25"
+    "version": "17-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -10508,7 +10600,7 @@
     "size": 46776320,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+26/sapmachine-jre-17-ea.26_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.26"
+    "version": "17-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -10531,7 +10623,7 @@
     "size": 46750182,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+26/sapmachine-jre-17-ea.26_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.26"
+    "version": "17-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -10554,7 +10646,7 @@
     "size": 46780416,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+27/sapmachine-jre-17-ea.27_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.27"
+    "version": "17-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -10577,7 +10669,7 @@
     "size": 46751744,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+28/sapmachine-jre-17-ea.28_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.28"
+    "version": "17-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -10600,7 +10692,7 @@
     "size": 46736479,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+28/sapmachine-jre-17-ea.28_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.28"
+    "version": "17-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -10623,7 +10715,7 @@
     "size": 46764032,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+29/sapmachine-jre-17-ea.29_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.29"
+    "version": "17-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -10646,7 +10738,7 @@
     "size": 46742275,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+29/sapmachine-jre-17-ea.29_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.29"
+    "version": "17-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -10669,7 +10761,7 @@
     "size": 49672192,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+2/sapmachine-jre-17-ea.2_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.2"
+    "version": "17-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -10692,7 +10784,7 @@
     "size": 49669680,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+2/sapmachine-jre-17-ea.2_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.2"
+    "version": "17-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -10715,7 +10807,7 @@
     "size": 46768128,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+30/sapmachine-jre-17-ea.30_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.30"
+    "version": "17-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -10738,7 +10830,7 @@
     "size": 46742881,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+30/sapmachine-jre-17-ea.30_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.30"
+    "version": "17-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -10761,7 +10853,7 @@
     "size": 46780416,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+31/sapmachine-jre-17-ea.31_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.31"
+    "version": "17-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -10784,7 +10876,7 @@
     "size": 46744642,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+31/sapmachine-jre-17-ea.31_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.31"
+    "version": "17-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -10807,7 +10899,7 @@
     "size": 46780416,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+32/sapmachine-jre-17-ea.32_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.32"
+    "version": "17-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -10830,7 +10922,7 @@
     "size": 46743722,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+32/sapmachine-jre-17-ea.32_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.32"
+    "version": "17-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -10853,7 +10945,7 @@
     "size": 46780416,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+33/sapmachine-jre-17-ea.33_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.33"
+    "version": "17-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -10876,7 +10968,7 @@
     "size": 46748932,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+33/sapmachine-jre-17-ea.33_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.33"
+    "version": "17-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -10899,7 +10991,7 @@
     "size": 46780416,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+34/sapmachine-jre-17-ea.34_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.34"
+    "version": "17-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -10922,7 +11014,7 @@
     "size": 46749667,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+34/sapmachine-jre-17-ea.34_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.34"
+    "version": "17-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -10945,7 +11037,7 @@
     "size": 46780416,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+35/sapmachine-jre-17-ea.35_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.35"
+    "version": "17-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -10968,7 +11060,7 @@
     "size": 46749329,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+35/sapmachine-jre-17-ea.35_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.35"
+    "version": "17-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -10991,7 +11083,7 @@
     "size": 49676288,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+3/sapmachine-jre-17-ea.3_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.3"
+    "version": "17-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -11014,7 +11106,7 @@
     "size": 49680513,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+3/sapmachine-jre-17-ea.3_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.3"
+    "version": "17-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -11037,7 +11129,7 @@
     "size": 49680384,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+4/sapmachine-jre-17-ea.4_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.4"
+    "version": "17-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -11060,7 +11152,7 @@
     "size": 49679629,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+4/sapmachine-jre-17-ea.4_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.4"
+    "version": "17-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -11083,7 +11175,7 @@
     "size": 49700864,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+5/sapmachine-jre-17-ea.5_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.5"
+    "version": "17-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -11106,7 +11198,7 @@
     "size": 49696433,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+5/sapmachine-jre-17-ea.5_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.5"
+    "version": "17-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -11129,7 +11221,7 @@
     "size": 49664000,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+6/sapmachine-jre-17-ea.6_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.6"
+    "version": "17-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -11152,7 +11244,7 @@
     "size": 49650434,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+6/sapmachine-jre-17-ea.6_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.6"
+    "version": "17-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -11175,7 +11267,7 @@
     "size": 49647616,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+7/sapmachine-jre-17-ea.7_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.7"
+    "version": "17-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -11198,7 +11290,7 @@
     "size": 49647383,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+7/sapmachine-jre-17-ea.7_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.7"
+    "version": "17-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -11221,7 +11313,7 @@
     "size": 49647616,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+8/sapmachine-jre-17-ea.8_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.8"
+    "version": "17-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -11244,7 +11336,7 @@
     "size": 49648208,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+8/sapmachine-jre-17-ea.8_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.8"
+    "version": "17-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -11267,7 +11359,7 @@
     "size": 49643520,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+9/sapmachine-jre-17-ea.9_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.9"
+    "version": "17-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -11290,7 +11382,7 @@
     "size": 49656830,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+9/sapmachine-jre-17-ea.9_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "17.0.0-ea.9"
+    "version": "17-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -11682,6 +11774,75 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.12+2/sapmachine-jre-17.0.12-ea.2_windows-x64_bin.zip",
     "vendor": "sapmachine",
     "version": "17.0.12-ea.2"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-17.0.12-ea.3_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "17.0.12-ea.3",
+    "jvm_impl": "hotspot",
+    "md5": "0e0f8dfa5c8a009f7be203cc5699bd42",
+    "md5_file": "sapmachine-jre-17.0.12-ea.3_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "858c77f076f814b5199f0ee54cb597c49caeb227",
+    "sha1_file": "sapmachine-jre-17.0.12-ea.3_windows-x64_bin.zip.sha1",
+    "sha256": "0cf6a5beef6c7bdc83a661952a22d467b2cdc26144cb38e1d243cba4ec122f98",
+    "sha256_file": "sapmachine-jre-17.0.12-ea.3_windows-x64_bin.zip.sha256",
+    "sha512": "32747abdd8f40279927e91d13e40f2f94dac09d716c861deb8b46cded173b314549aec1bf867d4877d9f31053ab7287499a4788158117d67fda6090dc505c0a7",
+    "sha512_file": "sapmachine-jre-17.0.12-ea.3_windows-x64_bin.zip.sha512",
+    "size": 47088649,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.12+3/sapmachine-jre-17.0.12-ea.3_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "17.0.12-ea.3"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-17.0.12-ea.4_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "17.0.12-ea.4",
+    "jvm_impl": "hotspot",
+    "md5": "9518daba80499917e209d539f5676d03",
+    "md5_file": "sapmachine-jre-17.0.12-ea.4_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "b28da43d8fcea4b84ee6b113c5a0004479f31aaa",
+    "sha1_file": "sapmachine-jre-17.0.12-ea.4_windows-x64_bin.zip.sha1",
+    "sha256": "88772605f3b84dba74e6f88bc648f8843c93dadd86a58587704e4e5f8e6e1c8d",
+    "sha256_file": "sapmachine-jre-17.0.12-ea.4_windows-x64_bin.zip.sha256",
+    "sha512": "7f205c6d69732412b20cdff8a35645a283c2bf6c22a61d33b0c9b460ff5778d81c1477b209aee81260e70d9e88361a99bd7d1fcee6734a1f30d9a170f7807a63",
+    "sha512_file": "sapmachine-jre-17.0.12-ea.4_windows-x64_bin.zip.sha512",
+    "size": 47094791,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.12+4/sapmachine-jre-17.0.12-ea.4_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "17.0.12-ea.4"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-17.0.12-ea.5_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "17.0.12-ea.5",
+    "jvm_impl": "hotspot",
+    "md5": "218879c044ed5cb17ac7167ee55ce728",
+    "md5_file": "sapmachine-jre-17.0.12-ea.5_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "c0632be38de676a3df5f99c9136bbc04ea74cf80",
+    "sha1_file": "sapmachine-jre-17.0.12-ea.5_windows-x64_bin.zip.sha1",
+    "sha256": "3452ea6596be154eaccc83c8e2b334813341f6b8bc3c9efa3f809bf6e4de99c9",
+    "sha256_file": "sapmachine-jre-17.0.12-ea.5_windows-x64_bin.zip.sha256",
+    "sha512": "03b77812ab7228d3544d82ef9baff2a7e9fc859c6a448f4db251f8137cf0caf8f72b61e3d551960394194eefb2280353b67ec382bbea23f44120d468444fcc12",
+    "sha512_file": "sapmachine-jre-17.0.12-ea.5_windows-x64_bin.zip.sha512",
+    "size": 47093239,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17.0.12+5/sapmachine-jre-17.0.12-ea.5_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "17.0.12-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -13935,7 +14096,7 @@
     "size": 46632960,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+10/sapmachine-jre-18-ea.10_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.10"
+    "version": "18-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -13958,7 +14119,7 @@
     "size": 46611846,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+10/sapmachine-jre-18-ea.10_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.10"
+    "version": "18-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -13981,7 +14142,7 @@
     "size": 46637056,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+11/sapmachine-jre-18-ea.11_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.11"
+    "version": "18-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -14004,7 +14165,7 @@
     "size": 46616818,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+11/sapmachine-jre-18-ea.11_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.11"
+    "version": "18-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -14027,7 +14188,7 @@
     "size": 46628864,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+12/sapmachine-jre-18-ea.12_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.12"
+    "version": "18-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -14050,7 +14211,7 @@
     "size": 46607803,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+12/sapmachine-jre-18-ea.12_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.12"
+    "version": "18-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -14073,7 +14234,7 @@
     "size": 46534656,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+13/sapmachine-jre-18-ea.13_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.13"
+    "version": "18-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -14096,7 +14257,7 @@
     "size": 46513406,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+13/sapmachine-jre-18-ea.13_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.13"
+    "version": "18-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -14119,7 +14280,7 @@
     "size": 46563328,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+14/sapmachine-jre-18-ea.14_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.14"
+    "version": "18-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -14142,7 +14303,7 @@
     "size": 46545150,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+14/sapmachine-jre-18-ea.14_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.14"
+    "version": "18-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -14165,7 +14326,7 @@
     "size": 46567424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+15/sapmachine-jre-18-ea.15_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.15"
+    "version": "18-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -14188,7 +14349,7 @@
     "size": 46550509,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+15/sapmachine-jre-18-ea.15_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.15"
+    "version": "18-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -14211,7 +14372,7 @@
     "size": 46575616,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+16/sapmachine-jre-18-ea.16_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.16"
+    "version": "18-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -14234,7 +14395,7 @@
     "size": 46558704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+16/sapmachine-jre-18-ea.16_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.16"
+    "version": "18-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -14257,7 +14418,7 @@
     "size": 46817280,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+17/sapmachine-jre-18-ea.17_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.17"
+    "version": "18-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -14280,7 +14441,7 @@
     "size": 46798608,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+17/sapmachine-jre-18-ea.17_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.17"
+    "version": "18-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -14303,7 +14464,7 @@
     "size": 46817280,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+18/sapmachine-jre-18-ea.18_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.18"
+    "version": "18-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -14326,7 +14487,7 @@
     "size": 46796822,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+18/sapmachine-jre-18-ea.18_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.18"
+    "version": "18-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -14349,7 +14510,7 @@
     "size": 46809088,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+19/sapmachine-jre-18-ea.19_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.19"
+    "version": "18-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -14372,7 +14533,7 @@
     "size": 46790253,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+19/sapmachine-jre-18-ea.19_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.19"
+    "version": "18-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -14395,7 +14556,7 @@
     "size": 46776320,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+1/sapmachine-jre-18-ea.1_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.1"
+    "version": "18-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -14418,7 +14579,7 @@
     "size": 46751475,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+1/sapmachine-jre-18-ea.1_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.1"
+    "version": "18-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -14441,7 +14602,7 @@
     "size": 46878720,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+20/sapmachine-jre-18-ea.20_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.20"
+    "version": "18-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -14464,7 +14625,7 @@
     "size": 46849181,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+20/sapmachine-jre-18-ea.20_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.20"
+    "version": "18-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -14487,7 +14648,7 @@
     "size": 46886912,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+21/sapmachine-jre-18-ea.21_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.21"
+    "version": "18-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -14510,7 +14671,7 @@
     "size": 46856067,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+21/sapmachine-jre-18-ea.21_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.21"
+    "version": "18-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -14533,7 +14694,7 @@
     "size": 46927872,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+22/sapmachine-jre-18-ea.22_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.22"
+    "version": "18-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -14556,7 +14717,7 @@
     "size": 46912070,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+22/sapmachine-jre-18-ea.22_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.22"
+    "version": "18-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -14579,7 +14740,7 @@
     "size": 46874624,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+23/sapmachine-jre-18-ea.23_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.23"
+    "version": "18-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -14602,7 +14763,7 @@
     "size": 46860822,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+23/sapmachine-jre-18-ea.23_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.23"
+    "version": "18-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -14625,7 +14786,7 @@
     "size": 47038464,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+24/sapmachine-jre-18-ea.24_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.24"
+    "version": "18-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -14648,7 +14809,7 @@
     "size": 47021559,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+24/sapmachine-jre-18-ea.24_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.24"
+    "version": "18-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -14671,7 +14832,7 @@
     "size": 47042560,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+25/sapmachine-jre-18-ea.25_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.25"
+    "version": "18-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -14694,7 +14855,7 @@
     "size": 47020482,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+25/sapmachine-jre-18-ea.25_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.25"
+    "version": "18-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -14717,7 +14878,7 @@
     "size": 47054848,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+26/sapmachine-jre-18-ea.26_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.26"
+    "version": "18-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -14740,7 +14901,7 @@
     "size": 47035945,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+26/sapmachine-jre-18-ea.26_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.26"
+    "version": "18-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -14763,7 +14924,7 @@
     "size": 47058944,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+27/sapmachine-jre-18-ea.27_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.27"
+    "version": "18-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -14786,7 +14947,7 @@
     "size": 47046599,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+27/sapmachine-jre-18-ea.27_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.27"
+    "version": "18-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -14809,7 +14970,7 @@
     "size": 47083520,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+28/sapmachine-jre-18-ea.28_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.28"
+    "version": "18-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -14832,7 +14993,7 @@
     "size": 47052720,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+28/sapmachine-jre-18-ea.28_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.28"
+    "version": "18-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -14855,7 +15016,7 @@
     "size": 47087616,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+29/sapmachine-jre-18-ea.29_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.29"
+    "version": "18-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -14878,7 +15039,7 @@
     "size": 47061025,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+29/sapmachine-jre-18-ea.29_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.29"
+    "version": "18-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -14901,7 +15062,7 @@
     "size": 46780416,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+2/sapmachine-jre-18-ea.2_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.2"
+    "version": "18-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -14924,7 +15085,7 @@
     "size": 46753415,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+2/sapmachine-jre-18-ea.2_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.2"
+    "version": "18-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -14947,7 +15108,7 @@
     "size": 47083520,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+30/sapmachine-jre-18-ea.30_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.30"
+    "version": "18-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -14970,7 +15131,7 @@
     "size": 47063085,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+30/sapmachine-jre-18-ea.30_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.30"
+    "version": "18-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -14993,7 +15154,7 @@
     "size": 47083520,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+31/sapmachine-jre-18-ea.31_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.31"
+    "version": "18-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -15016,7 +15177,7 @@
     "size": 47064846,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+31/sapmachine-jre-18-ea.31_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.31"
+    "version": "18-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -15039,7 +15200,7 @@
     "size": 47099904,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+32/sapmachine-jre-18-ea.32_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.32"
+    "version": "18-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -15062,7 +15223,7 @@
     "size": 47073538,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+32/sapmachine-jre-18-ea.32_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.32"
+    "version": "18-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -15085,7 +15246,7 @@
     "size": 47099904,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+33/sapmachine-jre-18-ea.33_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.33"
+    "version": "18-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -15108,7 +15269,7 @@
     "size": 47074658,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+33/sapmachine-jre-18-ea.33_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.33"
+    "version": "18-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -15131,7 +15292,7 @@
     "size": 47099904,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+34/sapmachine-jre-18-ea.34_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.34"
+    "version": "18-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -15154,7 +15315,7 @@
     "size": 47074113,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+34/sapmachine-jre-18-ea.34_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.34"
+    "version": "18-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -15177,7 +15338,7 @@
     "size": 47099904,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+35/sapmachine-jre-18-ea.35_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.35"
+    "version": "18-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -15200,7 +15361,7 @@
     "size": 47074390,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+35/sapmachine-jre-18-ea.35_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.35"
+    "version": "18-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -15223,7 +15384,7 @@
     "size": 47099904,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+36/sapmachine-jre-18-ea.36_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.36"
+    "version": "18-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -15246,7 +15407,7 @@
     "size": 47073591,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+36/sapmachine-jre-18-ea.36_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.36"
+    "version": "18-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -15269,7 +15430,7 @@
     "size": 46776320,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+3/sapmachine-jre-18-ea.3_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.3"
+    "version": "18-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -15292,7 +15453,7 @@
     "size": 46758592,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+3/sapmachine-jre-18-ea.3_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.3"
+    "version": "18-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -15315,7 +15476,7 @@
     "size": 46784512,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+4/sapmachine-jre-18-ea.4_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.4"
+    "version": "18-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -15338,7 +15499,7 @@
     "size": 46754786,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+4/sapmachine-jre-18-ea.4_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.4"
+    "version": "18-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -15361,7 +15522,7 @@
     "size": 46792704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+5/sapmachine-jre-18-ea.5_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.5"
+    "version": "18-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -15384,7 +15545,7 @@
     "size": 46774689,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+5/sapmachine-jre-18-ea.5_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.5"
+    "version": "18-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -15407,7 +15568,7 @@
     "size": 46755840,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+6/sapmachine-jre-18-ea.6_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.6"
+    "version": "18-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -15430,7 +15591,7 @@
     "size": 46734914,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+6/sapmachine-jre-18-ea.6_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.6"
+    "version": "18-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -15453,7 +15614,7 @@
     "size": 46702592,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+7/sapmachine-jre-18-ea.7_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.7"
+    "version": "18-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -15476,7 +15637,7 @@
     "size": 46683882,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+7/sapmachine-jre-18-ea.7_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.7"
+    "version": "18-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -15499,7 +15660,7 @@
     "size": 46714880,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+8/sapmachine-jre-18-ea.8_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.8"
+    "version": "18-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -15522,7 +15683,7 @@
     "size": 46686466,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+8/sapmachine-jre-18-ea.8_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.8"
+    "version": "18-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -15545,7 +15706,7 @@
     "size": 46706688,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+9/sapmachine-jre-18-ea.9_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.9"
+    "version": "18-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -15568,7 +15729,7 @@
     "size": 46673556,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+9/sapmachine-jre-18-ea.9_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "18.0.0-ea.9"
+    "version": "18-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -15821,7 +15982,7 @@
     "size": 47161344,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+10/sapmachine-jre-19-ea.10_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.10"
+    "version": "19-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -15844,7 +16005,7 @@
     "size": 47143689,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+10/sapmachine-jre-19-ea.10_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.10"
+    "version": "19-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -15867,7 +16028,7 @@
     "size": 48148480,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+11/sapmachine-jre-19-ea.11_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.11"
+    "version": "19-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -15890,7 +16051,7 @@
     "size": 48138774,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+11/sapmachine-jre-19-ea.11_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.11"
+    "version": "19-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -15913,7 +16074,7 @@
     "size": 48140288,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+12/sapmachine-jre-19-ea.12_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.12"
+    "version": "19-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -15936,7 +16097,7 @@
     "size": 48139996,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+12/sapmachine-jre-19-ea.12_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.12"
+    "version": "19-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -15959,7 +16120,7 @@
     "size": 48156672,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+13/sapmachine-jre-19-ea.13_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.13"
+    "version": "19-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -15982,7 +16143,7 @@
     "size": 48150692,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+13/sapmachine-jre-19-ea.13_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.13"
+    "version": "19-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -16005,7 +16166,7 @@
     "size": 48148480,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+14/sapmachine-jre-19-ea.14_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.14"
+    "version": "19-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -16028,7 +16189,7 @@
     "size": 48152424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+14/sapmachine-jre-19-ea.14_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.14"
+    "version": "19-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -16051,7 +16212,7 @@
     "size": 48168960,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+15/sapmachine-jre-19-ea.15_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.15"
+    "version": "19-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -16074,7 +16235,7 @@
     "size": 48165984,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+15/sapmachine-jre-19-ea.15_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.15"
+    "version": "19-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -16097,7 +16258,7 @@
     "size": 48181248,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+16/sapmachine-jre-19-ea.16_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.16"
+    "version": "19-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -16120,7 +16281,7 @@
     "size": 48182930,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+16/sapmachine-jre-19-ea.16_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.16"
+    "version": "19-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -16143,7 +16304,7 @@
     "size": 48193536,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+17/sapmachine-jre-19-ea.17_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.17"
+    "version": "19-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -16166,7 +16327,7 @@
     "size": 48205271,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+17/sapmachine-jre-19-ea.17_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.17"
+    "version": "19-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -16189,7 +16350,7 @@
     "size": 48504832,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+18/sapmachine-jre-19-ea.18_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.18"
+    "version": "19-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -16212,7 +16373,7 @@
     "size": 48516036,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+18/sapmachine-jre-19-ea.18_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.18"
+    "version": "19-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -16235,7 +16396,7 @@
     "size": 48521216,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+19/sapmachine-jre-19-ea.19_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.19"
+    "version": "19-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -16258,7 +16419,7 @@
     "size": 48534565,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+19/sapmachine-jre-19-ea.19_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.19"
+    "version": "19-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -16281,7 +16442,7 @@
     "size": 47083520,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+1/sapmachine-jre-19-ea.1_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.1"
+    "version": "19-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -16304,7 +16465,7 @@
     "size": 47053178,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+1/sapmachine-jre-19-ea.1_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.1"
+    "version": "19-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -16327,7 +16488,7 @@
     "size": 48566272,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+20/sapmachine-jre-19-ea.20_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.20"
+    "version": "19-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -16350,7 +16511,7 @@
     "size": 48574591,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+20/sapmachine-jre-19-ea.20_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.20"
+    "version": "19-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -16373,7 +16534,7 @@
     "size": 48553984,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+21/sapmachine-jre-19-ea.21_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.21"
+    "version": "19-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -16396,7 +16557,7 @@
     "size": 48565743,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+21/sapmachine-jre-19-ea.21_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.21"
+    "version": "19-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -16419,7 +16580,7 @@
     "size": 48930816,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+22/sapmachine-jre-19-ea.22_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.22"
+    "version": "19-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -16442,7 +16603,7 @@
     "size": 48954524,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+22/sapmachine-jre-19-ea.22_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.22"
+    "version": "19-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -16465,7 +16626,7 @@
     "size": 48922624,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+23/sapmachine-jre-19-ea.23_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.23"
+    "version": "19-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -16488,7 +16649,7 @@
     "size": 48952595,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+23/sapmachine-jre-19-ea.23_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.23"
+    "version": "19-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -16511,7 +16672,7 @@
     "size": 48934912,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jre-19-ea.24_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.24"
+    "version": "19-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -16534,7 +16695,7 @@
     "size": 48954679,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jre-19-ea.24_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.24"
+    "version": "19-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -16557,7 +16718,7 @@
     "size": 48984064,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+25/sapmachine-jre-19-ea.25_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.25"
+    "version": "19-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -16580,7 +16741,7 @@
     "size": 49004185,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+25/sapmachine-jre-19-ea.25_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.25"
+    "version": "19-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -16603,7 +16764,7 @@
     "size": 49115136,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+26/sapmachine-jre-19-ea.26_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.26"
+    "version": "19-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -16626,7 +16787,7 @@
     "size": 49139440,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+26/sapmachine-jre-19-ea.26_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.26"
+    "version": "19-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -16649,7 +16810,7 @@
     "size": 49115136,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+27/sapmachine-jre-19-ea.27_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.27"
+    "version": "19-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -16672,7 +16833,7 @@
     "size": 49140655,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+27/sapmachine-jre-19-ea.27_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.27"
+    "version": "19-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -16695,7 +16856,7 @@
     "size": 49000448,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+28/sapmachine-jre-19-ea.28_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.28"
+    "version": "19-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -16718,7 +16879,7 @@
     "size": 49022960,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+28/sapmachine-jre-19-ea.28_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.28"
+    "version": "19-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -16741,7 +16902,7 @@
     "size": 49000448,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+29/sapmachine-jre-19-ea.29_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.29"
+    "version": "19-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -16764,7 +16925,7 @@
     "size": 49027561,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+29/sapmachine-jre-19-ea.29_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.29"
+    "version": "19-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -16787,7 +16948,7 @@
     "size": 47079424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+2/sapmachine-jre-19-ea.2_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.2"
+    "version": "19-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -16810,7 +16971,7 @@
     "size": 47060553,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+2/sapmachine-jre-19-ea.2_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.2"
+    "version": "19-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -16833,7 +16994,7 @@
     "size": 49004544,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+30/sapmachine-jre-19-ea.30_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.30"
+    "version": "19-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -16856,7 +17017,7 @@
     "size": 49027748,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+30/sapmachine-jre-19-ea.30_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.30"
+    "version": "19-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -16879,7 +17040,7 @@
     "size": 49004544,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+31/sapmachine-jre-19-ea.31_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.31"
+    "version": "19-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -16902,7 +17063,7 @@
     "size": 49028511,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+31/sapmachine-jre-19-ea.31_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.31"
+    "version": "19-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -16925,7 +17086,7 @@
     "size": 49012736,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+32/sapmachine-jre-19-ea.32_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.32"
+    "version": "19-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -16948,7 +17109,7 @@
     "size": 49030283,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+32/sapmachine-jre-19-ea.32_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.32"
+    "version": "19-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -16971,7 +17132,7 @@
     "size": 49008640,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+33/sapmachine-jre-19-ea.33_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.33"
+    "version": "19-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -16994,7 +17155,7 @@
     "size": 49027422,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+33/sapmachine-jre-19-ea.33_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.33"
+    "version": "19-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -17017,7 +17178,7 @@
     "size": 49008640,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+34/sapmachine-jre-19-ea.34_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.34"
+    "version": "19-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -17040,7 +17201,7 @@
     "size": 49028022,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+34/sapmachine-jre-19-ea.34_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.34"
+    "version": "19-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -17063,7 +17224,7 @@
     "size": 49008640,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+35/sapmachine-jre-19-ea.35_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.35"
+    "version": "19-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -17086,7 +17247,7 @@
     "size": 49030498,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+35/sapmachine-jre-19-ea.35_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.35"
+    "version": "19-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -17109,7 +17270,7 @@
     "size": 49008640,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+36/sapmachine-jre-19-ea.36_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.36"
+    "version": "19-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -17132,7 +17293,7 @@
     "size": 49031460,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+36/sapmachine-jre-19-ea.36_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.36"
+    "version": "19-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -17155,7 +17316,7 @@
     "size": 47079424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+3/sapmachine-jre-19-ea.3_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.3"
+    "version": "19-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -17178,7 +17339,7 @@
     "size": 47056836,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+3/sapmachine-jre-19-ea.3_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.3"
+    "version": "19-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -17201,7 +17362,7 @@
     "size": 47083520,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+4/sapmachine-jre-19-ea.4_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.4"
+    "version": "19-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -17224,7 +17385,7 @@
     "size": 47065179,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+4/sapmachine-jre-19-ea.4_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.4"
+    "version": "19-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -17247,7 +17408,7 @@
     "size": 47112192,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+5/sapmachine-jre-19-ea.5_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.5"
+    "version": "19-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -17270,7 +17431,7 @@
     "size": 47095755,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+5/sapmachine-jre-19-ea.5_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.5"
+    "version": "19-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -17293,7 +17454,7 @@
     "size": 47112192,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+6/sapmachine-jre-19-ea.6_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.6"
+    "version": "19-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -17316,7 +17477,7 @@
     "size": 47091914,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+6/sapmachine-jre-19-ea.6_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.6"
+    "version": "19-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -17339,7 +17500,7 @@
     "size": 47132672,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+7/sapmachine-jre-19-ea.7_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.7"
+    "version": "19-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -17362,7 +17523,7 @@
     "size": 47113139,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+7/sapmachine-jre-19-ea.7_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.7"
+    "version": "19-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -17385,7 +17546,7 @@
     "size": 47136768,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+8/sapmachine-jre-19-ea.8_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.8"
+    "version": "19-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -17408,7 +17569,7 @@
     "size": 47117606,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+8/sapmachine-jre-19-ea.8_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.8"
+    "version": "19-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -17431,7 +17592,7 @@
     "size": 47153152,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+9/sapmachine-jre-19-ea.9_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.9"
+    "version": "19-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -17454,7 +17615,7 @@
     "size": 47123660,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+9/sapmachine-jre-19-ea.9_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "19.0.0-ea.9"
+    "version": "19-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -17615,7 +17776,7 @@
     "size": 49016832,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+10/sapmachine-jre-20-ea.10_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.10"
+    "version": "20-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -17638,7 +17799,7 @@
     "size": 49052369,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+10/sapmachine-jre-20-ea.10_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.10"
+    "version": "20-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -17661,7 +17822,7 @@
     "size": 48975872,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+11/sapmachine-jre-20-ea.11_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.11"
+    "version": "20-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -17684,7 +17845,7 @@
     "size": 49008842,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+11/sapmachine-jre-20-ea.11_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.11"
+    "version": "20-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -17707,7 +17868,7 @@
     "size": 48992256,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+12/sapmachine-jre-20-ea.12_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.12"
+    "version": "20-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -17730,7 +17891,7 @@
     "size": 49027247,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+12/sapmachine-jre-20-ea.12_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.12"
+    "version": "20-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -17753,7 +17914,7 @@
     "size": 49291264,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+13/sapmachine-jre-20-ea.13_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.13"
+    "version": "20-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -17776,7 +17937,7 @@
     "size": 49338188,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+13/sapmachine-jre-20-ea.13_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.13"
+    "version": "20-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -17799,7 +17960,7 @@
     "size": 49262592,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+14/sapmachine-jre-20-ea.14_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.14"
+    "version": "20-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -17822,7 +17983,7 @@
     "size": 49304177,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+14/sapmachine-jre-20-ea.14_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.14"
+    "version": "20-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -17845,7 +18006,7 @@
     "size": 49274880,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+15/sapmachine-jre-20-ea.15_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.15"
+    "version": "20-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -17868,7 +18029,7 @@
     "size": 49315237,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+15/sapmachine-jre-20-ea.15_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.15"
+    "version": "20-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -17891,7 +18052,7 @@
     "size": 49274880,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+16/sapmachine-jre-20-ea.16_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.16"
+    "version": "20-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -17914,7 +18075,7 @@
     "size": 49312124,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+16/sapmachine-jre-20-ea.16_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.16"
+    "version": "20-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -17937,7 +18098,7 @@
     "size": 49258496,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+17/sapmachine-jre-20-ea.17_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.17"
+    "version": "20-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -17960,7 +18121,7 @@
     "size": 49302778,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+17/sapmachine-jre-20-ea.17_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.17"
+    "version": "20-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -17983,7 +18144,7 @@
     "size": 49266688,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+18/sapmachine-jre-20-ea.18_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.18"
+    "version": "20-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -18006,7 +18167,7 @@
     "size": 49316846,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+18/sapmachine-jre-20-ea.18_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.18"
+    "version": "20-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -18029,7 +18190,7 @@
     "size": 49307648,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+19/sapmachine-jre-20-ea.19_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.19"
+    "version": "20-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -18052,7 +18213,7 @@
     "size": 49360919,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+19/sapmachine-jre-20-ea.19_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.19"
+    "version": "20-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -18075,7 +18236,7 @@
     "size": 49119232,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+1/sapmachine-jre-20-ea.1_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.1"
+    "version": "20-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -18098,7 +18259,7 @@
     "size": 49143310,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+1/sapmachine-jre-20-ea.1_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.1"
+    "version": "20-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -18121,7 +18282,7 @@
     "size": 49332224,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+20/sapmachine-jre-20-ea.20_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.20"
+    "version": "20-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -18144,7 +18305,7 @@
     "size": 49372146,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+20/sapmachine-jre-20-ea.20_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.20"
+    "version": "20-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -18167,7 +18328,7 @@
     "size": 49790976,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+21/sapmachine-jre-20-ea.21_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.21"
+    "version": "20-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -18190,7 +18351,7 @@
     "size": 49849129,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+21/sapmachine-jre-20-ea.21_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.21"
+    "version": "20-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -18213,7 +18374,7 @@
     "size": 49786880,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+22/sapmachine-jre-20-ea.22_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.22"
+    "version": "20-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -18236,7 +18397,7 @@
     "size": 49840478,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+22/sapmachine-jre-20-ea.22_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.22"
+    "version": "20-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -18259,7 +18420,7 @@
     "size": 49778688,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+23/sapmachine-jre-20-ea.23_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.23"
+    "version": "20-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -18282,7 +18443,7 @@
     "size": 49839937,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+23/sapmachine-jre-20-ea.23_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.23"
+    "version": "20-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -18305,7 +18466,7 @@
     "size": 49819648,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+24/sapmachine-jre-20-ea.24_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.24"
+    "version": "20-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -18328,7 +18489,7 @@
     "size": 49873159,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+24/sapmachine-jre-20-ea.24_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.24"
+    "version": "20-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -18351,7 +18512,7 @@
     "size": 49836032,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+25/sapmachine-jre-20-ea.25_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.25"
+    "version": "20-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -18374,7 +18535,7 @@
     "size": 49895971,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+25/sapmachine-jre-20-ea.25_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.25"
+    "version": "20-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -18397,7 +18558,7 @@
     "size": 49836032,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+26/sapmachine-jre-20-ea.26_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.26"
+    "version": "20-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -18420,7 +18581,7 @@
     "size": 49896103,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+26/sapmachine-jre-20-ea.26_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.26"
+    "version": "20-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -18443,7 +18604,7 @@
     "size": 49864704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+27/sapmachine-jre-20-ea.27_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.27"
+    "version": "20-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -18466,7 +18627,7 @@
     "size": 49914067,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+27/sapmachine-jre-20-ea.27_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.27"
+    "version": "20-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -18489,7 +18650,7 @@
     "size": 49860608,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+28/sapmachine-jre-20-ea.28_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.28"
+    "version": "20-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -18512,7 +18673,7 @@
     "size": 49913851,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+28/sapmachine-jre-20-ea.28_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.28"
+    "version": "20-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -18535,7 +18696,7 @@
     "size": 49860608,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+29/sapmachine-jre-20-ea.29_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.29"
+    "version": "20-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -18558,7 +18719,7 @@
     "size": 49917486,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+29/sapmachine-jre-20-ea.29_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.29"
+    "version": "20-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -18581,7 +18742,7 @@
     "size": 49016832,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+2/sapmachine-jre-20-ea.2_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.2"
+    "version": "20-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -18604,7 +18765,7 @@
     "size": 49045364,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+2/sapmachine-jre-20-ea.2_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.2"
+    "version": "20-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -18627,7 +18788,7 @@
     "size": 49860608,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+30/sapmachine-jre-20-ea.30_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.30"
+    "version": "20-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -18650,7 +18811,7 @@
     "size": 49914361,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+30/sapmachine-jre-20-ea.30_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.30"
+    "version": "20-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -18673,7 +18834,7 @@
     "size": 49860608,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+31/sapmachine-jre-20-ea.31_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.31"
+    "version": "20-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -18696,7 +18857,7 @@
     "size": 49915679,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+31/sapmachine-jre-20-ea.31_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.31"
+    "version": "20-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -18719,7 +18880,7 @@
     "size": 49864704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+32/sapmachine-jre-20-ea.32_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.32"
+    "version": "20-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -18742,7 +18903,7 @@
     "size": 49919312,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+32/sapmachine-jre-20-ea.32_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.32"
+    "version": "20-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -18765,7 +18926,7 @@
     "size": 49864704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+33/sapmachine-jre-20-ea.33_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.33"
+    "version": "20-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -18788,7 +18949,7 @@
     "size": 49917460,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+33/sapmachine-jre-20-ea.33_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.33"
+    "version": "20-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -18811,7 +18972,7 @@
     "size": 49864704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+34/sapmachine-jre-20-ea.34_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.34"
+    "version": "20-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -18834,7 +18995,7 @@
     "size": 49921931,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+34/sapmachine-jre-20-ea.34_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.34"
+    "version": "20-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -18857,7 +19018,7 @@
     "size": 49864704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jre-20-ea.35_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.35"
+    "version": "20-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -18880,7 +19041,7 @@
     "size": 49923495,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jre-20-ea.35_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.35"
+    "version": "20-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -18903,7 +19064,7 @@
     "size": 49868800,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+36/sapmachine-jre-20-ea.36_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.36"
+    "version": "20-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -18926,7 +19087,7 @@
     "size": 49929534,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+36/sapmachine-jre-20-ea.36_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.36"
+    "version": "20-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -18949,7 +19110,7 @@
     "size": 49029120,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+3/sapmachine-jre-20-ea.3_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.3"
+    "version": "20-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -18972,7 +19133,7 @@
     "size": 49049604,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+3/sapmachine-jre-20-ea.3_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.3"
+    "version": "20-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -18995,7 +19156,7 @@
     "size": 48906240,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+4/sapmachine-jre-20-ea.4_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.4"
+    "version": "20-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -19018,7 +19179,7 @@
     "size": 48930444,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+4/sapmachine-jre-20-ea.4_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.4"
+    "version": "20-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -19041,7 +19202,7 @@
     "size": 48881664,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+5/sapmachine-jre-20-ea.5_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.5"
+    "version": "20-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -19064,7 +19225,7 @@
     "size": 48914370,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+5/sapmachine-jre-20-ea.5_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.5"
+    "version": "20-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -19087,7 +19248,7 @@
     "size": 48934912,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+6/sapmachine-jre-20-ea.6_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.6"
+    "version": "20-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -19110,7 +19271,7 @@
     "size": 48968579,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+6/sapmachine-jre-20-ea.6_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.6"
+    "version": "20-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -19133,7 +19294,7 @@
     "size": 48943104,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+7/sapmachine-jre-20-ea.7_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.7"
+    "version": "20-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -19156,7 +19317,7 @@
     "size": 48975334,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+7/sapmachine-jre-20-ea.7_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.7"
+    "version": "20-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -19179,7 +19340,7 @@
     "size": 48947200,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+8/sapmachine-jre-20-ea.8_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.8"
+    "version": "20-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -19202,7 +19363,7 @@
     "size": 48977022,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+8/sapmachine-jre-20-ea.8_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.8"
+    "version": "20-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -19225,7 +19386,7 @@
     "size": 49008640,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+9/sapmachine-jre-20-ea.9_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.9"
+    "version": "20-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -19248,7 +19409,7 @@
     "size": 49041360,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+9/sapmachine-jre-20-ea.9_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "20.0.0-ea.9"
+    "version": "20-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -19363,7 +19524,7 @@
     "size": 49950720,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+10/sapmachine-jre-21-ea.10_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.10"
+    "version": "21-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -19386,7 +19547,7 @@
     "size": 50019718,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+10/sapmachine-jre-21-ea.10_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.10"
+    "version": "21-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -19409,7 +19570,7 @@
     "size": 49967104,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+11/sapmachine-jre-21-ea.11_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.11"
+    "version": "21-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -19432,7 +19593,7 @@
     "size": 50030397,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+11/sapmachine-jre-21-ea.11_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.11"
+    "version": "21-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -19455,7 +19616,7 @@
     "size": 49971200,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+12/sapmachine-jre-21-ea.12_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.12"
+    "version": "21-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -19478,7 +19639,7 @@
     "size": 50033474,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+12/sapmachine-jre-21-ea.12_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.12"
+    "version": "21-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -19501,7 +19662,7 @@
     "size": 49991680,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+13/sapmachine-jre-21-ea.13_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.13"
+    "version": "21-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -19524,7 +19685,7 @@
     "size": 50054474,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+13/sapmachine-jre-21-ea.13_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.13"
+    "version": "21-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -19547,7 +19708,7 @@
     "size": 50393088,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+14/sapmachine-jre-21-ea.14_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.14"
+    "version": "21-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -19570,7 +19731,7 @@
     "size": 50452624,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+14/sapmachine-jre-21-ea.14_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.14"
+    "version": "21-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -19593,7 +19754,7 @@
     "size": 52162560,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+15/sapmachine-jre-21-ea.15_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.15"
+    "version": "21-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -19616,7 +19777,7 @@
     "size": 52213783,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+15/sapmachine-jre-21-ea.15_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.15"
+    "version": "21-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -19639,7 +19800,7 @@
     "size": 52133888,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+16/sapmachine-jre-21-ea.16_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.16"
+    "version": "21-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -19662,7 +19823,7 @@
     "size": 52191771,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+16/sapmachine-jre-21-ea.16_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.16"
+    "version": "21-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -19685,7 +19846,7 @@
     "size": 52097024,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+17/sapmachine-jre-21-ea.17_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.17"
+    "version": "21-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -19708,7 +19869,7 @@
     "size": 52160319,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+17/sapmachine-jre-21-ea.17_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.17"
+    "version": "21-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -19731,7 +19892,7 @@
     "size": 52092928,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+18/sapmachine-jre-21-ea.18_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.18"
+    "version": "21-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -19754,7 +19915,7 @@
     "size": 52154250,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+18/sapmachine-jre-21-ea.18_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.18"
+    "version": "21-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -19777,7 +19938,7 @@
     "size": 52207561,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+19/sapmachine-jre-21-ea.19_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.19"
+    "version": "21-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -19800,7 +19961,7 @@
     "size": 49864704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+1/sapmachine-jre-21-ea.1_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.1"
+    "version": "21-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -19823,7 +19984,7 @@
     "size": 49914424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+1/sapmachine-jre-21-ea.1_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.1"
+    "version": "21-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -19846,7 +20007,7 @@
     "size": 52256529,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+20/sapmachine-jre-21-ea.20_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.20"
+    "version": "21-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -19869,7 +20030,7 @@
     "size": 52275797,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+21/sapmachine-jre-21-ea.21_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.21"
+    "version": "21-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -19892,7 +20053,7 @@
     "size": 52353149,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+22/sapmachine-jre-21-ea.22_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.22"
+    "version": "21-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -19915,7 +20076,7 @@
     "size": 52680435,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+23/sapmachine-jre-21-ea.23_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.23"
+    "version": "21-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -19938,7 +20099,7 @@
     "size": 52710697,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+24/sapmachine-jre-21-ea.24_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.24"
+    "version": "21-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -19961,7 +20122,7 @@
     "size": 52810401,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+25/sapmachine-jre-21-ea.25_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.25"
+    "version": "21-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -19984,7 +20145,7 @@
     "size": 52851598,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+26/sapmachine-jre-21-ea.26_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.26"
+    "version": "21-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -20007,7 +20168,7 @@
     "size": 52852514,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+27/sapmachine-jre-21-ea.27_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.27"
+    "version": "21-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -20030,7 +20191,7 @@
     "size": 52859192,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+28/sapmachine-jre-21-ea.28_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.28"
+    "version": "21-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -20053,7 +20214,7 @@
     "size": 52877444,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+29/sapmachine-jre-21-ea.29_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.29"
+    "version": "21-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -20076,7 +20237,7 @@
     "size": 49856512,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+2/sapmachine-jre-21-ea.2_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.2"
+    "version": "21-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -20099,7 +20260,7 @@
     "size": 49912390,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+2/sapmachine-jre-21-ea.2_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.2"
+    "version": "21-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -20122,7 +20283,7 @@
     "size": 52876521,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+30/sapmachine-jre-21-ea.30_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.30"
+    "version": "21-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -20145,7 +20306,7 @@
     "size": 52874598,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+31/sapmachine-jre-21-ea.31_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.31"
+    "version": "21-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -20168,7 +20329,7 @@
     "size": 52892809,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+32/sapmachine-jre-21-ea.32_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.32"
+    "version": "21-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -20191,7 +20352,7 @@
     "size": 52894162,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+33/sapmachine-jre-21-ea.33_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.33"
+    "version": "21-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -20214,7 +20375,7 @@
     "size": 52894586,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+34/sapmachine-jre-21-ea.34_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.34"
+    "version": "21-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -20237,7 +20398,7 @@
     "size": 52895405,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+35/sapmachine-jre-21-ea.35_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.35"
+    "version": "21-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -20260,7 +20421,7 @@
     "size": 49860608,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+3/sapmachine-jre-21-ea.3_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.3"
+    "version": "21-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -20283,7 +20444,7 @@
     "size": 49910140,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+3/sapmachine-jre-21-ea.3_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.3"
+    "version": "21-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -20306,7 +20467,7 @@
     "size": 49848320,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+4/sapmachine-jre-21-ea.4_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.4"
+    "version": "21-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -20329,7 +20490,7 @@
     "size": 49903902,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+4/sapmachine-jre-21-ea.4_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.4"
+    "version": "21-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -20352,7 +20513,7 @@
     "size": 49860608,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+5/sapmachine-jre-21-ea.5_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.5"
+    "version": "21-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -20375,7 +20536,7 @@
     "size": 49916213,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+5/sapmachine-jre-21-ea.5_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.5"
+    "version": "21-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -20398,7 +20559,7 @@
     "size": 49885184,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+6/sapmachine-jre-21-ea.6_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.6"
+    "version": "21-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -20421,7 +20582,7 @@
     "size": 49935221,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+6/sapmachine-jre-21-ea.6_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.6"
+    "version": "21-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -20444,7 +20605,7 @@
     "size": 49926144,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+7/sapmachine-jre-21-ea.7_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.7"
+    "version": "21-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -20467,7 +20628,7 @@
     "size": 49979151,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+7/sapmachine-jre-21-ea.7_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.7"
+    "version": "21-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -20490,7 +20651,7 @@
     "size": 49922048,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+8/sapmachine-jre-21-ea.8_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.8"
+    "version": "21-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -20513,7 +20674,7 @@
     "size": 49979469,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+8/sapmachine-jre-21-ea.8_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.8"
+    "version": "21-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -20536,7 +20697,7 @@
     "size": 49930240,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+9/sapmachine-jre-21-ea.9_windows-x64_bin.msi",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.9"
+    "version": "21-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -20559,7 +20720,7 @@
     "size": 49987689,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+9/sapmachine-jre-21-ea.9_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "21.0.0-ea.9"
+    "version": "21-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -20841,6 +21002,75 @@
     "architecture": "x86_64",
     "features": [],
     "file_type": "zip",
+    "filename": "sapmachine-jre-21.0.4-ea.3_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "21.0.4-ea.3",
+    "jvm_impl": "hotspot",
+    "md5": "4818af274079fec2bb920d8038640dae",
+    "md5_file": "sapmachine-jre-21.0.4-ea.3_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "38837ea42cc446df6b9bf6b1c7f19ba16e1b57c1",
+    "sha1_file": "sapmachine-jre-21.0.4-ea.3_windows-x64_bin.zip.sha1",
+    "sha256": "20b1b707e48d4f69a591c8699b78c6a2a5c52197f2c3d7ca3a6151d5195744e9",
+    "sha256_file": "sapmachine-jre-21.0.4-ea.3_windows-x64_bin.zip.sha256",
+    "sha512": "25b13a648d3c760a1dc2da09ead64d45877ef3d8890765fb3d21d6cc9578e659220617b9a322604bc02593a904914d35d356203f2dc51c22d4ccb1dc8fe1af27",
+    "sha512_file": "sapmachine-jre-21.0.4-ea.3_windows-x64_bin.zip.sha512",
+    "size": 53044007,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.4+3/sapmachine-jre-21.0.4-ea.3_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "21.0.4-ea.3"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-21.0.4-ea.4_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "21.0.4-ea.4",
+    "jvm_impl": "hotspot",
+    "md5": "3b5b0e5b4b052dd04085894dfe373b28",
+    "md5_file": "sapmachine-jre-21.0.4-ea.4_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "7c16329abda74d47848cd62c448f8ffdde3fc82d",
+    "sha1_file": "sapmachine-jre-21.0.4-ea.4_windows-x64_bin.zip.sha1",
+    "sha256": "53ae3f9a5ea8dd8128992f7731f66208f21272fd31e4340d689e4fb47b2035d8",
+    "sha256_file": "sapmachine-jre-21.0.4-ea.4_windows-x64_bin.zip.sha256",
+    "sha512": "59d94287b66e6bf3df0ea8121a8f28e65b446bfd11ae4b324e8cfb3a4ac7ae009d66b3d4f5573fd4c8ac8258857ffdcdee06f50e41377e19c98e307aba9f7e11",
+    "sha512_file": "sapmachine-jre-21.0.4-ea.4_windows-x64_bin.zip.sha512",
+    "size": 53047034,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.4+4/sapmachine-jre-21.0.4-ea.4_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "21.0.4-ea.4"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-21.0.4-ea.5_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "21.0.4-ea.5",
+    "jvm_impl": "hotspot",
+    "md5": "c780deef21239e9bd47b64e80b044d6a",
+    "md5_file": "sapmachine-jre-21.0.4-ea.5_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "48b1038ed345116a857240b1c7ff30052cbb310e",
+    "sha1_file": "sapmachine-jre-21.0.4-ea.5_windows-x64_bin.zip.sha1",
+    "sha256": "b905224cdf67cf90089280383f58b6915274c0f60f45d6cf75a60a4fa5537c35",
+    "sha256_file": "sapmachine-jre-21.0.4-ea.5_windows-x64_bin.zip.sha256",
+    "sha512": "55bb21f2729aaa06320fbe3841bb6dc6a8df48ec40b84ff4ea3e57c1c2d495dcaf9062469a8cb92d1293055f913d3830dc0f9794fd6714c8c3f0c1e361f6fc31",
+    "sha512_file": "sapmachine-jre-21.0.4-ea.5_windows-x64_bin.zip.sha512",
+    "size": 53045957,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21.0.4+5/sapmachine-jre-21.0.4-ea.5_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "21.0.4-ea.5"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
     "filename": "sapmachine-jre-22-ea.10_windows-x64_bin.zip",
     "image_type": "jre",
     "java_version": "22-ea.10",
@@ -20858,7 +21088,7 @@
     "size": 52980528,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+10/sapmachine-jre-22-ea.10_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.10"
+    "version": "22-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -20881,7 +21111,7 @@
     "size": 53002127,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+11/sapmachine-jre-22-ea.11_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.11"
+    "version": "22-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -20904,7 +21134,7 @@
     "size": 52988956,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+12/sapmachine-jre-22-ea.12_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.12"
+    "version": "22-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -20927,7 +21157,7 @@
     "size": 52990382,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+13/sapmachine-jre-22-ea.13_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.13"
+    "version": "22-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -20950,7 +21180,7 @@
     "size": 53014581,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+14/sapmachine-jre-22-ea.14_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.14"
+    "version": "22-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -20973,7 +21203,7 @@
     "size": 53063401,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+15/sapmachine-jre-22-ea.15_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.15"
+    "version": "22-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -20996,7 +21226,7 @@
     "size": 53063172,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+16/sapmachine-jre-22-ea.16_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.16"
+    "version": "22-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -21019,7 +21249,7 @@
     "size": 53062056,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+17/sapmachine-jre-22-ea.17_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.17"
+    "version": "22-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -21042,7 +21272,7 @@
     "size": 53067203,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+18/sapmachine-jre-22-ea.18_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.18"
+    "version": "22-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -21065,7 +21295,7 @@
     "size": 53075768,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+19/sapmachine-jre-22-ea.19_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.19"
+    "version": "22-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -21088,7 +21318,7 @@
     "size": 52850640,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+1/sapmachine-jre-22-ea.1_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.1"
+    "version": "22-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -21111,7 +21341,7 @@
     "size": 53088246,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+20/sapmachine-jre-22-ea.20_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.20"
+    "version": "22-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -21134,7 +21364,7 @@
     "size": 53188806,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+21/sapmachine-jre-22-ea.21_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.21"
+    "version": "22-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -21157,7 +21387,7 @@
     "size": 53242706,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+22/sapmachine-jre-22-ea.22_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.22"
+    "version": "22-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -21180,7 +21410,7 @@
     "size": 53267990,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+23/sapmachine-jre-22-ea.23_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.23"
+    "version": "22-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -21203,7 +21433,7 @@
     "size": 52637196,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+24/sapmachine-jre-22-ea.24_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.24"
+    "version": "22-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -21226,7 +21456,7 @@
     "size": 52651031,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+25/sapmachine-jre-22-ea.25_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.25"
+    "version": "22-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -21249,7 +21479,7 @@
     "size": 52669614,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+26/sapmachine-jre-22-ea.26_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.26"
+    "version": "22-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -21272,7 +21502,7 @@
     "size": 52720731,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+27/sapmachine-jre-22-ea.27_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.27"
+    "version": "22-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -21295,7 +21525,7 @@
     "size": 52721838,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+28/sapmachine-jre-22-ea.28_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.28"
+    "version": "22-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -21318,7 +21548,7 @@
     "size": 52723618,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+29/sapmachine-jre-22-ea.29_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.29"
+    "version": "22-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -21341,7 +21571,7 @@
     "size": 52830847,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+2/sapmachine-jre-22-ea.2_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.2"
+    "version": "22-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -21364,7 +21594,7 @@
     "size": 52721969,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+30/sapmachine-jre-22-ea.30_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.30"
+    "version": "22-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -21387,7 +21617,7 @@
     "size": 52728991,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+31/sapmachine-jre-22-ea.31_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.31"
+    "version": "22-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -21410,7 +21640,7 @@
     "size": 52728557,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+32/sapmachine-jre-22-ea.32_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.32"
+    "version": "22-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -21433,7 +21663,7 @@
     "size": 52729899,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+33/sapmachine-jre-22-ea.33_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.33"
+    "version": "22-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -21456,7 +21686,7 @@
     "size": 52727986,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+34/sapmachine-jre-22-ea.34_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.34"
+    "version": "22-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -21479,7 +21709,7 @@
     "size": 52730354,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+35/sapmachine-jre-22-ea.35_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.35"
+    "version": "22-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -21502,7 +21732,7 @@
     "size": 52730420,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+36/sapmachine-jre-22-ea.36_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.36"
+    "version": "22-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -21525,7 +21755,7 @@
     "size": 52851230,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+3/sapmachine-jre-22-ea.3_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.3"
+    "version": "22-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -21548,7 +21778,7 @@
     "size": 52856014,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+4/sapmachine-jre-22-ea.4_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.4"
+    "version": "22-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -21571,7 +21801,7 @@
     "size": 52843338,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+5/sapmachine-jre-22-ea.5_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.5"
+    "version": "22-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -21594,7 +21824,7 @@
     "size": 52848481,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+6/sapmachine-jre-22-ea.6_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.6"
+    "version": "22-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -21617,7 +21847,7 @@
     "size": 52901337,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+7/sapmachine-jre-22-ea.7_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.7"
+    "version": "22-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -21640,7 +21870,7 @@
     "size": 52922255,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+8/sapmachine-jre-22-ea.8_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.8"
+    "version": "22-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -21663,7 +21893,7 @@
     "size": 52972726,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+9/sapmachine-jre-22-ea.9_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "22.0.0-ea.9"
+    "version": "22-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -21755,7 +21985,7 @@
     "size": 52737961,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+10/sapmachine-jre-23-ea.10_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.10"
+    "version": "23-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -21778,7 +22008,7 @@
     "size": 52750056,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+11/sapmachine-jre-23-ea.11_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.11"
+    "version": "23-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -21801,7 +22031,7 @@
     "size": 52747406,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+12/sapmachine-jre-23-ea.12_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.12"
+    "version": "23-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -21824,7 +22054,7 @@
     "size": 53209560,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+13/sapmachine-jre-23-ea.13_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.13"
+    "version": "23-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -21847,7 +22077,7 @@
     "size": 53217619,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+14/sapmachine-jre-23-ea.14_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.14"
+    "version": "23-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -21870,7 +22100,7 @@
     "size": 53198731,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+15/sapmachine-jre-23-ea.15_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.15"
+    "version": "23-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -21893,7 +22123,7 @@
     "size": 53206961,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+16/sapmachine-jre-23-ea.16_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.16"
+    "version": "23-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -21916,7 +22146,7 @@
     "size": 53211193,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+17/sapmachine-jre-23-ea.17_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.17"
+    "version": "23-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -21939,7 +22169,7 @@
     "size": 53213197,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+18/sapmachine-jre-23-ea.18_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.18"
+    "version": "23-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -21962,7 +22192,7 @@
     "size": 53204913,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+19/sapmachine-jre-23-ea.19_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.19"
+    "version": "23-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -21985,7 +22215,7 @@
     "size": 52716601,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+1/sapmachine-jre-23-ea.1_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.1"
+    "version": "23-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -22008,7 +22238,7 @@
     "size": 52437298,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+20/sapmachine-jre-23-ea.20_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.20"
+    "version": "23-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -22060,6 +22290,75 @@
     "architecture": "x86_64",
     "features": [],
     "file_type": "zip",
+    "filename": "sapmachine-jre-23-ea.23_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "23-ea.23",
+    "jvm_impl": "hotspot",
+    "md5": "93dafd7873a55b439e9dc14e375ab4eb",
+    "md5_file": "sapmachine-jre-23-ea.23_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "d43cc62ee4a16e1dac789000754bd2da8c969fd5",
+    "sha1_file": "sapmachine-jre-23-ea.23_windows-x64_bin.zip.sha1",
+    "sha256": "61b374c1c0b3957f5a512e53444eea0e794ddaf295c33f1b2540813db2bf4ba8",
+    "sha256_file": "sapmachine-jre-23-ea.23_windows-x64_bin.zip.sha256",
+    "sha512": "0b8a4b050f49875d1ad048034783232c8e8b38186ef064e9ea9fd7a6bef869f25244708b8e1a500b2495109d1a29c0d53bc490aecd857f03e112aecfdab08493",
+    "sha512_file": "sapmachine-jre-23-ea.23_windows-x64_bin.zip.sha512",
+    "size": 52493393,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+23/sapmachine-jre-23-ea.23_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "23-ea.23"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-23-ea.24_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "23-ea.24",
+    "jvm_impl": "hotspot",
+    "md5": "61def40d73b5757e789f52ad189bd04a",
+    "md5_file": "sapmachine-jre-23-ea.24_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "4b6f0be38844a4f7ebe01c1df418e8b82730d455",
+    "sha1_file": "sapmachine-jre-23-ea.24_windows-x64_bin.zip.sha1",
+    "sha256": "b3ea3591b61eade099380c8ab4634024585fa6ebc1ab30a0979a22bbe6f10202",
+    "sha256_file": "sapmachine-jre-23-ea.24_windows-x64_bin.zip.sha256",
+    "sha512": "97ebae615a1c5218f81f98ca08b674f54b48da4b702cccdbe92ecef67b4b5a5d01e0fc586bfe34b9771fd7d7316c404efda484a3557726c607f27f9956d40385",
+    "sha512_file": "sapmachine-jre-23-ea.24_windows-x64_bin.zip.sha512",
+    "size": 52500228,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+24/sapmachine-jre-23-ea.24_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "23-ea.24"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "sapmachine-jre-23-ea.25_windows-x64_bin.zip",
+    "image_type": "jre",
+    "java_version": "23-ea.25",
+    "jvm_impl": "hotspot",
+    "md5": "17f632091c31c385a82ee4c3fd864091",
+    "md5_file": "sapmachine-jre-23-ea.25_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "34f0da9660dce0ec0c35c947a0135770bc740fe2",
+    "sha1_file": "sapmachine-jre-23-ea.25_windows-x64_bin.zip.sha1",
+    "sha256": "84130293060a4fd0955a066d23acc7dae767df47725dbf8558188894278c6a62",
+    "sha256_file": "sapmachine-jre-23-ea.25_windows-x64_bin.zip.sha256",
+    "sha512": "0dcebefc716f02547c75e224d1e22779dc71fdd79ae8ac8a91de83a225ccb07c263ba49a92c162d47b8cf3dcd6e3e07a852cfd5bb71bcf01bbab9efa4180bda3",
+    "sha512_file": "sapmachine-jre-23-ea.25_windows-x64_bin.zip.sha512",
+    "size": 53038006,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+25/sapmachine-jre-23-ea.25_windows-x64_bin.zip",
+    "vendor": "sapmachine",
+    "version": "23-ea.25"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
     "filename": "sapmachine-jre-23-ea.2_windows-x64_bin.zip",
     "image_type": "jre",
     "java_version": "23-ea.2",
@@ -22077,7 +22376,7 @@
     "size": 52727131,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+2/sapmachine-jre-23-ea.2_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.2"
+    "version": "23-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -22100,7 +22399,7 @@
     "size": 52734414,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+3/sapmachine-jre-23-ea.3_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.3"
+    "version": "23-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -22123,7 +22422,7 @@
     "size": 52736343,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+4/sapmachine-jre-23-ea.4_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.4"
+    "version": "23-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -22146,7 +22445,7 @@
     "size": 52749645,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+5/sapmachine-jre-23-ea.5_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.5"
+    "version": "23-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -22169,7 +22468,7 @@
     "size": 52738727,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+6/sapmachine-jre-23-ea.6_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.6"
+    "version": "23-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -22192,7 +22491,7 @@
     "size": 52750265,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+7/sapmachine-jre-23-ea.7_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.7"
+    "version": "23-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -22215,7 +22514,7 @@
     "size": 52743010,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+8/sapmachine-jre-23-ea.8_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.8"
+    "version": "23-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -22238,6 +22537,6 @@
     "size": 52750810,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+9/sapmachine-jre-23-ea.9_windows-x64_bin.zip",
     "vendor": "sapmachine",
-    "version": "23.0.0-ea.9"
+    "version": "23-ea.9"
   }
 ]

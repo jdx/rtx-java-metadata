@@ -2597,6 +2597,150 @@
       "lite"
     ],
     "file_type": "deb",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "e6b109ba5249c9922a0e2bfcacde90cb",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a10195f15d8158afa88ee1603b430c66c3f2c786",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb.sha1",
+    "sha256": "37f1a2b5e0e42d53ae9492231c620b9e52c7912a0ce83dc951c417dc8fb58168",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb.sha256",
+    "sha512": "9e5c5d865a6b32f441eeb7c73b036808c89fd1b46912e80ef95cca229b5c0ba58d45cab8fd86cfcfb84c3045ace15e9a47ac6fbc6d0bfdaa2f7773a936f2464b",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb.sha512",
+    "size": 64726112,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le-lite.deb",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "fb59a97b8e9382f33bf25d025a8eaa97",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "58008704ddd105857680606ff77002844f6fe327",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm.sha1",
+    "sha256": "34372a279ce79a77061b113165b9c68ddd483a27ced11f5d141f5907b525c5c3",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm.sha256",
+    "sha512": "2d736c887a4bce51dee9c3b846353b311430d8e4359c62ec5463e0d4e2f788df95fc9369c27bdf10904b3276fd7ef5bc4d7222bde199d23f7423429396989994",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm.sha512",
+    "size": 66413792,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le-lite.rpm",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "b9b979fb200d0cd00e9ca70973d10f1d",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "71b267dff52e730d38061f7904303af147616545",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz.sha1",
+    "sha256": "771112809ca893cf2be0e83f825169bbe96d741cd469cb5cbfdc48586ca85632",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz.sha256",
+    "sha512": "03cad6cf37733372f771610a9f291f762e374b998ea139d05e21015a2d9f2298e72b8e0a9fd8deb61ffeaff530868a674b92b57f1d77bffbe8cb8241f7c4085b",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz.sha512",
+    "size": 70097782,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le.deb",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "2e749c1a12eb7e712e9dc9fb7367e30d",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "18ef0a0b894dde3aa0db3abe4422f8c6316cc54a",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.deb.sha1",
+    "sha256": "8260a139cab8fc15b33919671ec415ed96d10c2cfce9a56fc532e4d2090ac033",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.deb.sha256",
+    "sha512": "d61a713c7d4dd73babb37458c2d23740f51a9e527781f70e5f77a4c627f3b3242d27796d58d7cb8c0b4960dd7e2b1e17355c3308f5d572223f8561dc6cebd642",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.deb.sha512",
+    "size": 155142140,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "503c2b6ee66368e098c0093be38ad347",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "978a9d0c72d547691400a5919e5701dd19e66ad9",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.rpm.sha1",
+    "sha256": "c79340c120fd883653ae877ef4ebde7d5b4ec22ca9fa21ceff0c99ab8b087bad",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.rpm.sha256",
+    "sha512": "65cf7f96eead193353f3027ae29f6f1d4f4c054432be09c5932dee0c5ee947a0bb97ace5cd7499ebc381ddd36860110cbd0d41dcab5b6dbee1575ae276dee43b",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.rpm.sha512",
+    "size": 162165488,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "73081715f6e13131a3c733f606aba99a",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "970f13a92f468157e9a6816c1b482205d9d76e82",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "dd0d130eb3f755e737c4537b2427bd81b6ed0e9d4127037d1fcd5d7bcce10686",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "58207d98b714ab153370705e808345fff846c9173489ed848411278debe012e8100a632726885702a60901354ff5e9ff0c43f540a179def35499e11426159a4b",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz.sha512",
+    "size": 181911155,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
     "filename": "bellsoft-jdk11.0.5+11-linux-ppc64le-lite.deb",
     "image_type": "jdk",
     "java_version": "11.0.5+11",
@@ -3910,7 +4054,7 @@
     "size": 65909428,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -3935,7 +4079,7 @@
     "size": 67483876,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -3960,7 +4104,7 @@
     "size": 70813988,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -3983,7 +4127,7 @@
     "size": 157179684,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -4006,7 +4150,7 @@
     "size": 164438636,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -4029,7 +4173,7 @@
     "size": 182861549,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "ppc64le",
@@ -4438,7 +4582,7 @@
     "size": 67433468,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -4463,7 +4607,7 @@
     "size": 68994720,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -4488,7 +4632,7 @@
     "size": 72335833,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -4511,7 +4655,7 @@
     "size": 160034702,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -4534,7 +4678,7 @@
     "size": 167384808,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -4557,7 +4701,7 @@
     "size": 186329114,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "ppc64le",
@@ -4870,7 +5014,7 @@
     "size": 64642132,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -4895,7 +5039,7 @@
     "size": 66313204,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -4920,7 +5064,7 @@
     "size": 69584787,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -4943,7 +5087,7 @@
     "size": 157178796,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -4966,7 +5110,7 @@
     "size": 164171212,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -4989,7 +5133,7 @@
     "size": 183416450,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "ppc64le",
@@ -5446,7 +5590,7 @@
     "size": 66078708,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -5471,7 +5615,7 @@
     "size": 67787636,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -5496,7 +5640,7 @@
     "size": 71153282,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -5519,7 +5663,7 @@
     "size": 160189984,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -5542,7 +5686,7 @@
     "size": 167425596,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -5565,7 +5709,7 @@
     "size": 187409591,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "ppc64le",
@@ -5878,7 +6022,7 @@
     "size": 66492440,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -5903,7 +6047,7 @@
     "size": 68271848,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -5928,7 +6072,7 @@
     "size": 71921360,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -5951,7 +6095,7 @@
     "size": 161404160,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -5974,7 +6118,7 @@
     "size": 168764240,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -5997,7 +6141,7 @@
     "size": 189049321,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "ppc64le",
@@ -6430,6 +6574,150 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+10/bellsoft-jdk17.0.11+10-linux-ppc64le.tar.gz",
     "vendor": "liberica",
     "version": "17.0.11+10"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "dacf405e4a3aaaac9f0fcd53296149b3",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2a9a06f0d545edebe09e0b9187ddb76afc5785de",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb.sha1",
+    "sha256": "e1b678a3a425fb667b234c7f3661bd8ca33ce8e8af420d17ecfedff54245a320",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb.sha256",
+    "sha512": "0473725753ba318213532dc1244fe809cd4f24050438cd483ae399aea08e37424b6c7ac214b868d31ac7e4095bd557549bfb7b63e4bef6d057037b50f88f0076",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb.sha512",
+    "size": 67272592,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le-lite.deb",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "c64887839702c332b409fae735960a7f",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2ecca0b8e90decda3bb4411eec3544c2f1dc7810",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm.sha1",
+    "sha256": "39ec73c5976f10d6fe302f77d1e9c566ed6fdc413a421d296ad48bd177bd2652",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm.sha256",
+    "sha512": "7ba6c430890e31b1f047d3e2b384b3b4eb1b38b60879d4b52cf550828878b7ae2fe36541c7027ea73d2f6909b711300155da0c8122411483f9b161e4452674a3",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm.sha512",
+    "size": 69148364,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le-lite.rpm",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "4325239ef6ec71ae8512e982ff31317b",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "6f3cdf3f3b26410bb84577da3b753ee8e4a10ea1",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz.sha1",
+    "sha256": "4829a80d8192f2b4ce9f745b1978052c8d9b9a1f3be20d959deae19ead66c7e2",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz.sha256",
+    "sha512": "3cf391929130eaa0c1ec5c92d40e17092ae73eb240e83dd72e5507ace2a219209a6f98dc91349366928a65163522d33c8bd6f13c4b8796cc9d8b3fe9d48cf000",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz.sha512",
+    "size": 73099294,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "547441a7d491d591a4a05891efa4f5e3",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9635d3844ca6afde07b7e03a7cb5c0d7e183f45b",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.deb.sha1",
+    "sha256": "41e5d4cd4c8a30d8e39477d10db3fec7f2da5c4d170d3b5270da7501f30170c4",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.deb.sha256",
+    "sha512": "439db2eb0d366bf9bc23d25f6772fc2269207950400872a642ee487ad556524499b8f548a43aa2c93f8a7ad1d1361e4836e1c0f8fd3f00133764b153c7f49105",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.deb.sha512",
+    "size": 163671488,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "3d66705724748d4e0fcf612a0e1cb916",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "5f28d30de349ffafa0fad63d53c03097d54f8cd9",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.rpm.sha1",
+    "sha256": "5ca70c3f19a9a14e9b6dd21a000a1584a8023f2b828290023693b58ae7a0ee59",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.rpm.sha256",
+    "sha512": "a2ab92722ad84ca3bdcc869b1adaf26c81645b89bd27039bb10adf86cc26a8d58120d24d74be6a0a22164ed539852ef46d35d3f490f36faccafe82c356da01f0",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.rpm.sha512",
+    "size": 170918424,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "eece275fb771964a720d6e25fd63d39c",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "48a19bc9c1d99997bd7767e1c964f1ad06b00dc4",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "9538129a4111cefe1c1d6a804e45be96095d6c67294069874b88521fd30c1def",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "d9894cbc649e3eaf09e08440acd9dab6a806f10e455590b66573da3b645b72b04b666eea03621e2fb7c412b9ed2135bf85a0b1a59d64e527a0fdcef3670fa27c",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz.sha512",
+    "size": 191421615,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
   },
   {
     "architecture": "ppc64le",
@@ -8038,7 +8326,7 @@
     "size": 67180568,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -8063,7 +8351,7 @@
     "size": 68808028,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -8088,7 +8376,7 @@
     "size": 73152564,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -8111,7 +8399,7 @@
     "size": 163474708,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -8134,7 +8422,7 @@
     "size": 170482932,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -8157,7 +8445,7 @@
     "size": 191413233,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "ppc64le",
@@ -8758,7 +9046,7 @@
     "size": 69504210,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -8783,7 +9071,7 @@
     "size": 71125232,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -8808,7 +9096,7 @@
     "size": 75850100,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -8831,7 +9119,7 @@
     "size": 168551638,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -8854,7 +9142,7 @@
     "size": 176313304,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -8877,7 +9165,7 @@
     "size": 198626126,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "ppc64le",
@@ -9190,7 +9478,7 @@
     "size": 69783460,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -9215,7 +9503,7 @@
     "size": 71432564,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -9240,7 +9528,7 @@
     "size": 76576378,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -9263,7 +9551,7 @@
     "size": 169935712,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -9286,7 +9574,7 @@
     "size": 177277096,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -9309,7 +9597,7 @@
     "size": 200196385,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "ppc64le",
@@ -9622,7 +9910,7 @@
     "size": 71607128,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -9647,7 +9935,7 @@
     "size": 73274996,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -9672,7 +9960,7 @@
     "size": 79098975,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -9695,7 +9983,7 @@
     "size": 174570740,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -9718,7 +10006,7 @@
     "size": 182133144,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -9741,7 +10029,7 @@
     "size": 206039998,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jdk21+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "ppc64le",
@@ -10181,6 +10469,150 @@
       "lite"
     ],
     "file_type": "deb",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "d8488e90535e9f1f0e1019c63588612c",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ccf4c9dfe7fdcb41b99adba537f00f610394e684",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb.sha1",
+    "sha256": "c8f90fc11f72eddd06e2f9b2a14776351678ed5d287415241d81d36b33071396",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb.sha256",
+    "sha512": "bd2cc3da120d0df2b1be007ee0e6aebdcfdb47793e53acc74974e90a1a5b2517ba7de18276f7e320083c181e255407e5f564d715963d947eb55f6a847665e90e",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb.sha512",
+    "size": 71767418,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le-lite.deb",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "bf0d58ec6adaec2940b77b7c73e0b9c3",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f1082054e0730a4eebcebaedc5368ff65b90b3d5",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm.sha1",
+    "sha256": "f312c01542e00b3c83d3a2c0652172248b363c86d67865f1e17b0b50141078c0",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm.sha256",
+    "sha512": "0f8557fad5e0a95656591b4a8787495f5fdbf3afe85360a5ee18b4a80d3f9bfc2863d13785c9f3508ef45f467e1cf4ad8ae6d80943ab804dc17eadad39c91b08",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm.sha512",
+    "size": 73424992,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le-lite.rpm",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "92a39b93e9c7d6fd654f29bf30ba22f6",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c17286224bf575d7f253548d87ca6814a7500113",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz.sha1",
+    "sha256": "42a4e63266cec9f7aa987f3fc47cd37612be3cbd1daccc9682b52c56727891b6",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz.sha256",
+    "sha512": "54a6623065f3d32467edda52f2282e8a17af6f0554f63bce8cd5d04e69e69067f4257838e75f87129007d6b7e557ce52c377da7766337ee444b5c5d37292773d",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz.sha512",
+    "size": 79282590,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "bef4f8b22e79b7a70476066c9d5be52d",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2dc509f3a63d1c4f996713301f64521286fb1f5b",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.deb.sha1",
+    "sha256": "b5b7032b5353e6f1346e977af4d5b1b192af85e51b390e2600c208a44ebe267e",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.deb.sha256",
+    "sha512": "73a51a6657bc8634ef10e6f2320d7b50e238eebff1e568a46c5035204321a671f30909987fa6f3a642c6695042ce4cac71a0b253e3b1af7e16f84fcc9963ae82",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.deb.sha512",
+    "size": 174533106,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "b0fabe8d9e8f16ab839ced99f01bf4d8",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "263728a7d63b165552acc3489d6c5f8250a20b6a",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.rpm.sha1",
+    "sha256": "1901baed95573b084db77dac5a09282bbfbab9d8979285e0170786d2fd062151",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.rpm.sha256",
+    "sha512": "447a9e77d853c3b4284f3516dd7ecb91082a1af477f9fa2e2a6d0fe4c3585605e02673678a3301828b8a790c553f6e7fbfebf5c34997e3d764af94cd9c0ce40f",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.rpm.sha512",
+    "size": 182468348,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "038e3bbb8dc719a2d6b766f61b189aa9",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ac7a50f5ee8825de0ca191da078abc710ccd9798",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "71d044a4542375c2b5eda3575df80c903e0418d231ecf9093ba8fc71440d8992",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "59be6f0363595025e04a70a25e6172c60f9a529f8a9919256c440f392deea5645eeefa19b4d347a8ec873f83dda37d451cd6f2de2dd4a8a43ce2101eea19a9b0",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz.sha512",
+    "size": 206383054,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
     "filename": "bellsoft-jdk22+37-linux-ppc64le-lite.deb",
     "image_type": "jdk",
     "java_version": "22+37",
@@ -10198,7 +10630,7 @@
     "size": 72151120,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le-lite.deb",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -10223,7 +10655,7 @@
     "size": 74050604,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le-lite.rpm",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -10248,7 +10680,7 @@
     "size": 78284961,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le-lite.tar.gz",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -10271,7 +10703,7 @@
     "size": 174561848,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le.deb",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -10294,7 +10726,7 @@
     "size": 182260332,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le.rpm",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -10317,7 +10749,7 @@
     "size": 204354848,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-ppc64le.tar.gz",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "ppc64le",
@@ -10462,6 +10894,150 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+10/bellsoft-jdk22.0.1+10-linux-ppc64le.tar.gz",
     "vendor": "liberica",
     "version": "22.0.1+10"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "2289b58df3f76926f775a56bfb81d382",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9dadafe05fa90937f190bf37b5b7eebcec31ccc9",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb.sha1",
+    "sha256": "ca722e76f7b4fdea8a19073cd7eb0e38e725acb7a0bece8081f6ad1d3daac745",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb.sha256",
+    "sha512": "49a4f19604b3ebbd182ed1547a177435facb21c82adbee73982caa63c5e248cd13cd0ad00d7230f2ff02afdd46442769dda0010c338e009031090428dca70f50",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb.sha512",
+    "size": 72178018,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le-lite.deb",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "58464a90a0bcd778c3a594fd8bddd180",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "0443bc0c955e97ae1b151f8c84879b559c83f9d4",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm.sha1",
+    "sha256": "f9171149050da23a98a05e3e70be197126b86ab6ead2e315e1dadab7b1d75ed6",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm.sha256",
+    "sha512": "1baa85c7df4e12140226939436a187b50c4b12ffab73f0fbe83d254046115ff17f93f15bb3a2b9d1fe0a31ec840050311d6526821cf05c8ccb3bf0c0cd4408c6",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm.sha512",
+    "size": 74055460,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le-lite.rpm",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "ad212405f84a6db37a876dfe06d710e6",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "edb39fbdfc8bcbe53f702e6ecf0fd09c0f22f328",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz.sha1",
+    "sha256": "aa2b7923130e43f2c2bed9289dca48f319530099da2bde024489d1f3fd714382",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz.sha256",
+    "sha512": "08b9577f9292fcffd4686ec4ac170c3d0620e58c2d2349db3a7c68cdeab0f67e8389f28661cd6506f430f88afe1ed509ebd7382128f83b6bbc821bf503f731a8",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz.sha512",
+    "size": 78295588,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le.deb",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "03a58f6ec8508317250a113aac93dbb0",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "0205187a23458e905a1b80cb0589842d31b8996b",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.deb.sha1",
+    "sha256": "0491c5c0a0ae02706de63d8644e1e84a6acc2190b3ce1c9a0aeace9ee5b436eb",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.deb.sha256",
+    "sha512": "36e20872f8fee11fa0320541a4ae9d95d423dfff52fee7256c6bd8ae2586e432ef93f6a55ea762b4f4690d6f9dc4c98d8cd813a1b4af84471dcb12cabf1d8e38",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.deb.sha512",
+    "size": 174115724,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le.deb",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "d885a49d65304ffa06d87221bae63016",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2f57cddcd01213f259b5c1215567475f3ce2cc14",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.rpm.sha1",
+    "sha256": "7e5d6e1f34d6f19240b3e00d6bcda2b0b881d6c896396565c0ccbd02912b046e",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.rpm.sha256",
+    "sha512": "975af42eef54ed4e11e5219bdce464a1b0663676b8c3c79720d72a9be649dd6bfd43aa37e98829f0db17bc2c8930e307d8dae5e65e13a5edd48a57ce487a6bd1",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.rpm.sha512",
+    "size": 182277228,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le.rpm",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "7e5dcbcef43e380801b024693e4c9088",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "37598c4fb0e99f880722d0aedd3e6842b2c03920",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz.sha1",
+    "sha256": "133a22e8dbbd29e9d4743c06de07067c60b98fdf313c143d97f07bf0a34814bc",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz.sha256",
+    "sha512": "5fd255aaebd8440ae580f01a41b91ca03a44861179b06c2d328e5d319c34a747f703f0777a81bffbb7b8c7441a27a4a0e0162a7c737e7fa6a08f5e8a26ee7c86",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz.sha512",
+    "size": 204366395,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-ppc64le.tar.gz",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
   },
   {
     "architecture": "ppc64le",

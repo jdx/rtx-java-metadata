@@ -848,7 +848,7 @@
     "size": 159373640,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_windows-x64_bin.exe",
     "vendor": "oracle",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "x86_64",
@@ -871,7 +871,7 @@
     "size": 158212096,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_windows-x64_bin.msi",
     "vendor": "oracle",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "x86_64",
@@ -894,7 +894,7 @@
     "size": 178931791,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_windows-x64_bin.zip",
     "vendor": "oracle",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "x86_64",
@@ -1193,7 +1193,7 @@
     "size": 160637136,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_windows-x64_bin.exe",
     "vendor": "oracle",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "x86_64",
@@ -1216,7 +1216,7 @@
     "size": 159469568,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_windows-x64_bin.msi",
     "vendor": "oracle",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "x86_64",
@@ -1239,7 +1239,7 @@
     "size": 180923656,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_windows-x64_bin.zip",
     "vendor": "oracle",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "x86_64",
@@ -1400,7 +1400,7 @@
     "size": 166559384,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_windows-x64_bin.exe",
     "vendor": "oracle",
-    "version": "19.0.0"
+    "version": "19"
   },
   {
     "architecture": "x86_64",
@@ -1423,7 +1423,7 @@
     "size": 165355520,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_windows-x64_bin.msi",
     "vendor": "oracle",
-    "version": "19.0.0"
+    "version": "19"
   },
   {
     "architecture": "x86_64",
@@ -1446,7 +1446,7 @@
     "size": 187743924,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_windows-x64_bin.zip",
     "vendor": "oracle",
-    "version": "19.0.0"
+    "version": "19"
   },
   {
     "architecture": "x86_64",
@@ -1607,7 +1607,7 @@
     "size": 167705232,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_windows-x64_bin.exe",
     "vendor": "oracle",
-    "version": "20.0.0"
+    "version": "20"
   },
   {
     "architecture": "x86_64",
@@ -1630,7 +1630,7 @@
     "size": 166432768,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_windows-x64_bin.msi",
     "vendor": "oracle",
-    "version": "20.0.0"
+    "version": "20"
   },
   {
     "architecture": "x86_64",
@@ -1653,7 +1653,7 @@
     "size": 189578813,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_windows-x64_bin.zip",
     "vendor": "oracle",
-    "version": "20.0.0"
+    "version": "20"
   },
   {
     "architecture": "x86_64",
@@ -1814,7 +1814,7 @@
     "size": 171745904,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_windows-x64_bin.exe",
     "vendor": "oracle",
-    "version": "21.0.0"
+    "version": "21"
   },
   {
     "architecture": "x86_64",
@@ -1837,7 +1837,7 @@
     "size": 170467328,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_windows-x64_bin.msi",
     "vendor": "oracle",
-    "version": "21.0.0"
+    "version": "21"
   },
   {
     "architecture": "x86_64",
@@ -1860,6 +1860,6 @@
     "size": 194361047,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_windows-x64_bin.zip",
     "vendor": "oracle",
-    "version": "21.0.0"
+    "version": "21"
   }
 ]

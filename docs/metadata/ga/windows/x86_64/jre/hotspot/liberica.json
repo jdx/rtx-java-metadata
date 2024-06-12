@@ -1824,6 +1824,106 @@
   },
   {
     "architecture": "x86_64",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jre11.0.23+12-windows-amd64-full.msi",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "6653bd2802f6e877485e69f874523682",
+    "md5_file": "bellsoft-jre11.0.23+12-windows-amd64-full.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "154937cff148832a95e48881fbac1584e544d3e1",
+    "sha1_file": "bellsoft-jre11.0.23+12-windows-amd64-full.msi.sha1",
+    "sha256": "d9b97b91b8fb53ef8d25f293081720e60ee7472d3bbf5311830edd4994c25377",
+    "sha256_file": "bellsoft-jre11.0.23+12-windows-amd64-full.msi.sha256",
+    "sha512": "f48b1842ee792a2815de9a004cac1a1494abe44392cf19e95e3432fbf9735a54bc513a388dbd63955e1f2ed90bebd146c251327120aa927a81cd56a6aee2f179",
+    "sha512_file": "bellsoft-jre11.0.23+12-windows-amd64-full.msi.sha512",
+    "size": 86372352,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-windows-amd64-full.msi",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre11.0.23+12-windows-amd64-full.zip",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "62e6f097bb8b47fa42f87005f522ee31",
+    "md5_file": "bellsoft-jre11.0.23+12-windows-amd64-full.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "7288e0ef591d81254733d65d8a3b63af6836f5fa",
+    "sha1_file": "bellsoft-jre11.0.23+12-windows-amd64-full.zip.sha1",
+    "sha256": "0774f64e1b1da819e2306cb958930bde9e09997b01ae030f95de3ad098be40ff",
+    "sha256_file": "bellsoft-jre11.0.23+12-windows-amd64-full.zip.sha256",
+    "sha512": "0a71ecda568c8ebcaaba95909ba554b37c8b4bf523af5bef668d70d017a781cc81040c92d882878a475193a1e7e9c8dc4a2094e25e5501ba63295d066506f6ba",
+    "sha512_file": "bellsoft-jre11.0.23+12-windows-amd64-full.zip.sha512",
+    "size": 85739178,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-windows-amd64-full.zip",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jre11.0.23+12-windows-amd64.msi",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "daf161b5f32d12a717052c787bbc90fa",
+    "md5_file": "bellsoft-jre11.0.23+12-windows-amd64.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "2f65b118ef79f0b6d9b1c7b671f14060e82e349e",
+    "sha1_file": "bellsoft-jre11.0.23+12-windows-amd64.msi.sha1",
+    "sha256": "81a97e31e6bcc3fb64110a0578dcac796e037594347b890c4dd28853b383c066",
+    "sha256_file": "bellsoft-jre11.0.23+12-windows-amd64.msi.sha256",
+    "sha512": "9babeda203163f76a01e948678d818dce2194c3df13bf1d994419aa4e9a6e00094ebcec5c12afb133885e627203527448b76026a139fe5a2a09710bb254627ba",
+    "sha512_file": "bellsoft-jre11.0.23+12-windows-amd64.msi.sha512",
+    "size": 49438720,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-windows-amd64.msi",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "bellsoft-jre11.0.23+12-windows-amd64.zip",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "a59f36a7bf644c3c2261ea0b4110f7c9",
+    "md5_file": "bellsoft-jre11.0.23+12-windows-amd64.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "ffe68aa6475173c66f3412ba2ac0481a3424dc7a",
+    "sha1_file": "bellsoft-jre11.0.23+12-windows-amd64.zip.sha1",
+    "sha256": "4d4722a65abeff24d45a43fec48d16586528f79d4c13d208d1fa99da0152412a",
+    "sha256_file": "bellsoft-jre11.0.23+12-windows-amd64.zip.sha256",
+    "sha512": "6f74624223e2187ed6332d8c3ee8fce0799f667e7dc5c45c322b5d095a50bb873a109b19c48e3d32eedd70449328bc5f6621fac9bf2c0f8b3596d7b28882dff5",
+    "sha512_file": "bellsoft-jre11.0.23+12-windows-amd64.zip.sha512",
+    "size": 48626434,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-windows-amd64.zip",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "x86_64",
     "features": [],
     "file_type": "msi",
     "filename": "bellsoft-jre11.0.5+11-windows-amd64.msi",
@@ -2731,7 +2831,7 @@
     "size": 84107264,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "x86_64",
@@ -2758,7 +2858,7 @@
     "size": 83531528,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "x86_64",
@@ -2781,7 +2881,7 @@
     "size": 54947840,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "x86_64",
@@ -2804,7 +2904,7 @@
     "size": 54217394,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "x86_64",
@@ -3031,7 +3131,7 @@
     "size": 74289152,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "x86_64",
@@ -3058,7 +3158,7 @@
     "size": 73714550,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "x86_64",
@@ -3081,7 +3181,7 @@
     "size": 44978176,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "x86_64",
@@ -3104,7 +3204,7 @@
     "size": 44274478,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "x86_64",
@@ -3431,7 +3531,7 @@
     "size": 79384576,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "x86_64",
@@ -3458,7 +3558,7 @@
     "size": 78817787,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "x86_64",
@@ -3481,7 +3581,7 @@
     "size": 49692672,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "x86_64",
@@ -3504,7 +3604,7 @@
     "size": 49000796,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "x86_64",
@@ -3731,7 +3831,7 @@
     "size": 77332480,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "x86_64",
@@ -3758,7 +3858,7 @@
     "size": 76958585,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "x86_64",
@@ -3781,7 +3881,7 @@
     "size": 46682112,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "x86_64",
@@ -3804,7 +3904,7 @@
     "size": 45844974,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "x86_64",
@@ -4105,6 +4205,106 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+10/bellsoft-jre17.0.11+10-windows-amd64.zip",
     "vendor": "liberica",
     "version": "17.0.11+10"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jre17.0.11+12-windows-amd64-full.msi",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "5fdc343fac142dd310f43212768d5e56",
+    "md5_file": "bellsoft-jre17.0.11+12-windows-amd64-full.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "d1f37d920794a328fa19aa44dfcdf92d9d353f83",
+    "sha1_file": "bellsoft-jre17.0.11+12-windows-amd64-full.msi.sha1",
+    "sha256": "78cfb179f48606d553295121fc884983879015d4800d7a3a799d9262676468fc",
+    "sha256_file": "bellsoft-jre17.0.11+12-windows-amd64-full.msi.sha256",
+    "sha512": "d65552b411530a23858873c02f55b97d99ebfd153b71c32ac72b8e985958fd4399f669f9ed0d818f5401d782b9c68521a8304b2243eb3dd72cdfebabb1d0e21d",
+    "sha512_file": "bellsoft-jre17.0.11+12-windows-amd64-full.msi.sha512",
+    "size": 90054656,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-windows-amd64-full.msi",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre17.0.11+12-windows-amd64-full.zip",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "3626f7dcde632bb2ab824c8121559950",
+    "md5_file": "bellsoft-jre17.0.11+12-windows-amd64-full.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "1eb7d08fda187cae54d120a81ca8bf26e3478f32",
+    "sha1_file": "bellsoft-jre17.0.11+12-windows-amd64-full.zip.sha1",
+    "sha256": "5e549c7ff4932d72b1f7876f18a3b0613ee607b798813212078c11a615989151",
+    "sha256_file": "bellsoft-jre17.0.11+12-windows-amd64-full.zip.sha256",
+    "sha512": "df9aea584f9cf23c119f9f31b4ccb2cc94de155c9e30bb8a02a8b54f7ef5f2e16c7194cd35b525cc0a087fbd065026b217202ad8761ed860cbb3737bd82c3aa6",
+    "sha512_file": "bellsoft-jre17.0.11+12-windows-amd64-full.zip.sha512",
+    "size": 89576516,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-windows-amd64-full.zip",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jre17.0.11+12-windows-amd64.msi",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "16e84df665b48ac245a9011ac562e745",
+    "md5_file": "bellsoft-jre17.0.11+12-windows-amd64.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "1db725d27996ea68a8dd155ab5d2181455ca4525",
+    "sha1_file": "bellsoft-jre17.0.11+12-windows-amd64.msi.sha1",
+    "sha256": "5dd6fadbf108b4b0d5a63cbaece1df095cf6da9fa9fa4b7b4135709633c6d48c",
+    "sha256_file": "bellsoft-jre17.0.11+12-windows-amd64.msi.sha256",
+    "sha512": "3501cd771927dfa450069fdf4d878181eba4b04f04910aee266a78a5166058dd21e5338e73d114144c1d5ebddab44877494842fe959304f55f9b4db1e687be00",
+    "sha512_file": "bellsoft-jre17.0.11+12-windows-amd64.msi.sha512",
+    "size": 53059584,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-windows-amd64.msi",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "bellsoft-jre17.0.11+12-windows-amd64.zip",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "c7254abe84eecc65d8c3537051f76d7f",
+    "md5_file": "bellsoft-jre17.0.11+12-windows-amd64.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "fa2d50265640dc6c447b202399147161b3b15bf4",
+    "sha1_file": "bellsoft-jre17.0.11+12-windows-amd64.zip.sha1",
+    "sha256": "73a487c5b992067d4916c54c791ea2569f285775d3ef63cc2000e2f3ea0d1994",
+    "sha256_file": "bellsoft-jre17.0.11+12-windows-amd64.zip.sha256",
+    "sha512": "1c3a8a1c0c4a949f0a5c251e7188538f7e5733d8ac86213ab4465fc1dae4362ada0f5fe643cdd7c870a8aa1c8fd410eff0efbdd355b4df249f868f39fc0a04dc",
+    "sha512_file": "bellsoft-jre17.0.11+12-windows-amd64.zip.sha512",
+    "size": 52392634,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-windows-amd64.zip",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
   },
   {
     "architecture": "x86_64",
@@ -5231,7 +5431,7 @@
     "size": 77963264,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "x86_64",
@@ -5258,7 +5458,7 @@
     "size": 77598145,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "x86_64",
@@ -5281,7 +5481,7 @@
     "size": 46706688,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "x86_64",
@@ -5304,7 +5504,7 @@
     "size": 46203488,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "x86_64",
@@ -5731,7 +5931,7 @@
     "size": 80093184,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "x86_64",
@@ -5758,7 +5958,7 @@
     "size": 79714239,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "x86_64",
@@ -5781,7 +5981,7 @@
     "size": 47927296,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "x86_64",
@@ -5804,7 +6004,7 @@
     "size": 47404489,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "x86_64",
@@ -6031,7 +6231,7 @@
     "size": 89899008,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "x86_64",
@@ -6058,7 +6258,7 @@
     "size": 89473017,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "x86_64",
@@ -6081,7 +6281,7 @@
     "size": 55803904,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "x86_64",
@@ -6104,7 +6304,7 @@
     "size": 55212805,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "x86_64",
@@ -6331,7 +6531,7 @@
     "size": 94343168,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "x86_64",
@@ -6358,7 +6558,7 @@
     "size": 93938978,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "x86_64",
@@ -6381,7 +6581,7 @@
     "size": 59125760,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "x86_64",
@@ -6404,7 +6604,7 @@
     "size": 58554040,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "x86_64",
@@ -6714,6 +6914,106 @@
       "javafx"
     ],
     "file_type": "msi",
+    "filename": "bellsoft-jre21.0.3+12-windows-amd64-full.msi",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "e322890cee42ce0615093d4b68e13151",
+    "md5_file": "bellsoft-jre21.0.3+12-windows-amd64-full.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "3809e6885f36bd99d746e16510f94ba7ef6a1edf",
+    "sha1_file": "bellsoft-jre21.0.3+12-windows-amd64-full.msi.sha1",
+    "sha256": "c6536991582e6f3bd0d4f49a26ab89e5402035614c2acdd2513f0e6a70f15d7a",
+    "sha256_file": "bellsoft-jre21.0.3+12-windows-amd64-full.msi.sha256",
+    "sha512": "d31ccbce3f3d27db38640c40c8ee6d5232510794dba2a9142ea27d384b060d7447fef58a20279dbd6439ef82ee77370d376a5d1f39461f2f65bd1c10d9092390",
+    "sha512_file": "bellsoft-jre21.0.3+12-windows-amd64-full.msi.sha512",
+    "size": 96800768,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-windows-amd64-full.msi",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre21.0.3+12-windows-amd64-full.zip",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "58701e5ed818ef97d421f71919d39534",
+    "md5_file": "bellsoft-jre21.0.3+12-windows-amd64-full.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "09964728798e0076fd74679ef2bddb234327b190",
+    "sha1_file": "bellsoft-jre21.0.3+12-windows-amd64-full.zip.sha1",
+    "sha256": "d6606c70af1fed14ac28f483805b414a7cc58f66a5098b0c5a34d498af7e89ca",
+    "sha256_file": "bellsoft-jre21.0.3+12-windows-amd64-full.zip.sha256",
+    "sha512": "1a7f25e976f9bc998a9885cf0d6c539603dc774bcf4a3b38149898fe370f518e4474a81bcd8354e7d975c0ac634073a99aee3e9eb340f08472df0d7724592066",
+    "sha512_file": "bellsoft-jre21.0.3+12-windows-amd64-full.zip.sha512",
+    "size": 96393228,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-windows-amd64-full.zip",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jre21.0.3+12-windows-amd64.msi",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "864e600d1b6685000c21be0962745dc0",
+    "md5_file": "bellsoft-jre21.0.3+12-windows-amd64.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "b249011f56ce73fc827bc483ebff78a79520e901",
+    "sha1_file": "bellsoft-jre21.0.3+12-windows-amd64.msi.sha1",
+    "sha256": "45dd1f430d649f638f42cba49d78d87f173216f504bfde189121639074a3a895",
+    "sha256_file": "bellsoft-jre21.0.3+12-windows-amd64.msi.sha256",
+    "sha512": "e0f9457301eb72d42d004c356238d0d00c75812c37e9fa0f8f4d2b29d002aae438ea3896aa0e9cec9c98a378999be7900956a01c1484d6d7b629d7d9a3a987dd",
+    "sha512_file": "bellsoft-jre21.0.3+12-windows-amd64.msi.sha512",
+    "size": 59215872,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-windows-amd64.msi",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "bellsoft-jre21.0.3+12-windows-amd64.zip",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "b12e4fec7dd339e6145aaf2dc00618f1",
+    "md5_file": "bellsoft-jre21.0.3+12-windows-amd64.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "45cc8bc6a33adefe21446c6ba7b557d4a5fd071a",
+    "sha1_file": "bellsoft-jre21.0.3+12-windows-amd64.zip.sha1",
+    "sha256": "93cde22efa9b6465d0e824c8aa6107d5dd1805efd449520f774c8df9cc487c03",
+    "sha256_file": "bellsoft-jre21.0.3+12-windows-amd64.zip.sha256",
+    "sha512": "8b177d060074fb41aeee6e5e700ac0fbda2aaf68671b7c4b691cbfd82caca3bfcac80dc3ee2be1318188d7c967255be8836209559177c211b19cf02c4d45ab17",
+    "sha512_file": "bellsoft-jre21.0.3+12-windows-amd64.zip.sha512",
+    "size": 58634659,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-windows-amd64.zip",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "msi",
     "filename": "bellsoft-jre22+37-windows-amd64-full.msi",
     "image_type": "jre",
     "java_version": "22+37",
@@ -6731,7 +7031,7 @@
     "size": 96305152,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-windows-amd64-full.msi",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "x86_64",
@@ -6758,7 +7058,7 @@
     "size": 95905554,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-windows-amd64-full.zip",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "x86_64",
@@ -6781,7 +7081,7 @@
     "size": 59002880,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-windows-amd64.msi",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "x86_64",
@@ -6804,7 +7104,7 @@
     "size": 58408889,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-windows-amd64.zip",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "x86_64",
@@ -6905,6 +7205,106 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+10/bellsoft-jre22.0.1+10-windows-amd64.zip",
     "vendor": "liberica",
     "version": "22.0.1+10"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jre22.0.1+12-windows-amd64-full.msi",
+    "image_type": "jre",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "bf8dcde3b94f378a29256dc078c24784",
+    "md5_file": "bellsoft-jre22.0.1+12-windows-amd64-full.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "0709fef772039bcda49c47f358c2d042fd90615a",
+    "sha1_file": "bellsoft-jre22.0.1+12-windows-amd64-full.msi.sha1",
+    "sha256": "48ca8711105c69b61ffeaa5eddcdc75cb521b1b19f16291ba06a4bacb5e496cf",
+    "sha256_file": "bellsoft-jre22.0.1+12-windows-amd64-full.msi.sha256",
+    "sha512": "fab2604da29fc4f266ae65d9588d44ce89a1cea8b4ab4aad85a79fd29750228ccc0fd5fcec5d2864c93750bb4b1df7073d70e74dea401c99e2432c4282238cb6",
+    "sha512_file": "bellsoft-jre22.0.1+12-windows-amd64-full.msi.sha512",
+    "size": 96391168,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64-full.msi",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre22.0.1+12-windows-amd64-full.zip",
+    "image_type": "jre",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "d21de6132e902057fdabf8dad424ddec",
+    "md5_file": "bellsoft-jre22.0.1+12-windows-amd64-full.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "390b7a272cbeee8a9988d580f655926f653593f1",
+    "sha1_file": "bellsoft-jre22.0.1+12-windows-amd64-full.zip.sha1",
+    "sha256": "6a4e84d6baa612a81937e3ef3a5008f6cf2cfe52b16d17339e85b56312660633",
+    "sha256_file": "bellsoft-jre22.0.1+12-windows-amd64-full.zip.sha256",
+    "sha512": "92eb4a0ad83d08e82762e54a8ceee90fa53c8627648e9d93093b8f275a05f74bb0c52612315e37987461d297b794eeeefb9b156b262b3fd311f1bebe7459eb20",
+    "sha512_file": "bellsoft-jre22.0.1+12-windows-amd64-full.zip.sha512",
+    "size": 95978406,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64-full.zip",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jre22.0.1+12-windows-amd64.msi",
+    "image_type": "jre",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "c9e03417866bab5aebbc33fb97dcefc9",
+    "md5_file": "bellsoft-jre22.0.1+12-windows-amd64.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "0fda6c91f88e5d0e4f9bc76c3d6100b044f3052c",
+    "sha1_file": "bellsoft-jre22.0.1+12-windows-amd64.msi.sha1",
+    "sha256": "eb8d391b393b437aa03448ba15c32f7f829f332b13692d630d848545e12f52cc",
+    "sha256_file": "bellsoft-jre22.0.1+12-windows-amd64.msi.sha256",
+    "sha512": "f0c1441d0e5eccc732acd0323c5e835adebb505b70862bdb203946dea57ab1b5260ec379d15598e8ab7fbb0a4772838bb889193aa030271e70dd136f7ac82c32",
+    "sha512_file": "bellsoft-jre22.0.1+12-windows-amd64.msi.sha512",
+    "size": 59002880,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64.msi",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "bellsoft-jre22.0.1+12-windows-amd64.zip",
+    "image_type": "jre",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "bd5153fffa665c5be0577c5f02a935f7",
+    "md5_file": "bellsoft-jre22.0.1+12-windows-amd64.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "f9a2401fbfb7625ed3ecc891ecf0836e97c181b7",
+    "sha1_file": "bellsoft-jre22.0.1+12-windows-amd64.zip.sha1",
+    "sha256": "16d6dcd4c748540367e9584f0cbed903912fc40bf5eea238e5d35e7dfa36f444",
+    "sha256_file": "bellsoft-jre22.0.1+12-windows-amd64.zip.sha256",
+    "sha512": "8f813c98f12128dde22406f0fedd8939fe3499438e0bd00adb44ad564ee4287cac35f9ba7cf6df20d54aaa35917bdd120fd7ab236943be9c30efd737d3060ab1",
+    "sha512_file": "bellsoft-jre22.0.1+12-windows-amd64.zip.sha512",
+    "size": 58418689,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-windows-amd64.zip",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
   },
   {
     "architecture": "x86_64",

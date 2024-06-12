@@ -1245,6 +1245,75 @@
     "architecture": "i686",
     "features": [],
     "file_type": "deb",
+    "filename": "bellsoft-jre11.0.23+12-linux-i586.deb",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "3b7c2f582afb445f6a46f9e72d295801",
+    "md5_file": "bellsoft-jre11.0.23+12-linux-i586.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d716ad5147ca7782eb07adc76a7568124be1c1f6",
+    "sha1_file": "bellsoft-jre11.0.23+12-linux-i586.deb.sha1",
+    "sha256": "023393f195d6b2e83376950a236bab7241196416806132ff03663bf3db14aa98",
+    "sha256_file": "bellsoft-jre11.0.23+12-linux-i586.deb.sha256",
+    "sha512": "d6559f45618e8bc78116ac672bf1e2932089a197266fdc03cf9addd58502cfe084cedc8c93e0be345eb965a0b5499dcdc36e392d43df2704fa38747c61caa7d4",
+    "sha512_file": "bellsoft-jre11.0.23+12-linux-i586.deb.sha512",
+    "size": 31852744,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-linux-i586.deb",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre11.0.23+12-linux-i586.rpm",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "7a606ba768061f63f9a797a9168f96a3",
+    "md5_file": "bellsoft-jre11.0.23+12-linux-i586.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "8ff8dcf7ad98b816f90c0ebf81f6c9e15e4ca132",
+    "sha1_file": "bellsoft-jre11.0.23+12-linux-i586.rpm.sha1",
+    "sha256": "e648d9a8a6da6e2eca9742b695d5fd7348a99601955b3d2fd6faa135601f8135",
+    "sha256_file": "bellsoft-jre11.0.23+12-linux-i586.rpm.sha256",
+    "sha512": "8979be0b1a9d2ec7ec370443d7e5d2be6622825301a9574e48cd24977a91484fba4addbdd3008fe71b1b63648ac9d85b58df4223737d0d045947e18d88e697a3",
+    "sha512_file": "bellsoft-jre11.0.23+12-linux-i586.rpm.sha512",
+    "size": 36101616,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-linux-i586.rpm",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre11.0.23+12-linux-i586.tar.gz",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "8d92ed02d85de6e93f78b5db628c9203",
+    "md5_file": "bellsoft-jre11.0.23+12-linux-i586.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a329bf49f3070b0dea26479ed55211794bd6d0b3",
+    "sha1_file": "bellsoft-jre11.0.23+12-linux-i586.tar.gz.sha1",
+    "sha256": "b1bb7d864f39d6128e2b2ac2f52c339af818323b1a3172315692b00403b47f28",
+    "sha256_file": "bellsoft-jre11.0.23+12-linux-i586.tar.gz.sha256",
+    "sha512": "4f7733e83d52ee090ea6bb3ff7b6ca558cd326d9018794fc30847261a70108facaab70042e247bc5c3664db4f2a2538b88f3f7ead164371152c24d1acdfd6282",
+    "sha512_file": "bellsoft-jre11.0.23+12-linux-i586.tar.gz.sha512",
+    "size": 49437722,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-linux-i586.tar.gz",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "deb",
     "filename": "bellsoft-jre11.0.5+11-linux-i586.deb",
     "image_type": "jre",
     "java_version": "11.0.5+11",
@@ -2021,7 +2090,7 @@
     "size": 35587502,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-i586.deb",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "i686",
@@ -2044,7 +2113,7 @@
     "size": 40562356,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-i586.rpm",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "i686",
@@ -2067,7 +2136,7 @@
     "size": 54421675,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-linux-i586.tar.gz",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "i686",
@@ -2228,7 +2297,7 @@
     "size": 28629360,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-i586.deb",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "i686",
@@ -2251,7 +2320,7 @@
     "size": 32452464,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-i586.rpm",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "i686",
@@ -2274,7 +2343,7 @@
     "size": 45231829,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-linux-i586.tar.gz",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "i686",
@@ -2504,7 +2573,7 @@
     "size": 29221308,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-i586.deb",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "i686",
@@ -2527,7 +2596,7 @@
     "size": 33088024,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-i586.rpm",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "i686",
@@ -2550,7 +2619,7 @@
     "size": 46427949,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-linux-i586.tar.gz",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "i686",
@@ -2711,7 +2780,7 @@
     "size": 29189288,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-i586.deb",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "i686",
@@ -2734,7 +2803,7 @@
     "size": 33263664,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-i586.rpm",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "i686",
@@ -2757,7 +2826,7 @@
     "size": 46568776,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-linux-i586.tar.gz",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "i686",
@@ -2965,6 +3034,75 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+10/bellsoft-jre17.0.11+10-linux-i586.tar.gz",
     "vendor": "liberica",
     "version": "17.0.11+10"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jre17.0.11+12-linux-i586.deb",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "41cbe78dc6935cad0101908eb7ccb0ad",
+    "md5_file": "bellsoft-jre17.0.11+12-linux-i586.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ac20948aa398db0003fb9585a599c2a72343287f",
+    "sha1_file": "bellsoft-jre17.0.11+12-linux-i586.deb.sha1",
+    "sha256": "c1cf3bca756ed8fb1623c2c2b24d1021b58f8915db2916516721bff88fe880b6",
+    "sha256_file": "bellsoft-jre17.0.11+12-linux-i586.deb.sha256",
+    "sha512": "df87f1113254231358643386357f23cfc2514200e4dc53132d528c90337aae5b5fa90dbb2523aceb60931f9b1a9aa58722060d42b7122e67b3434ee959892051",
+    "sha512_file": "bellsoft-jre17.0.11+12-linux-i586.deb.sha512",
+    "size": 31511352,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-linux-i586.deb",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre17.0.11+12-linux-i586.rpm",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "1cbe5203db60589d885eabea87355011",
+    "md5_file": "bellsoft-jre17.0.11+12-linux-i586.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "7749e328a7ecdbd36b99cbf851a7f1e23377ca62",
+    "sha1_file": "bellsoft-jre17.0.11+12-linux-i586.rpm.sha1",
+    "sha256": "38d4d1ece1790bfa21f1b0155f7714fb385ed07569786de02210c3359a19d49d",
+    "sha256_file": "bellsoft-jre17.0.11+12-linux-i586.rpm.sha256",
+    "sha512": "cbe6fe0c47445199e5362dcd470bc0d91efd8bdd41c196f01dd886a8b3056355a50702994eaacde61bcca2129beaee95a80787c746d520c1400f4adf45a8d759",
+    "sha512_file": "bellsoft-jre17.0.11+12-linux-i586.rpm.sha512",
+    "size": 35863480,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-linux-i586.rpm",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre17.0.11+12-linux-i586.tar.gz",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "f65292571cc8d147e285b9b3cb05dcd9",
+    "md5_file": "bellsoft-jre17.0.11+12-linux-i586.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "b3f5f8ed257dbcad067f0b653bd0a8f6d3b09c0b",
+    "sha1_file": "bellsoft-jre17.0.11+12-linux-i586.tar.gz.sha1",
+    "sha256": "cb7485b8066e4a67188daf032bc15c0612ce30d91b4c513fbb8d45cf9d5d470b",
+    "sha256_file": "bellsoft-jre17.0.11+12-linux-i586.tar.gz.sha256",
+    "sha512": "07506f6cfc900e8d8c0278add6ff1e6fc2923afb052f9072b1aec5815c0db76c1681f5c3c16d1750948a012f675f4f6035a4ab9c4c6e2a0e78b2de3f5f761bb5",
+    "sha512_file": "bellsoft-jre17.0.11+12-linux-i586.tar.gz.sha512",
+    "size": 49756177,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-linux-i586.tar.gz",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
   },
   {
     "architecture": "i686",
@@ -3746,7 +3884,7 @@
     "size": 29374324,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-i586.deb",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "i686",
@@ -3769,7 +3907,7 @@
     "size": 33284364,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-i586.rpm",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "i686",
@@ -3792,7 +3930,7 @@
     "size": 46624645,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-linux-i586.tar.gz",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "i686",
@@ -4091,7 +4229,7 @@
     "size": 30438812,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-i586.deb",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "i686",
@@ -4114,7 +4252,7 @@
     "size": 34587472,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-i586.rpm",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "i686",
@@ -4137,7 +4275,7 @@
     "size": 48627975,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-linux-i586.tar.gz",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "i686",
@@ -4298,7 +4436,7 @@
     "size": 32760132,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-i586.deb",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "i686",
@@ -4321,7 +4459,7 @@
     "size": 37241736,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-i586.rpm",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "i686",
@@ -4344,7 +4482,7 @@
     "size": 52268689,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-linux-i586.tar.gz",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "i686",
@@ -4505,7 +4643,7 @@
     "size": 34328800,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-linux-i586.deb",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "i686",
@@ -4528,7 +4666,7 @@
     "size": 39115212,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-linux-i586.rpm",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "i686",
@@ -4551,7 +4689,7 @@
     "size": 54985620,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-linux-i586.tar.gz",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "i686",
@@ -4764,6 +4902,75 @@
     "architecture": "i686",
     "features": [],
     "file_type": "deb",
+    "filename": "bellsoft-jre21.0.3+12-linux-i586.deb",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "b9d7381d175fd47ec741d4db8edcd9c9",
+    "md5_file": "bellsoft-jre21.0.3+12-linux-i586.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "b35b0aa08e5828cef0c94b3b8f19fb14ffd94778",
+    "sha1_file": "bellsoft-jre21.0.3+12-linux-i586.deb.sha1",
+    "sha256": "a5cf1535dc0cd72b413e4bea6440ba5d412e3eb3e9c02bb6b12f04b4e56d3fd6",
+    "sha256_file": "bellsoft-jre21.0.3+12-linux-i586.deb.sha256",
+    "sha512": "c7c17aee75fbaf8047eb50052885bd9398005b74bf9ec2169856fe72a0ca61e341333c0788371b2c9dfa466dea3a127f31a2811488981cbd17165a11b20bbe36",
+    "sha512_file": "bellsoft-jre21.0.3+12-linux-i586.deb.sha512",
+    "size": 34630340,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-linux-i586.deb",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre21.0.3+12-linux-i586.rpm",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "1ab6c098cc45a1d80007398b78a61b7e",
+    "md5_file": "bellsoft-jre21.0.3+12-linux-i586.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "016b1433c641220f880144f6efe6eda6b07d7d20",
+    "sha1_file": "bellsoft-jre21.0.3+12-linux-i586.rpm.sha1",
+    "sha256": "84b4185a29bda3b5423b9141185e7046701efee1bc0358762cfc01ba0bb1d0e7",
+    "sha256_file": "bellsoft-jre21.0.3+12-linux-i586.rpm.sha256",
+    "sha512": "34a87a65b12771bc03ebdddde82a7b23d79a0adfb32f7da38d7f563ada642e00a0cbe7ad1e9584d6eb36130d4ff80068a2b623e50c0e6eeb8171733b4f28fce2",
+    "sha512_file": "bellsoft-jre21.0.3+12-linux-i586.rpm.sha512",
+    "size": 39231156,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-linux-i586.rpm",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre21.0.3+12-linux-i586.tar.gz",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "767d85ef579b4248c80e9d32c4cf3b5b",
+    "md5_file": "bellsoft-jre21.0.3+12-linux-i586.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d350bc6c40b3bf9df7bdef27323956f5f2fdf4cd",
+    "sha1_file": "bellsoft-jre21.0.3+12-linux-i586.tar.gz.sha1",
+    "sha256": "795219f0af09e0342e830fdf8ec3755b14a77800d3f0c5ee83f5abe68b39dd7d",
+    "sha256_file": "bellsoft-jre21.0.3+12-linux-i586.tar.gz.sha256",
+    "sha512": "504b1baf29f415e2844abe6d62030a2e94d74002e796ebce74bdb7b0281c4c01013d40c3b9f510fe9257860bd069350cca8db241a2b9f182c4a21cf62ff2f6a6",
+    "sha512_file": "bellsoft-jre21.0.3+12-linux-i586.tar.gz.sha512",
+    "size": 55143321,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-linux-i586.tar.gz",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "deb",
     "filename": "bellsoft-jre22+37-linux-i586.deb",
     "image_type": "jre",
     "java_version": "22+37",
@@ -4781,7 +4988,7 @@
     "size": 34419924,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-i586.deb",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "i686",
@@ -4804,7 +5011,7 @@
     "size": 38980288,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-i586.rpm",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "i686",
@@ -4827,7 +5034,7 @@
     "size": 54467179,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jre22+37-linux-i586.tar.gz",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "i686",
@@ -4897,6 +5104,75 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+10/bellsoft-jre22.0.1+10-linux-i586.tar.gz",
     "vendor": "liberica",
     "version": "22.0.1+10"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jre22.0.1+12-linux-i586.deb",
+    "image_type": "jre",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "54e774c031727554b30baf4478d9f449",
+    "md5_file": "bellsoft-jre22.0.1+12-linux-i586.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "88a85c80278b3a46dc9d0f466893c4ad54c54748",
+    "sha1_file": "bellsoft-jre22.0.1+12-linux-i586.deb.sha1",
+    "sha256": "c3055f3d3791cc6ddb37a8246f26cfb412c3746f554f7eb342308834f76583f3",
+    "sha256_file": "bellsoft-jre22.0.1+12-linux-i586.deb.sha256",
+    "sha512": "78cdcb33e78e1572803569bcb04b14521cebe8a0b0d48f037ba82fb5ab05f905aa4260299403ab31e0f4d2985b70f4d97633ef827748b0ee8a59c620e4a95e54",
+    "sha512_file": "bellsoft-jre22.0.1+12-linux-i586.deb.sha512",
+    "size": 34434884,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-linux-i586.deb",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jre22.0.1+12-linux-i586.rpm",
+    "image_type": "jre",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "380b86ebd3e67967fc41a8fd4f16fb98",
+    "md5_file": "bellsoft-jre22.0.1+12-linux-i586.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ae21aeacda895ea5870a561be70ec01ffaafe6bc",
+    "sha1_file": "bellsoft-jre22.0.1+12-linux-i586.rpm.sha1",
+    "sha256": "fba9ca04efdbceab01984db1426636e71a1bf075e2ef88f5d194fe8db18621d8",
+    "sha256_file": "bellsoft-jre22.0.1+12-linux-i586.rpm.sha256",
+    "sha512": "bea6cd3e06d90192a1227b8024d31e81d7c120dd4d9101aaf97044aa474bf70ef8d92241c0b7261819530d627d42b9dec70e7156bd70dc1d4d267714fa1a6760",
+    "sha512_file": "bellsoft-jre22.0.1+12-linux-i586.rpm.sha512",
+    "size": 38989740,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-linux-i586.rpm",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jre22.0.1+12-linux-i586.tar.gz",
+    "image_type": "jre",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "734be6b6b3c3e628d9e9512ec84fb096",
+    "md5_file": "bellsoft-jre22.0.1+12-linux-i586.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "6c1090af6d775a5bd1c408bb8e28b6ab07c90915",
+    "sha1_file": "bellsoft-jre22.0.1+12-linux-i586.tar.gz.sha1",
+    "sha256": "fcb7385296e326837e97509b135067fa2e8d010f5d74b2754fa8a2438e7c7c8a",
+    "sha256_file": "bellsoft-jre22.0.1+12-linux-i586.tar.gz.sha256",
+    "sha512": "f064fc448742cb8e43300ee7cc4cf1c4170a56147610081f75f5acadbbebee6cd7aea7c844264db05efa8e95eb2ab9836645d15ed694620c24e3476b50ff9dd1",
+    "sha512_file": "bellsoft-jre22.0.1+12-linux-i586.tar.gz.sha512",
+    "size": 54478713,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jre22.0.1+12-linux-i586.tar.gz",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
   },
   {
     "architecture": "i686",

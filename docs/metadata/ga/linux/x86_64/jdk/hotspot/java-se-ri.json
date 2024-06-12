@@ -20,7 +20,7 @@
     "size": 204866198,
     "url": "https://download.java.net/openjdk/jdk10/ri/openjdk-10+44_linux-x64_bin_ri.tar.gz",
     "vendor": "java-se-ri",
-    "version": "10.0.0+44"
+    "version": "10+44"
   },
   {
     "architecture": "x86_64",
@@ -43,7 +43,7 @@
     "size": 187611826,
     "url": "https://download.java.net/openjdk/jdk11/ri/openjdk-11+28_linux-x64_bin.tar.gz",
     "vendor": "java-se-ri",
-    "version": "11.0.0+28"
+    "version": "11+28"
   },
   {
     "architecture": "x86_64",
@@ -66,7 +66,7 @@
     "size": 197629395,
     "url": "https://download.java.net/openjdk/jdk12/ri/openjdk-12+32_linux-x64_bin.tar.gz",
     "vendor": "java-se-ri",
-    "version": "12.0.0+32"
+    "version": "12+32"
   },
   {
     "architecture": "x86_64",
@@ -89,7 +89,7 @@
     "size": 196363513,
     "url": "https://download.java.net/openjdk/jdk13/ri/openjdk-13+33_linux-x64_bin.tar.gz",
     "vendor": "java-se-ri",
-    "version": "13.0.0+33"
+    "version": "13+33"
   },
   {
     "architecture": "x86_64",
@@ -112,7 +112,7 @@
     "size": 198578061,
     "url": "https://download.java.net/openjdk/jdk14/ri/openjdk-14+36_linux-x64_bin.tar.gz",
     "vendor": "java-se-ri",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "x86_64",
@@ -135,7 +135,7 @@
     "size": 195313679,
     "url": "https://download.java.net/openjdk/jdk15/ri/openjdk-15+36_linux-x64_bin.tar.gz",
     "vendor": "java-se-ri",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "x86_64",
@@ -158,7 +158,7 @@
     "size": 184303539,
     "url": "https://download.java.net/openjdk/jdk16/ri/openjdk-16+36_linux-x64_bin.tar.gz",
     "vendor": "java-se-ri",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "x86_64",
@@ -181,7 +181,7 @@
     "size": 186661523,
     "url": "https://download.java.net/openjdk/jdk17/ri/openjdk-17+35_linux-x64_bin.tar.gz",
     "vendor": "java-se-ri",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "x86_64",
@@ -204,7 +204,7 @@
     "size": 188173501,
     "url": "https://download.java.net/openjdk/jdk18/ri/openjdk-18+36_linux-x64_bin.tar.gz",
     "vendor": "java-se-ri",
-    "version": "18.0.0+36"
+    "version": "18+36"
   },
   {
     "architecture": "x86_64",
@@ -227,7 +227,7 @@
     "size": 195673378,
     "url": "https://download.java.net/openjdk/jdk19/ri/openjdk-19+36_linux-x64_bin.tar.gz",
     "vendor": "java-se-ri",
-    "version": "19.0.0+36"
+    "version": "19+36"
   },
   {
     "architecture": "x86_64",
@@ -250,7 +250,7 @@
     "size": 197562076,
     "url": "https://download.java.net/openjdk/jdk20/ri/openjdk-20+36_linux-x64_bin.tar.gz",
     "vendor": "java-se-ri",
-    "version": "20.0.0+36"
+    "version": "20+36"
   },
   {
     "architecture": "x86_64",
@@ -319,6 +319,6 @@
     "size": 212617706,
     "url": "https://download.java.net/openjdk/jdk9/ri/openjdk-9+181_linux-x64_ri.zip",
     "vendor": "java-se-ri",
-    "version": "9.0.0+181"
+    "version": "9+181"
   }
 ]

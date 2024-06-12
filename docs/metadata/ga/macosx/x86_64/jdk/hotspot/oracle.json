@@ -572,7 +572,7 @@
     "size": 176826806,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_macos-x64_bin.dmg",
     "vendor": "oracle",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "x86_64",
@@ -595,7 +595,7 @@
     "size": 177463987,
     "url": "https://download.oracle.com/java/17/archive/jdk-17_macos-x64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "17.0.0"
+    "version": "17"
   },
   {
     "architecture": "x86_64",
@@ -802,7 +802,7 @@
     "size": 178055482,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_macos-x64_bin.dmg",
     "vendor": "oracle",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "x86_64",
@@ -825,7 +825,7 @@
     "size": 178674835,
     "url": "https://download.oracle.com/java/18/archive/jdk-18_macos-x64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "18.0.0"
+    "version": "18"
   },
   {
     "architecture": "x86_64",
@@ -940,7 +940,7 @@
     "size": 185247892,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_macos-x64_bin.dmg",
     "vendor": "oracle",
-    "version": "19.0.0"
+    "version": "19"
   },
   {
     "architecture": "x86_64",
@@ -963,7 +963,7 @@
     "size": 185908835,
     "url": "https://download.oracle.com/java/19/archive/jdk-19_macos-x64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "19.0.0"
+    "version": "19"
   },
   {
     "architecture": "x86_64",
@@ -1078,7 +1078,7 @@
     "size": 187206293,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_macos-x64_bin.dmg",
     "vendor": "oracle",
-    "version": "20.0.0"
+    "version": "20"
   },
   {
     "architecture": "x86_64",
@@ -1101,7 +1101,7 @@
     "size": 187912823,
     "url": "https://download.oracle.com/java/20/archive/jdk-20_macos-x64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "20.0.0"
+    "version": "20"
   },
   {
     "architecture": "x86_64",
@@ -1216,7 +1216,7 @@
     "size": 192370237,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_macos-x64_bin.dmg",
     "vendor": "oracle",
-    "version": "21.0.0"
+    "version": "21"
   },
   {
     "architecture": "x86_64",
@@ -1239,6 +1239,6 @@
     "size": 193085094,
     "url": "https://download.oracle.com/java/21/archive/jdk-21_macos-x64_bin.tar.gz",
     "vendor": "oracle",
-    "version": "21.0.0"
+    "version": "21"
   }
 ]

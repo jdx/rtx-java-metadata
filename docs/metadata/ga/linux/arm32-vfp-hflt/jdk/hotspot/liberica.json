@@ -43,7 +43,7 @@
     "size": 170715485,
     "url": "https://github.com/bell-sw/Liberica/releases/download/jdk11+28/bellsoft-jdk11+28-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "11.0.0+28"
+    "version": "11+28"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -68,7 +68,7 @@
     "size": 76253099,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "11.0.0"
+    "version": "11"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -91,7 +91,7 @@
     "size": 175851106,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "11.0.0"
+    "version": "11"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -114,7 +114,7 @@
     "size": 205777357,
     "url": "https://github.com/bell-sw/Liberica/releases/download/11/bellsoft-jdk11-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "11.0.0"
+    "version": "11"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -4361,6 +4361,231 @@
   {
     "architecture": "arm32-vfp-hflt",
     "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.deb",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "050fcd5029de98e48d2128dc0eef9063",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "fd9af6c0839eabe9341aedeb358ea5ef7d5dea2d",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.deb.sha1",
+    "sha256": "84aeba57f35884d403098ce9801254cdd1e26c25c597e814bb0c2546e24a44ad",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.deb.sha256",
+    "sha512": "77d64aaad0b845146acb824e47caf9b78d7d2f165670103d1121ffebe1f74a754b0cf112231153a9c59a97441958e34dc837c224b55d4a5852bae0d6bb811425",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.deb.sha512",
+    "size": 182762648,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.deb",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "85da13a963685231e0a996daadf8e0fd",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "bdb0f979d27ff22503e3339e00f0bf5f636f1efd",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.rpm.sha1",
+    "sha256": "05a93a97b2d2d8bd1605861897c8626d452958428247c06c257644cf8a91d0bc",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.rpm.sha256",
+    "sha512": "071ce7f6ff16ded04ad12db083dfb8a64f3c731611ca8ff5c69fe6245b23185b6d96e087d14cc23c783e3e9ecb8152f0d0d8976fefd4fe36480bf5a5cf083cc9",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.rpm.sha512",
+    "size": 190833356,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.rpm",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "5da760a50259b8ce373aea5eb75b7636",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "369391a50ef381c72f6ff93edfd04ca9a9ed9ca0",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.tar.gz.sha1",
+    "sha256": "4d3fb0b49ee3cf674ff613324dda61e4c692d80517be5f22623557b687bb6a30",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.tar.gz.sha256",
+    "sha512": "8db462e349cd68cda990ce659ebb46148beba7a6139546d9c5d2c9cc5eb44912ca8c23902b80972cb6f8bd0bfc15d2d333d757f67acfaa43fe810d6534b127f7",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.tar.gz.sha512",
+    "size": 212838690,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-full.tar.gz",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.deb",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "70f576e856a66ad5d23f9d3270802758",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "4d9ebbe6fbf0632c2e943677fdaa8ee69eeaf858",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.deb.sha1",
+    "sha256": "01d31b32eef6a14dd9fb3d24cd43a2120a43c3b3bb9d7af49e23286fadef8eb9",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.deb.sha256",
+    "sha512": "39b9bd82dcd89504a274c98cfd46bc8d6212d71a5eaa3b50dc734edaa5734b34006becb5311a9954d8a3cdb1d09a42c49c34382f9099bb4f58043b6abc15814f",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.deb.sha512",
+    "size": 64363888,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.deb",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "e0a77bca22e5f16e23be2edfe6eb7875",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "326af806345682580f5148792e6742623c64ae9d",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.rpm.sha1",
+    "sha256": "b6477acd0c4fabc93dbbaf73752afee2eafaa8535f6f6f7bc90e393e9c641613",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.rpm.sha256",
+    "sha512": "8a9379d7063a8a39217384d0710097ca1af6347c4b25851f8539f82c687099d7a0fc0baf7bc9f3d25fa2f151e242c06e7ce78b89333f44fb6dddb375aa6ab1d4",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.rpm.sha512",
+    "size": 65638444,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.rpm",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "130ae3412b381827014a30b0f1f7384c",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "61895bd64c835fee83debaa86f7681cfbcf48623",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.tar.gz.sha1",
+    "sha256": "42ef71626294f74275a4e28fe97243039c9e38bf6c4a4355aaaefa66cf85101b",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.tar.gz.sha256",
+    "sha512": "93c7a326379707a20f4574f29ce7a8e7da9276403c566cff15140065410873de1fb238fcb7dfc154960a635f16881ccb9a6698950988d69ecd03f040fdc9e86f",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.tar.gz.sha512",
+    "size": 68811426,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.deb",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "092c0dd05a6b81e78253bfe6aa267da1",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "a59e691a01a53607b35ba97904bc2621ba6eb645",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.deb.sha1",
+    "sha256": "2f4ef4b7c4ef7cacd0f162c7be7cfe728d37ee237db72f7ccee4703b2a07f6ba",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.deb.sha256",
+    "sha512": "bd6b261d4e55bd1a1befb5689f207419c53b391865e0658879e6195d26aee64c773f23e02fbc3fefc9d9ae5923d2652ea6348a7aedd024557d0f8b91240edde4",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.deb.sha512",
+    "size": 160162232,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.deb",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "a4741d8adcacaa0aa8a2474804c17e3b",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9071f0dd686fcddfd07e1c7bd22c3c10ce0dc603",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.rpm.sha1",
+    "sha256": "2bf6a11de8ecc035612d62253a1d54e940f77a07cbab1e66260ae93231d764f1",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.rpm.sha256",
+    "sha512": "bbdc99523e3bc2f7018a552f4303d445115a4ba07195e9db73feb381822720fa1f09c03b06bab16af06b73e518fbad42e62c11e442a0e54e53c87c60fa98a90f",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.rpm.sha512",
+    "size": 166971884,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.rpm",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "d51a00ae67da26034b0425063117040f",
+    "md5_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "b70e266456b969f4ae4755b307bccc44a2100ffe",
+    "sha1_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.tar.gz.sha1",
+    "sha256": "02bc60753c81f71a7b166f2dfadde0a1a319ae264e2ed1b69e1499082a3ab660",
+    "sha256_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.tar.gz.sha256",
+    "sha512": "61e54ec2757eddc94e32e02c2e6d5a8d37b9e88562750876c115fa6f3db51e8c9fa8f106067660df7e39202e6d0a2d7e2e70881d3b06644cb0c89f0001af5305",
+    "sha512_file": "bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.tar.gz.sha512",
+    "size": 186327645,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jdk11.0.23+12-linux-arm32-vfp-hflt.tar.gz",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
       "lite"
     ],
     "file_type": "deb",
@@ -6307,7 +6532,7 @@
     "size": 63934714,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "12.0.0"
+    "version": "12"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6332,7 +6557,7 @@
     "size": 65633400,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "12.0.0"
+    "version": "12"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6357,7 +6582,7 @@
     "size": 68784459,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "12.0.0"
+    "version": "12"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6380,7 +6605,7 @@
     "size": 179266392,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "12.0.0"
+    "version": "12"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6403,7 +6628,7 @@
     "size": 187955844,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "12.0.0"
+    "version": "12"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6426,7 +6651,7 @@
     "size": 209699163,
     "url": "https://github.com/bell-sw/Liberica/releases/download/12/bellsoft-jdk12-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "12.0.0"
+    "version": "12"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6739,7 +6964,7 @@
     "size": 65567656,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6764,7 +6989,7 @@
     "size": 66949532,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6789,7 +7014,7 @@
     "size": 69848649,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6812,7 +7037,7 @@
     "size": 184362384,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6835,7 +7060,7 @@
     "size": 192801688,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -6858,7 +7083,7 @@
     "size": 213658342,
     "url": "https://github.com/bell-sw/Liberica/releases/download/13/bellsoft-jdk13-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "13.0.0"
+    "version": "13"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7373,7 +7598,7 @@
     "size": 187001758,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7400,7 +7625,7 @@
     "size": 195806508,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7427,7 +7652,7 @@
     "size": 216860351,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7452,7 +7677,7 @@
     "size": 66915624,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7477,7 +7702,7 @@
     "size": 68488164,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7502,7 +7727,7 @@
     "size": 71214822,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7525,7 +7750,7 @@
     "size": 164693018,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7548,7 +7773,7 @@
     "size": 172135056,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -7571,7 +7796,7 @@
     "size": 190628437,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jdk14+36-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8048,7 +8273,7 @@
     "size": 181979576,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8075,7 +8300,7 @@
     "size": 189900304,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8102,7 +8327,7 @@
     "size": 210873796,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8127,7 +8352,7 @@
     "size": 64217604,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8152,7 +8377,7 @@
     "size": 65623048,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8177,7 +8402,7 @@
     "size": 68519121,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8200,7 +8425,7 @@
     "size": 159667688,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8223,7 +8448,7 @@
     "size": 166175716,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8246,7 +8471,7 @@
     "size": 184602839,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jdk15+36-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8948,7 +9173,7 @@
     "size": 184830040,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -8975,7 +9200,7 @@
     "size": 192745940,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9002,7 +9227,7 @@
     "size": 214346013,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9027,7 +9252,7 @@
     "size": 65622320,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9052,7 +9277,7 @@
     "size": 67120124,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9077,7 +9302,7 @@
     "size": 70063795,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9100,7 +9325,7 @@
     "size": 162553412,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9123,7 +9348,7 @@
     "size": 169242004,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9146,7 +9371,7 @@
     "size": 188238211,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9623,7 +9848,7 @@
     "size": 186125572,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9650,7 +9875,7 @@
     "size": 194063748,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9677,7 +9902,7 @@
     "size": 215904418,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9702,7 +9927,7 @@
     "size": 65985356,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9727,7 +9952,7 @@
     "size": 67585336,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9752,7 +9977,7 @@
     "size": 70819568,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9775,7 +10000,7 @@
     "size": 164140300,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9798,7 +10023,7 @@
     "size": 170577376,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -9821,7 +10046,7 @@
     "size": 189876151,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jdk17+35-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -10497,6 +10722,231 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+10/bellsoft-jdk17.0.11+10-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
     "version": "17.0.11+10"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "81b7df3c2fe8f44edf7ec89916cb8a8b",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "bc08d1d6eec2e20b03ad9513ad7d9abcddf22491",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.deb.sha1",
+    "sha256": "87212f9eeb2c9663d63fdcd7a2ab0f5352a385243875e37c9cb30383347f5416",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.deb.sha256",
+    "sha512": "89c2d6d7f1ce6393415f0d28e0708f3a0d590dd90ae9d8097f6afcd820a00116c2d60406d70106a95cc477f756bafefcd6c717d74ae44db73eb6480a40b03c0b",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.deb.sha512",
+    "size": 187324292,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.deb",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.rpm",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "3c3467ae211e397caf615384cbfb3966",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9447dfa566ccd942fadec3b07bd2fb6e6b82015a",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.rpm.sha1",
+    "sha256": "f208fcf1c4a67f036120b664ecb8e49e3b46d5d27efdb679cf5afd632f942dad",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.rpm.sha256",
+    "sha512": "6cd96d45709d219a64e3bfc62a7d5f8df30055906850e2c79bd36ce6b7fa0957e17f37cfa5381d10a1f52e878e6120820991f6db93b700a507b8dfff696dc7e5",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.rpm.sha512",
+    "size": 195111140,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.rpm",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "8583d3a85407b4861bdf3123228cc5f3",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "855dfddd0065c37cc3b48fad60d171da12d81e2e",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.tar.gz.sha1",
+    "sha256": "ad152b11b99735f98fadcee831dd7e8d65f2ecd926b75f8304d9f103178d2405",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.tar.gz.sha256",
+    "sha512": "89466902beb479c86d74d600a892024e73c352491498e470ef378505f2487cc92876258d885262c03b86b6dbe10075d56d9b06a8bbec90714341cdef251d021a",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.tar.gz.sha512",
+    "size": 216661514,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-full.tar.gz",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "dd8726d0abc650462434bfd8e6f4b97e",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "5e9e36e4391abc54c5f6688f1fd131f8ae761501",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.deb.sha1",
+    "sha256": "94fe7ccdf5a9ca92280d5b4bbb094d2d8cd53b16b85d0395174dfb47722b28ba",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.deb.sha256",
+    "sha512": "34ab6ddcee48b81bb1855f329e47b1f77b80e154a60d0ad352d65307eea12adb2d068007da685fba45b2f41b1c26f599ac8e8a7668a719194f40ec7d868446c9",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.deb.sha512",
+    "size": 66361228,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.deb",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "7146e880d5bcf2760ebfd9d90c5bafd5",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ea0f2535e637a2167a20b25c24aa5fa79b3d1ecc",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.rpm.sha1",
+    "sha256": "01322d06fd296badb901ad87c31816551efd3ef664ab4f0c70475bd1a2861e86",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.rpm.sha256",
+    "sha512": "df161eef9fcc683047b72b06fd6aef951e658cf000f2769977c42389d62b4a84eb36ed71e682b359540e0ab41428140cb26e4dbe3e17f34a3cbab479edd26579",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.rpm.sha512",
+    "size": 67966800,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.rpm",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "c661c7f8b22f7f43d5a3fde98a1a4580",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "517946ec3f4e0815e1a7a0a093f6657b5c3cad1d",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.tar.gz.sha1",
+    "sha256": "b3e9be54862d1053c4a9654fc8dac9f7175c600e30465a2f7c57022dfdaa36f1",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.tar.gz.sha256",
+    "sha512": "f702d11371e49d02ee4ad73c8b4a30219c5119ba193d78458cc2f1d8720208c91aeb857009e169b48658bc1426953549d670f404544b1a48943b3c6ae4ca3781",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.tar.gz.sha512",
+    "size": 71193025,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.deb",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "e70e929344e6d0b4336d1f8ecef79a65",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "96f3a2e289beeac6df652b61520061fa9b362155",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.deb.sha1",
+    "sha256": "eec67951c0d460f1a9e95e42968478b141b948db2159354a85c783f7e420524b",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.deb.sha256",
+    "sha512": "d2ad655df778ffa17dfe3232ce41a479395a9909fdce5e531090504192b9d4875c6285b481e21e6d83951c404990071e5cf50eec0d05e31b9424e444be392ca0",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.deb.sha512",
+    "size": 165239604,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.deb",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.rpm",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "57a1105a1afd125229c1c9217842e3a7",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c573c8f36456267439bf314507334cad6734c00d",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.rpm.sha1",
+    "sha256": "22c7418f3d627f94aa1bb444ef3e95fdd196a5381412b4b2b03160d65e59aea8",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.rpm.sha256",
+    "sha512": "d24a27a597c2d95274e686605185825cc1b034147c29b33bdbf647dfd9017ccdcabd0655c587e1f6e7f2bec1305b5b319d92052bfbf1b36299fb0649cb479dc1",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.rpm.sha512",
+    "size": 171567932,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.rpm",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "7c3e8e57703df6458591b916cba5453a",
+    "md5_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "038be37b7bb373576e4c4a976b7e13dc2dbe5ba7",
+    "sha1_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.tar.gz.sha1",
+    "sha256": "7cb2a19f4860b75fb93ece1c17556fdf7ad7c5af370a1b17cf82721b9fca4ced",
+    "sha256_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.tar.gz.sha256",
+    "sha512": "401e502ca0235d90a1c2a93dc51d869b99accb60b1fa7c0a8f5f351c6201035dc013bffa14efdc807dccc871ed74895118c32c61788e7f2d067fc16a63659208",
+    "sha512_file": "bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.tar.gz.sha512",
+    "size": 190622338,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jdk17.0.11+12-linux-arm32-vfp-hflt.tar.gz",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -12998,7 +13448,7 @@
     "size": 187138700,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -13025,7 +13475,7 @@
     "size": 194770572,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -13052,7 +13502,7 @@
     "size": 216998767,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -13077,7 +13527,7 @@
     "size": 66326568,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -13102,7 +13552,7 @@
     "size": 67621332,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -13127,7 +13577,7 @@
     "size": 71318562,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -13150,7 +13600,7 @@
     "size": 165195876,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -13173,7 +13623,7 @@
     "size": 171298488,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -13196,7 +13646,7 @@
     "size": 191066407,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jdk18+37-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14123,7 +14573,7 @@
     "size": 192548368,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14150,7 +14600,7 @@
     "size": 200474604,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14177,7 +14627,7 @@
     "size": 223952210,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14202,7 +14652,7 @@
     "size": 68600228,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14227,7 +14677,7 @@
     "size": 69931760,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14252,7 +14702,7 @@
     "size": 74002281,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14275,7 +14725,7 @@
     "size": 169989924,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14298,7 +14748,7 @@
     "size": 176833848,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14321,7 +14771,7 @@
     "size": 197819913,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jdk19+37-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14798,7 +15248,7 @@
     "size": 193050800,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14825,7 +15275,7 @@
     "size": 201460460,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14852,7 +15302,7 @@
     "size": 225510347,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14877,7 +15327,7 @@
     "size": 68867078,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14902,7 +15352,7 @@
     "size": 70221432,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14927,7 +15377,7 @@
     "size": 74686652,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14950,7 +15400,7 @@
     "size": 170477856,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14973,7 +15423,7 @@
     "size": 177726888,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -14996,7 +15446,7 @@
     "size": 199247158,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jdk20+37-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -16131,6 +16581,231 @@
       "javafx"
     ],
     "file_type": "deb",
+    "filename": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "d076b7952a372bd64130dd4a9150089b",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "0eea4b0d0865caa2a795b430efa2a744df3b9870",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.deb.sha1",
+    "sha256": "299e300083ba3fedd7c899a6045ea8641992ae2c196e0ed11c8ac9ec1f67a48f",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.deb.sha256",
+    "sha512": "3ef2c2899c53b2cc83f3395d08a05c2ede8fad1ca7085d5691b501aa29d3617e4a9532ab87bcfe6015ca54e66e3fffa02fda34f7288c62952f0bec7bd51c1610",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.deb.sha512",
+    "size": 197715080,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.deb",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "86b8b5ae8531776513291096ff6aea4d",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "349856ab2725c8cf78de40f63faf32995472757a",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.rpm.sha1",
+    "sha256": "89d5f951677867e9d66ffb12743794251c3dda42f40dc9321c9d423b283ac6ab",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.rpm.sha256",
+    "sha512": "00c77e5cf7c2ba2d6b0f538a2d36266da7370fe2a035eafb100aee5e64192468d9619bd7548bea71617461b64154d086ab69a3b1ac6c61f099f83061cb4e974c",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.rpm.sha512",
+    "size": 205923984,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.rpm",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "73ec51adcb7964b4a1577c16710c675c",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "6bfbf54b1e98267779d2444247944c755ac6ffb7",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.tar.gz.sha1",
+    "sha256": "7e4702b91314da630f7d92d2bcc06b3090e1a4b0e003ccf98fe3b2fea47fd672",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.tar.gz.sha256",
+    "sha512": "3e1f631b767f92ebd6a35602e45032888b18f716101fdb2418f6abfe4a50718f29eb268d877d6ecc8e6ba66b9da389e9ff01a836de82ae03121205714f29bc23",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.tar.gz.sha512",
+    "size": 230798753,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-full.tar.gz",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "639f2fea150fd94326c0ae77ec2692c0",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "6bf72f6da0bd8c3528e0e66a619d51e6abd2262e",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.deb.sha1",
+    "sha256": "704fbf56ea0d4835219347f61cd6993e4a3fc30eccc21c191badb9c383621f5a",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.deb.sha256",
+    "sha512": "8ad1a51b47144e41c0207440d10e102fd139c320ad5b3208cac2e13751962a39b42563e0ed19b762ec20dfdc27525e02912a8175bab382a14ed521138718afc9",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.deb.sha512",
+    "size": 70535036,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.deb",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "e27a1df2a2bc35f7144ca2ee38b0c1a5",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "8f86741b7fcec5a7f0ec552e2fa401a07e2a35a2",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.rpm.sha1",
+    "sha256": "f7f35db2ef4047ab80d1c4c3bd6d7de5df7e036a8390d72a0133f2f8cf715292",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.rpm.sha256",
+    "sha512": "2a5969503d5f82a4fef8d11816dcfdfd09e83fd3ebd564ff79e00cfa6527081879779920175e90a7b18a052df207e109176c7d8b532e61a8adfcbdfe25b96288",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.rpm.sha512",
+    "size": 71975144,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.rpm",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "48ebd8ded2d8aa538d2d402c35a7c4f8",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9ebf0cc27514e56efb381b7907c3001fbbc48bab",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.tar.gz.sha1",
+    "sha256": "b5d4a780fe6e09b656503b6bb0102768870da4fc363e57584810c2b2627702d6",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.tar.gz.sha256",
+    "sha512": "a9251975b23784e14a196ad75acedc0b123b969f656b770d149707742fdc49e139b2e918994ffcede5c8afd5bee4148b59ffef54087de3a7a12b5967f133b0d2",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.tar.gz.sha512",
+    "size": 76880096,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.deb",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "af91a00d6bbb76418eecca95212c9176",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "23eb8429bbe9a77af9bb4ff0ac30fabc715cb721",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.deb.sha1",
+    "sha256": "3cd4b58c910e272e6deb2b3c6cd7800d64c122c079efe01eabaecafad7c2e8e5",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.deb.sha256",
+    "sha512": "3010de7e828c4267216e314c8b6fedb7292a15411e2f8be82f91073b815b7b9ea2369231695be2a7f9fb8afe592827fed2a336c5d3f3b15491f2610984cb9ef3",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.deb.sha512",
+    "size": 175127336,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.deb",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "640045c6d3b50c5d5670c65b5b2cd4fd",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "9932723e224a32043798cb7aa89cee9fbfbf8e77",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.rpm.sha1",
+    "sha256": "2ff55a40934ebb903dd69ea9c0ea54633a5a5470b00236b74ec1fcc277c342a4",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.rpm.sha256",
+    "sha512": "0c5186b1b04e543f9667520bc9317a2e3e91e3a42430d4572e89b90ddaf43ca4811abc2fb4665389135ca9406297ebd26899779d9492181711409a4e370db71d",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.rpm.sha512",
+    "size": 182052264,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.rpm",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "ca63ecf8134468c4bd509ff2ea851941",
+    "md5_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2e348e2a4851b87f96559f02ad98c4ca3e3b44e3",
+    "sha1_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.tar.gz.sha1",
+    "sha256": "198878f6c0563e45d57f251edda9fbbb3d035105439b9da287ada46ab29854b0",
+    "sha256_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.tar.gz.sha256",
+    "sha512": "db0c11e1d82948a8bf135e88e96f29cdac35714d2e3839d83941ebff41d520dd32ba00c52e020c2f2113fe4171ec36d73653d04065863d898ac21661ee1010ec",
+    "sha512_file": "bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.tar.gz.sha512",
+    "size": 204361110,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jdk21.0.3+12-linux-arm32-vfp-hflt.tar.gz",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "deb",
     "filename": "bellsoft-jdk22+37-linux-arm32-vfp-hflt-full.deb",
     "image_type": "jdk",
     "java_version": "22+37",
@@ -16148,7 +16823,7 @@
     "size": 198045266,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-arm32-vfp-hflt-full.deb",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -16175,7 +16850,7 @@
     "size": 206826200,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-arm32-vfp-hflt-full.rpm",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -16202,7 +16877,7 @@
     "size": 229901949,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-arm32-vfp-hflt-full.tar.gz",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -16227,7 +16902,7 @@
     "size": 71082412,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-arm32-vfp-hflt-lite.deb",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -16252,7 +16927,7 @@
     "size": 72703308,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-arm32-vfp-hflt-lite.rpm",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -16277,7 +16952,7 @@
     "size": 76026808,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-arm32-vfp-hflt-lite.tar.gz",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -16300,7 +16975,7 @@
     "size": 174511644,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-arm32-vfp-hflt.deb",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -16323,7 +16998,7 @@
     "size": 182121524,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-arm32-vfp-hflt.rpm",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -16346,7 +17021,7 @@
     "size": 202608464,
     "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
-    "version": "22.0.0+37"
+    "version": "22+37"
   },
   {
     "architecture": "arm32-vfp-hflt",
@@ -16572,5 +17247,230 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+10/bellsoft-jdk22.0.1+10-linux-arm32-vfp-hflt.tar.gz",
     "vendor": "liberica",
     "version": "22.0.1+10"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.deb",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "e579ac0b814b8509f48f623907b57a24",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "43913b35d3ddd9e9946b01a591939c67441ad1da",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.deb.sha1",
+    "sha256": "687d78a014f91031a216aa6a53753fcb9381db502b2695323bf3f43081e7592d",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.deb.sha256",
+    "sha512": "c85421a82a8976fe1ac5423d27ce0f89c895e733ce5a072fd9a68af47f65d2f0ae5935267d47e174532abe381d69562a31db1de74999d178a49f3883be621099",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.deb.sha512",
+    "size": 198483372,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.deb",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.rpm",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "3095f9bde22b299f3106b7f9f9ea86f5",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ecfc7ecfc1a72609d30470e58cfd6f4364419bcb",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.rpm.sha1",
+    "sha256": "54025759efcb48fd24f0a415d391e58df12a473e038934b27fc460c97d41daf5",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.rpm.sha256",
+    "sha512": "39c025bd736e15cf703df1f26848e1c468f6594aca44dcc9ee3d0d2b11b92191f7bd4fa700d9d65979199ffc5710242490024a2f7cc1712b64cdf87e005983bf",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.rpm.sha512",
+    "size": 206859016,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.rpm",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "9f314aea43a2d1110166459fd991f92f",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ff5eccaa1d1534f36283a7b5eef5a7394d524022",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.tar.gz.sha1",
+    "sha256": "6769eaa6df733eef8b9a188f08d81f2d126159b475e01cfe41b48010ec56e0e4",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.tar.gz.sha256",
+    "sha512": "4ad2caee3531761d4de45df653a23bd910e5eb323980d4325bfe5cbb6fc63acb793367e102dd127f32aa7d371934a83efba3c0a7550328f184f4a1b5767ae46c",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.tar.gz.sha512",
+    "size": 229940706,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-full.tar.gz",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.deb",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "f8b9e0e10cfcbd82e2871c8fdda37304",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "84029a0d619ec21a8c86fa12c74cb8a077543e54",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.deb.sha1",
+    "sha256": "dc2e39f9ab89490e9a127f4fb5954c9efee1a55e8b2bed439a347f4860a08674",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.deb.sha256",
+    "sha512": "5de67f0a7a5b25cb8b3edc26f3ba43d3303bb199bdb9a9926bd07065b038334decd49014f5d2349e49f5091cd0bcf2081fba492d64eac190e2d88ed903ee8423",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.deb.sha512",
+    "size": 71026648,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.deb",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.rpm",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "d8377d0e913c325234e08893acaea6be",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c68b517b28fa430135dcfdd5742a8ef49e1e5dd2",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.rpm.sha1",
+    "sha256": "55bbb6695843a707b24438b13d1a433896280a3f3264381549717f1843fb7153",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.rpm.sha256",
+    "sha512": "b647a2b2a61a6eabe2507d96c9637a776d6b5c71098824e4590f774e05017c56ef25b29c99fde70fa172816a633c45cd6ffceebc29e10afceeb1c46517a28f02",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.rpm.sha512",
+    "size": 72710984,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.rpm",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "4448b1d696d8d0bcd3f9bb3edb68d6d3",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "beb698ed89352ff643f23bd22cfe4efe2ddaec88",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.tar.gz.sha1",
+    "sha256": "b61bf6a4142429685d8e651f276d34af86be4f2a9dde7287e58b63ef06a1704a",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.tar.gz.sha256",
+    "sha512": "f256a5ee60268c74b9c7df324e0db5357bcee48bf9001979065cadb86a1be48c7d35ebe9d15e352e937cab6314ffb8d0ab59da8e42028f9716716084ac98f1c0",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.tar.gz.sha512",
+    "size": 76036411,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "deb",
+    "filename": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.deb",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "b9fad63af56c763955608c67e58168e5",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.deb.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "eec598100827d95159fb0bb6fb2a7319f70465eb",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.deb.sha1",
+    "sha256": "de9164b860b847e6d427880700e6570ffe172b4a15a05a8fdac7599b3ba50c51",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.deb.sha256",
+    "sha512": "9d4cccf8c05a934085fb646b82967fe65da40481e0c968f8f1286113cd21c65c9bbf7b6e0b0c471d1303c5864ea085140e088bfef8c4b9943e8c6d7f321e6374",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.deb.sha512",
+    "size": 174910832,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.deb",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "rpm",
+    "filename": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.rpm",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "05209b39b867c140101473632d50ffb0",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "f229ca083715bc3143379d47d7aa8d3829c73a67",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.rpm.sha1",
+    "sha256": "67e0104ada6e6985efcb7226f6b9145587340b3d0e567dd5e8a1bdda3f7e681d",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.rpm.sha256",
+    "sha512": "e37686edf95de1fdc600bc3b6c501baefe77c5f43a8899dd35b750053847229d911149aa1693b6e3fda69219be05e242a5497a0b9c1ef0019b05fff7e1e12b45",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.rpm.sha512",
+    "size": 182135396,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.rpm",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
+  },
+  {
+    "architecture": "arm32-vfp-hflt",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.1+12",
+    "jvm_impl": "hotspot",
+    "md5": "447d5328bceac0bab1e43ff5b8770096",
+    "md5_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "e0665b21f2b5e1679e76563ba29a6700bc270cae",
+    "sha1_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.tar.gz.sha1",
+    "sha256": "78f67326eea7131c99e5de514132bfae10aad0f571a35f85e719106a7c13397e",
+    "sha256_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.tar.gz.sha256",
+    "sha512": "944adbbee3e88a3a242cedbd8bd4a08247044b15dc51dc3fa4937b9b92ed2788c189837ae6ac488035b4be40d6a16131bce1ce455817dd5b5162496e60685c9f",
+    "sha512_file": "bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.tar.gz.sha512",
+    "size": 202657426,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+12/bellsoft-jdk22.0.1+12-linux-arm32-vfp-hflt.tar.gz",
+    "vendor": "liberica",
+    "version": "22.0.1+12"
   }
 ]

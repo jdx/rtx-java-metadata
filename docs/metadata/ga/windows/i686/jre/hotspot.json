@@ -4446,6 +4446,106 @@
   },
   {
     "architecture": "i686",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jre11.0.23+12-windows-i586-full.msi",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "8ac663fc7d7a117019f4e1c31227adc8",
+    "md5_file": "bellsoft-jre11.0.23+12-windows-i586-full.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "1f622eb56419ef5071c7aedb0ae0e7dd1648cfe9",
+    "sha1_file": "bellsoft-jre11.0.23+12-windows-i586-full.msi.sha1",
+    "sha256": "f7ebc862b1103825f93bae496b056de8e7be5d3c6637254a89911f951693c100",
+    "sha256_file": "bellsoft-jre11.0.23+12-windows-i586-full.msi.sha256",
+    "sha512": "8d5de34cb1845ac44f7821b4ad40b7cd0976c05c352db368dbb24643e3c372c54f08365a5528098053cc505a3fdcb928ed93a378a563d175b762a3c2604fd692",
+    "sha512_file": "bellsoft-jre11.0.23+12-windows-i586-full.msi.sha512",
+    "size": 75620352,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-windows-i586-full.msi",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre11.0.23+12-windows-i586-full.zip",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "d49ad357020ca6f9e7e1b5924398bafd",
+    "md5_file": "bellsoft-jre11.0.23+12-windows-i586-full.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "4320cd3c50235dea9ac9a266b0c4642b5d3a6f74",
+    "sha1_file": "bellsoft-jre11.0.23+12-windows-i586-full.zip.sha1",
+    "sha256": "7a983383aa538beaa37d5d2aa8e5a7597e00c9dd1207cb5e3c83dc5f2536c902",
+    "sha256_file": "bellsoft-jre11.0.23+12-windows-i586-full.zip.sha256",
+    "sha512": "517025b78c16c76531ac7d14857cb5441f4cae2038c433d35e94e5bdab5ef5061863b01b71736f988800d9edbb906759c23a5de319af59afd762034fb45dcda0",
+    "sha512_file": "bellsoft-jre11.0.23+12-windows-i586-full.zip.sha512",
+    "size": 75037451,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-windows-i586-full.zip",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jre11.0.23+12-windows-i586.msi",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "8d4ce95f5b382769964d307d4f0fe748",
+    "md5_file": "bellsoft-jre11.0.23+12-windows-i586.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "39fddce8dcd63698d6f3b3a9822711d7d7b16e98",
+    "sha1_file": "bellsoft-jre11.0.23+12-windows-i586.msi.sha1",
+    "sha256": "985db5bbe5427c556c0f234c4db69c2ac08e7e2ff8d64d21124a891ad11d2bec",
+    "sha256_file": "bellsoft-jre11.0.23+12-windows-i586.msi.sha256",
+    "sha512": "ccd0550d0749062c523ffe0911472667f35dfb9cd112b0c24bbac01d7a31808135a9f4975f1ca27958de5784018750f2d0676561e6df7653cac0d2f6c8311cc4",
+    "sha512_file": "bellsoft-jre11.0.23+12-windows-i586.msi.sha512",
+    "size": 43728896,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-windows-i586.msi",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "zip",
+    "filename": "bellsoft-jre11.0.23+12-windows-i586.zip",
+    "image_type": "jre",
+    "java_version": "11.0.23+12",
+    "jvm_impl": "hotspot",
+    "md5": "3458ef913562f4301dd3bbaaee85fcf3",
+    "md5_file": "bellsoft-jre11.0.23+12-windows-i586.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "beeeada726723f50703ac31954f3374c5475c935",
+    "sha1_file": "bellsoft-jre11.0.23+12-windows-i586.zip.sha1",
+    "sha256": "d515c87b2b3a1110cc6c405aa38fe5a79283eb467caab27cd2a580c62fd707c9",
+    "sha256_file": "bellsoft-jre11.0.23+12-windows-i586.zip.sha256",
+    "sha512": "0a5faf472db1fb933e5f7551954bb05fd8309fa596233459aabf07c18e4598a7847523e7ef3f80b8df206dd7ece924939b1bfe49c16274d79ad30810dac6f13f",
+    "sha512_file": "bellsoft-jre11.0.23+12-windows-i586.zip.sha512",
+    "size": 42996382,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.23+12/bellsoft-jre11.0.23+12-windows-i586.zip",
+    "vendor": "liberica",
+    "version": "11.0.23+12"
+  },
+  {
+    "architecture": "i686",
     "features": [],
     "file_type": "msi",
     "filename": "bellsoft-jre11.0.5+11-windows-i586.msi",
@@ -5330,7 +5430,7 @@
     "size": 74928128,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-i586-full.msi",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "i686",
@@ -5357,7 +5457,7 @@
     "size": 74341669,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-i586-full.zip",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "i686",
@@ -5380,7 +5480,7 @@
     "size": 49201152,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-i586.msi",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "i686",
@@ -5403,7 +5503,7 @@
     "size": 48494680,
     "url": "https://github.com/bell-sw/Liberica/releases/download/14+36/bellsoft-jre14+36-windows-i586.zip",
     "vendor": "liberica",
-    "version": "14.0.0+36"
+    "version": "14+36"
   },
   {
     "architecture": "i686",
@@ -5630,7 +5730,7 @@
     "size": 65654784,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-i586-full.msi",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "i686",
@@ -5657,7 +5757,7 @@
     "size": 65057558,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-i586-full.zip",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "i686",
@@ -5680,7 +5780,7 @@
     "size": 39854080,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-i586.msi",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "i686",
@@ -5703,7 +5803,7 @@
     "size": 39125573,
     "url": "https://github.com/bell-sw/Liberica/releases/download/15+36/bellsoft-jre15+36-windows-i586.zip",
     "vendor": "liberica",
-    "version": "15.0.0+36"
+    "version": "15+36"
   },
   {
     "architecture": "i686",
@@ -6030,7 +6130,7 @@
     "size": 67129344,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-i586-full.msi",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "i686",
@@ -6057,7 +6157,7 @@
     "size": 66538103,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-i586-full.zip",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "i686",
@@ -6080,7 +6180,7 @@
     "size": 41099264,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-i586.msi",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "i686",
@@ -6103,7 +6203,7 @@
     "size": 40375358,
     "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jre16+36-windows-i586.zip",
     "vendor": "liberica",
-    "version": "16.0.0+36"
+    "version": "16+36"
   },
   {
     "architecture": "i686",
@@ -6330,7 +6430,7 @@
     "size": 67661824,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-i586-full.msi",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "i686",
@@ -6357,7 +6457,7 @@
     "size": 67263603,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-i586-full.zip",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "i686",
@@ -6380,7 +6480,7 @@
     "size": 40869888,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-i586.msi",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "i686",
@@ -6403,7 +6503,7 @@
     "size": 39985353,
     "url": "https://github.com/bell-sw/Liberica/releases/download/17+35/bellsoft-jre17+35-windows-i586.zip",
     "vendor": "liberica",
-    "version": "17.0.0+35"
+    "version": "17+35"
   },
   {
     "architecture": "i686",
@@ -6704,6 +6804,106 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+10/bellsoft-jre17.0.11+10-windows-i586.zip",
     "vendor": "liberica",
     "version": "17.0.11+10"
+  },
+  {
+    "architecture": "i686",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jre17.0.11+12-windows-i586-full.msi",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "babbb3bacab7edc6df907451534c9274",
+    "md5_file": "bellsoft-jre17.0.11+12-windows-i586-full.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "36882ddc0b7b46bb1e0e02496fd3cb0b459eb095",
+    "sha1_file": "bellsoft-jre17.0.11+12-windows-i586-full.msi.sha1",
+    "sha256": "212dbce98f5c11de8903fb55cbc100bb40127a69ac4582827eb17bcc85cbdce4",
+    "sha256_file": "bellsoft-jre17.0.11+12-windows-i586-full.msi.sha256",
+    "sha512": "a34a0d4405701a95a80dfafdfd70a379fb6b85f6549f854d86a935e060023e0ce5c52a7976e20030351bee8d3ebeddb13d76353651c4705dea704d60229dd21c",
+    "sha512_file": "bellsoft-jre17.0.11+12-windows-i586-full.msi.sha512",
+    "size": 75923456,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-windows-i586-full.msi",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre17.0.11+12-windows-i586-full.zip",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "54650f116a8e5f4bd11f28cb58cbc33f",
+    "md5_file": "bellsoft-jre17.0.11+12-windows-i586-full.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "4ebbbb5337a1ba6a83953507ac3e5111a9eb3fcb",
+    "sha1_file": "bellsoft-jre17.0.11+12-windows-i586-full.zip.sha1",
+    "sha256": "c1aac6050b3a67dd10e75de9b8aa57d95703351c962094a4171c586fb15a465d",
+    "sha256_file": "bellsoft-jre17.0.11+12-windows-i586-full.zip.sha256",
+    "sha512": "91ace26c2e8434599e4ec5a25a74f9abc0a340806c9bc9378f3c432f761cb0c74f57367e207c73b64a1ceea6969e033fb4b80f7e109310a253fcdb4cdd45282e",
+    "sha512_file": "bellsoft-jre17.0.11+12-windows-i586-full.zip.sha512",
+    "size": 75404681,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-windows-i586-full.zip",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jre17.0.11+12-windows-i586.msi",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "eb0acb0036367c5eef56da33e8a58261",
+    "md5_file": "bellsoft-jre17.0.11+12-windows-i586.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "ae4fe3ade4088925c7b0c2088dd7472389e41319",
+    "sha1_file": "bellsoft-jre17.0.11+12-windows-i586.msi.sha1",
+    "sha256": "3f1248f1930899ded2d73ddf0fc7c80290bf24d44d40974facd4db888784f71f",
+    "sha256_file": "bellsoft-jre17.0.11+12-windows-i586.msi.sha256",
+    "sha512": "c0ec2b4a170ba3f2f1e18a2132b4b7ec046b5401d6bbd632f4d245e555bcd966183e285f273f21ed0cffa2f03bfd498450f8d6c5ae3e6ef5012fe858a208ba4b",
+    "sha512_file": "bellsoft-jre17.0.11+12-windows-i586.msi.sha512",
+    "size": 44044288,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-windows-i586.msi",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "zip",
+    "filename": "bellsoft-jre17.0.11+12-windows-i586.zip",
+    "image_type": "jre",
+    "java_version": "17.0.11+12",
+    "jvm_impl": "hotspot",
+    "md5": "60d7dcb5c27c2a17b9b066f67fcd9775",
+    "md5_file": "bellsoft-jre17.0.11+12-windows-i586.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "deb89843ffc66ff2e09064658f5db04751935fb2",
+    "sha1_file": "bellsoft-jre17.0.11+12-windows-i586.zip.sha1",
+    "sha256": "8ac8ec64f3632b2453d61200d31e9af42dbf7f1fcd059726f81f2a065196ece6",
+    "sha256_file": "bellsoft-jre17.0.11+12-windows-i586.zip.sha256",
+    "sha512": "8b28c58e2832c2e1ff4043afb30a8de98f56d8706287701e5ddff9f754462568cfe055d444b14fb02e8357a9ccbe19631f185aa4c2be320c5d410004e6289a6d",
+    "sha512_file": "bellsoft-jre17.0.11+12-windows-i586.zip.sha512",
+    "size": 43362466,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.11+12/bellsoft-jre17.0.11+12-windows-i586.zip",
+    "vendor": "liberica",
+    "version": "17.0.11+12"
   },
   {
     "architecture": "i686",
@@ -7830,7 +8030,7 @@
     "size": 68177920,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-i586-full.msi",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "i686",
@@ -7857,7 +8057,7 @@
     "size": 67799602,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-i586-full.zip",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "i686",
@@ -7880,7 +8080,7 @@
     "size": 40914944,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-i586.msi",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "i686",
@@ -7903,7 +8103,7 @@
     "size": 40404668,
     "url": "https://github.com/bell-sw/Liberica/releases/download/18+37/bellsoft-jre18+37-windows-i586.zip",
     "vendor": "liberica",
-    "version": "18.0.0+37"
+    "version": "18+37"
   },
   {
     "architecture": "i686",
@@ -8330,7 +8530,7 @@
     "size": 69730304,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-i586-full.msi",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "i686",
@@ -8357,7 +8557,7 @@
     "size": 69348023,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-i586-full.zip",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "i686",
@@ -8380,7 +8580,7 @@
     "size": 41803776,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-i586.msi",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "i686",
@@ -8403,7 +8603,7 @@
     "size": 41281080,
     "url": "https://github.com/bell-sw/Liberica/releases/download/19+37/bellsoft-jre19+37-windows-i586.zip",
     "vendor": "liberica",
-    "version": "19.0.0+37"
+    "version": "19+37"
   },
   {
     "architecture": "i686",
@@ -8630,7 +8830,7 @@
     "size": 75886592,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-i586-full.msi",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "i686",
@@ -8657,7 +8857,7 @@
     "size": 75400320,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-i586-full.zip",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "i686",
@@ -8680,7 +8880,7 @@
     "size": 46383104,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-i586.msi",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "i686",
@@ -8703,7 +8903,7 @@
     "size": 45752804,
     "url": "https://github.com/bell-sw/Liberica/releases/download/20+37/bellsoft-jre20+37-windows-i586.zip",
     "vendor": "liberica",
-    "version": "20.0.0+37"
+    "version": "20+37"
   },
   {
     "architecture": "i686",
@@ -8930,7 +9130,7 @@
     "size": 79503360,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-i586-full.msi",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "i686",
@@ -8957,7 +9157,7 @@
     "size": 79057153,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-i586-full.zip",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "i686",
@@ -8980,7 +9180,7 @@
     "size": 48918528,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-i586.msi",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "i686",
@@ -9003,7 +9203,7 @@
     "size": 48314372,
     "url": "https://github.com/bell-sw/Liberica/releases/download/21+37/bellsoft-jre21+37-windows-i586.zip",
     "vendor": "liberica",
-    "version": "21.0.0+37"
+    "version": "21+37"
   },
   {
     "architecture": "i686",
@@ -9304,6 +9504,106 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+10/bellsoft-jre21.0.3+10-windows-i586.zip",
     "vendor": "liberica",
     "version": "21.0.3+10"
+  },
+  {
+    "architecture": "i686",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jre21.0.3+12-windows-i586-full.msi",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "4ed6565736d5379a1dbf99bd1596c558",
+    "md5_file": "bellsoft-jre21.0.3+12-windows-i586-full.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "5c0ce056b58f2a238d7ce1e78e5c436825f7e914",
+    "sha1_file": "bellsoft-jre21.0.3+12-windows-i586-full.msi.sha1",
+    "sha256": "ff8d441bf1ce86ba23bb7c2801ce27464baabc66c5a2ab418d815d268bc2cafa",
+    "sha256_file": "bellsoft-jre21.0.3+12-windows-i586-full.msi.sha256",
+    "sha512": "1510be4d489a08b3afe44b55ed2b2ccce2af36470b4c95848420ea9b56784a5e220d858b4d1fa43fa5955596d306f4d65b45f36b00a806688af61eefafb6cc43",
+    "sha512_file": "bellsoft-jre21.0.3+12-windows-i586-full.msi.sha512",
+    "size": 81408000,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-windows-i586-full.msi",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [
+      "libericafx",
+      "minimal-vm",
+      "javafx"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jre21.0.3+12-windows-i586-full.zip",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "058ced993502043200a2c865f8992a4b",
+    "md5_file": "bellsoft-jre21.0.3+12-windows-i586-full.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "1b38c5ad48385da61a66b761583c8a3320ebdf40",
+    "sha1_file": "bellsoft-jre21.0.3+12-windows-i586-full.zip.sha1",
+    "sha256": "ea3d62f1bd50284b93f5d1c6c8236f0471925487ae7c31398fc7cb6366692b55",
+    "sha256_file": "bellsoft-jre21.0.3+12-windows-i586-full.zip.sha256",
+    "sha512": "1abcf1f41eb5fcb2c84e3a134feec14e08776a58ed7513690df77daab69b67199f8ed99816d232fbdfc1fb8f70f0a80f6c14897c9ac8c8930e5a7ba57fdf98f0",
+    "sha512_file": "bellsoft-jre21.0.3+12-windows-i586-full.zip.sha512",
+    "size": 80968898,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-windows-i586-full.zip",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "msi",
+    "filename": "bellsoft-jre21.0.3+12-windows-i586.msi",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "f204e2d8ce2cd054f657e24ef5aa27a0",
+    "md5_file": "bellsoft-jre21.0.3+12-windows-i586.msi.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "336e1ef0aa166a1e3b5f56551a0b3ad79374af46",
+    "sha1_file": "bellsoft-jre21.0.3+12-windows-i586.msi.sha1",
+    "sha256": "c2b486ed3d94bf238ed3183ab1f30f74f20a4ac07f77fcaf1477d7ea556ae268",
+    "sha256_file": "bellsoft-jre21.0.3+12-windows-i586.msi.sha256",
+    "sha512": "3c18760ff156d071970cf21f5cb601fc88decca1037e88cc0bb4210080078ab66382213af0e358a91606862f6c1cbd310f9b6ce708017b8c1cb87fabecffde9f",
+    "sha512_file": "bellsoft-jre21.0.3+12-windows-i586.msi.sha512",
+    "size": 48963584,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-windows-i586.msi",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
+  },
+  {
+    "architecture": "i686",
+    "features": [],
+    "file_type": "zip",
+    "filename": "bellsoft-jre21.0.3+12-windows-i586.zip",
+    "image_type": "jre",
+    "java_version": "21.0.3+12",
+    "jvm_impl": "hotspot",
+    "md5": "e95962abe1cd4742e33d386e44c342c7",
+    "md5_file": "bellsoft-jre21.0.3+12-windows-i586.zip.md5",
+    "os": "windows",
+    "release_type": "ga",
+    "sha1": "b19ff8d7e452d2a9f100aa2b422fc8c91d98ad82",
+    "sha1_file": "bellsoft-jre21.0.3+12-windows-i586.zip.sha1",
+    "sha256": "cef78761cbe2ac181c1299ff29b09063c9a371faaebab1817c462e54b802373c",
+    "sha256_file": "bellsoft-jre21.0.3+12-windows-i586.zip.sha256",
+    "sha512": "f1e50e13a6743a4be28094169b6cdc48c6a6445442d0e2c8ec7c7b2e32373477122a1aff25c9d73e7c917aa5815d61ee6cad1beec18db9eca674f0a1a299c22a",
+    "sha512_file": "bellsoft-jre21.0.3+12-windows-i586.zip.sha512",
+    "size": 48354157,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.3+12/bellsoft-jre21.0.3+12-windows-i586.zip",
+    "vendor": "liberica",
+    "version": "21.0.3+12"
   },
   {
     "architecture": "i686",
