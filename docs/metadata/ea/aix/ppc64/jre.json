@@ -1470,5 +1470,28 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+9/sapmachine-jre-23-ea.9_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
     "version": "23-ea.9"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jre-24-ea.1_aix-ppc64_bin.tar.gz",
+    "image_type": "jre",
+    "java_version": "24-ea.1",
+    "jvm_impl": "hotspot",
+    "md5": "e52f24977b794cd85b2a3ae5e05eeac6",
+    "md5_file": "sapmachine-jre-24-ea.1_aix-ppc64_bin.tar.gz.md5",
+    "os": "aix",
+    "release_type": "ea",
+    "sha1": "c1bb414e23ffbf48873d7a75a257e3ca1ddd926d",
+    "sha1_file": "sapmachine-jre-24-ea.1_aix-ppc64_bin.tar.gz.sha1",
+    "sha256": "d7e1eabc1503005f95ce00edb00614f9776489a05aa08bb2866a4083c8b861e2",
+    "sha256_file": "sapmachine-jre-24-ea.1_aix-ppc64_bin.tar.gz.sha256",
+    "sha512": "dde7f6736edcf833634aa4e9aeeadf7e97995c00e7e30d368b08e69a988bb40a1d7cbb17e29c5189d6829e09dcb85eed685c8021eab458b147307c2d745a9e72",
+    "sha512_file": "sapmachine-jre-24-ea.1_aix-ppc64_bin.tar.gz.sha512",
+    "size": 41254264,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+1/sapmachine-jre-24-ea.1_aix-ppc64_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "24-ea.1"
   }
 ]
