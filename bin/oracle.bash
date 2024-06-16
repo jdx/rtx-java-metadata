@@ -48,7 +48,7 @@ function current_releases {
 
 		for ext in ${exts}
 		do
-			echo "graalvm-jdk-${version}_${os}-${arch}_bin.${ext}"
+			echo "jdk-${version}_${os}-${arch}_bin.${ext}"
 		done
 	done
 }
