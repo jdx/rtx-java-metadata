@@ -44,7 +44,7 @@ function download {
 		echo "Skipping ${filename}"
 	else
 		# shellcheck disable=SC2016
-		local regex='s/^mandrel-java([0-9]{1,2})-(linux)-(amd64|aarch64)-([0-9+.]{2,}.*)\.tar\.gz$/JAVA_VERSION="$1" OS="$2" ARCH="$3" VERSION="$4"/g'
+		local regex='s/^mandrel-java([0-9]{1,2})-(linux|macos|windows)-(amd64|aarch64)-([0-9+.]{2,}.*)\.tar\.gz$/JAVA_VERSION="$1" OS="$2" ARCH="$3" VERSION="$4"/g'
 
 		local JAVA_VERSION=""
 		local OS=""
