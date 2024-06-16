@@ -35,11 +35,12 @@ function download {
 		echo "Skipping ${filename}"
 	else
 		# shellcheck disable=SC2016
-		local regex='s/^graalvm-jdk-([0-9]{1,2}\.[0-9]{1}\.[0-9]{1,3}-ea\.[0-9]{1,2})_(linux|macos|windows)-(aarch64|x64)_bin\.(zip|tar\.gz)$/JAVA_VERSION="$1" OS="$2" ARCH="$3" EXT="$4"/g'
+		local regex='s/^graalvm-jdk-([0-9]{1,2}\.[0-9]{1}\.[0-9]{1,3}-ea\.[0-9]{1,2})_(linux|macos|windows)-(aarch64|x64)_bin(?:-(notarized))?\.(zip|tar\.gz)$/JAVA_VERSION="$1" OS="$2" ARCH="$3" FEATURES="$4" EXT="$5"/g'
 
 		local JAVA_VERSION=""
 		local OS=""
 		local ARCH=""
+		local FEATURES=""
 		local EXT=""
 
 		# Parse meta-data from file name
@@ -59,7 +60,7 @@ function download {
 			"$(normalize_arch "${ARCH}")" \
 			"${EXT}" \
 			'jdk' \
-			'' \
+			"${FEATURES}" \
 			"${url}" \
 			"$(hash_file 'md5' "${archive}" "${CHECKSUM_DIR}")" \
 			"$(hash_file 'sha1' "${archive}" "${CHECKSUM_DIR}")" \
