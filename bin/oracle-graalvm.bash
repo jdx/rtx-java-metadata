@@ -57,10 +57,19 @@ function download_and_parse {
 	JDK_FILES=$(grep -o -E '<a href="https://download\.oracle\.com/graalvm/.+/archive/(graalvm-jdk-.+_(linux|macos|windows)-(x64|aarch64)_bin\.(tar\.gz|zip|msi|dmg|exe|deb|rpm))">' "${INDEX_FILE}" | perl -pe 's#<a href="https://download\.oracle\.com/graalvm/.+/archive/(.+)">#$1#g' | sort -V)
 
 	CURRENT_RELEASE=$(curl -sSf https://www.oracle.com/java/technologies/downloads/ | (grep "<h3 id=\"graalvmjava${MAJOR_VERSION}\"" || true) | perl -pe 's#<h3 id="graalvmjava[0-9]{2}">GraalVM for JDK (.+) downloads</h3>#$1#g')
-	JDK_FILES_CURRENT=$(current_releases "${CURRENT_RELEASE}")
+	JDK_FILES_CURRENT=""
+	if [[ -n "${CURRENT_RELEASE}" ]]
+	then
+		JDK_FILES_CURRENT=$(current_releases "${CURRENT_RELEASE}")
+	fi
 
 	for JDK_FILE in ${JDK_FILES} ${JDK_FILES_CURRENT}
 	do
+		if [[ -n "${JDK_FILE}" ]]
+		then
+			continue
+		fi
+
 		METADATA_FILE="${METADATA_DIR}/${JDK_FILE}.json"
 		JDK_ARCHIVE="${TEMP_DIR}/${JDK_FILE}"
 		JDK_URL="https://download.oracle.com/graalvm/${MAJOR_VERSION}/archive/${JDK_FILE}"
