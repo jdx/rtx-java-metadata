@@ -34,6 +34,7 @@ vendors=(
 	"$(cmd 'semeru19')"
 	"$(cmd 'semeru20')"
 	"$(cmd 'semeru21')"
+	"$(cmd 'semeru22')"
 	"$(cmd 'graalvm-legacy')"
 	"$(cmd 'graalvm-ce')"
 	"$(cmd 'graalvm-community')"
