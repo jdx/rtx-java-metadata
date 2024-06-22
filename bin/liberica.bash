@@ -49,13 +49,17 @@ function normalize_features {
 	then
 		features+=("javafx")
 	fi
-	if [[ "${1}" == "musl" ]] || [[ "${1}" == "musl-lite" ]] || [[ "${1}" == "musl-crac" ]]
+	if [[ "${1}" == "musl" ]] || [[ "${1}" == "musl-lite" ]] || [[ "${1}" == "musl-crac" ]] || [[ "${1}" == "musl-leyden" ]]
 	then
 		features+=("musl")
 	fi
 	if [[ "${1}" == "crac" ]] || [[ "${1}" == "musl-crac" ]]
 	then
 		features+=("crac")
+	fi
+	if [[ "${1}" == "leyden" ]] || [[ "${1}" == "musl-leyden" ]]
+	then
+		features+=("leyden")
 	fi
 	echo "${features[@]}"
 }
@@ -75,7 +79,7 @@ function download {
 		echo "Skipping ${tag_name} - ${filename}"
 	else
 		# shellcheck disable=SC2016
-		local regex='s/^bellsoft-(jre|jdk)(.+)-(linux|windows|macos|solaris)-(amd64|i386|i586|aarch64|arm64|ppc64le|arm32-vfp-hflt|x64|sparcv9|riscv64)-?(fx|lite|full|musl|musl-lite|crac|musl-crac)?\.(apk|deb|rpm|msi|dmg|pkg|tar\.gz|zip)$/IMAGE_TYPE="$1" VERSION="$2" OS="$3" ARCH="$4" FEATURES="$5" EXT="$6"/g'
+		local regex='s/^bellsoft-(jre|jdk)(.+)-(linux|windows|macos|solaris)-(amd64|i386|i586|aarch64|arm64|ppc64le|arm32-vfp-hflt|x64|sparcv9|riscv64)-?(fx|lite|full|musl|musl-lite|crac|musl-crac|leyden|musl-leyden)?\.(apk|deb|rpm|msi|dmg|pkg|tar\.gz|zip)$/IMAGE_TYPE="$1" VERSION="$2" OS="$3" ARCH="$4" FEATURES="$5" EXT="$6"/g'
 
 		local IMAGE_TYPE=""
 		local VERSION=""
