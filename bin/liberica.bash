@@ -37,7 +37,7 @@ function get_release_type {
 
 function normalize_features {
 	declare -a features
-	if [[ "${1}" == "lite" ]] || [[ "${1}" == "musl-lite" ]]
+	if [[ "${1}" == "lite" ]] || [[ "${1}" == "musl-lite" ]] || [[ "${1}" == "lite-leyden" ]] || [[ "${1}" == "musl-lite-leyden" ]]
 	then
 		features+=("lite")
 	fi
@@ -49,7 +49,7 @@ function normalize_features {
 	then
 		features+=("javafx")
 	fi
-	if [[ "${1}" == "musl" ]] || [[ "${1}" == "musl-lite" ]] || [[ "${1}" == "musl-crac" ]] || [[ "${1}" == "musl-leyden" ]]
+	if [[ "${1}" == "musl" ]] || [[ "${1}" == "musl-lite" ]] || [[ "${1}" == "musl-crac" ]] || [[ "${1}" == "musl-leyden" ]] || [[ "${1}" == "musl-lite-leyden" ]]
 	then
 		features+=("musl")
 	fi
@@ -57,7 +57,7 @@ function normalize_features {
 	then
 		features+=("crac")
 	fi
-	if [[ "${1}" == "leyden" ]] || [[ "${1}" == "musl-leyden" ]]
+	if [[ "${1}" == "leyden" ]] || [[ "${1}" == "musl-leyden" ]] || [[ "${1}" == "lite-leyden" ]] || [[ "${1}" == "musl-lite-leyden" ]]
 	then
 		features+=("leyden")
 	fi
