@@ -67,7 +67,7 @@ function download {
 			regex='s/^ibm-semeru-certified-[0-9]+-(jre|jdk)-(.+)\.(x86_64|s390x|ppc64|ppc64le|aarch64)\.rpm$/IMAGE_TYPE="$1" RPM_VERSION="$2" ARCH="$3"/g'
 		else
 			# shellcheck disable=SC2016
-			regex='s/^ibm-semeru-certified-(jre|jdk)_(x64|x86-32|s390x|ppc64|ppc64le|aarch64)_(aix|linux|mac|windows)_.+_openj9-.+\.(tar\.gz|zip|msi)$/IMAGE_TYPE="$1" ARCH="$2" OS="$3" EXT="$4"/g'
+			regex='s/^ibm-semeru-certified-(jre|jdk)_(x64|x86-32|s390x|ppc64|ppc64le|aarch64)_(aix|linux|mac|windows)_.+\.(tar\.gz|zip|msi)$/IMAGE_TYPE="$1" ARCH="$2" OS="$3" EXT="$4"/g'
 		fi
 
 		# Parse meta-data from file name
