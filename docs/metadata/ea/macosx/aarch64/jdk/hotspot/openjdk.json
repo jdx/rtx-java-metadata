@@ -1838,5 +1838,28 @@
     "url": "https://download.java.net/java/early_access/jdk23/28/GPL/openjdk-23-ea+28_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
     "version": "23-ea+28"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-23-ea+29_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "23-ea+29",
+    "jvm_impl": "hotspot",
+    "md5": "72f5abec8feef26ae3db297f0f8f7332",
+    "md5_file": "openjdk-23-ea+29_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "67c2dc61bc575377b0f5763df584f93c700e69ec",
+    "sha1_file": "openjdk-23-ea+29_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "bd4b41ab6142d454571d4b969478b29c3573382e6d3fb2e4ade14838b34aba7a",
+    "sha256_file": "openjdk-23-ea+29_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "55d581ecdae75c0922c407b1ed6bf35b4f2c2a5118d7eec9948f4bcbd1ba1ee051d4f62d7fdba2bf1eb0ce2c845ca4c94ce4e5df8a7596bcc9d85d22b63273dd",
+    "sha512_file": "openjdk-23-ea+29_macos-aarch64_bin.tar.gz.sha512",
+    "size": 204363158,
+    "url": "https://download.java.net/java/early_access/jdk23/29/GPL/openjdk-23-ea+29_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "23-ea+29"
   }
 ]
