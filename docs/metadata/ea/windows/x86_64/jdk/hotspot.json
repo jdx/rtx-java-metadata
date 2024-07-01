@@ -31669,5 +31669,28 @@
     "url": "https://static.azul.com/zulu/bin/zulu24.0.15-beta-jdk24.0.0-beta.3-win_x64.zip",
     "vendor": "zulu",
     "version": "24.0.15"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu24.0.17-beta-jdk24.0.0-beta.4-win_x64.zip",
+    "image_type": "jdk",
+    "java_version": "24.0.0-beta.4",
+    "jvm_impl": "hotspot",
+    "md5": "b145bec92209f706ae53aad024ffd0ef",
+    "md5_file": "zulu24.0.17-beta-jdk24.0.0-beta.4-win_x64.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "6d4bee698a32aa33ba2aad426a0ce2e04f08cfba",
+    "sha1_file": "zulu24.0.17-beta-jdk24.0.0-beta.4-win_x64.zip.sha1",
+    "sha256": "dec7300b9c07251757d00f7aa5f3d5edcb3e7e036a8b15cc92d720dc302c9635",
+    "sha256_file": "zulu24.0.17-beta-jdk24.0.0-beta.4-win_x64.zip.sha256",
+    "sha512": "a931c24295985e6ffb2fe9e372ee3a98d5e82788a67698b34a853f6aea492146908eebf16a3d068b806fcf9d642b312b0d5db29aa1fab6d5ee664b841412deda",
+    "sha512_file": "zulu24.0.17-beta-jdk24.0.0-beta.4-win_x64.zip.sha512",
+    "size": 216746760,
+    "url": "https://static.azul.com/zulu/bin/zulu24.0.17-beta-jdk24.0.0-beta.4-win_x64.zip",
+    "vendor": "zulu",
+    "version": "24.0.17"
   }
 ]
