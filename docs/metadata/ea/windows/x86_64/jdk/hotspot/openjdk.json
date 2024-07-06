@@ -1953,5 +1953,28 @@
     "url": "https://download.java.net/java/early_access/jdk23/29/GPL/openjdk-23-ea+29_windows-x64_bin.zip",
     "vendor": "openjdk",
     "version": "23-ea+29"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "openjdk-23-ea+30_windows-x64_bin.zip",
+    "image_type": "jdk",
+    "java_version": "23-ea+30",
+    "jvm_impl": "hotspot",
+    "md5": "d335a9e5e52c7180ac8423166ee86f2c",
+    "md5_file": "openjdk-23-ea+30_windows-x64_bin.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "72869274c7c920f4682e962e7f6f46170f4e1d38",
+    "sha1_file": "openjdk-23-ea+30_windows-x64_bin.zip.sha1",
+    "sha256": "bbefe5300370b3a67927c127a1e24a08b8cb1dd37d41b428ed931836e092652b",
+    "sha256_file": "openjdk-23-ea+30_windows-x64_bin.zip.sha256",
+    "sha512": "6b96875ff89684926b4cce44d527976cecd90a506c660f1627ccf940aa91b43b6cbfdd34f9371f6e54b3a3aabb8c9070a83f4fcd2cdad1a029f2323bf795ec8d",
+    "sha512_file": "openjdk-23-ea+30_windows-x64_bin.zip.sha512",
+    "size": 209102050,
+    "url": "https://download.java.net/java/early_access/jdk23/30/GPL/openjdk-23-ea+30_windows-x64_bin.zip",
+    "vendor": "openjdk",
+    "version": "23-ea+30"
   }
 ]
