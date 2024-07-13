@@ -1907,5 +1907,53 @@
     "url": "https://download.java.net/java/early_access/jdk23/31/GPL/openjdk-23-ea+31_macos-aarch64_bin.tar.gz",
     "vendor": "openjdk",
     "version": "23-ea+31"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-ea+6_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-ea+6",
+    "jvm_impl": "hotspot",
+    "md5": "ad188ce622f913ce53041fa5b2ced790",
+    "md5_file": "openjdk-24-ea+6_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "7cffc215f9cc7b6af405fb33fd312c6c983a0b4d",
+    "sha1_file": "openjdk-24-ea+6_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "449bc8dc3ed996c54d0a4db0680052c377e0ea2ab96996403a9ce42121df137c",
+    "sha256_file": "openjdk-24-ea+6_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "a13f28d40c58195d27a21b6e4a322f20fd887e6438ff2c23bd691e041886f56138bfc58d35b2ff42dced2d2a644dc8da678dc82e58f1f64be8bdb2138e7b0f3b",
+    "sha512_file": "openjdk-24-ea+6_macos-aarch64_bin.tar.gz.sha512",
+    "size": 204565631,
+    "url": "https://download.java.net/java/early_access/jdk24/6/GPL/openjdk-24-ea+6_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-ea+6"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [
+      "leyden"
+    ],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-leyden+2-8",
+    "jvm_impl": "hotspot",
+    "md5": "0e684b0f8a9adee6e0373a8d0372ec53",
+    "md5_file": "openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ea",
+    "sha1": "d6a692ca0c1e42fa052b08c26b90cbf2c0a191af",
+    "sha1_file": "openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz.sha1",
+    "sha256": "eece3408d8a4bdbfdf9909c13a35e6f7c5c0be2701f02c079bde9f43c70e17c7",
+    "sha256_file": "openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz.sha256",
+    "sha512": "87ff30cf20bd50ebd47f99fa26e20826d54a862f13fc7000d2b8ad8e4749f2789f006daedf71c83bb732acd919e0fd903d781f5f5e550e81626d8e78bd703a69",
+    "sha512_file": "openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz.sha512",
+    "size": 205299527,
+    "url": "https://download.java.net/java/early_access/leyden/2/openjdk-24-leyden+2-8_macos-aarch64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-leyden+2-8"
   }
 ]

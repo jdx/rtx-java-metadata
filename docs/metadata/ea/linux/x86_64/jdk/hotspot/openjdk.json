@@ -2024,5 +2024,53 @@
     "url": "https://download.java.net/java/early_access/jdk23/31/GPL/openjdk-23-ea+31_linux-x64_bin.tar.gz",
     "vendor": "openjdk",
     "version": "23-ea+31"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-ea+6_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-ea+6",
+    "jvm_impl": "hotspot",
+    "md5": "a175b558d559c652342dfea279cfecf3",
+    "md5_file": "openjdk-24-ea+6_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "d9b6b34ca72315d0ff0cc36ab5b263df301856d4",
+    "sha1_file": "openjdk-24-ea+6_linux-x64_bin.tar.gz.sha1",
+    "sha256": "85969884f11f2863595c13dff1cb6f6d94149bbe5188c34f0a7aaa284a545a27",
+    "sha256_file": "openjdk-24-ea+6_linux-x64_bin.tar.gz.sha256",
+    "sha512": "bf8683172b5eae41530c09a0349659a6039342fc8fd11b8591266f09b01621e6b3a0da2deb05d8f8f1b6e16e6f3e5728fd9106588f3d7ef76b4e409b06540b7d",
+    "sha512_file": "openjdk-24-ea+6_linux-x64_bin.tar.gz.sha512",
+    "size": 210920238,
+    "url": "https://download.java.net/java/early_access/jdk24/6/GPL/openjdk-24-ea+6_linux-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-ea+6"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "leyden"
+    ],
+    "file_type": "tar.gz",
+    "filename": "openjdk-24-leyden+2-8_linux-x64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-leyden+2-8",
+    "jvm_impl": "hotspot",
+    "md5": "872e94cdf9f93af63b6a3fde66ca9e9c",
+    "md5_file": "openjdk-24-leyden+2-8_linux-x64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "f49ac1340c9ee5e8604a1562d45b64752dda2671",
+    "sha1_file": "openjdk-24-leyden+2-8_linux-x64_bin.tar.gz.sha1",
+    "sha256": "7a6f9f5a602377b882e647ae9312706c6873afc582d2612681e6fbe9e122a088",
+    "sha256_file": "openjdk-24-leyden+2-8_linux-x64_bin.tar.gz.sha256",
+    "sha512": "91ca077ddda89821225a67b5ccd8a46c11ea28c71e0a0623523ef7f3ddefd1ba6b39f0e9e7fc7a56b25160c78947e1a6893850f103d2284e5e6ec06a39fee352",
+    "sha512_file": "openjdk-24-leyden+2-8_linux-x64_bin.tar.gz.sha512",
+    "size": 211893051,
+    "url": "https://download.java.net/java/early_access/leyden/2/openjdk-24-leyden+2-8_linux-x64_bin.tar.gz",
+    "vendor": "openjdk",
+    "version": "24-leyden+2-8"
   }
 ]
