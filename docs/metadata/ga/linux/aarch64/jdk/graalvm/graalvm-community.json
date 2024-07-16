@@ -228,5 +228,28 @@
     "url": "https://github.com/graalvm/graalvm-ce-builds/releases/download/jdk-22.0.1/graalvm-community-jdk-22.0.1_linux-aarch64_bin.tar.gz",
     "vendor": "graalvm-community",
     "version": "22.0.1"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "graalvm-community-jdk-22.0.2_linux-aarch64_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.2",
+    "jvm_impl": "graalvm",
+    "md5": "d04d67d9270cf3679ebb0ace48da300e",
+    "md5_file": "graalvm-community-jdk-22.0.2_linux-aarch64_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "c2f043149b34a083162332b2777a2e1e55bdefa4",
+    "sha1_file": "graalvm-community-jdk-22.0.2_linux-aarch64_bin.tar.gz.sha1",
+    "sha256": "28ca4c815fa68b86141d9dcf1a46c1f58f74dead41de9042de1202337bb014d9",
+    "sha256_file": "graalvm-community-jdk-22.0.2_linux-aarch64_bin.tar.gz.sha256",
+    "sha512": "0b827baed2ed14ce8633ecc1002ec0a54f9705ab2314e160aecb6f8dd1f3078d579beb2b35fc325b8f35e442bdcfc700087a3fe0a415e57144792da8062d26a1",
+    "sha512_file": "graalvm-community-jdk-22.0.2_linux-aarch64_bin.tar.gz.sha512",
+    "size": 293499113,
+    "url": "https://github.com/graalvm/graalvm-ce-builds/releases/download/jdk-22.0.2/graalvm-community-jdk-22.0.2_linux-aarch64_bin.tar.gz",
+    "vendor": "graalvm-community",
+    "version": "22.0.2"
   }
 ]
