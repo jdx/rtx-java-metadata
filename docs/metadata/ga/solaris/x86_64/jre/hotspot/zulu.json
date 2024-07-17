@@ -297,5 +297,28 @@
     "url": "https://static.azul.com/zulu/bin/zulu11.72.19-ca-jre11.0.23-solaris_x64.zip",
     "vendor": "zulu",
     "version": "11.72.19"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "zip",
+    "filename": "zulu11.74.15-ca-jre11.0.24-solaris_x64.zip",
+    "image_type": "jre",
+    "java_version": "11.0.24",
+    "jvm_impl": "hotspot",
+    "md5": "f7bc7d4017c5fe4dac6d85cbd2e96f54",
+    "md5_file": "zulu11.74.15-ca-jre11.0.24-solaris_x64.zip.md5",
+    "os": "solaris",
+    "release_type": "ga",
+    "sha1": "b7ab3b109825d2c57c6fbfd1efab2daa17709caf",
+    "sha1_file": "zulu11.74.15-ca-jre11.0.24-solaris_x64.zip.sha1",
+    "sha256": "310a1182e61b7ac12a70d2042dbc810c38ce646aa88f8e196b96c5af8a3e5d23",
+    "sha256_file": "zulu11.74.15-ca-jre11.0.24-solaris_x64.zip.sha256",
+    "sha512": "1f7b530d3d8e0bde1108cb1ee3edbb5b1f6fb976f7a670a7fe1b6a54bb7ed7f3a8795b436dcec62d202438f79aa40fdd4225c02b65e8197de98af0584e87d822",
+    "sha512_file": "zulu11.74.15-ca-jre11.0.24-solaris_x64.zip.sha512",
+    "size": 60408371,
+    "url": "https://static.azul.com/zulu/bin/zulu11.74.15-ca-jre11.0.24-solaris_x64.zip",
+    "vendor": "zulu",
+    "version": "11.74.15"
   }
 ]
