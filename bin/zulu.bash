@@ -103,7 +103,7 @@ do
 			"${VENDOR}" \
 			"${ZULU_FILE}" \
 			"$(normalize_release_type "${RELEASE_TYPE}")" \
-			"${VERSION}" \
+			"$(normalize_version "${VERSION}")" \
 			"${JAVA_VERSION}" \
 			'hotspot' \
 			"$(normalize_os "${OS}")" \
