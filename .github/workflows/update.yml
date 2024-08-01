@@ -11,12 +11,19 @@ jobs:
     runs-on: 'ubuntu-latest'
     steps:
     - uses: actions/checkout@v4
+      with:
+        submodules: 'true'
     - name: Install dependencies
       run: sudo apt -y install jq jo perl curl parallel
     - name: Run update script
       env:
         GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: ./bin/update.bash
+    - name: Run metadata tests
+      run: |
+        cd tests
+        ./test.normalize-metadata.bash
+        cd -
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
