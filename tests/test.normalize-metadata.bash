@@ -14,7 +14,7 @@ testNormalizeMetadata_Vendor_All() {
 }
 
 testNormalizeMetadata_Vendor_Versions() {
-  for file in `find ../docs/metadata/vendor/liberica -type f -name '*.json' ! -name 'all.json'`; do
+  for file in `find ../docs/metadata/vendor -type f -name '*.json' ! -name 'all.json'`; do
     # Check for non-semantic unsuffixed versions
     # e.g. "version": "11"
     unsuffixed=`jq '[. | select(.version | test("^\\\\d+$"))] | length' < $file`
