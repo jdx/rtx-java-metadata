@@ -22,7 +22,7 @@
     "size": 49262592,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jre23+25-ea-windows-amd64-leyden.msi",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "x86_64",
@@ -47,6 +47,6 @@
     "size": 48585727,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jre23+25-ea-windows-amd64-leyden.zip",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   }
 ]

@@ -22,7 +22,7 @@
     "size": 32824596,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jre23+25-ea-linux-amd64-leyden.deb",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "x86_64",
@@ -47,7 +47,7 @@
     "size": 37139736,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jre23+25-ea-linux-amd64-leyden.rpm",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "x86_64",
@@ -72,7 +72,7 @@
     "size": 52930295,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jre23+25-ea-linux-amd64-leyden.tar.gz",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "x86_64",
@@ -98,7 +98,7 @@
     "size": 52625086,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jre23+25-ea-linux-x64-musl-leyden.apk",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "x86_64",
@@ -124,7 +124,7 @@
     "size": 52987600,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jre23+25-ea-linux-x64-musl-leyden.tar.gz",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "x86_64",
@@ -3758,7 +3758,7 @@
     "size": 54766109,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+33/sapmachine-jre-14-ea.33_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "14-ea.33"
+    "version": "14.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -3781,7 +3781,7 @@
     "size": 54767104,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+34/sapmachine-jre-14-ea.34_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "14-ea.34"
+    "version": "14.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -3804,7 +3804,7 @@
     "size": 54773187,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+36/sapmachine-jre-14-ea.36_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "14-ea.36"
+    "version": "14.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -3919,7 +3919,7 @@
     "size": 54717755,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+10/sapmachine-jre-15-ea.10_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.10"
+    "version": "15.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -3942,7 +3942,7 @@
     "size": 54698272,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+11/sapmachine-jre-15-ea.11_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.11"
+    "version": "15.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -3965,7 +3965,7 @@
     "size": 54749708,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+12/sapmachine-jre-15-ea.12_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.12"
+    "version": "15.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -3988,7 +3988,7 @@
     "size": 54750171,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+13/sapmachine-jre-15-ea.13_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.13"
+    "version": "15.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -4011,7 +4011,7 @@
     "size": 54744354,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+14/sapmachine-jre-15-ea.14_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.14"
+    "version": "15.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -4034,7 +4034,7 @@
     "size": 54761168,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+15/sapmachine-jre-15-ea.15_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.15"
+    "version": "15.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -4057,7 +4057,7 @@
     "size": 54787342,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+16/sapmachine-jre-15-ea.16_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.16"
+    "version": "15.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -4080,7 +4080,7 @@
     "size": 54792482,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+17/sapmachine-jre-15-ea.17_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.17"
+    "version": "15.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -4103,7 +4103,7 @@
     "size": 54708017,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+18/sapmachine-jre-15-ea.18_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.18"
+    "version": "15.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -4126,7 +4126,7 @@
     "size": 54736948,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+19/sapmachine-jre-15-ea.19_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.19"
+    "version": "15.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -4149,7 +4149,7 @@
     "size": 53243632,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+20/sapmachine-jre-15-ea.20_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.20"
+    "version": "15.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -4172,7 +4172,7 @@
     "size": 53143511,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+21/sapmachine-jre-15-ea.21_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.21"
+    "version": "15.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -4195,7 +4195,7 @@
     "size": 53134913,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+22/sapmachine-jre-15-ea.22_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.22"
+    "version": "15.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -4218,7 +4218,7 @@
     "size": 53132619,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+23/sapmachine-jre-15-ea.23_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.23"
+    "version": "15.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -4241,7 +4241,7 @@
     "size": 56018441,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+24/sapmachine-jre-15-ea.24_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.24"
+    "version": "15.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -4264,7 +4264,7 @@
     "size": 56007786,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+25/sapmachine-jre-15-ea.25_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.25"
+    "version": "15.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -4287,7 +4287,7 @@
     "size": 56039488,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+26/sapmachine-jre-15-ea.26_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.26"
+    "version": "15.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -4310,7 +4310,7 @@
     "size": 56153517,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+27/sapmachine-jre-15-ea.27_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.27"
+    "version": "15.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -4333,7 +4333,7 @@
     "size": 56151971,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+28/sapmachine-jre-15-ea.28_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.28"
+    "version": "15.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -4356,7 +4356,7 @@
     "size": 56160734,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+29/sapmachine-jre-15-ea.29_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.29"
+    "version": "15.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -4379,7 +4379,7 @@
     "size": 56159065,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+30/sapmachine-jre-15-ea.30_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.30"
+    "version": "15.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -4402,7 +4402,7 @@
     "size": 56165907,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+31/sapmachine-jre-15-ea.31_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.31"
+    "version": "15.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -4425,7 +4425,7 @@
     "size": 56174411,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+32/sapmachine-jre-15-ea.32_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.32"
+    "version": "15.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -4448,7 +4448,7 @@
     "size": 56171057,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+33/sapmachine-jre-15-ea.33_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.33"
+    "version": "15.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -4471,7 +4471,7 @@
     "size": 56171316,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+34/sapmachine-jre-15-ea.34_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.34"
+    "version": "15.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -4494,7 +4494,7 @@
     "size": 56171732,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+35/sapmachine-jre-15-ea.35_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.35"
+    "version": "15.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -4517,7 +4517,7 @@
     "size": 56172989,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+36/sapmachine-jre-15-ea.36_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.36"
+    "version": "15.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -4540,7 +4540,7 @@
     "size": 54736656,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+6/sapmachine-jre-15-ea.6_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.6"
+    "version": "15.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -4563,7 +4563,7 @@
     "size": 54746518,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+7/sapmachine-jre-15-ea.7_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.7"
+    "version": "15.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -4586,7 +4586,7 @@
     "size": 54779690,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+8/sapmachine-jre-15-ea.8_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.8"
+    "version": "15.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -4609,7 +4609,7 @@
     "size": 54754182,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+9/sapmachine-jre-15-ea.9_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.9"
+    "version": "15.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -4678,7 +4678,7 @@
     "size": 49557739,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+0/sapmachine-jre-16-ea.0_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.0"
+    "version": "16.0.0-ea.0"
   },
   {
     "architecture": "x86_64",
@@ -4701,7 +4701,7 @@
     "size": 56260725,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+10/sapmachine-jre-16-ea.10_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.10"
+    "version": "16.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -4724,7 +4724,7 @@
     "size": 56253471,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+11/sapmachine-jre-16-ea.11_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.11"
+    "version": "16.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -4747,7 +4747,7 @@
     "size": 56287599,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+12/sapmachine-jre-16-ea.12_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.12"
+    "version": "16.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -4770,7 +4770,7 @@
     "size": 56296136,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+13/sapmachine-jre-16-ea.13_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.13"
+    "version": "16.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -4793,7 +4793,7 @@
     "size": 56252401,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+14/sapmachine-jre-16-ea.14_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.14"
+    "version": "16.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -4816,7 +4816,7 @@
     "size": 56257751,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+15/sapmachine-jre-16-ea.15_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.15"
+    "version": "16.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -4839,7 +4839,7 @@
     "size": 56354368,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+16/sapmachine-jre-16-ea.16_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.16"
+    "version": "16.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -4862,7 +4862,7 @@
     "size": 56347686,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+17/sapmachine-jre-16-ea.17_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.17"
+    "version": "16.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -4885,7 +4885,7 @@
     "size": 56204795,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+18/sapmachine-jre-16-ea.18_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.18"
+    "version": "16.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -4908,7 +4908,7 @@
     "size": 56204685,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+19/sapmachine-jre-16-ea.19_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.19"
+    "version": "16.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -4931,7 +4931,7 @@
     "size": 56206661,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+1/sapmachine-jre-16-ea.1_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.1"
+    "version": "16.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -4954,7 +4954,7 @@
     "size": 56310946,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+20/sapmachine-jre-16-ea.20_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.20"
+    "version": "16.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -4977,7 +4977,7 @@
     "size": 57223857,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+21/sapmachine-jre-16-ea.21_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.21"
+    "version": "16.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -5000,7 +5000,7 @@
     "size": 57224036,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+22/sapmachine-jre-16-ea.22_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.22"
+    "version": "16.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -5023,7 +5023,7 @@
     "size": 57252217,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+23/sapmachine-jre-16-ea.23_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.23"
+    "version": "16.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -5046,7 +5046,7 @@
     "size": 57485476,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+24/sapmachine-jre-16-ea.24_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.24"
+    "version": "16.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -5069,7 +5069,7 @@
     "size": 57555916,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+25/sapmachine-jre-16-ea.25_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.25"
+    "version": "16.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -5092,7 +5092,7 @@
     "size": 57794177,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+26/sapmachine-jre-16-ea.26_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.26"
+    "version": "16.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -5115,7 +5115,7 @@
     "size": 49550607,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+27/sapmachine-jre-16-ea.27_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.27"
+    "version": "16.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -5138,7 +5138,7 @@
     "size": 49558293,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+28/sapmachine-jre-16-ea.28_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.28"
+    "version": "16.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -5161,7 +5161,7 @@
     "size": 49564187,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+29/sapmachine-jre-16-ea.29_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.29"
+    "version": "16.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -5184,7 +5184,7 @@
     "size": 56210540,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+2/sapmachine-jre-16-ea.2_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.2"
+    "version": "16.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -5207,7 +5207,7 @@
     "size": 49559773,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+30/sapmachine-jre-16-ea.30_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.30"
+    "version": "16.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -5230,7 +5230,7 @@
     "size": 49566630,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+31/sapmachine-jre-16-ea.31_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.31"
+    "version": "16.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -5253,7 +5253,7 @@
     "size": 49567190,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+32/sapmachine-jre-16-ea.32_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.32"
+    "version": "16.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -5276,7 +5276,7 @@
     "size": 49563220,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+33/sapmachine-jre-16-ea.33_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.33"
+    "version": "16.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -5299,7 +5299,7 @@
     "size": 49565396,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+34/sapmachine-jre-16-ea.34_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.34"
+    "version": "16.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -5322,7 +5322,7 @@
     "size": 49565821,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+35/sapmachine-jre-16-ea.35_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.35"
+    "version": "16.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -5345,7 +5345,7 @@
     "size": 49567049,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+36/sapmachine-jre-16-ea.36_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.36"
+    "version": "16.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -5368,7 +5368,7 @@
     "size": 56145719,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+3/sapmachine-jre-16-ea.3_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.3"
+    "version": "16.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -5391,7 +5391,7 @@
     "size": 56147750,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+4/sapmachine-jre-16-ea.4_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.4"
+    "version": "16.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -5414,7 +5414,7 @@
     "size": 56230462,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+5/sapmachine-jre-16-ea.5_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.5"
+    "version": "16.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -5437,7 +5437,7 @@
     "size": 56230827,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+6/sapmachine-jre-16-ea.6_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.6"
+    "version": "16.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -5460,7 +5460,7 @@
     "size": 56234121,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+7/sapmachine-jre-16-ea.7_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.7"
+    "version": "16.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -5483,7 +5483,7 @@
     "size": 56250821,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+8/sapmachine-jre-16-ea.8_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.8"
+    "version": "16.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -5506,7 +5506,7 @@
     "size": 56255483,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+9/sapmachine-jre-16-ea.9_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.9"
+    "version": "16.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -5621,7 +5621,7 @@
     "size": 49553877,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+10/sapmachine-jre-17-ea.10_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.10"
+    "version": "17.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -5644,7 +5644,7 @@
     "size": 49546775,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+11/sapmachine-jre-17-ea.11_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.11"
+    "version": "17.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -5667,7 +5667,7 @@
     "size": 49541564,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+12/sapmachine-jre-17-ea.12_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.12"
+    "version": "17.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -5690,7 +5690,7 @@
     "size": 49428723,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+13/sapmachine-jre-17-ea.13_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.13"
+    "version": "17.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -5713,7 +5713,7 @@
     "size": 49426510,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+14/sapmachine-jre-17-ea.14_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.14"
+    "version": "17.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -5736,7 +5736,7 @@
     "size": 49414925,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+15/sapmachine-jre-17-ea.15_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.15"
+    "version": "17.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -5759,7 +5759,7 @@
     "size": 49444258,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+16/sapmachine-jre-17-ea.16_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.16"
+    "version": "17.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -5782,7 +5782,7 @@
     "size": 49518934,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+17/sapmachine-jre-17-ea.17_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.17"
+    "version": "17.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -5805,7 +5805,7 @@
     "size": 49533331,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+18/sapmachine-jre-17-ea.18_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.18"
+    "version": "17.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -5828,7 +5828,7 @@
     "size": 49505998,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+19/sapmachine-jre-17-ea.19_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.19"
+    "version": "17.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -5851,7 +5851,7 @@
     "size": 49563892,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+1/sapmachine-jre-17-ea.1_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.1"
+    "version": "17.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -5874,7 +5874,7 @@
     "size": 46428030,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+20/sapmachine-jre-17-ea.20_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.20"
+    "version": "17.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -5897,7 +5897,7 @@
     "size": 46434464,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+21/sapmachine-jre-17-ea.21_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.21"
+    "version": "17.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -5920,7 +5920,7 @@
     "size": 46431092,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+22/sapmachine-jre-17-ea.22_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.22"
+    "version": "17.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -5943,7 +5943,7 @@
     "size": 46528367,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+23/sapmachine-jre-17-ea.23_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.23"
+    "version": "17.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -5966,7 +5966,7 @@
     "size": 46561891,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+24/sapmachine-jre-17-ea.24_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.24"
+    "version": "17.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -5989,7 +5989,7 @@
     "size": 46522999,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+25/sapmachine-jre-17-ea.25_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.25"
+    "version": "17.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -6012,7 +6012,7 @@
     "size": 46909530,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+26/sapmachine-jre-17-ea.26_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.26"
+    "version": "17.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -6035,7 +6035,7 @@
     "size": 46917031,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+27/sapmachine-jre-17-ea.27_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.27"
+    "version": "17.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -6058,7 +6058,7 @@
     "size": 46906450,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+28/sapmachine-jre-17-ea.28_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.28"
+    "version": "17.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -6081,7 +6081,7 @@
     "size": 46919664,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+29/sapmachine-jre-17-ea.29_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.29"
+    "version": "17.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -6104,7 +6104,7 @@
     "size": 49563477,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+2/sapmachine-jre-17-ea.2_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.2"
+    "version": "17.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -6127,7 +6127,7 @@
     "size": 46919791,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+30/sapmachine-jre-17-ea.30_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.30"
+    "version": "17.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -6150,7 +6150,7 @@
     "size": 46928026,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+31/sapmachine-jre-17-ea.31_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.31"
+    "version": "17.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -6173,7 +6173,7 @@
     "size": 46927214,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+32/sapmachine-jre-17-ea.32_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.32"
+    "version": "17.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -6196,7 +6196,7 @@
     "size": 46932025,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+33/sapmachine-jre-17-ea.33_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.33"
+    "version": "17.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -6219,7 +6219,7 @@
     "size": 46932061,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+34/sapmachine-jre-17-ea.34_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.34"
+    "version": "17.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -6242,7 +6242,7 @@
     "size": 46929991,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+35/sapmachine-jre-17-ea.35_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.35"
+    "version": "17.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -6265,7 +6265,7 @@
     "size": 49586666,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+3/sapmachine-jre-17-ea.3_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.3"
+    "version": "17.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -6288,7 +6288,7 @@
     "size": 49580849,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+4/sapmachine-jre-17-ea.4_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.4"
+    "version": "17.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -6311,7 +6311,7 @@
     "size": 49597261,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+5/sapmachine-jre-17-ea.5_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.5"
+    "version": "17.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -6334,7 +6334,7 @@
     "size": 49512408,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+6/sapmachine-jre-17-ea.6_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.6"
+    "version": "17.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -6357,7 +6357,7 @@
     "size": 49549095,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+7/sapmachine-jre-17-ea.7_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.7"
+    "version": "17.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -6380,7 +6380,7 @@
     "size": 49550436,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+8/sapmachine-jre-17-ea.8_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.8"
+    "version": "17.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -6403,7 +6403,7 @@
     "size": 49561523,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+9/sapmachine-jre-17-ea.9_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.9"
+    "version": "17.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -9622,7 +9622,7 @@
     "size": 46637386,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+10/sapmachine-jre-18-ea.10_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.10"
+    "version": "18.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -9645,7 +9645,7 @@
     "size": 46645941,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+11/sapmachine-jre-18-ea.11_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.11"
+    "version": "18.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -9668,7 +9668,7 @@
     "size": 46662432,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+12/sapmachine-jre-18-ea.12_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.12"
+    "version": "18.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -9691,7 +9691,7 @@
     "size": 46272168,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+13/sapmachine-jre-18-ea.13_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.13"
+    "version": "18.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -9714,7 +9714,7 @@
     "size": 46290907,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+14/sapmachine-jre-18-ea.14_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.14"
+    "version": "18.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -9737,7 +9737,7 @@
     "size": 46292188,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+15/sapmachine-jre-18-ea.15_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.15"
+    "version": "18.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -9760,7 +9760,7 @@
     "size": 46300018,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+16/sapmachine-jre-18-ea.16_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.16"
+    "version": "18.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -9783,7 +9783,7 @@
     "size": 46417988,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+17/sapmachine-jre-18-ea.17_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.17"
+    "version": "18.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -9806,7 +9806,7 @@
     "size": 46403021,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+18/sapmachine-jre-18-ea.18_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.18"
+    "version": "18.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -9829,7 +9829,7 @@
     "size": 46403709,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+19/sapmachine-jre-18-ea.19_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.19"
+    "version": "18.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -9852,7 +9852,7 @@
     "size": 46908918,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+1/sapmachine-jre-18-ea.1_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.1"
+    "version": "18.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -9875,7 +9875,7 @@
     "size": 46463414,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+20/sapmachine-jre-18-ea.20_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.20"
+    "version": "18.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -9898,7 +9898,7 @@
     "size": 46462994,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+21/sapmachine-jre-18-ea.21_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.21"
+    "version": "18.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -9921,7 +9921,7 @@
     "size": 46515965,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+22/sapmachine-jre-18-ea.22_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.22"
+    "version": "18.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -9944,7 +9944,7 @@
     "size": 46452997,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+23/sapmachine-jre-18-ea.23_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.23"
+    "version": "18.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -9967,7 +9967,7 @@
     "size": 46608155,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+24/sapmachine-jre-18-ea.24_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.24"
+    "version": "18.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -9990,7 +9990,7 @@
     "size": 46620680,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+25/sapmachine-jre-18-ea.25_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.25"
+    "version": "18.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -10013,7 +10013,7 @@
     "size": 46614351,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+26/sapmachine-jre-18-ea.26_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.26"
+    "version": "18.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -10036,7 +10036,7 @@
     "size": 46617751,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+27/sapmachine-jre-18-ea.27_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.27"
+    "version": "18.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -10059,7 +10059,7 @@
     "size": 46626958,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+28/sapmachine-jre-18-ea.28_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.28"
+    "version": "18.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -10082,7 +10082,7 @@
     "size": 46632178,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+29/sapmachine-jre-18-ea.29_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.29"
+    "version": "18.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -10105,7 +10105,7 @@
     "size": 46917392,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+2/sapmachine-jre-18-ea.2_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.2"
+    "version": "18.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -10128,7 +10128,7 @@
     "size": 46628822,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+30/sapmachine-jre-18-ea.30_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.30"
+    "version": "18.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -10151,7 +10151,7 @@
     "size": 46633385,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+31/sapmachine-jre-18-ea.31_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.31"
+    "version": "18.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -10174,7 +10174,7 @@
     "size": 46650893,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+32/sapmachine-jre-18-ea.32_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.32"
+    "version": "18.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -10197,7 +10197,7 @@
     "size": 46650155,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+33/sapmachine-jre-18-ea.33_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.33"
+    "version": "18.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -10220,7 +10220,7 @@
     "size": 46650567,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+34/sapmachine-jre-18-ea.34_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.34"
+    "version": "18.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -10243,7 +10243,7 @@
     "size": 46650671,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+35/sapmachine-jre-18-ea.35_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.35"
+    "version": "18.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -10266,7 +10266,7 @@
     "size": 46651683,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+36/sapmachine-jre-18-ea.36_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.36"
+    "version": "18.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -10289,7 +10289,7 @@
     "size": 46922259,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+3/sapmachine-jre-18-ea.3_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.3"
+    "version": "18.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -10312,7 +10312,7 @@
     "size": 46861115,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+4/sapmachine-jre-18-ea.4_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.4"
+    "version": "18.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -10335,7 +10335,7 @@
     "size": 46861807,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+5/sapmachine-jre-18-ea.5_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.5"
+    "version": "18.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -10358,7 +10358,7 @@
     "size": 46746761,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+6/sapmachine-jre-18-ea.6_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.6"
+    "version": "18.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -10381,7 +10381,7 @@
     "size": 46693540,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+7/sapmachine-jre-18-ea.7_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.7"
+    "version": "18.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -10404,7 +10404,7 @@
     "size": 46715231,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+8/sapmachine-jre-18-ea.8_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.8"
+    "version": "18.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -10427,7 +10427,7 @@
     "size": 46697464,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+9/sapmachine-jre-18-ea.9_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.9"
+    "version": "18.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -10615,7 +10615,7 @@
     "size": 47150827,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+10/sapmachine-jre-19-ea.10_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.10"
+    "version": "19.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -10638,7 +10638,7 @@
     "size": 48194033,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+11/sapmachine-jre-19-ea.11_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.11"
+    "version": "19.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -10661,7 +10661,7 @@
     "size": 48215690,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+12/sapmachine-jre-19-ea.12_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.12"
+    "version": "19.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -10684,7 +10684,7 @@
     "size": 48225366,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+13/sapmachine-jre-19-ea.13_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.13"
+    "version": "19.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -10707,7 +10707,7 @@
     "size": 48230014,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+14/sapmachine-jre-19-ea.14_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.14"
+    "version": "19.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -10730,7 +10730,7 @@
     "size": 48251896,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+15/sapmachine-jre-19-ea.15_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.15"
+    "version": "19.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -10753,7 +10753,7 @@
     "size": 48216687,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+16/sapmachine-jre-19-ea.16_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.16"
+    "version": "19.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -10776,7 +10776,7 @@
     "size": 48242296,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+17/sapmachine-jre-19-ea.17_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.17"
+    "version": "19.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -10799,7 +10799,7 @@
     "size": 48551385,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+18/sapmachine-jre-19-ea.18_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.18"
+    "version": "19.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -10822,7 +10822,7 @@
     "size": 48570507,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+19/sapmachine-jre-19-ea.19_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.19"
+    "version": "19.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -10845,7 +10845,7 @@
     "size": 46625806,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+1/sapmachine-jre-19-ea.1_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.1"
+    "version": "19.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -10868,7 +10868,7 @@
     "size": 48596505,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+20/sapmachine-jre-19-ea.20_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.20"
+    "version": "19.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -10891,7 +10891,7 @@
     "size": 48595375,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+21/sapmachine-jre-19-ea.21_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.21"
+    "version": "19.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -10914,7 +10914,7 @@
     "size": 49098714,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+22/sapmachine-jre-19-ea.22_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.22"
+    "version": "19.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -10937,7 +10937,7 @@
     "size": 49078385,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+23/sapmachine-jre-19-ea.23_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.23"
+    "version": "19.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -10960,7 +10960,7 @@
     "size": 49080424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jre-19-ea.24_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.24"
+    "version": "19.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -10983,7 +10983,7 @@
     "size": 49129337,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+25/sapmachine-jre-19-ea.25_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.25"
+    "version": "19.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -11006,7 +11006,7 @@
     "size": 48745712,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+26/sapmachine-jre-19-ea.26_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.26"
+    "version": "19.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -11029,7 +11029,7 @@
     "size": 48744162,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+27/sapmachine-jre-19-ea.27_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.27"
+    "version": "19.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -11052,7 +11052,7 @@
     "size": 48750695,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+28/sapmachine-jre-19-ea.28_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.28"
+    "version": "19.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -11075,7 +11075,7 @@
     "size": 48762913,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+29/sapmachine-jre-19-ea.29_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.29"
+    "version": "19.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -11098,7 +11098,7 @@
     "size": 46636810,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+2/sapmachine-jre-19-ea.2_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.2"
+    "version": "19.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -11121,7 +11121,7 @@
     "size": 48765805,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+30/sapmachine-jre-19-ea.30_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.30"
+    "version": "19.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -11144,7 +11144,7 @@
     "size": 48769048,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+31/sapmachine-jre-19-ea.31_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.31"
+    "version": "19.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -11167,7 +11167,7 @@
     "size": 48776496,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+32/sapmachine-jre-19-ea.32_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.32"
+    "version": "19.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -11190,7 +11190,7 @@
     "size": 48777267,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+33/sapmachine-jre-19-ea.33_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.33"
+    "version": "19.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -11213,7 +11213,7 @@
     "size": 48776187,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+34/sapmachine-jre-19-ea.34_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.34"
+    "version": "19.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -11236,7 +11236,7 @@
     "size": 48779094,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+35/sapmachine-jre-19-ea.35_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.35"
+    "version": "19.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -11259,7 +11259,7 @@
     "size": 48778348,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+36/sapmachine-jre-19-ea.36_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.36"
+    "version": "19.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -11282,7 +11282,7 @@
     "size": 46626437,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+3/sapmachine-jre-19-ea.3_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.3"
+    "version": "19.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -11305,7 +11305,7 @@
     "size": 46634043,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+4/sapmachine-jre-19-ea.4_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.4"
+    "version": "19.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -11328,7 +11328,7 @@
     "size": 46661681,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+5/sapmachine-jre-19-ea.5_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.5"
+    "version": "19.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -11351,7 +11351,7 @@
     "size": 46663898,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+6/sapmachine-jre-19-ea.6_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.6"
+    "version": "19.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -11374,7 +11374,7 @@
     "size": 46668934,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+7/sapmachine-jre-19-ea.7_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.7"
+    "version": "19.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -11397,7 +11397,7 @@
     "size": 47126575,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+8/sapmachine-jre-19-ea.8_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.8"
+    "version": "19.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -11420,7 +11420,7 @@
     "size": 47138033,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+9/sapmachine-jre-19-ea.9_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.9"
+    "version": "19.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -11445,7 +11445,7 @@
     "size": 48553691,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+20/sapmachine-jre-19-eabeta.20_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.20"
+    "version": "19.0.0-eabeta.20"
   },
   {
     "architecture": "x86_64",
@@ -11470,7 +11470,7 @@
     "size": 48542212,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+21/sapmachine-jre-19-eabeta.21_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.21"
+    "version": "19.0.0-eabeta.21"
   },
   {
     "architecture": "x86_64",
@@ -11495,7 +11495,7 @@
     "size": 49067308,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+22/sapmachine-jre-19-eabeta.22_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.22"
+    "version": "19.0.0-eabeta.22"
   },
   {
     "architecture": "x86_64",
@@ -11520,7 +11520,7 @@
     "size": 49056542,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+23/sapmachine-jre-19-eabeta.23_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.23"
+    "version": "19.0.0-eabeta.23"
   },
   {
     "architecture": "x86_64",
@@ -11545,7 +11545,7 @@
     "size": 49056391,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jre-19-eabeta.24_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.24"
+    "version": "19.0.0-eabeta.24"
   },
   {
     "architecture": "x86_64",
@@ -11570,7 +11570,7 @@
     "size": 49101710,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+25/sapmachine-jre-19-eabeta.25_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.25"
+    "version": "19.0.0-eabeta.25"
   },
   {
     "architecture": "x86_64",
@@ -11595,7 +11595,7 @@
     "size": 49249829,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+26/sapmachine-jre-19-eabeta.26_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.26"
+    "version": "19.0.0-eabeta.26"
   },
   {
     "architecture": "x86_64",
@@ -11620,7 +11620,7 @@
     "size": 49249037,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+27/sapmachine-jre-19-eabeta.27_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.27"
+    "version": "19.0.0-eabeta.27"
   },
   {
     "architecture": "x86_64",
@@ -11645,7 +11645,7 @@
     "size": 49254799,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+28/sapmachine-jre-19-eabeta.28_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.28"
+    "version": "19.0.0-eabeta.28"
   },
   {
     "architecture": "x86_64",
@@ -11670,7 +11670,7 @@
     "size": 49266742,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+29/sapmachine-jre-19-eabeta.29_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.29"
+    "version": "19.0.0-eabeta.29"
   },
   {
     "architecture": "x86_64",
@@ -11695,7 +11695,7 @@
     "size": 49268858,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+30/sapmachine-jre-19-eabeta.30_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.30"
+    "version": "19.0.0-eabeta.30"
   },
   {
     "architecture": "x86_64",
@@ -11720,7 +11720,7 @@
     "size": 49268152,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+31/sapmachine-jre-19-eabeta.31_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.31"
+    "version": "19.0.0-eabeta.31"
   },
   {
     "architecture": "x86_64",
@@ -11745,7 +11745,7 @@
     "size": 49273621,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+32/sapmachine-jre-19-eabeta.32_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.32"
+    "version": "19.0.0-eabeta.32"
   },
   {
     "architecture": "x86_64",
@@ -11770,7 +11770,7 @@
     "size": 49277243,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+33/sapmachine-jre-19-eabeta.33_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.33"
+    "version": "19.0.0-eabeta.33"
   },
   {
     "architecture": "x86_64",
@@ -11795,7 +11795,7 @@
     "size": 49275041,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+34/sapmachine-jre-19-eabeta.34_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.34"
+    "version": "19.0.0-eabeta.34"
   },
   {
     "architecture": "x86_64",
@@ -11820,7 +11820,7 @@
     "size": 49277177,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+35/sapmachine-jre-19-eabeta.35_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.35"
+    "version": "19.0.0-eabeta.35"
   },
   {
     "architecture": "x86_64",
@@ -11845,7 +11845,7 @@
     "size": 49278591,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+36/sapmachine-jre-19-eabeta.36_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-eabeta.36"
+    "version": "19.0.0-eabeta.36"
   },
   {
     "architecture": "x86_64",
@@ -12012,7 +12012,7 @@
     "size": 48884340,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+10/sapmachine-jre-20-ea.10_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.10"
+    "version": "20.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -12035,7 +12035,7 @@
     "size": 49386030,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+11/sapmachine-jre-20-ea.11_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.11"
+    "version": "20.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -12058,7 +12058,7 @@
     "size": 49410952,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+12/sapmachine-jre-20-ea.12_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.12"
+    "version": "20.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -12081,7 +12081,7 @@
     "size": 49390462,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+13/sapmachine-jre-20-ea.13_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.13"
+    "version": "20.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -12104,7 +12104,7 @@
     "size": 49419696,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+14/sapmachine-jre-20-ea.14_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.14"
+    "version": "20.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -12127,7 +12127,7 @@
     "size": 49429549,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+15/sapmachine-jre-20-ea.15_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.15"
+    "version": "20.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -12150,7 +12150,7 @@
     "size": 49410242,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+16/sapmachine-jre-20-ea.16_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.16"
+    "version": "20.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -12173,7 +12173,7 @@
     "size": 49416683,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+17/sapmachine-jre-20-ea.17_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.17"
+    "version": "20.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -12196,7 +12196,7 @@
     "size": 49410708,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+18/sapmachine-jre-20-ea.18_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.18"
+    "version": "20.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -12219,7 +12219,7 @@
     "size": 49452056,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+19/sapmachine-jre-20-ea.19_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.19"
+    "version": "20.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -12242,7 +12242,7 @@
     "size": 48746943,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+1/sapmachine-jre-20-ea.1_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.1"
+    "version": "20.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -12265,7 +12265,7 @@
     "size": 49470204,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+20/sapmachine-jre-20-ea.20_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.20"
+    "version": "20.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -12288,7 +12288,7 @@
     "size": 49939838,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+21/sapmachine-jre-20-ea.21_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.21"
+    "version": "20.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -12311,7 +12311,7 @@
     "size": 49938424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+22/sapmachine-jre-20-ea.22_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.22"
+    "version": "20.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -12334,7 +12334,7 @@
     "size": 49935684,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+23/sapmachine-jre-20-ea.23_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.23"
+    "version": "20.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -12357,7 +12357,7 @@
     "size": 49933676,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+24/sapmachine-jre-20-ea.24_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.24"
+    "version": "20.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -12380,7 +12380,7 @@
     "size": 49970728,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+25/sapmachine-jre-20-ea.25_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.25"
+    "version": "20.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -12403,7 +12403,7 @@
     "size": 49977135,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+26/sapmachine-jre-20-ea.26_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.26"
+    "version": "20.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -12426,7 +12426,7 @@
     "size": 49984083,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+27/sapmachine-jre-20-ea.27_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.27"
+    "version": "20.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -12449,7 +12449,7 @@
     "size": 49985057,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+28/sapmachine-jre-20-ea.28_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.28"
+    "version": "20.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -12472,7 +12472,7 @@
     "size": 49989645,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+29/sapmachine-jre-20-ea.29_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.29"
+    "version": "20.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -12495,7 +12495,7 @@
     "size": 48772475,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+2/sapmachine-jre-20-ea.2_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.2"
+    "version": "20.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -12518,7 +12518,7 @@
     "size": 49989709,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+30/sapmachine-jre-20-ea.30_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.30"
+    "version": "20.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -12541,7 +12541,7 @@
     "size": 49988110,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+31/sapmachine-jre-20-ea.31_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.31"
+    "version": "20.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -12564,7 +12564,7 @@
     "size": 50003095,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+32/sapmachine-jre-20-ea.32_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.32"
+    "version": "20.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -12587,7 +12587,7 @@
     "size": 50005515,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+33/sapmachine-jre-20-ea.33_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.33"
+    "version": "20.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -12610,7 +12610,7 @@
     "size": 50004112,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+34/sapmachine-jre-20-ea.34_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.34"
+    "version": "20.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -12633,7 +12633,7 @@
     "size": 50005615,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jre-20-ea.35_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.35"
+    "version": "20.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -12658,7 +12658,7 @@
     "size": 49996950,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+36/sapmachine-jre-20-ea.36_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.36"
+    "version": "20.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -12681,7 +12681,7 @@
     "size": 50007970,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+36/sapmachine-jre-20-ea.36_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.36"
+    "version": "20.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -12704,7 +12704,7 @@
     "size": 48783859,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+3/sapmachine-jre-20-ea.3_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.3"
+    "version": "20.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -12727,7 +12727,7 @@
     "size": 48674265,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+4/sapmachine-jre-20-ea.4_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.4"
+    "version": "20.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -12750,7 +12750,7 @@
     "size": 48666121,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+5/sapmachine-jre-20-ea.5_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.5"
+    "version": "20.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -12773,7 +12773,7 @@
     "size": 48791302,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+6/sapmachine-jre-20-ea.6_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.6"
+    "version": "20.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -12796,7 +12796,7 @@
     "size": 48794108,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+7/sapmachine-jre-20-ea.7_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.7"
+    "version": "20.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -12819,7 +12819,7 @@
     "size": 48815157,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+8/sapmachine-jre-20-ea.8_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.8"
+    "version": "20.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -12842,7 +12842,7 @@
     "size": 48888514,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+9/sapmachine-jre-20-ea.9_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.9"
+    "version": "20.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -12867,7 +12867,7 @@
     "size": 49379826,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+10/sapmachine-jre-20-eabeta.10_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.10"
+    "version": "20.0.0-eabeta.10"
   },
   {
     "architecture": "x86_64",
@@ -12892,7 +12892,7 @@
     "size": 49357603,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+11/sapmachine-jre-20-eabeta.11_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.11"
+    "version": "20.0.0-eabeta.11"
   },
   {
     "architecture": "x86_64",
@@ -12917,7 +12917,7 @@
     "size": 49382206,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+12/sapmachine-jre-20-eabeta.12_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.12"
+    "version": "20.0.0-eabeta.12"
   },
   {
     "architecture": "x86_64",
@@ -12942,7 +12942,7 @@
     "size": 49366903,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+13/sapmachine-jre-20-eabeta.13_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.13"
+    "version": "20.0.0-eabeta.13"
   },
   {
     "architecture": "x86_64",
@@ -12967,7 +12967,7 @@
     "size": 49396293,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+14/sapmachine-jre-20-eabeta.14_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.14"
+    "version": "20.0.0-eabeta.14"
   },
   {
     "architecture": "x86_64",
@@ -12992,7 +12992,7 @@
     "size": 49397375,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+15/sapmachine-jre-20-eabeta.15_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.15"
+    "version": "20.0.0-eabeta.15"
   },
   {
     "architecture": "x86_64",
@@ -13017,7 +13017,7 @@
     "size": 49379822,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+16/sapmachine-jre-20-eabeta.16_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.16"
+    "version": "20.0.0-eabeta.16"
   },
   {
     "architecture": "x86_64",
@@ -13042,7 +13042,7 @@
     "size": 49382085,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+17/sapmachine-jre-20-eabeta.17_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.17"
+    "version": "20.0.0-eabeta.17"
   },
   {
     "architecture": "x86_64",
@@ -13067,7 +13067,7 @@
     "size": 49388847,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+18/sapmachine-jre-20-eabeta.18_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.18"
+    "version": "20.0.0-eabeta.18"
   },
   {
     "architecture": "x86_64",
@@ -13092,7 +13092,7 @@
     "size": 49436034,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+19/sapmachine-jre-20-eabeta.19_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.19"
+    "version": "20.0.0-eabeta.19"
   },
   {
     "architecture": "x86_64",
@@ -13117,7 +13117,7 @@
     "size": 49249391,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+1/sapmachine-jre-20-eabeta.1_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.1"
+    "version": "20.0.0-eabeta.1"
   },
   {
     "architecture": "x86_64",
@@ -13142,7 +13142,7 @@
     "size": 49450519,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+20/sapmachine-jre-20-eabeta.20_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.20"
+    "version": "20.0.0-eabeta.20"
   },
   {
     "architecture": "x86_64",
@@ -13167,7 +13167,7 @@
     "size": 49936851,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+21/sapmachine-jre-20-eabeta.21_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.21"
+    "version": "20.0.0-eabeta.21"
   },
   {
     "architecture": "x86_64",
@@ -13192,7 +13192,7 @@
     "size": 49938137,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+22/sapmachine-jre-20-eabeta.22_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.22"
+    "version": "20.0.0-eabeta.22"
   },
   {
     "architecture": "x86_64",
@@ -13217,7 +13217,7 @@
     "size": 49931556,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+23/sapmachine-jre-20-eabeta.23_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.23"
+    "version": "20.0.0-eabeta.23"
   },
   {
     "architecture": "x86_64",
@@ -13242,7 +13242,7 @@
     "size": 49934714,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+24/sapmachine-jre-20-eabeta.24_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.24"
+    "version": "20.0.0-eabeta.24"
   },
   {
     "architecture": "x86_64",
@@ -13267,7 +13267,7 @@
     "size": 49964373,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+25/sapmachine-jre-20-eabeta.25_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.25"
+    "version": "20.0.0-eabeta.25"
   },
   {
     "architecture": "x86_64",
@@ -13292,7 +13292,7 @@
     "size": 49969199,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+26/sapmachine-jre-20-eabeta.26_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.26"
+    "version": "20.0.0-eabeta.26"
   },
   {
     "architecture": "x86_64",
@@ -13317,7 +13317,7 @@
     "size": 49985455,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+27/sapmachine-jre-20-eabeta.27_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.27"
+    "version": "20.0.0-eabeta.27"
   },
   {
     "architecture": "x86_64",
@@ -13342,7 +13342,7 @@
     "size": 49984624,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+28/sapmachine-jre-20-eabeta.28_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.28"
+    "version": "20.0.0-eabeta.28"
   },
   {
     "architecture": "x86_64",
@@ -13367,7 +13367,7 @@
     "size": 49988605,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+29/sapmachine-jre-20-eabeta.29_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.29"
+    "version": "20.0.0-eabeta.29"
   },
   {
     "architecture": "x86_64",
@@ -13392,7 +13392,7 @@
     "size": 49276156,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+2/sapmachine-jre-20-eabeta.2_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.2"
+    "version": "20.0.0-eabeta.2"
   },
   {
     "architecture": "x86_64",
@@ -13417,7 +13417,7 @@
     "size": 49989874,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+30/sapmachine-jre-20-eabeta.30_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.30"
+    "version": "20.0.0-eabeta.30"
   },
   {
     "architecture": "x86_64",
@@ -13442,7 +13442,7 @@
     "size": 49987246,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+31/sapmachine-jre-20-eabeta.31_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.31"
+    "version": "20.0.0-eabeta.31"
   },
   {
     "architecture": "x86_64",
@@ -13467,7 +13467,7 @@
     "size": 49986553,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+32/sapmachine-jre-20-eabeta.32_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.32"
+    "version": "20.0.0-eabeta.32"
   },
   {
     "architecture": "x86_64",
@@ -13492,7 +13492,7 @@
     "size": 49989540,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+33/sapmachine-jre-20-eabeta.33_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.33"
+    "version": "20.0.0-eabeta.33"
   },
   {
     "architecture": "x86_64",
@@ -13517,7 +13517,7 @@
     "size": 49990901,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+34/sapmachine-jre-20-eabeta.34_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.34"
+    "version": "20.0.0-eabeta.34"
   },
   {
     "architecture": "x86_64",
@@ -13542,7 +13542,7 @@
     "size": 49989984,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jre-20-eabeta.35_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.35"
+    "version": "20.0.0-eabeta.35"
   },
   {
     "architecture": "x86_64",
@@ -13567,7 +13567,7 @@
     "size": 49283239,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+3/sapmachine-jre-20-eabeta.3_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.3"
+    "version": "20.0.0-eabeta.3"
   },
   {
     "architecture": "x86_64",
@@ -13592,7 +13592,7 @@
     "size": 49169474,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+4/sapmachine-jre-20-eabeta.4_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.4"
+    "version": "20.0.0-eabeta.4"
   },
   {
     "architecture": "x86_64",
@@ -13617,7 +13617,7 @@
     "size": 49150349,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+5/sapmachine-jre-20-eabeta.5_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.5"
+    "version": "20.0.0-eabeta.5"
   },
   {
     "architecture": "x86_64",
@@ -13642,7 +13642,7 @@
     "size": 49281528,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+6/sapmachine-jre-20-eabeta.6_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.6"
+    "version": "20.0.0-eabeta.6"
   },
   {
     "architecture": "x86_64",
@@ -13667,7 +13667,7 @@
     "size": 49289564,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+7/sapmachine-jre-20-eabeta.7_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.7"
+    "version": "20.0.0-eabeta.7"
   },
   {
     "architecture": "x86_64",
@@ -13692,7 +13692,7 @@
     "size": 49313445,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+8/sapmachine-jre-20-eabeta.8_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.8"
+    "version": "20.0.0-eabeta.8"
   },
   {
     "architecture": "x86_64",
@@ -13717,7 +13717,7 @@
     "size": 49378333,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+9/sapmachine-jre-20-eabeta.9_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-eabeta.9"
+    "version": "20.0.0-eabeta.9"
   },
   {
     "architecture": "x86_64",
@@ -13886,7 +13886,7 @@
     "size": 50231932,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+10/sapmachine-jre-21-ea.10_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.10"
+    "version": "21.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -13909,7 +13909,7 @@
     "size": 50128591,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+10/sapmachine-jre-21-ea.10_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.10"
+    "version": "21.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -13934,7 +13934,7 @@
     "size": 50242950,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+11/sapmachine-jre-21-ea.11_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.11"
+    "version": "21.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -13957,7 +13957,7 @@
     "size": 50144902,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+11/sapmachine-jre-21-ea.11_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.11"
+    "version": "21.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -13982,7 +13982,7 @@
     "size": 50248875,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+12/sapmachine-jre-21-ea.12_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.12"
+    "version": "21.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -14005,7 +14005,7 @@
     "size": 49696842,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+12/sapmachine-jre-21-ea.12_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.12"
+    "version": "21.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -14030,7 +14030,7 @@
     "size": 50263515,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+13/sapmachine-jre-21-ea.13_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.13"
+    "version": "21.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -14053,7 +14053,7 @@
     "size": 49713934,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+13/sapmachine-jre-21-ea.13_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.13"
+    "version": "21.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -14078,7 +14078,7 @@
     "size": 50765103,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+14/sapmachine-jre-21-ea.14_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.14"
+    "version": "21.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -14101,7 +14101,7 @@
     "size": 50200680,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+14/sapmachine-jre-21-ea.14_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.14"
+    "version": "21.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -14126,7 +14126,7 @@
     "size": 52578201,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+15/sapmachine-jre-21-ea.15_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.15"
+    "version": "21.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -14149,7 +14149,7 @@
     "size": 52003361,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+15/sapmachine-jre-21-ea.15_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.15"
+    "version": "21.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -14174,7 +14174,7 @@
     "size": 52544143,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+16/sapmachine-jre-21-ea.16_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.16"
+    "version": "21.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -14197,7 +14197,7 @@
     "size": 51972450,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+16/sapmachine-jre-21-ea.16_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.16"
+    "version": "21.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -14222,7 +14222,7 @@
     "size": 52607162,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+17/sapmachine-jre-21-ea.17_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.17"
+    "version": "21.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -14245,7 +14245,7 @@
     "size": 51916573,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+17/sapmachine-jre-21-ea.17_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.17"
+    "version": "21.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -14270,7 +14270,7 @@
     "size": 52587500,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+18/sapmachine-jre-21-ea.18_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.18"
+    "version": "21.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -14293,7 +14293,7 @@
     "size": 51907937,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+18/sapmachine-jre-21-ea.18_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.18"
+    "version": "21.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -14318,7 +14318,7 @@
     "size": 52649974,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+19/sapmachine-jre-21-ea.19_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.19"
+    "version": "21.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -14341,7 +14341,7 @@
     "size": 51975281,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+19/sapmachine-jre-21-ea.19_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.19"
+    "version": "21.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -14364,7 +14364,7 @@
     "size": 49985161,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+1/sapmachine-jre-21-ea.1_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.1"
+    "version": "21.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -14389,7 +14389,7 @@
     "size": 52688776,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+20/sapmachine-jre-21-ea.20_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.20"
+    "version": "21.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -14412,7 +14412,7 @@
     "size": 51987594,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+20/sapmachine-jre-21-ea.20_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.20"
+    "version": "21.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -14437,7 +14437,7 @@
     "size": 52696672,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+21/sapmachine-jre-21-ea.21_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.21"
+    "version": "21.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -14460,7 +14460,7 @@
     "size": 52026633,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+21/sapmachine-jre-21-ea.21_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.21"
+    "version": "21.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -14485,7 +14485,7 @@
     "size": 52801375,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+22/sapmachine-jre-21-ea.22_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.22"
+    "version": "21.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -14508,7 +14508,7 @@
     "size": 52106285,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+22/sapmachine-jre-21-ea.22_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.22"
+    "version": "21.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -14533,7 +14533,7 @@
     "size": 53210334,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+23/sapmachine-jre-21-ea.23_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.23"
+    "version": "21.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -14556,7 +14556,7 @@
     "size": 52465076,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+23/sapmachine-jre-21-ea.23_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.23"
+    "version": "21.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -14581,7 +14581,7 @@
     "size": 53217846,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+24/sapmachine-jre-21-ea.24_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.24"
+    "version": "21.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -14604,7 +14604,7 @@
     "size": 52476870,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+24/sapmachine-jre-21-ea.24_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.24"
+    "version": "21.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -14629,7 +14629,7 @@
     "size": 53342306,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+25/sapmachine-jre-21-ea.25_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.25"
+    "version": "21.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -14652,7 +14652,7 @@
     "size": 52597695,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+25/sapmachine-jre-21-ea.25_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.25"
+    "version": "21.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -14677,7 +14677,7 @@
     "size": 53408132,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+26/sapmachine-jre-21-ea.26_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.26"
+    "version": "21.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -14700,7 +14700,7 @@
     "size": 52664846,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+26/sapmachine-jre-21-ea.26_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.26"
+    "version": "21.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -14725,7 +14725,7 @@
     "size": 53415478,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+27/sapmachine-jre-21-ea.27_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.27"
+    "version": "21.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -14748,7 +14748,7 @@
     "size": 52673474,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+27/sapmachine-jre-21-ea.27_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.27"
+    "version": "21.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -14773,7 +14773,7 @@
     "size": 53426459,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+28/sapmachine-jre-21-ea.28_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.28"
+    "version": "21.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -14796,7 +14796,7 @@
     "size": 52672924,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+28/sapmachine-jre-21-ea.28_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.28"
+    "version": "21.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -14821,7 +14821,7 @@
     "size": 53441813,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+29/sapmachine-jre-21-ea.29_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.29"
+    "version": "21.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -14844,7 +14844,7 @@
     "size": 52696966,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+29/sapmachine-jre-21-ea.29_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.29"
+    "version": "21.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -14867,7 +14867,7 @@
     "size": 49971800,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+2/sapmachine-jre-21-ea.2_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.2"
+    "version": "21.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -14892,7 +14892,7 @@
     "size": 53439461,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+30/sapmachine-jre-21-ea.30_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.30"
+    "version": "21.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -14915,7 +14915,7 @@
     "size": 52700495,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+30/sapmachine-jre-21-ea.30_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.30"
+    "version": "21.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -14940,7 +14940,7 @@
     "size": 53440385,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+31/sapmachine-jre-21-ea.31_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.31"
+    "version": "21.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -14963,7 +14963,7 @@
     "size": 52701765,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+31/sapmachine-jre-21-ea.31_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.31"
+    "version": "21.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -14988,7 +14988,7 @@
     "size": 53473924,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+32/sapmachine-jre-21-ea.32_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.32"
+    "version": "21.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -15011,7 +15011,7 @@
     "size": 52738731,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+32/sapmachine-jre-21-ea.32_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.32"
+    "version": "21.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -15036,7 +15036,7 @@
     "size": 53473828,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+33/sapmachine-jre-21-ea.33_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.33"
+    "version": "21.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -15059,7 +15059,7 @@
     "size": 52740854,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+33/sapmachine-jre-21-ea.33_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.33"
+    "version": "21.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -15084,7 +15084,7 @@
     "size": 53474212,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+34/sapmachine-jre-21-ea.34_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.34"
+    "version": "21.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -15107,7 +15107,7 @@
     "size": 52739640,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+34/sapmachine-jre-21-ea.34_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.34"
+    "version": "21.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -15132,7 +15132,7 @@
     "size": 53474019,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+35/sapmachine-jre-21-ea.35_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.35"
+    "version": "21.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -15155,7 +15155,7 @@
     "size": 52742077,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+35/sapmachine-jre-21-ea.35_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.35"
+    "version": "21.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -15178,7 +15178,7 @@
     "size": 50005859,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+3/sapmachine-jre-21-ea.3_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.3"
+    "version": "21.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -15201,7 +15201,7 @@
     "size": 49997292,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+4/sapmachine-jre-21-ea.4_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.4"
+    "version": "21.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -15224,7 +15224,7 @@
     "size": 50019045,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+5/sapmachine-jre-21-ea.5_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.5"
+    "version": "21.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -15247,7 +15247,7 @@
     "size": 50039109,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+6/sapmachine-jre-21-ea.6_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.6"
+    "version": "21.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -15270,7 +15270,7 @@
     "size": 50095136,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+7/sapmachine-jre-21-ea.7_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.7"
+    "version": "21.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -15293,7 +15293,7 @@
     "size": 50092807,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+8/sapmachine-jre-21-ea.8_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.8"
+    "version": "21.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -15316,7 +15316,7 @@
     "size": 50096637,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+9/sapmachine-jre-21-ea.9_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.9"
+    "version": "21.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -15341,7 +15341,7 @@
     "size": 49987793,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+1/sapmachine-jre-21-eabeta.1_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-eabeta.1"
+    "version": "21.0.0-eabeta.1"
   },
   {
     "architecture": "x86_64",
@@ -15366,7 +15366,7 @@
     "size": 49968528,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+2/sapmachine-jre-21-eabeta.2_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-eabeta.2"
+    "version": "21.0.0-eabeta.2"
   },
   {
     "architecture": "x86_64",
@@ -15391,7 +15391,7 @@
     "size": 50028012,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+3/sapmachine-jre-21-eabeta.3_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-eabeta.3"
+    "version": "21.0.0-eabeta.3"
   },
   {
     "architecture": "x86_64",
@@ -15416,7 +15416,7 @@
     "size": 50020180,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+4/sapmachine-jre-21-eabeta.4_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-eabeta.4"
+    "version": "21.0.0-eabeta.4"
   },
   {
     "architecture": "x86_64",
@@ -15441,7 +15441,7 @@
     "size": 50038957,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+5/sapmachine-jre-21-eabeta.5_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-eabeta.5"
+    "version": "21.0.0-eabeta.5"
   },
   {
     "architecture": "x86_64",
@@ -15466,7 +15466,7 @@
     "size": 50040862,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+6/sapmachine-jre-21-eabeta.6_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-eabeta.6"
+    "version": "21.0.0-eabeta.6"
   },
   {
     "architecture": "x86_64",
@@ -15491,7 +15491,7 @@
     "size": 50084658,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+7/sapmachine-jre-21-eabeta.7_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-eabeta.7"
+    "version": "21.0.0-eabeta.7"
   },
   {
     "architecture": "x86_64",
@@ -15516,7 +15516,7 @@
     "size": 50082120,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+8/sapmachine-jre-21-eabeta.8_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-eabeta.8"
+    "version": "21.0.0-eabeta.8"
   },
   {
     "architecture": "x86_64",
@@ -15541,7 +15541,7 @@
     "size": 50088485,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+9/sapmachine-jre-21-eabeta.9_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-eabeta.9"
+    "version": "21.0.0-eabeta.9"
   },
   {
     "architecture": "x86_64",
@@ -16382,7 +16382,7 @@
     "size": 53552886,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+10/sapmachine-jre-22-ea.10_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.10"
+    "version": "22.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -16405,7 +16405,7 @@
     "size": 52820315,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+10/sapmachine-jre-22-ea.10_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.10"
+    "version": "22.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -16430,7 +16430,7 @@
     "size": 53570027,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+11/sapmachine-jre-22-ea.11_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.11"
+    "version": "22.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -16453,7 +16453,7 @@
     "size": 52831591,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+11/sapmachine-jre-22-ea.11_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.11"
+    "version": "22.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -16478,7 +16478,7 @@
     "size": 53593151,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+12/sapmachine-jre-22-ea.12_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.12"
+    "version": "22.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -16501,7 +16501,7 @@
     "size": 52827917,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+12/sapmachine-jre-22-ea.12_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.12"
+    "version": "22.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -16526,7 +16526,7 @@
     "size": 53592891,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+13/sapmachine-jre-22-ea.13_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.13"
+    "version": "22.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -16549,7 +16549,7 @@
     "size": 52831622,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+13/sapmachine-jre-22-ea.13_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.13"
+    "version": "22.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -16574,7 +16574,7 @@
     "size": 53596141,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+14/sapmachine-jre-22-ea.14_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.14"
+    "version": "22.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -16597,7 +16597,7 @@
     "size": 52851950,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+14/sapmachine-jre-22-ea.14_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.14"
+    "version": "22.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -16622,7 +16622,7 @@
     "size": 53661473,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+15/sapmachine-jre-22-ea.15_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.15"
+    "version": "22.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -16645,7 +16645,7 @@
     "size": 52900565,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+15/sapmachine-jre-22-ea.15_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.15"
+    "version": "22.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -16670,7 +16670,7 @@
     "size": 53647274,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+16/sapmachine-jre-22-ea.16_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.16"
+    "version": "22.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -16693,7 +16693,7 @@
     "size": 52913265,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+16/sapmachine-jre-22-ea.16_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.16"
+    "version": "22.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -16718,7 +16718,7 @@
     "size": 53655136,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+17/sapmachine-jre-22-ea.17_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.17"
+    "version": "22.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -16741,7 +16741,7 @@
     "size": 52904318,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+17/sapmachine-jre-22-ea.17_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.17"
+    "version": "22.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -16766,7 +16766,7 @@
     "size": 53673410,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+18/sapmachine-jre-22-ea.18_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.18"
+    "version": "22.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -16789,7 +16789,7 @@
     "size": 52915263,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+18/sapmachine-jre-22-ea.18_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.18"
+    "version": "22.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -16814,7 +16814,7 @@
     "size": 53713516,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+19/sapmachine-jre-22-ea.19_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.19"
+    "version": "22.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -16837,7 +16837,7 @@
     "size": 52959002,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+19/sapmachine-jre-22-ea.19_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.19"
+    "version": "22.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -16862,7 +16862,7 @@
     "size": 53411704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+1/sapmachine-jre-22-ea.1_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.1"
+    "version": "22.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -16885,7 +16885,7 @@
     "size": 52661849,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+1/sapmachine-jre-22-ea.1_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.1"
+    "version": "22.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -16910,7 +16910,7 @@
     "size": 53735825,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+20/sapmachine-jre-22-ea.20_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.20"
+    "version": "22.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -16933,7 +16933,7 @@
     "size": 52976919,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+20/sapmachine-jre-22-ea.20_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.20"
+    "version": "22.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -16958,7 +16958,7 @@
     "size": 53837548,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+21/sapmachine-jre-22-ea.21_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.21"
+    "version": "22.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -16981,7 +16981,7 @@
     "size": 53073615,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+21/sapmachine-jre-22-ea.21_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.21"
+    "version": "22.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -17006,7 +17006,7 @@
     "size": 53902721,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+22/sapmachine-jre-22-ea.22_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.22"
+    "version": "22.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -17029,7 +17029,7 @@
     "size": 53165057,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+22/sapmachine-jre-22-ea.22_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.22"
+    "version": "22.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -17054,7 +17054,7 @@
     "size": 53531951,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+23/sapmachine-jre-22-ea.23_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.23"
+    "version": "22.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -17077,7 +17077,7 @@
     "size": 52804321,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+23/sapmachine-jre-22-ea.23_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.23"
+    "version": "22.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -17102,7 +17102,7 @@
     "size": 52915678,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+24/sapmachine-jre-22-ea.24_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.24"
+    "version": "22.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -17125,7 +17125,7 @@
     "size": 52183513,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+24/sapmachine-jre-22-ea.24_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.24"
+    "version": "22.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -17150,7 +17150,7 @@
     "size": 52932650,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+25/sapmachine-jre-22-ea.25_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.25"
+    "version": "22.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -17173,7 +17173,7 @@
     "size": 52204519,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+25/sapmachine-jre-22-ea.25_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.25"
+    "version": "22.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -17198,7 +17198,7 @@
     "size": 52963271,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+26/sapmachine-jre-22-ea.26_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.26"
+    "version": "22.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -17221,7 +17221,7 @@
     "size": 52246833,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+26/sapmachine-jre-22-ea.26_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.26"
+    "version": "22.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -17246,7 +17246,7 @@
     "size": 53040052,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+27/sapmachine-jre-22-ea.27_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.27"
+    "version": "22.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -17269,7 +17269,7 @@
     "size": 52306041,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+27/sapmachine-jre-22-ea.27_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.27"
+    "version": "22.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -17294,7 +17294,7 @@
     "size": 53037965,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+28/sapmachine-jre-22-ea.28_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.28"
+    "version": "22.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -17317,7 +17317,7 @@
     "size": 52305561,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+28/sapmachine-jre-22-ea.28_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.28"
+    "version": "22.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -17342,7 +17342,7 @@
     "size": 53044221,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+29/sapmachine-jre-22-ea.29_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.29"
+    "version": "22.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -17365,7 +17365,7 @@
     "size": 52308546,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+29/sapmachine-jre-22-ea.29_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.29"
+    "version": "22.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -17390,7 +17390,7 @@
     "size": 53395057,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+2/sapmachine-jre-22-ea.2_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.2"
+    "version": "22.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -17413,7 +17413,7 @@
     "size": 52654799,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+2/sapmachine-jre-22-ea.2_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.2"
+    "version": "22.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -17438,7 +17438,7 @@
     "size": 53043831,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+30/sapmachine-jre-22-ea.30_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.30"
+    "version": "22.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -17461,7 +17461,7 @@
     "size": 52306299,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+30/sapmachine-jre-22-ea.30_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.30"
+    "version": "22.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -17486,7 +17486,7 @@
     "size": 53047640,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+31/sapmachine-jre-22-ea.31_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.31"
+    "version": "22.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -17509,7 +17509,7 @@
     "size": 52318880,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+31/sapmachine-jre-22-ea.31_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.31"
+    "version": "22.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -17534,7 +17534,7 @@
     "size": 53049202,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+32/sapmachine-jre-22-ea.32_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.32"
+    "version": "22.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -17557,7 +17557,7 @@
     "size": 52320330,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+32/sapmachine-jre-22-ea.32_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.32"
+    "version": "22.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -17582,7 +17582,7 @@
     "size": 53047357,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+33/sapmachine-jre-22-ea.33_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.33"
+    "version": "22.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -17605,7 +17605,7 @@
     "size": 52321214,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+33/sapmachine-jre-22-ea.33_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.33"
+    "version": "22.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -17630,7 +17630,7 @@
     "size": 53047300,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+34/sapmachine-jre-22-ea.34_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.34"
+    "version": "22.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -17653,7 +17653,7 @@
     "size": 52320357,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+34/sapmachine-jre-22-ea.34_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.34"
+    "version": "22.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -17678,7 +17678,7 @@
     "size": 53051051,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+35/sapmachine-jre-22-ea.35_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.35"
+    "version": "22.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -17701,7 +17701,7 @@
     "size": 52322739,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+35/sapmachine-jre-22-ea.35_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.35"
+    "version": "22.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -17726,7 +17726,7 @@
     "size": 53054966,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+36/sapmachine-jre-22-ea.36_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.36"
+    "version": "22.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -17749,7 +17749,7 @@
     "size": 52325149,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+36/sapmachine-jre-22-ea.36_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.36"
+    "version": "22.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -17774,7 +17774,7 @@
     "size": 53390004,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+3/sapmachine-jre-22-ea.3_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.3"
+    "version": "22.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -17797,7 +17797,7 @@
     "size": 52658800,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+3/sapmachine-jre-22-ea.3_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.3"
+    "version": "22.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -17822,7 +17822,7 @@
     "size": 53417467,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+4/sapmachine-jre-22-ea.4_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.4"
+    "version": "22.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -17845,7 +17845,7 @@
     "size": 52686208,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+4/sapmachine-jre-22-ea.4_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.4"
+    "version": "22.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -17870,7 +17870,7 @@
     "size": 53414962,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+5/sapmachine-jre-22-ea.5_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.5"
+    "version": "22.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -17893,7 +17893,7 @@
     "size": 52681869,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+5/sapmachine-jre-22-ea.5_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.5"
+    "version": "22.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -17918,7 +17918,7 @@
     "size": 53424895,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+6/sapmachine-jre-22-ea.6_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.6"
+    "version": "22.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -17941,7 +17941,7 @@
     "size": 52685863,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+6/sapmachine-jre-22-ea.6_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.6"
+    "version": "22.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -17966,7 +17966,7 @@
     "size": 53476903,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+7/sapmachine-jre-22-ea.7_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.7"
+    "version": "22.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -17989,7 +17989,7 @@
     "size": 52746477,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+7/sapmachine-jre-22-ea.7_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.7"
+    "version": "22.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -18014,7 +18014,7 @@
     "size": 53504839,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+8/sapmachine-jre-22-ea.8_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.8"
+    "version": "22.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -18037,7 +18037,7 @@
     "size": 52774837,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+8/sapmachine-jre-22-ea.8_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.8"
+    "version": "22.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -18062,7 +18062,7 @@
     "size": 53549142,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+9/sapmachine-jre-22-ea.9_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.9"
+    "version": "22.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -18085,7 +18085,7 @@
     "size": 52811532,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+9/sapmachine-jre-22-ea.9_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.9"
+    "version": "22.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -18302,7 +18302,7 @@
     "size": 53149838,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+10/sapmachine-jre-23-ea.10_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.10"
+    "version": "23.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -18325,7 +18325,7 @@
     "size": 52389376,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+10/sapmachine-jre-23-ea.10_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.10"
+    "version": "23.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -18350,7 +18350,7 @@
     "size": 53158770,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+11/sapmachine-jre-23-ea.11_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.11"
+    "version": "23.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -18373,7 +18373,7 @@
     "size": 52390494,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+11/sapmachine-jre-23-ea.11_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.11"
+    "version": "23.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -18398,7 +18398,7 @@
     "size": 53167896,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+12/sapmachine-jre-23-ea.12_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.12"
+    "version": "23.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -18421,7 +18421,7 @@
     "size": 52406512,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+12/sapmachine-jre-23-ea.12_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.12"
+    "version": "23.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -18446,7 +18446,7 @@
     "size": 53691330,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+13/sapmachine-jre-23-ea.13_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.13"
+    "version": "23.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -18469,7 +18469,7 @@
     "size": 52932879,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+13/sapmachine-jre-23-ea.13_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.13"
+    "version": "23.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -18494,7 +18494,7 @@
     "size": 53645077,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+14/sapmachine-jre-23-ea.14_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.14"
+    "version": "23.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -18517,7 +18517,7 @@
     "size": 52881480,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+14/sapmachine-jre-23-ea.14_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.14"
+    "version": "23.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -18542,7 +18542,7 @@
     "size": 53626348,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+15/sapmachine-jre-23-ea.15_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.15"
+    "version": "23.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -18565,7 +18565,7 @@
     "size": 52874518,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+15/sapmachine-jre-23-ea.15_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.15"
+    "version": "23.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -18590,7 +18590,7 @@
     "size": 53665357,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+16/sapmachine-jre-23-ea.16_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.16"
+    "version": "23.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -18613,7 +18613,7 @@
     "size": 52896844,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+16/sapmachine-jre-23-ea.16_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.16"
+    "version": "23.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -18638,7 +18638,7 @@
     "size": 53663461,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+17/sapmachine-jre-23-ea.17_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.17"
+    "version": "23.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -18661,7 +18661,7 @@
     "size": 52911470,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+17/sapmachine-jre-23-ea.17_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.17"
+    "version": "23.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -18686,7 +18686,7 @@
     "size": 53658112,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+18/sapmachine-jre-23-ea.18_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.18"
+    "version": "23.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -18709,7 +18709,7 @@
     "size": 52902797,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+18/sapmachine-jre-23-ea.18_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.18"
+    "version": "23.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -18734,7 +18734,7 @@
     "size": 53651495,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+19/sapmachine-jre-23-ea.19_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.19"
+    "version": "23.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -18757,7 +18757,7 @@
     "size": 52887152,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+19/sapmachine-jre-23-ea.19_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.19"
+    "version": "23.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -18782,7 +18782,7 @@
     "size": 53039409,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+1/sapmachine-jre-23-ea.1_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.1"
+    "version": "23.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -18805,7 +18805,7 @@
     "size": 52311016,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+1/sapmachine-jre-23-ea.1_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.1"
+    "version": "23.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -18830,7 +18830,7 @@
     "size": 52805041,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+20/sapmachine-jre-23-ea.20_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.20"
+    "version": "23.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -18853,7 +18853,7 @@
     "size": 52050950,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+20/sapmachine-jre-23-ea.20_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.20"
+    "version": "23.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -18878,7 +18878,7 @@
     "size": 52835519,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+21/sapmachine-jre-23-ea.21_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.21"
+    "version": "23.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -18901,7 +18901,7 @@
     "size": 52075063,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+21/sapmachine-jre-23-ea.21_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.21"
+    "version": "23.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -18926,7 +18926,7 @@
     "size": 52851630,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+22/sapmachine-jre-23-ea.22_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.22"
+    "version": "23.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -18949,7 +18949,7 @@
     "size": 52094792,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+22/sapmachine-jre-23-ea.22_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.22"
+    "version": "23.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -18974,7 +18974,7 @@
     "size": 52623236,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+23/sapmachine-jre-23-ea.23_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.23"
+    "version": "23.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -18997,7 +18997,7 @@
     "size": 51878039,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+23/sapmachine-jre-23-ea.23_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.23"
+    "version": "23.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -19022,7 +19022,7 @@
     "size": 52524654,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+24/sapmachine-jre-23-ea.24_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.24"
+    "version": "23.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -19045,7 +19045,7 @@
     "size": 51776794,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+24/sapmachine-jre-23-ea.24_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.24"
+    "version": "23.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -19070,7 +19070,7 @@
     "size": 53106392,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+25/sapmachine-jre-23-ea.25_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.25"
+    "version": "23.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -19093,7 +19093,7 @@
     "size": 52346474,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+25/sapmachine-jre-23-ea.25_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.25"
+    "version": "23.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -19118,7 +19118,7 @@
     "size": 53068811,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+26/sapmachine-jre-23-ea.26_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.26"
+    "version": "23.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -19141,7 +19141,7 @@
     "size": 52325056,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+26/sapmachine-jre-23-ea.26_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.26"
+    "version": "23.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -19166,7 +19166,7 @@
     "size": 53077641,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+27/sapmachine-jre-23-ea.27_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.27"
+    "version": "23.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -19189,7 +19189,7 @@
     "size": 52329551,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+27/sapmachine-jre-23-ea.27_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.27"
+    "version": "23.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -19214,7 +19214,7 @@
     "size": 53083875,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+28/sapmachine-jre-23-ea.28_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.28"
+    "version": "23.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -19237,7 +19237,7 @@
     "size": 52337858,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+28/sapmachine-jre-23-ea.28_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.28"
+    "version": "23.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -19262,7 +19262,7 @@
     "size": 53087505,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+29/sapmachine-jre-23-ea.29_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.29"
+    "version": "23.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -19285,7 +19285,7 @@
     "size": 52339338,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+29/sapmachine-jre-23-ea.29_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.29"
+    "version": "23.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -19310,7 +19310,7 @@
     "size": 53115398,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+2/sapmachine-jre-23-ea.2_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.2"
+    "version": "23.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -19333,7 +19333,7 @@
     "size": 52376647,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+2/sapmachine-jre-23-ea.2_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.2"
+    "version": "23.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -19358,7 +19358,7 @@
     "size": 53099981,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+30/sapmachine-jre-23-ea.30_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.30"
+    "version": "23.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -19381,7 +19381,7 @@
     "size": 52351530,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+30/sapmachine-jre-23-ea.30_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.30"
+    "version": "23.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -19406,7 +19406,7 @@
     "size": 53101424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+31/sapmachine-jre-23-ea.31_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.31"
+    "version": "23.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -19429,7 +19429,7 @@
     "size": 52350233,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+31/sapmachine-jre-23-ea.31_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.31"
+    "version": "23.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -19454,7 +19454,7 @@
     "size": 53103972,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+32/sapmachine-jre-23-ea.32_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.32"
+    "version": "23.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -19477,7 +19477,7 @@
     "size": 52348931,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+32/sapmachine-jre-23-ea.32_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.32"
+    "version": "23.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -19502,7 +19502,7 @@
     "size": 53107488,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+33/sapmachine-jre-23-ea.33_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.33"
+    "version": "23.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -19525,7 +19525,7 @@
     "size": 52348971,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+33/sapmachine-jre-23-ea.33_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.33"
+    "version": "23.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -19550,7 +19550,7 @@
     "size": 53107035,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+34/sapmachine-jre-23-ea.34_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.34"
+    "version": "23.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -19573,7 +19573,7 @@
     "size": 52349756,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+34/sapmachine-jre-23-ea.34_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.34"
+    "version": "23.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -19598,7 +19598,7 @@
     "size": 53129632,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+3/sapmachine-jre-23-ea.3_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.3"
+    "version": "23.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -19621,7 +19621,7 @@
     "size": 52388362,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+3/sapmachine-jre-23-ea.3_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.3"
+    "version": "23.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -19646,7 +19646,7 @@
     "size": 53129167,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+4/sapmachine-jre-23-ea.4_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.4"
+    "version": "23.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -19669,7 +19669,7 @@
     "size": 52393170,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+4/sapmachine-jre-23-ea.4_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.4"
+    "version": "23.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -19694,7 +19694,7 @@
     "size": 53142047,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+5/sapmachine-jre-23-ea.5_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.5"
+    "version": "23.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -19717,7 +19717,7 @@
     "size": 52403518,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+5/sapmachine-jre-23-ea.5_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.5"
+    "version": "23.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -19742,7 +19742,7 @@
     "size": 53150366,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+6/sapmachine-jre-23-ea.6_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.6"
+    "version": "23.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -19765,7 +19765,7 @@
     "size": 52416774,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+6/sapmachine-jre-23-ea.6_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.6"
+    "version": "23.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -19790,7 +19790,7 @@
     "size": 53151052,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+7/sapmachine-jre-23-ea.7_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.7"
+    "version": "23.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -19813,7 +19813,7 @@
     "size": 52416039,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+7/sapmachine-jre-23-ea.7_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.7"
+    "version": "23.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -19838,7 +19838,7 @@
     "size": 53159920,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+8/sapmachine-jre-23-ea.8_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.8"
+    "version": "23.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -19861,7 +19861,7 @@
     "size": 52427293,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+8/sapmachine-jre-23-ea.8_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.8"
+    "version": "23.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -19886,7 +19886,7 @@
     "size": 53172500,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+9/sapmachine-jre-23-ea.9_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.9"
+    "version": "23.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -19909,7 +19909,7 @@
     "size": 52407334,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+9/sapmachine-jre-23-ea.9_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.9"
+    "version": "23.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -19934,7 +19934,7 @@
     "size": 53067964,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+1/sapmachine-jre-24-ea.1_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.1"
+    "version": "24.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -19957,7 +19957,7 @@
     "size": 52324415,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+1/sapmachine-jre-24-ea.1_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.1"
+    "version": "24.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -19982,7 +19982,7 @@
     "size": 53055150,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+2/sapmachine-jre-24-ea.2_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.2"
+    "version": "24.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -20005,7 +20005,7 @@
     "size": 52312476,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+2/sapmachine-jre-24-ea.2_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.2"
+    "version": "24.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -20030,7 +20030,7 @@
     "size": 53035677,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+3/sapmachine-jre-24-ea.3_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.3"
+    "version": "24.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -20053,7 +20053,7 @@
     "size": 52294859,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+3/sapmachine-jre-24-ea.3_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.3"
+    "version": "24.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -20078,7 +20078,7 @@
     "size": 53019206,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+4/sapmachine-jre-24-ea.4_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.4"
+    "version": "24.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -20101,7 +20101,7 @@
     "size": 52272669,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+4/sapmachine-jre-24-ea.4_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.4"
+    "version": "24.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -20126,7 +20126,7 @@
     "size": 53059609,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+5/sapmachine-jre-24-ea.5_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.5"
+    "version": "24.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -20149,7 +20149,7 @@
     "size": 52314985,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+5/sapmachine-jre-24-ea.5_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.5"
+    "version": "24.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -20174,7 +20174,7 @@
     "size": 53069418,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+6/sapmachine-jre-24-ea.6_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.6"
+    "version": "24.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -20197,7 +20197,7 @@
     "size": 52325490,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+6/sapmachine-jre-24-ea.6_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.6"
+    "version": "24.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -20222,7 +20222,7 @@
     "size": 53078821,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+7/sapmachine-jre-24-ea.7_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.7"
+    "version": "24.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -20245,7 +20245,7 @@
     "size": 52323580,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+7/sapmachine-jre-24-ea.7_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.7"
+    "version": "24.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -20270,7 +20270,7 @@
     "size": 53106461,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+8/sapmachine-jre-24-ea.8_linux-x64-musl_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.8"
+    "version": "24.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -20293,6 +20293,6 @@
     "size": 52356197,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+8/sapmachine-jre-24-ea.8_linux-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.8"
+    "version": "24.0.0-ea.8"
   }
 ]

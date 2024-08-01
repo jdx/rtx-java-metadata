@@ -22,7 +22,7 @@
     "size": 52288052,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jre23+25-ea-macos-aarch64-leyden.dmg",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "aarch64",
@@ -47,7 +47,7 @@
     "size": 48517597,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jre23+25-ea-macos-aarch64-leyden.pkg",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "aarch64",
@@ -72,7 +72,7 @@
     "size": 48115480,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jre23+25-ea-macos-aarch64-leyden.tar.gz",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "aarch64",
@@ -97,7 +97,7 @@
     "size": 48720826,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jre23+25-ea-macos-aarch64-leyden.zip",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "aarch64",
@@ -3202,7 +3202,7 @@
     "size": 48290976,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+26/sapmachine-jre-17-ea.26_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.26"
+    "version": "17.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -3225,7 +3225,7 @@
     "size": 42206335,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+26/sapmachine-jre-17-ea.26_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.26"
+    "version": "17.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -3248,7 +3248,7 @@
     "size": 48290740,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+27/sapmachine-jre-17-ea.27_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.27"
+    "version": "17.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -3271,7 +3271,7 @@
     "size": 42209804,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+27/sapmachine-jre-17-ea.27_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.27"
+    "version": "17.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -3294,7 +3294,7 @@
     "size": 48272501,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+28/sapmachine-jre-17-ea.28_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.28"
+    "version": "17.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -3317,7 +3317,7 @@
     "size": 42198197,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+28/sapmachine-jre-17-ea.28_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.28"
+    "version": "17.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -3340,7 +3340,7 @@
     "size": 48287935,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+29/sapmachine-jre-17-ea.29_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.29"
+    "version": "17.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -3363,7 +3363,7 @@
     "size": 42208564,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+29/sapmachine-jre-17-ea.29_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.29"
+    "version": "17.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -3386,7 +3386,7 @@
     "size": 42211772,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+30/sapmachine-jre-17-ea.30_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.30"
+    "version": "17.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -3409,7 +3409,7 @@
     "size": 42205019,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+31/sapmachine-jre-17-ea.31_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.31"
+    "version": "17.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -3432,7 +3432,7 @@
     "size": 42204939,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+32/sapmachine-jre-17-ea.32_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.32"
+    "version": "17.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -3455,7 +3455,7 @@
     "size": 42208785,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+33/sapmachine-jre-17-ea.33_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.33"
+    "version": "17.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -3478,7 +3478,7 @@
     "size": 42209051,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+34/sapmachine-jre-17-ea.34_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.34"
+    "version": "17.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -3501,7 +3501,7 @@
     "size": 48286529,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+35/sapmachine-jre-17-ea.35_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.35"
+    "version": "17.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -3524,7 +3524,7 @@
     "size": 42208808,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+35/sapmachine-jre-17-ea.35_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.35"
+    "version": "17.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -7089,7 +7089,7 @@
     "size": 41994428,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+10/sapmachine-jre-18-ea.10_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.10"
+    "version": "18.0.0-ea.10"
   },
   {
     "architecture": "aarch64",
@@ -7112,7 +7112,7 @@
     "size": 48053313,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+11/sapmachine-jre-18-ea.11_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.11"
+    "version": "18.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -7135,7 +7135,7 @@
     "size": 41995032,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+11/sapmachine-jre-18-ea.11_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.11"
+    "version": "18.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -7158,7 +7158,7 @@
     "size": 48086399,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+12/sapmachine-jre-18-ea.12_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.12"
+    "version": "18.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -7181,7 +7181,7 @@
     "size": 41993639,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+12/sapmachine-jre-18-ea.12_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.12"
+    "version": "18.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -7204,7 +7204,7 @@
     "size": 47938288,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+13/sapmachine-jre-18-ea.13_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.13"
+    "version": "18.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -7227,7 +7227,7 @@
     "size": 41854502,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+13/sapmachine-jre-18-ea.13_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.13"
+    "version": "18.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -7250,7 +7250,7 @@
     "size": 47965882,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+14/sapmachine-jre-18-ea.14_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.14"
+    "version": "18.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -7273,7 +7273,7 @@
     "size": 41875358,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+14/sapmachine-jre-18-ea.14_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.14"
+    "version": "18.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -7296,7 +7296,7 @@
     "size": 47975408,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+15/sapmachine-jre-18-ea.15_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.15"
+    "version": "18.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -7319,7 +7319,7 @@
     "size": 41879619,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+15/sapmachine-jre-18-ea.15_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.15"
+    "version": "18.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -7342,7 +7342,7 @@
     "size": 47966117,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+16/sapmachine-jre-18-ea.16_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.16"
+    "version": "18.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -7365,7 +7365,7 @@
     "size": 41890637,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+16/sapmachine-jre-18-ea.16_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.16"
+    "version": "18.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -7388,7 +7388,7 @@
     "size": 48222653,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+17/sapmachine-jre-18-ea.17_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.17"
+    "version": "18.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -7411,7 +7411,7 @@
     "size": 42051173,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+17/sapmachine-jre-18-ea.17_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.17"
+    "version": "18.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -7434,7 +7434,7 @@
     "size": 48228224,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+18/sapmachine-jre-18-ea.18_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.18"
+    "version": "18.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -7457,7 +7457,7 @@
     "size": 42053185,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+18/sapmachine-jre-18-ea.18_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.18"
+    "version": "18.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -7480,7 +7480,7 @@
     "size": 48236319,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+19/sapmachine-jre-18-ea.19_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.19"
+    "version": "18.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -7503,7 +7503,7 @@
     "size": 42052043,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+19/sapmachine-jre-18-ea.19_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.19"
+    "version": "18.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -7526,7 +7526,7 @@
     "size": 48291534,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+1/sapmachine-jre-18-ea.1_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.1"
+    "version": "18.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -7549,7 +7549,7 @@
     "size": 42207690,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+1/sapmachine-jre-18-ea.1_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.1"
+    "version": "18.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -7572,7 +7572,7 @@
     "size": 48276383,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+20/sapmachine-jre-18-ea.20_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.20"
+    "version": "18.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -7595,7 +7595,7 @@
     "size": 42094566,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+20/sapmachine-jre-18-ea.20_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.20"
+    "version": "18.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -7618,7 +7618,7 @@
     "size": 48289941,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+21/sapmachine-jre-18-ea.21_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.21"
+    "version": "18.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -7641,7 +7641,7 @@
     "size": 42100239,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+21/sapmachine-jre-18-ea.21_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.21"
+    "version": "18.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -7664,7 +7664,7 @@
     "size": 48350505,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+22/sapmachine-jre-18-ea.22_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.22"
+    "version": "18.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -7687,7 +7687,7 @@
     "size": 42145788,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+22/sapmachine-jre-18-ea.22_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.22"
+    "version": "18.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -7710,7 +7710,7 @@
     "size": 48263445,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+23/sapmachine-jre-18-ea.23_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.23"
+    "version": "18.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -7733,7 +7733,7 @@
     "size": 42090552,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+23/sapmachine-jre-18-ea.23_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.23"
+    "version": "18.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -7756,7 +7756,7 @@
     "size": 48400171,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+24/sapmachine-jre-18-ea.24_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.24"
+    "version": "18.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -7779,7 +7779,7 @@
     "size": 42193520,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+24/sapmachine-jre-18-ea.24_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.24"
+    "version": "18.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -7802,7 +7802,7 @@
     "size": 48415940,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+25/sapmachine-jre-18-ea.25_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.25"
+    "version": "18.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -7825,7 +7825,7 @@
     "size": 42205799,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+25/sapmachine-jre-18-ea.25_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.25"
+    "version": "18.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -7848,7 +7848,7 @@
     "size": 48433711,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+26/sapmachine-jre-18-ea.26_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.26"
+    "version": "18.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -7871,7 +7871,7 @@
     "size": 42208945,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+26/sapmachine-jre-18-ea.26_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.26"
+    "version": "18.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -7894,7 +7894,7 @@
     "size": 48444700,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+27/sapmachine-jre-18-ea.27_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.27"
+    "version": "18.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -7917,7 +7917,7 @@
     "size": 42220531,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+27/sapmachine-jre-18-ea.27_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.27"
+    "version": "18.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -7940,7 +7940,7 @@
     "size": 48516750,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+29/sapmachine-jre-18-ea.29_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.29"
+    "version": "18.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -7963,7 +7963,7 @@
     "size": 42280735,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+29/sapmachine-jre-18-ea.29_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.29"
+    "version": "18.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -7986,7 +7986,7 @@
     "size": 48287703,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+2/sapmachine-jre-18-ea.2_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.2"
+    "version": "18.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -8009,7 +8009,7 @@
     "size": 48499193,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+30/sapmachine-jre-18-ea.30_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.30"
+    "version": "18.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -8032,7 +8032,7 @@
     "size": 42279951,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+30/sapmachine-jre-18-ea.30_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.30"
+    "version": "18.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -8055,7 +8055,7 @@
     "size": 48499839,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+31/sapmachine-jre-18-ea.31_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.31"
+    "version": "18.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -8078,7 +8078,7 @@
     "size": 42280765,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+31/sapmachine-jre-18-ea.31_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.31"
+    "version": "18.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -8101,7 +8101,7 @@
     "size": 48504270,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+32/sapmachine-jre-18-ea.32_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.32"
+    "version": "18.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -8124,7 +8124,7 @@
     "size": 42289587,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+32/sapmachine-jre-18-ea.32_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.32"
+    "version": "18.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -8147,7 +8147,7 @@
     "size": 48504121,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+33/sapmachine-jre-18-ea.33_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.33"
+    "version": "18.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -8170,7 +8170,7 @@
     "size": 42290168,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+33/sapmachine-jre-18-ea.33_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.33"
+    "version": "18.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -8193,7 +8193,7 @@
     "size": 48504112,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+34/sapmachine-jre-18-ea.34_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.34"
+    "version": "18.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -8216,7 +8216,7 @@
     "size": 42289437,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+34/sapmachine-jre-18-ea.34_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.34"
+    "version": "18.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -8239,7 +8239,7 @@
     "size": 48504254,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+35/sapmachine-jre-18-ea.35_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.35"
+    "version": "18.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -8262,7 +8262,7 @@
     "size": 42289390,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+35/sapmachine-jre-18-ea.35_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.35"
+    "version": "18.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -8285,7 +8285,7 @@
     "size": 48435909,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+36/sapmachine-jre-18-ea.36_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.36"
+    "version": "18.0.0-ea.36"
   },
   {
     "architecture": "aarch64",
@@ -8308,7 +8308,7 @@
     "size": 42282999,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+36/sapmachine-jre-18-ea.36_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.36"
+    "version": "18.0.0-ea.36"
   },
   {
     "architecture": "aarch64",
@@ -8331,7 +8331,7 @@
     "size": 48287263,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+3/sapmachine-jre-18-ea.3_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.3"
+    "version": "18.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -8354,7 +8354,7 @@
     "size": 42210259,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+3/sapmachine-jre-18-ea.3_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.3"
+    "version": "18.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -8377,7 +8377,7 @@
     "size": 48217856,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+4/sapmachine-jre-18-ea.4_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.4"
+    "version": "18.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -8400,7 +8400,7 @@
     "size": 42157097,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+4/sapmachine-jre-18-ea.4_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.4"
+    "version": "18.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -8423,7 +8423,7 @@
     "size": 42161840,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+5/sapmachine-jre-18-ea.5_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.5"
+    "version": "18.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -8446,7 +8446,7 @@
     "size": 42081886,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+6/sapmachine-jre-18-ea.6_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.6"
+    "version": "18.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -8469,7 +8469,7 @@
     "size": 42025326,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+7/sapmachine-jre-18-ea.7_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.7"
+    "version": "18.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -8492,7 +8492,7 @@
     "size": 42036306,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+8/sapmachine-jre-18-ea.8_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.8"
+    "version": "18.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -8515,7 +8515,7 @@
     "size": 42019981,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+9/sapmachine-jre-18-ea.9_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.9"
+    "version": "18.0.0-ea.9"
   },
   {
     "architecture": "aarch64",
@@ -8768,7 +8768,7 @@
     "size": 49097303,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+10/sapmachine-jre-19-ea.10_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.10"
+    "version": "19.0.0-ea.10"
   },
   {
     "architecture": "aarch64",
@@ -8791,7 +8791,7 @@
     "size": 42827770,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+10/sapmachine-jre-19-ea.10_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.10"
+    "version": "19.0.0-ea.10"
   },
   {
     "architecture": "aarch64",
@@ -8814,7 +8814,7 @@
     "size": 50310122,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+11/sapmachine-jre-19-ea.11_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.11"
+    "version": "19.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -8837,7 +8837,7 @@
     "size": 43865567,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+11/sapmachine-jre-19-ea.11_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.11"
+    "version": "19.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -8860,7 +8860,7 @@
     "size": 50310182,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+12/sapmachine-jre-19-ea.12_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.12"
+    "version": "19.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -8883,7 +8883,7 @@
     "size": 43869553,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+12/sapmachine-jre-19-ea.12_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.12"
+    "version": "19.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -8906,7 +8906,7 @@
     "size": 50326138,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+13/sapmachine-jre-19-ea.13_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.13"
+    "version": "19.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -8929,7 +8929,7 @@
     "size": 43881912,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+13/sapmachine-jre-19-ea.13_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.13"
+    "version": "19.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -8952,7 +8952,7 @@
     "size": 50318285,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+14/sapmachine-jre-19-ea.14_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.14"
+    "version": "19.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -8975,7 +8975,7 @@
     "size": 43879889,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+14/sapmachine-jre-19-ea.14_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.14"
+    "version": "19.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -8998,7 +8998,7 @@
     "size": 50319731,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+15/sapmachine-jre-19-ea.15_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.15"
+    "version": "19.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -9021,7 +9021,7 @@
     "size": 43881311,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+15/sapmachine-jre-19-ea.15_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.15"
+    "version": "19.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -9044,7 +9044,7 @@
     "size": 50293029,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+16/sapmachine-jre-19-ea.16_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.16"
+    "version": "19.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -9067,7 +9067,7 @@
     "size": 43865471,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+16/sapmachine-jre-19-ea.16_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.16"
+    "version": "19.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -9090,7 +9090,7 @@
     "size": 50326675,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+17/sapmachine-jre-19-ea.17_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.17"
+    "version": "19.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -9113,7 +9113,7 @@
     "size": 43888436,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+17/sapmachine-jre-19-ea.17_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.17"
+    "version": "19.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -9136,7 +9136,7 @@
     "size": 50624270,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+18/sapmachine-jre-19-ea.18_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.18"
+    "version": "19.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -9159,7 +9159,7 @@
     "size": 44187573,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+18/sapmachine-jre-19-ea.18_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.18"
+    "version": "19.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -9182,7 +9182,7 @@
     "size": 50648715,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+19/sapmachine-jre-19-ea.19_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.19"
+    "version": "19.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -9205,7 +9205,7 @@
     "size": 44210263,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+19/sapmachine-jre-19-ea.19_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.19"
+    "version": "19.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -9228,7 +9228,7 @@
     "size": 48445469,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+1/sapmachine-jre-19-ea.1_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.1"
+    "version": "19.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -9251,7 +9251,7 @@
     "size": 42229262,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+1/sapmachine-jre-19-ea.1_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.1"
+    "version": "19.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -9274,7 +9274,7 @@
     "size": 50684351,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+20/sapmachine-jre-19-ea.20_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.20"
+    "version": "19.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -9297,7 +9297,7 @@
     "size": 44232678,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+20/sapmachine-jre-19-ea.20_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.20"
+    "version": "19.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -9320,7 +9320,7 @@
     "size": 50669310,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+21/sapmachine-jre-19-ea.21_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.21"
+    "version": "19.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -9343,7 +9343,7 @@
     "size": 44218480,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+21/sapmachine-jre-19-ea.21_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.21"
+    "version": "19.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -9366,7 +9366,7 @@
     "size": 51132079,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+22/sapmachine-jre-19-ea.22_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.22"
+    "version": "19.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -9389,7 +9389,7 @@
     "size": 44620394,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+22/sapmachine-jre-19-ea.22_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.22"
+    "version": "19.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -9412,7 +9412,7 @@
     "size": 51291451,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+23/sapmachine-jre-19-ea.23_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.23"
+    "version": "19.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -9435,7 +9435,7 @@
     "size": 44772242,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+23/sapmachine-jre-19-ea.23_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.23"
+    "version": "19.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -9458,7 +9458,7 @@
     "size": 51296807,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jre-19-ea.24_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.24"
+    "version": "19.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -9481,7 +9481,7 @@
     "size": 44772922,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jre-19-ea.24_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.24"
+    "version": "19.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -9504,7 +9504,7 @@
     "size": 51329159,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+25/sapmachine-jre-19-ea.25_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.25"
+    "version": "19.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -9527,7 +9527,7 @@
     "size": 44797826,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+25/sapmachine-jre-19-ea.25_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.25"
+    "version": "19.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -9550,7 +9550,7 @@
     "size": 51444781,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+26/sapmachine-jre-19-ea.26_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.26"
+    "version": "19.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -9573,7 +9573,7 @@
     "size": 44905261,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+26/sapmachine-jre-19-ea.26_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.26"
+    "version": "19.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -9596,7 +9596,7 @@
     "size": 51445133,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+27/sapmachine-jre-19-ea.27_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.27"
+    "version": "19.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -9619,7 +9619,7 @@
     "size": 44905283,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+27/sapmachine-jre-19-ea.27_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.27"
+    "version": "19.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -9642,7 +9642,7 @@
     "size": 51449495,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+28/sapmachine-jre-19-ea.28_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.28"
+    "version": "19.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -9665,7 +9665,7 @@
     "size": 44908949,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+28/sapmachine-jre-19-ea.28_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.28"
+    "version": "19.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -9688,7 +9688,7 @@
     "size": 51452231,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+29/sapmachine-jre-19-ea.29_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.29"
+    "version": "19.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -9711,7 +9711,7 @@
     "size": 44913175,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+29/sapmachine-jre-19-ea.29_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.29"
+    "version": "19.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -9734,7 +9734,7 @@
     "size": 48492447,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+2/sapmachine-jre-19-ea.2_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.2"
+    "version": "19.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -9757,7 +9757,7 @@
     "size": 42278615,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+2/sapmachine-jre-19-ea.2_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.2"
+    "version": "19.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -9780,7 +9780,7 @@
     "size": 51454657,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+30/sapmachine-jre-19-ea.30_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.30"
+    "version": "19.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -9803,7 +9803,7 @@
     "size": 44916045,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+30/sapmachine-jre-19-ea.30_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.30"
+    "version": "19.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -9826,7 +9826,7 @@
     "size": 51454228,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+31/sapmachine-jre-19-ea.31_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.31"
+    "version": "19.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -9849,7 +9849,7 @@
     "size": 44915063,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+31/sapmachine-jre-19-ea.31_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.31"
+    "version": "19.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -9872,7 +9872,7 @@
     "size": 51460314,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+32/sapmachine-jre-19-ea.32_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.32"
+    "version": "19.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -9895,7 +9895,7 @@
     "size": 44922383,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+32/sapmachine-jre-19-ea.32_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.32"
+    "version": "19.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -9918,7 +9918,7 @@
     "size": 51460042,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+33/sapmachine-jre-19-ea.33_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.33"
+    "version": "19.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -9941,7 +9941,7 @@
     "size": 44922864,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+33/sapmachine-jre-19-ea.33_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.33"
+    "version": "19.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -9964,7 +9964,7 @@
     "size": 51459495,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+34/sapmachine-jre-19-ea.34_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.34"
+    "version": "19.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -9987,7 +9987,7 @@
     "size": 44922650,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+34/sapmachine-jre-19-ea.34_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.34"
+    "version": "19.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -10010,7 +10010,7 @@
     "size": 51462551,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+35/sapmachine-jre-19-ea.35_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.35"
+    "version": "19.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -10033,7 +10033,7 @@
     "size": 44923831,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+35/sapmachine-jre-19-ea.35_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.35"
+    "version": "19.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -10056,7 +10056,7 @@
     "size": 51461666,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+36/sapmachine-jre-19-ea.36_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.36"
+    "version": "19.0.0-ea.36"
   },
   {
     "architecture": "aarch64",
@@ -10079,7 +10079,7 @@
     "size": 44923454,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+36/sapmachine-jre-19-ea.36_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.36"
+    "version": "19.0.0-ea.36"
   },
   {
     "architecture": "aarch64",
@@ -10102,7 +10102,7 @@
     "size": 48478501,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+3/sapmachine-jre-19-ea.3_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.3"
+    "version": "19.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -10125,7 +10125,7 @@
     "size": 42282090,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+3/sapmachine-jre-19-ea.3_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.3"
+    "version": "19.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -10148,7 +10148,7 @@
     "size": 48505685,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+4/sapmachine-jre-19-ea.4_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.4"
+    "version": "19.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -10171,7 +10171,7 @@
     "size": 42284302,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+4/sapmachine-jre-19-ea.4_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.4"
+    "version": "19.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -10194,7 +10194,7 @@
     "size": 48530956,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+5/sapmachine-jre-19-ea.5_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.5"
+    "version": "19.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -10217,7 +10217,7 @@
     "size": 42309832,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+5/sapmachine-jre-19-ea.5_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.5"
+    "version": "19.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -10240,7 +10240,7 @@
     "size": 48575055,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+6/sapmachine-jre-19-ea.6_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.6"
+    "version": "19.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -10263,7 +10263,7 @@
     "size": 42353455,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+6/sapmachine-jre-19-ea.6_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.6"
+    "version": "19.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -10286,7 +10286,7 @@
     "size": 48589442,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+7/sapmachine-jre-19-ea.7_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.7"
+    "version": "19.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -10309,7 +10309,7 @@
     "size": 42365492,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+7/sapmachine-jre-19-ea.7_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.7"
+    "version": "19.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -10332,7 +10332,7 @@
     "size": 49086859,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+8/sapmachine-jre-19-ea.8_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.8"
+    "version": "19.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -10355,7 +10355,7 @@
     "size": 42815376,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+8/sapmachine-jre-19-ea.8_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.8"
+    "version": "19.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -10378,7 +10378,7 @@
     "size": 49095908,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+9/sapmachine-jre-19-ea.9_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.9"
+    "version": "19.0.0-ea.9"
   },
   {
     "architecture": "aarch64",
@@ -10401,7 +10401,7 @@
     "size": 42828563,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+9/sapmachine-jre-19-ea.9_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.9"
+    "version": "19.0.0-ea.9"
   },
   {
     "architecture": "aarch64",
@@ -10562,7 +10562,7 @@
     "size": 51390506,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+10/sapmachine-jre-20-ea.10_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.10"
+    "version": "20.0.0-ea.10"
   },
   {
     "architecture": "aarch64",
@@ -10585,7 +10585,7 @@
     "size": 44938416,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+10/sapmachine-jre-20-ea.10_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.10"
+    "version": "20.0.0-ea.10"
   },
   {
     "architecture": "aarch64",
@@ -10608,7 +10608,7 @@
     "size": 51321715,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+11/sapmachine-jre-20-ea.11_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.11"
+    "version": "20.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -10631,7 +10631,7 @@
     "size": 44894178,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+11/sapmachine-jre-20-ea.11_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.11"
+    "version": "20.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -10654,7 +10654,7 @@
     "size": 51321387,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+12/sapmachine-jre-20-ea.12_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.12"
+    "version": "20.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -10677,7 +10677,7 @@
     "size": 44902291,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+12/sapmachine-jre-20-ea.12_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.12"
+    "version": "20.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -10700,7 +10700,7 @@
     "size": 51281463,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+13/sapmachine-jre-20-ea.13_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.13"
+    "version": "20.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -10723,7 +10723,7 @@
     "size": 44873276,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+13/sapmachine-jre-20-ea.13_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.13"
+    "version": "20.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -10746,7 +10746,7 @@
     "size": 51304475,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+14/sapmachine-jre-20-ea.14_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.14"
+    "version": "20.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -10769,7 +10769,7 @@
     "size": 44883953,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+14/sapmachine-jre-20-ea.14_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.14"
+    "version": "20.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -10792,7 +10792,7 @@
     "size": 51313270,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+15/sapmachine-jre-20-ea.15_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.15"
+    "version": "20.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -10815,7 +10815,7 @@
     "size": 44894285,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+15/sapmachine-jre-20-ea.15_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.15"
+    "version": "20.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -10838,7 +10838,7 @@
     "size": 51372963,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+16/sapmachine-jre-20-ea.16_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.16"
+    "version": "20.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -10861,7 +10861,7 @@
     "size": 44944685,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+16/sapmachine-jre-20-ea.16_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.16"
+    "version": "20.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -10884,7 +10884,7 @@
     "size": 51367009,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+17/sapmachine-jre-20-ea.17_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.17"
+    "version": "20.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -10907,7 +10907,7 @@
     "size": 44941234,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+17/sapmachine-jre-20-ea.17_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.17"
+    "version": "20.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -10930,7 +10930,7 @@
     "size": 51320977,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+18/sapmachine-jre-20-ea.18_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.18"
+    "version": "20.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -10953,7 +10953,7 @@
     "size": 44947660,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+18/sapmachine-jre-20-ea.18_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.18"
+    "version": "20.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -10976,7 +10976,7 @@
     "size": 51395213,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+19/sapmachine-jre-20-ea.19_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.19"
+    "version": "20.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -10999,7 +10999,7 @@
     "size": 44975362,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+19/sapmachine-jre-20-ea.19_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.19"
+    "version": "20.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -11022,7 +11022,7 @@
     "size": 51448749,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+1/sapmachine-jre-20-ea.1_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.1"
+    "version": "20.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -11045,7 +11045,7 @@
     "size": 44906066,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+1/sapmachine-jre-20-ea.1_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.1"
+    "version": "20.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -11068,7 +11068,7 @@
     "size": 51437555,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+20/sapmachine-jre-20-ea.20_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.20"
+    "version": "20.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -11091,7 +11091,7 @@
     "size": 45007816,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+20/sapmachine-jre-20-ea.20_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.20"
+    "version": "20.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -11114,7 +11114,7 @@
     "size": 51865566,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+21/sapmachine-jre-20-ea.21_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.21"
+    "version": "20.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -11137,7 +11137,7 @@
     "size": 45442225,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+21/sapmachine-jre-20-ea.21_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.21"
+    "version": "20.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -11160,7 +11160,7 @@
     "size": 51875368,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+22/sapmachine-jre-20-ea.22_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.22"
+    "version": "20.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -11183,7 +11183,7 @@
     "size": 45442586,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+22/sapmachine-jre-20-ea.22_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.22"
+    "version": "20.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -11206,7 +11206,7 @@
     "size": 51873194,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+23/sapmachine-jre-20-ea.23_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.23"
+    "version": "20.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -11229,7 +11229,7 @@
     "size": 45427151,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+23/sapmachine-jre-20-ea.23_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.23"
+    "version": "20.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -11252,7 +11252,7 @@
     "size": 51882396,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+24/sapmachine-jre-20-ea.24_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.24"
+    "version": "20.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -11275,7 +11275,7 @@
     "size": 45446749,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+24/sapmachine-jre-20-ea.24_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.24"
+    "version": "20.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -11298,7 +11298,7 @@
     "size": 51892565,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+25/sapmachine-jre-20-ea.25_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.25"
+    "version": "20.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -11321,7 +11321,7 @@
     "size": 45454826,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+25/sapmachine-jre-20-ea.25_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.25"
+    "version": "20.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -11344,7 +11344,7 @@
     "size": 51898835,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+26/sapmachine-jre-20-ea.26_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.26"
+    "version": "20.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -11367,7 +11367,7 @@
     "size": 45456035,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+26/sapmachine-jre-20-ea.26_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.26"
+    "version": "20.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -11390,7 +11390,7 @@
     "size": 51891042,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+27/sapmachine-jre-20-ea.27_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.27"
+    "version": "20.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -11413,7 +11413,7 @@
     "size": 45449854,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+27/sapmachine-jre-20-ea.27_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.27"
+    "version": "20.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -11436,7 +11436,7 @@
     "size": 51890585,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+28/sapmachine-jre-20-ea.28_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.28"
+    "version": "20.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -11459,7 +11459,7 @@
     "size": 45450297,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+28/sapmachine-jre-20-ea.28_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.28"
+    "version": "20.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -11482,7 +11482,7 @@
     "size": 51899208,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+29/sapmachine-jre-20-ea.29_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.29"
+    "version": "20.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -11505,7 +11505,7 @@
     "size": 45461032,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+29/sapmachine-jre-20-ea.29_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.29"
+    "version": "20.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -11528,7 +11528,7 @@
     "size": 51484263,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+2/sapmachine-jre-20-ea.2_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.2"
+    "version": "20.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -11551,7 +11551,7 @@
     "size": 44941291,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+2/sapmachine-jre-20-ea.2_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.2"
+    "version": "20.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -11574,7 +11574,7 @@
     "size": 51900483,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+30/sapmachine-jre-20-ea.30_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.30"
+    "version": "20.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -11597,7 +11597,7 @@
     "size": 45463290,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+30/sapmachine-jre-20-ea.30_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.30"
+    "version": "20.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -11620,7 +11620,7 @@
     "size": 51900716,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+31/sapmachine-jre-20-ea.31_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.31"
+    "version": "20.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -11643,7 +11643,7 @@
     "size": 45463277,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+31/sapmachine-jre-20-ea.31_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.31"
+    "version": "20.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -11666,7 +11666,7 @@
     "size": 51905794,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+32/sapmachine-jre-20-ea.32_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.32"
+    "version": "20.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -11689,7 +11689,7 @@
     "size": 45470320,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+32/sapmachine-jre-20-ea.32_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.32"
+    "version": "20.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -11712,7 +11712,7 @@
     "size": 51905269,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+33/sapmachine-jre-20-ea.33_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.33"
+    "version": "20.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -11735,7 +11735,7 @@
     "size": 45470353,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+33/sapmachine-jre-20-ea.33_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.33"
+    "version": "20.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -11758,7 +11758,7 @@
     "size": 51907853,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+34/sapmachine-jre-20-ea.34_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.34"
+    "version": "20.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -11781,7 +11781,7 @@
     "size": 45470831,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+34/sapmachine-jre-20-ea.34_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.34"
+    "version": "20.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -11804,7 +11804,7 @@
     "size": 51908028,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jre-20-ea.35_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.35"
+    "version": "20.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -11827,7 +11827,7 @@
     "size": 45471242,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jre-20-ea.35_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.35"
+    "version": "20.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -11850,7 +11850,7 @@
     "size": 51904410,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+36/sapmachine-jre-20-ea.36_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.36"
+    "version": "20.0.0-ea.36"
   },
   {
     "architecture": "aarch64",
@@ -11873,7 +11873,7 @@
     "size": 45476491,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+36/sapmachine-jre-20-ea.36_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.36"
+    "version": "20.0.0-ea.36"
   },
   {
     "architecture": "aarch64",
@@ -11896,7 +11896,7 @@
     "size": 51482258,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+3/sapmachine-jre-20-ea.3_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.3"
+    "version": "20.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -11919,7 +11919,7 @@
     "size": 44937371,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+3/sapmachine-jre-20-ea.3_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.3"
+    "version": "20.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -11942,7 +11942,7 @@
     "size": 51233164,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+4/sapmachine-jre-20-ea.4_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.4"
+    "version": "20.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -11965,7 +11965,7 @@
     "size": 44829474,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+4/sapmachine-jre-20-ea.4_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.4"
+    "version": "20.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -11988,7 +11988,7 @@
     "size": 51230246,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+5/sapmachine-jre-20-ea.5_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.5"
+    "version": "20.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -12011,7 +12011,7 @@
     "size": 44816717,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+5/sapmachine-jre-20-ea.5_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.5"
+    "version": "20.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -12034,7 +12034,7 @@
     "size": 51339454,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+6/sapmachine-jre-20-ea.6_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.6"
+    "version": "20.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -12057,7 +12057,7 @@
     "size": 44910883,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+6/sapmachine-jre-20-ea.6_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.6"
+    "version": "20.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -12080,7 +12080,7 @@
     "size": 51348652,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+7/sapmachine-jre-20-ea.7_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.7"
+    "version": "20.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -12103,7 +12103,7 @@
     "size": 44919808,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+7/sapmachine-jre-20-ea.7_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.7"
+    "version": "20.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -12126,7 +12126,7 @@
     "size": 51360533,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+8/sapmachine-jre-20-ea.8_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.8"
+    "version": "20.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -12149,7 +12149,7 @@
     "size": 44932145,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+8/sapmachine-jre-20-ea.8_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.8"
+    "version": "20.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -12172,7 +12172,7 @@
     "size": 51354470,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+9/sapmachine-jre-20-ea.9_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.9"
+    "version": "20.0.0-ea.9"
   },
   {
     "architecture": "aarch64",
@@ -12195,7 +12195,7 @@
     "size": 44931016,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+9/sapmachine-jre-20-ea.9_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.9"
+    "version": "20.0.0-ea.9"
   },
   {
     "architecture": "aarch64",
@@ -12356,7 +12356,7 @@
     "size": 52065838,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+10/sapmachine-jre-21-ea.10_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.10"
+    "version": "21.0.0-ea.10"
   },
   {
     "architecture": "aarch64",
@@ -12379,7 +12379,7 @@
     "size": 45603430,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+10/sapmachine-jre-21-ea.10_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.10"
+    "version": "21.0.0-ea.10"
   },
   {
     "architecture": "aarch64",
@@ -12402,7 +12402,7 @@
     "size": 52083111,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+11/sapmachine-jre-21-ea.11_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.11"
+    "version": "21.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -12425,7 +12425,7 @@
     "size": 45604027,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+11/sapmachine-jre-21-ea.11_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.11"
+    "version": "21.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -12448,7 +12448,7 @@
     "size": 52079345,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+12/sapmachine-jre-21-ea.12_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.12"
+    "version": "21.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -12471,7 +12471,7 @@
     "size": 45617964,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+12/sapmachine-jre-21-ea.12_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.12"
+    "version": "21.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -12494,7 +12494,7 @@
     "size": 52134981,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+13/sapmachine-jre-21-ea.13_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.13"
+    "version": "21.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -12517,7 +12517,7 @@
     "size": 45639806,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+13/sapmachine-jre-21-ea.13_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.13"
+    "version": "21.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -12540,7 +12540,7 @@
     "size": 52657340,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+14/sapmachine-jre-21-ea.14_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.14"
+    "version": "21.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -12563,7 +12563,7 @@
     "size": 46094584,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+14/sapmachine-jre-21-ea.14_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.14"
+    "version": "21.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -12586,7 +12586,7 @@
     "size": 54779191,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+15/sapmachine-jre-21-ea.15_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.15"
+    "version": "21.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -12609,7 +12609,7 @@
     "size": 47850507,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+15/sapmachine-jre-21-ea.15_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.15"
+    "version": "21.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -12632,7 +12632,7 @@
     "size": 54743582,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+16/sapmachine-jre-21-ea.16_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.16"
+    "version": "21.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -12655,7 +12655,7 @@
     "size": 47818991,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+16/sapmachine-jre-21-ea.16_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.16"
+    "version": "21.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -12678,7 +12678,7 @@
     "size": 54686967,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+17/sapmachine-jre-21-ea.17_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.17"
+    "version": "21.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -12701,7 +12701,7 @@
     "size": 47775301,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+17/sapmachine-jre-21-ea.17_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.17"
+    "version": "21.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -12724,7 +12724,7 @@
     "size": 54685989,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+18/sapmachine-jre-21-ea.18_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.18"
+    "version": "21.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -12747,7 +12747,7 @@
     "size": 47773633,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+18/sapmachine-jre-21-ea.18_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.18"
+    "version": "21.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -12770,7 +12770,7 @@
     "size": 54758055,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+19/sapmachine-jre-21-ea.19_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.19"
+    "version": "21.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -12793,7 +12793,7 @@
     "size": 47826143,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+19/sapmachine-jre-21-ea.19_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.19"
+    "version": "21.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -12816,7 +12816,7 @@
     "size": 51890809,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+1/sapmachine-jre-21-ea.1_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.1"
+    "version": "21.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -12839,7 +12839,7 @@
     "size": 45449569,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+1/sapmachine-jre-21-ea.1_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.1"
+    "version": "21.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -12862,7 +12862,7 @@
     "size": 54804403,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+20/sapmachine-jre-21-ea.20_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.20"
+    "version": "21.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -12885,7 +12885,7 @@
     "size": 47874539,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+20/sapmachine-jre-21-ea.20_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.20"
+    "version": "21.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -12908,7 +12908,7 @@
     "size": 54858997,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+21/sapmachine-jre-21-ea.21_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.21"
+    "version": "21.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -12931,7 +12931,7 @@
     "size": 47896701,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+21/sapmachine-jre-21-ea.21_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.21"
+    "version": "21.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -12954,7 +12954,7 @@
     "size": 54949256,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+22/sapmachine-jre-21-ea.22_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.22"
+    "version": "21.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -12977,7 +12977,7 @@
     "size": 47987386,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+22/sapmachine-jre-21-ea.22_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.22"
+    "version": "21.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -13000,7 +13000,7 @@
     "size": 55256876,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+23/sapmachine-jre-21-ea.23_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.23"
+    "version": "21.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -13023,7 +13023,7 @@
     "size": 48247391,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+23/sapmachine-jre-21-ea.23_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.23"
+    "version": "21.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -13046,7 +13046,7 @@
     "size": 55249255,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+24/sapmachine-jre-21-ea.24_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.24"
+    "version": "21.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -13069,7 +13069,7 @@
     "size": 48264766,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+24/sapmachine-jre-21-ea.24_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.24"
+    "version": "21.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -13092,7 +13092,7 @@
     "size": 55375388,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+25/sapmachine-jre-21-ea.25_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.25"
+    "version": "21.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -13115,7 +13115,7 @@
     "size": 48355517,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+25/sapmachine-jre-21-ea.25_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.25"
+    "version": "21.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -13138,7 +13138,7 @@
     "size": 55420807,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+26/sapmachine-jre-21-ea.26_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.26"
+    "version": "21.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -13161,7 +13161,7 @@
     "size": 48388685,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+26/sapmachine-jre-21-ea.26_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.26"
+    "version": "21.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -13184,7 +13184,7 @@
     "size": 55421474,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+27/sapmachine-jre-21-ea.27_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.27"
+    "version": "21.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -13207,7 +13207,7 @@
     "size": 48389858,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+27/sapmachine-jre-21-ea.27_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.27"
+    "version": "21.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -13230,7 +13230,7 @@
     "size": 55422605,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+28/sapmachine-jre-21-ea.28_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.28"
+    "version": "21.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -13253,7 +13253,7 @@
     "size": 48392254,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+28/sapmachine-jre-21-ea.28_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.28"
+    "version": "21.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -13276,7 +13276,7 @@
     "size": 55461010,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+29/sapmachine-jre-21-ea.29_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.29"
+    "version": "21.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -13299,7 +13299,7 @@
     "size": 48419298,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+29/sapmachine-jre-21-ea.29_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.29"
+    "version": "21.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -13322,7 +13322,7 @@
     "size": 51881522,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+2/sapmachine-jre-21-ea.2_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.2"
+    "version": "21.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -13345,7 +13345,7 @@
     "size": 45452838,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+2/sapmachine-jre-21-ea.2_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.2"
+    "version": "21.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -13368,7 +13368,7 @@
     "size": 55460622,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+30/sapmachine-jre-21-ea.30_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.30"
+    "version": "21.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -13391,7 +13391,7 @@
     "size": 48419407,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+30/sapmachine-jre-21-ea.30_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.30"
+    "version": "21.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -13414,7 +13414,7 @@
     "size": 55445659,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+31/sapmachine-jre-21-ea.31_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.31"
+    "version": "21.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -13437,7 +13437,7 @@
     "size": 48417514,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+31/sapmachine-jre-21-ea.31_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.31"
+    "version": "21.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -13460,7 +13460,7 @@
     "size": 55502489,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+32/sapmachine-jre-21-ea.32_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.32"
+    "version": "21.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -13483,7 +13483,7 @@
     "size": 48450043,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+32/sapmachine-jre-21-ea.32_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.32"
+    "version": "21.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -13506,7 +13506,7 @@
     "size": 55505295,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+33/sapmachine-jre-21-ea.33_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.33"
+    "version": "21.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -13529,7 +13529,7 @@
     "size": 48454931,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+33/sapmachine-jre-21-ea.33_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.33"
+    "version": "21.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -13552,7 +13552,7 @@
     "size": 55504979,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+34/sapmachine-jre-21-ea.34_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.34"
+    "version": "21.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -13575,7 +13575,7 @@
     "size": 48454743,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+34/sapmachine-jre-21-ea.34_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.34"
+    "version": "21.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -13598,7 +13598,7 @@
     "size": 55501215,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+35/sapmachine-jre-21-ea.35_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.35"
+    "version": "21.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -13621,7 +13621,7 @@
     "size": 48455411,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+35/sapmachine-jre-21-ea.35_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.35"
+    "version": "21.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -13644,7 +13644,7 @@
     "size": 51929391,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+3/sapmachine-jre-21-ea.3_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.3"
+    "version": "21.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -13667,7 +13667,7 @@
     "size": 45486799,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+3/sapmachine-jre-21-ea.3_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.3"
+    "version": "21.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -13690,7 +13690,7 @@
     "size": 51924346,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+4/sapmachine-jre-21-ea.4_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.4"
+    "version": "21.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -13713,7 +13713,7 @@
     "size": 45477148,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+4/sapmachine-jre-21-ea.4_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.4"
+    "version": "21.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -13736,7 +13736,7 @@
     "size": 51945449,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+5/sapmachine-jre-21-ea.5_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.5"
+    "version": "21.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -13759,7 +13759,7 @@
     "size": 45491866,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+5/sapmachine-jre-21-ea.5_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.5"
+    "version": "21.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -13782,7 +13782,7 @@
     "size": 51970282,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+6/sapmachine-jre-21-ea.6_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.6"
+    "version": "21.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -13805,7 +13805,7 @@
     "size": 45513090,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+6/sapmachine-jre-21-ea.6_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.6"
+    "version": "21.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -13828,7 +13828,7 @@
     "size": 52037070,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+7/sapmachine-jre-21-ea.7_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.7"
+    "version": "21.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -13851,7 +13851,7 @@
     "size": 45560159,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+7/sapmachine-jre-21-ea.7_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.7"
+    "version": "21.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -13874,7 +13874,7 @@
     "size": 51970321,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+8/sapmachine-jre-21-ea.8_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.8"
+    "version": "21.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -13897,7 +13897,7 @@
     "size": 45556982,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+8/sapmachine-jre-21-ea.8_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.8"
+    "version": "21.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -13920,7 +13920,7 @@
     "size": 52027847,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+9/sapmachine-jre-21-ea.9_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.9"
+    "version": "21.0.0-ea.9"
   },
   {
     "architecture": "aarch64",
@@ -13943,7 +13943,7 @@
     "size": 45573392,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+9/sapmachine-jre-21-ea.9_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.9"
+    "version": "21.0.0-ea.9"
   },
   {
     "architecture": "aarch64",
@@ -14748,7 +14748,7 @@
     "size": 55545773,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+10/sapmachine-jre-22-ea.10_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.10"
+    "version": "22.0.0-ea.10"
   },
   {
     "architecture": "aarch64",
@@ -14771,7 +14771,7 @@
     "size": 48509764,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+10/sapmachine-jre-22-ea.10_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.10"
+    "version": "22.0.0-ea.10"
   },
   {
     "architecture": "aarch64",
@@ -14794,7 +14794,7 @@
     "size": 55551952,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+11/sapmachine-jre-22-ea.11_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.11"
+    "version": "22.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -14817,7 +14817,7 @@
     "size": 48516546,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+11/sapmachine-jre-22-ea.11_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.11"
+    "version": "22.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -14840,7 +14840,7 @@
     "size": 55573908,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+12/sapmachine-jre-22-ea.12_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.12"
+    "version": "22.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -14863,7 +14863,7 @@
     "size": 48528694,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+12/sapmachine-jre-22-ea.12_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.12"
+    "version": "22.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -14886,7 +14886,7 @@
     "size": 55574844,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+13/sapmachine-jre-22-ea.13_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.13"
+    "version": "22.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -14909,7 +14909,7 @@
     "size": 48531333,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+13/sapmachine-jre-22-ea.13_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.13"
+    "version": "22.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -14932,7 +14932,7 @@
     "size": 55593377,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+14/sapmachine-jre-22-ea.14_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.14"
+    "version": "22.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -14955,7 +14955,7 @@
     "size": 48546362,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+14/sapmachine-jre-22-ea.14_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.14"
+    "version": "22.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -14978,7 +14978,7 @@
     "size": 55588315,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+15/sapmachine-jre-22-ea.15_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.15"
+    "version": "22.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -15001,7 +15001,7 @@
     "size": 48599699,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+15/sapmachine-jre-22-ea.15_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.15"
+    "version": "22.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -15024,7 +15024,7 @@
     "size": 55629111,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+16/sapmachine-jre-22-ea.16_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.16"
+    "version": "22.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -15047,7 +15047,7 @@
     "size": 48594600,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+16/sapmachine-jre-22-ea.16_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.16"
+    "version": "22.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -15070,7 +15070,7 @@
     "size": 55634764,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+17/sapmachine-jre-22-ea.17_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.17"
+    "version": "22.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -15093,7 +15093,7 @@
     "size": 48597064,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+17/sapmachine-jre-22-ea.17_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.17"
+    "version": "22.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -15116,7 +15116,7 @@
     "size": 55635417,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+18/sapmachine-jre-22-ea.18_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.18"
+    "version": "22.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -15139,7 +15139,7 @@
     "size": 48596544,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+18/sapmachine-jre-22-ea.18_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.18"
+    "version": "22.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -15162,7 +15162,7 @@
     "size": 55638481,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+19/sapmachine-jre-22-ea.19_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.19"
+    "version": "22.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -15185,7 +15185,7 @@
     "size": 48601762,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+19/sapmachine-jre-22-ea.19_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.19"
+    "version": "22.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -15208,7 +15208,7 @@
     "size": 55418951,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+1/sapmachine-jre-22-ea.1_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.1"
+    "version": "22.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -15231,7 +15231,7 @@
     "size": 48388192,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+1/sapmachine-jre-22-ea.1_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.1"
+    "version": "22.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -15254,7 +15254,7 @@
     "size": 55644808,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+20/sapmachine-jre-22-ea.20_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.20"
+    "version": "22.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -15277,7 +15277,7 @@
     "size": 48620058,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+20/sapmachine-jre-22-ea.20_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.20"
+    "version": "22.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -15300,7 +15300,7 @@
     "size": 55672168,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+21/sapmachine-jre-22-ea.21_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.21"
+    "version": "22.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -15323,7 +15323,7 @@
     "size": 48712983,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+21/sapmachine-jre-22-ea.21_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.21"
+    "version": "22.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -15346,7 +15346,7 @@
     "size": 55755281,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+22/sapmachine-jre-22-ea.22_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.22"
+    "version": "22.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -15369,7 +15369,7 @@
     "size": 48797560,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+22/sapmachine-jre-22-ea.22_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.22"
+    "version": "22.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -15392,7 +15392,7 @@
     "size": 55388568,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+23/sapmachine-jre-22-ea.23_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.23"
+    "version": "22.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -15415,7 +15415,7 @@
     "size": 48466338,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+23/sapmachine-jre-22-ea.23_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.23"
+    "version": "22.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -15438,7 +15438,7 @@
     "size": 54902704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+24/sapmachine-jre-22-ea.24_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.24"
+    "version": "22.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -15461,7 +15461,7 @@
     "size": 47851010,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+24/sapmachine-jre-22-ea.24_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.24"
+    "version": "22.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -15484,7 +15484,7 @@
     "size": 54830477,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+25/sapmachine-jre-22-ea.25_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.25"
+    "version": "22.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -15507,7 +15507,7 @@
     "size": 47857815,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+25/sapmachine-jre-22-ea.25_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.25"
+    "version": "22.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -15530,7 +15530,7 @@
     "size": 54924702,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+26/sapmachine-jre-22-ea.26_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.26"
+    "version": "22.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -15553,7 +15553,7 @@
     "size": 47879015,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+26/sapmachine-jre-22-ea.26_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.26"
+    "version": "22.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -15576,7 +15576,7 @@
     "size": 54900771,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+27/sapmachine-jre-22-ea.27_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.27"
+    "version": "22.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -15599,7 +15599,7 @@
     "size": 47923196,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+27/sapmachine-jre-22-ea.27_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.27"
+    "version": "22.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -15622,7 +15622,7 @@
     "size": 55201206,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+28/sapmachine-jre-22-ea.28_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.28"
+    "version": "22.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -15645,7 +15645,7 @@
     "size": 48182835,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+28/sapmachine-jre-22-ea.28_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.28"
+    "version": "22.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -15668,7 +15668,7 @@
     "size": 55201821,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+29/sapmachine-jre-22-ea.29_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.29"
+    "version": "22.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -15691,7 +15691,7 @@
     "size": 48182588,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+29/sapmachine-jre-22-ea.29_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.29"
+    "version": "22.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -15714,7 +15714,7 @@
     "size": 55389712,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+2/sapmachine-jre-22-ea.2_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.2"
+    "version": "22.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -15737,7 +15737,7 @@
     "size": 48373981,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+2/sapmachine-jre-22-ea.2_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.2"
+    "version": "22.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -15760,7 +15760,7 @@
     "size": 55203709,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+30/sapmachine-jre-22-ea.30_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.30"
+    "version": "22.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -15783,7 +15783,7 @@
     "size": 47923166,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+30/sapmachine-jre-22-ea.30_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.30"
+    "version": "22.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -15806,7 +15806,7 @@
     "size": 55216085,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+31/sapmachine-jre-22-ea.31_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.31"
+    "version": "22.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -15829,7 +15829,7 @@
     "size": 48201696,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+31/sapmachine-jre-22-ea.31_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.31"
+    "version": "22.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -15852,7 +15852,7 @@
     "size": 55219571,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+32/sapmachine-jre-22-ea.32_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.32"
+    "version": "22.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -15875,7 +15875,7 @@
     "size": 48204488,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+32/sapmachine-jre-22-ea.32_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.32"
+    "version": "22.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -15898,7 +15898,7 @@
     "size": 55219779,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+33/sapmachine-jre-22-ea.33_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.33"
+    "version": "22.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -15921,7 +15921,7 @@
     "size": 48204263,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+33/sapmachine-jre-22-ea.33_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.33"
+    "version": "22.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -15944,7 +15944,7 @@
     "size": 55278551,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+34/sapmachine-jre-22-ea.34_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.34"
+    "version": "22.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -15967,7 +15967,7 @@
     "size": 48204774,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+34/sapmachine-jre-22-ea.34_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.34"
+    "version": "22.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -15990,7 +15990,7 @@
     "size": 55220844,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+35/sapmachine-jre-22-ea.35_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.35"
+    "version": "22.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -16013,7 +16013,7 @@
     "size": 48205207,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+35/sapmachine-jre-22-ea.35_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.35"
+    "version": "22.0.0-ea.35"
   },
   {
     "architecture": "aarch64",
@@ -16036,7 +16036,7 @@
     "size": 55223974,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+36/sapmachine-jre-22-ea.36_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.36"
+    "version": "22.0.0-ea.36"
   },
   {
     "architecture": "aarch64",
@@ -16059,7 +16059,7 @@
     "size": 48205044,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+36/sapmachine-jre-22-ea.36_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.36"
+    "version": "22.0.0-ea.36"
   },
   {
     "architecture": "aarch64",
@@ -16082,7 +16082,7 @@
     "size": 55413168,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+3/sapmachine-jre-22-ea.3_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.3"
+    "version": "22.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -16105,7 +16105,7 @@
     "size": 48380776,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+3/sapmachine-jre-22-ea.3_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.3"
+    "version": "22.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -16128,7 +16128,7 @@
     "size": 55437094,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+4/sapmachine-jre-22-ea.4_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.4"
+    "version": "22.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -16151,7 +16151,7 @@
     "size": 48406578,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+4/sapmachine-jre-22-ea.4_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.4"
+    "version": "22.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -16174,7 +16174,7 @@
     "size": 55441970,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+5/sapmachine-jre-22-ea.5_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.5"
+    "version": "22.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -16197,7 +16197,7 @@
     "size": 48406348,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+5/sapmachine-jre-22-ea.5_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.5"
+    "version": "22.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -16220,7 +16220,7 @@
     "size": 55446349,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+6/sapmachine-jre-22-ea.6_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.6"
+    "version": "22.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -16243,7 +16243,7 @@
     "size": 48407149,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+6/sapmachine-jre-22-ea.6_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.6"
+    "version": "22.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -16266,7 +16266,7 @@
     "size": 55474984,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+7/sapmachine-jre-22-ea.7_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.7"
+    "version": "22.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -16289,7 +16289,7 @@
     "size": 48454955,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+7/sapmachine-jre-22-ea.7_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.7"
+    "version": "22.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -16312,7 +16312,7 @@
     "size": 55488883,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+8/sapmachine-jre-22-ea.8_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.8"
+    "version": "22.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -16335,7 +16335,7 @@
     "size": 48470941,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+8/sapmachine-jre-22-ea.8_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.8"
+    "version": "22.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -16358,7 +16358,7 @@
     "size": 55544542,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+9/sapmachine-jre-22-ea.9_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.9"
+    "version": "22.0.0-ea.9"
   },
   {
     "architecture": "aarch64",
@@ -16381,7 +16381,7 @@
     "size": 48507327,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+9/sapmachine-jre-22-ea.9_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.9"
+    "version": "22.0.0-ea.9"
   },
   {
     "architecture": "aarch64",
@@ -16588,7 +16588,7 @@
     "size": 55289338,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+10/sapmachine-jre-23-ea.10_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.10"
+    "version": "23.0.0-ea.10"
   },
   {
     "architecture": "aarch64",
@@ -16611,7 +16611,7 @@
     "size": 48223167,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+10/sapmachine-jre-23-ea.10_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.10"
+    "version": "23.0.0-ea.10"
   },
   {
     "architecture": "aarch64",
@@ -16634,7 +16634,7 @@
     "size": 55241458,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+11/sapmachine-jre-23-ea.11_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.11"
+    "version": "23.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -16657,7 +16657,7 @@
     "size": 48226922,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+11/sapmachine-jre-23-ea.11_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.11"
+    "version": "23.0.0-ea.11"
   },
   {
     "architecture": "aarch64",
@@ -16680,7 +16680,7 @@
     "size": 55325737,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+12/sapmachine-jre-23-ea.12_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.12"
+    "version": "23.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -16703,7 +16703,7 @@
     "size": 48230507,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+12/sapmachine-jre-23-ea.12_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.12"
+    "version": "23.0.0-ea.12"
   },
   {
     "architecture": "aarch64",
@@ -16726,7 +16726,7 @@
     "size": 55826454,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+13/sapmachine-jre-23-ea.13_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.13"
+    "version": "23.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -16749,7 +16749,7 @@
     "size": 48754316,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+13/sapmachine-jre-23-ea.13_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.13"
+    "version": "23.0.0-ea.13"
   },
   {
     "architecture": "aarch64",
@@ -16772,7 +16772,7 @@
     "size": 55752123,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+14/sapmachine-jre-23-ea.14_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.14"
+    "version": "23.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -16795,7 +16795,7 @@
     "size": 48698830,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+14/sapmachine-jre-23-ea.14_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.14"
+    "version": "23.0.0-ea.14"
   },
   {
     "architecture": "aarch64",
@@ -16818,7 +16818,7 @@
     "size": 55749354,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+15/sapmachine-jre-23-ea.15_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.15"
+    "version": "23.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -16841,7 +16841,7 @@
     "size": 48694048,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+15/sapmachine-jre-23-ea.15_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.15"
+    "version": "23.0.0-ea.15"
   },
   {
     "architecture": "aarch64",
@@ -16864,7 +16864,7 @@
     "size": 55779202,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+16/sapmachine-jre-23-ea.16_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.16"
+    "version": "23.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -16887,7 +16887,7 @@
     "size": 48730805,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+16/sapmachine-jre-23-ea.16_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.16"
+    "version": "23.0.0-ea.16"
   },
   {
     "architecture": "aarch64",
@@ -16910,7 +16910,7 @@
     "size": 55792894,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+17/sapmachine-jre-23-ea.17_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.17"
+    "version": "23.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -16933,7 +16933,7 @@
     "size": 48743121,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+17/sapmachine-jre-23-ea.17_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.17"
+    "version": "23.0.0-ea.17"
   },
   {
     "architecture": "aarch64",
@@ -16956,7 +16956,7 @@
     "size": 55799203,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+18/sapmachine-jre-23-ea.18_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.18"
+    "version": "23.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -16979,7 +16979,7 @@
     "size": 48746340,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+18/sapmachine-jre-23-ea.18_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.18"
+    "version": "23.0.0-ea.18"
   },
   {
     "architecture": "aarch64",
@@ -17002,7 +17002,7 @@
     "size": 55871111,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+19/sapmachine-jre-23-ea.19_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.19"
+    "version": "23.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -17025,7 +17025,7 @@
     "size": 48762752,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+19/sapmachine-jre-23-ea.19_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.19"
+    "version": "23.0.0-ea.19"
   },
   {
     "architecture": "aarch64",
@@ -17048,7 +17048,7 @@
     "size": 54900875,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+1/sapmachine-jre-23-ea.1_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.1"
+    "version": "23.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -17071,7 +17071,7 @@
     "size": 47923524,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+1/sapmachine-jre-23-ea.1_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.1"
+    "version": "23.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -17094,7 +17094,7 @@
     "size": 54824517,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+20/sapmachine-jre-23-ea.20_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.20"
+    "version": "23.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -17117,7 +17117,7 @@
     "size": 47902979,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+20/sapmachine-jre-23-ea.20_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.20"
+    "version": "23.0.0-ea.20"
   },
   {
     "architecture": "aarch64",
@@ -17140,7 +17140,7 @@
     "size": 54827647,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+21/sapmachine-jre-23-ea.21_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.21"
+    "version": "23.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -17163,7 +17163,7 @@
     "size": 47915082,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+21/sapmachine-jre-23-ea.21_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.21"
+    "version": "23.0.0-ea.21"
   },
   {
     "architecture": "aarch64",
@@ -17186,7 +17186,7 @@
     "size": 54868260,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+22/sapmachine-jre-23-ea.22_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.22"
+    "version": "23.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -17209,7 +17209,7 @@
     "size": 47928422,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+22/sapmachine-jre-23-ea.22_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.22"
+    "version": "23.0.0-ea.22"
   },
   {
     "architecture": "aarch64",
@@ -17232,7 +17232,7 @@
     "size": 54657763,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+23/sapmachine-jre-23-ea.23_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.23"
+    "version": "23.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -17255,7 +17255,7 @@
     "size": 47713283,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+23/sapmachine-jre-23-ea.23_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.23"
+    "version": "23.0.0-ea.23"
   },
   {
     "architecture": "aarch64",
@@ -17278,7 +17278,7 @@
     "size": 54633731,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+24/sapmachine-jre-23-ea.24_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.24"
+    "version": "23.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -17301,7 +17301,7 @@
     "size": 47710177,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+24/sapmachine-jre-23-ea.24_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.24"
+    "version": "23.0.0-ea.24"
   },
   {
     "architecture": "aarch64",
@@ -17324,7 +17324,7 @@
     "size": 55274454,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+25/sapmachine-jre-23-ea.25_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.25"
+    "version": "23.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -17347,7 +17347,7 @@
     "size": 48287820,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+25/sapmachine-jre-23-ea.25_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.25"
+    "version": "23.0.0-ea.25"
   },
   {
     "architecture": "aarch64",
@@ -17370,7 +17370,7 @@
     "size": 55266053,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+26/sapmachine-jre-23-ea.26_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.26"
+    "version": "23.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -17393,7 +17393,7 @@
     "size": 48264755,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+26/sapmachine-jre-23-ea.26_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.26"
+    "version": "23.0.0-ea.26"
   },
   {
     "architecture": "aarch64",
@@ -17416,7 +17416,7 @@
     "size": 55275450,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+27/sapmachine-jre-23-ea.27_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.27"
+    "version": "23.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -17439,7 +17439,7 @@
     "size": 48272029,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+27/sapmachine-jre-23-ea.27_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.27"
+    "version": "23.0.0-ea.27"
   },
   {
     "architecture": "aarch64",
@@ -17462,7 +17462,7 @@
     "size": 55390183,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+28/sapmachine-jre-23-ea.28_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.28"
+    "version": "23.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -17485,7 +17485,7 @@
     "size": 48291822,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+28/sapmachine-jre-23-ea.28_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.28"
+    "version": "23.0.0-ea.28"
   },
   {
     "architecture": "aarch64",
@@ -17508,7 +17508,7 @@
     "size": 55385248,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+29/sapmachine-jre-23-ea.29_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.29"
+    "version": "23.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -17531,7 +17531,7 @@
     "size": 48295495,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+29/sapmachine-jre-23-ea.29_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.29"
+    "version": "23.0.0-ea.29"
   },
   {
     "architecture": "aarch64",
@@ -17554,7 +17554,7 @@
     "size": 55202277,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+2/sapmachine-jre-23-ea.2_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.2"
+    "version": "23.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -17577,7 +17577,7 @@
     "size": 48185064,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+2/sapmachine-jre-23-ea.2_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.2"
+    "version": "23.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -17600,7 +17600,7 @@
     "size": 55398214,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+30/sapmachine-jre-23-ea.30_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.30"
+    "version": "23.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -17623,7 +17623,7 @@
     "size": 48309125,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+30/sapmachine-jre-23-ea.30_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.30"
+    "version": "23.0.0-ea.30"
   },
   {
     "architecture": "aarch64",
@@ -17646,7 +17646,7 @@
     "size": 55401410,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+31/sapmachine-jre-23-ea.31_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.31"
+    "version": "23.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -17669,7 +17669,7 @@
     "size": 48308940,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+31/sapmachine-jre-23-ea.31_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.31"
+    "version": "23.0.0-ea.31"
   },
   {
     "architecture": "aarch64",
@@ -17692,7 +17692,7 @@
     "size": 55398430,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+32/sapmachine-jre-23-ea.32_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.32"
+    "version": "23.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -17715,7 +17715,7 @@
     "size": 48306441,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+32/sapmachine-jre-23-ea.32_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.32"
+    "version": "23.0.0-ea.32"
   },
   {
     "architecture": "aarch64",
@@ -17738,7 +17738,7 @@
     "size": 55406010,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+33/sapmachine-jre-23-ea.33_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.33"
+    "version": "23.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -17761,7 +17761,7 @@
     "size": 48307093,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+33/sapmachine-jre-23-ea.33_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.33"
+    "version": "23.0.0-ea.33"
   },
   {
     "architecture": "aarch64",
@@ -17784,7 +17784,7 @@
     "size": 55401117,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+34/sapmachine-jre-23-ea.34_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.34"
+    "version": "23.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -17807,7 +17807,7 @@
     "size": 48307559,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+34/sapmachine-jre-23-ea.34_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.34"
+    "version": "23.0.0-ea.34"
   },
   {
     "architecture": "aarch64",
@@ -17830,7 +17830,7 @@
     "size": 55204989,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+3/sapmachine-jre-23-ea.3_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.3"
+    "version": "23.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -17853,7 +17853,7 @@
     "size": 48192775,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+3/sapmachine-jre-23-ea.3_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.3"
+    "version": "23.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -17876,7 +17876,7 @@
     "size": 55209131,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+4/sapmachine-jre-23-ea.4_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.4"
+    "version": "23.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -17899,7 +17899,7 @@
     "size": 47928947,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+4/sapmachine-jre-23-ea.4_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.4"
+    "version": "23.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -17922,7 +17922,7 @@
     "size": 55218532,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+5/sapmachine-jre-23-ea.5_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.5"
+    "version": "23.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -17945,7 +17945,7 @@
     "size": 48217189,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+5/sapmachine-jre-23-ea.5_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.5"
+    "version": "23.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -17968,7 +17968,7 @@
     "size": 55215434,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+6/sapmachine-jre-23-ea.6_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.6"
+    "version": "23.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -17991,7 +17991,7 @@
     "size": 48204583,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+6/sapmachine-jre-23-ea.6_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.6"
+    "version": "23.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -18014,7 +18014,7 @@
     "size": 55219521,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+7/sapmachine-jre-23-ea.7_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.7"
+    "version": "23.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -18037,7 +18037,7 @@
     "size": 48215998,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+7/sapmachine-jre-23-ea.7_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.7"
+    "version": "23.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -18060,7 +18060,7 @@
     "size": 55215049,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+8/sapmachine-jre-23-ea.8_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.8"
+    "version": "23.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -18083,7 +18083,7 @@
     "size": 48213794,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+8/sapmachine-jre-23-ea.8_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.8"
+    "version": "23.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -18106,7 +18106,7 @@
     "size": 55250870,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+9/sapmachine-jre-23-ea.9_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.9"
+    "version": "23.0.0-ea.9"
   },
   {
     "architecture": "aarch64",
@@ -18129,7 +18129,7 @@
     "size": 48231614,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+9/sapmachine-jre-23-ea.9_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.9"
+    "version": "23.0.0-ea.9"
   },
   {
     "architecture": "aarch64",
@@ -18152,7 +18152,7 @@
     "size": 55276111,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+1/sapmachine-jre-24-ea.1_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.1"
+    "version": "24.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -18175,7 +18175,7 @@
     "size": 48272286,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+1/sapmachine-jre-24-ea.1_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.1"
+    "version": "24.0.0-ea.1"
   },
   {
     "architecture": "aarch64",
@@ -18198,7 +18198,7 @@
     "size": 55265826,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+2/sapmachine-jre-24-ea.2_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.2"
+    "version": "24.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -18221,7 +18221,7 @@
     "size": 48259368,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+2/sapmachine-jre-24-ea.2_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.2"
+    "version": "24.0.0-ea.2"
   },
   {
     "architecture": "aarch64",
@@ -18244,7 +18244,7 @@
     "size": 55350172,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+3/sapmachine-jre-24-ea.3_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.3"
+    "version": "24.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -18267,7 +18267,7 @@
     "size": 48251303,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+3/sapmachine-jre-24-ea.3_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.3"
+    "version": "24.0.0-ea.3"
   },
   {
     "architecture": "aarch64",
@@ -18290,7 +18290,7 @@
     "size": 55314479,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+4/sapmachine-jre-24-ea.4_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.4"
+    "version": "24.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -18313,7 +18313,7 @@
     "size": 48220287,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+4/sapmachine-jre-24-ea.4_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.4"
+    "version": "24.0.0-ea.4"
   },
   {
     "architecture": "aarch64",
@@ -18336,7 +18336,7 @@
     "size": 55365744,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+5/sapmachine-jre-24-ea.5_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.5"
+    "version": "24.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -18359,7 +18359,7 @@
     "size": 48263803,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+5/sapmachine-jre-24-ea.5_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.5"
+    "version": "24.0.0-ea.5"
   },
   {
     "architecture": "aarch64",
@@ -18382,7 +18382,7 @@
     "size": 55359080,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+6/sapmachine-jre-24-ea.6_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.6"
+    "version": "24.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -18405,7 +18405,7 @@
     "size": 48268000,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+6/sapmachine-jre-24-ea.6_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.6"
+    "version": "24.0.0-ea.6"
   },
   {
     "architecture": "aarch64",
@@ -18428,7 +18428,7 @@
     "size": 55358999,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+7/sapmachine-jre-24-ea.7_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.7"
+    "version": "24.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -18451,7 +18451,7 @@
     "size": 48266417,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+7/sapmachine-jre-24-ea.7_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.7"
+    "version": "24.0.0-ea.7"
   },
   {
     "architecture": "aarch64",
@@ -18474,7 +18474,7 @@
     "size": 55387638,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+8/sapmachine-jre-24-ea.8_macos-aarch64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.8"
+    "version": "24.0.0-ea.8"
   },
   {
     "architecture": "aarch64",
@@ -18497,6 +18497,6 @@
     "size": 48284803,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+8/sapmachine-jre-24-ea.8_macos-aarch64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.8"
+    "version": "24.0.0-ea.8"
   }
 ]

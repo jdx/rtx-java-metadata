@@ -22,7 +22,7 @@
     "size": 182260048,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jdk23+25-ea-linux-aarch64-leyden.deb",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "aarch64",
@@ -47,7 +47,7 @@
     "size": 189799588,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jdk23+25-ea-linux-aarch64-leyden.rpm",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "aarch64",
@@ -72,7 +72,7 @@
     "size": 211677507,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jdk23+25-ea-linux-aarch64-leyden.tar.gz",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "aarch64",
@@ -98,7 +98,7 @@
     "size": 212455748,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jdk23+25-ea-linux-aarch64-musl-leyden.apk",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   },
   {
     "architecture": "aarch64",
@@ -124,6 +124,6 @@
     "size": 212896625,
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jdk23+25-ea-linux-aarch64-musl-leyden.tar.gz",
     "vendor": "liberica",
-    "version": "23+25-ea"
+    "version": "23.0.0+25-ea"
   }
 ]

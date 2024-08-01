@@ -411,7 +411,7 @@
     "size": 185198529,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+27/sapmachine-jdk-22-ea.27_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.27"
+    "version": "22.0.0-ea.27"
   },
   {
     "architecture": "ppc64",
@@ -434,7 +434,7 @@
     "size": 185197885,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+28/sapmachine-jdk-22-ea.28_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.28"
+    "version": "22.0.0-ea.28"
   },
   {
     "architecture": "ppc64",
@@ -457,7 +457,7 @@
     "size": 185207277,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+29/sapmachine-jdk-22-ea.29_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.29"
+    "version": "22.0.0-ea.29"
   },
   {
     "architecture": "ppc64",
@@ -480,7 +480,7 @@
     "size": 185214019,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+30/sapmachine-jdk-22-ea.30_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.30"
+    "version": "22.0.0-ea.30"
   },
   {
     "architecture": "ppc64",
@@ -503,7 +503,7 @@
     "size": 185228175,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+31/sapmachine-jdk-22-ea.31_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.31"
+    "version": "22.0.0-ea.31"
   },
   {
     "architecture": "ppc64",
@@ -526,7 +526,7 @@
     "size": 185232806,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+32/sapmachine-jdk-22-ea.32_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.32"
+    "version": "22.0.0-ea.32"
   },
   {
     "architecture": "ppc64",
@@ -549,7 +549,7 @@
     "size": 185239381,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+33/sapmachine-jdk-22-ea.33_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.33"
+    "version": "22.0.0-ea.33"
   },
   {
     "architecture": "ppc64",
@@ -572,7 +572,7 @@
     "size": 185240485,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+34/sapmachine-jdk-22-ea.34_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.34"
+    "version": "22.0.0-ea.34"
   },
   {
     "architecture": "ppc64",
@@ -595,7 +595,7 @@
     "size": 185234249,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+35/sapmachine-jdk-22-ea.35_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.35"
+    "version": "22.0.0-ea.35"
   },
   {
     "architecture": "ppc64",
@@ -618,7 +618,7 @@
     "size": 185239670,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+36/sapmachine-jdk-22-ea.36_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.36"
+    "version": "22.0.0-ea.36"
   },
   {
     "architecture": "ppc64",
@@ -641,7 +641,7 @@
     "size": 187024752,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+16/sapmachine-jdk-22-eabeta.16_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-eabeta.16"
+    "version": "22.0.0-eabeta.16"
   },
   {
     "architecture": "ppc64",
@@ -664,7 +664,7 @@
     "size": 187033919,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+17/sapmachine-jdk-22-eabeta.17_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-eabeta.17"
+    "version": "22.0.0-eabeta.17"
   },
   {
     "architecture": "ppc64",
@@ -687,7 +687,7 @@
     "size": 187026372,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+18/sapmachine-jdk-22-eabeta.18_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-eabeta.18"
+    "version": "22.0.0-eabeta.18"
   },
   {
     "architecture": "ppc64",
@@ -710,7 +710,7 @@
     "size": 187030366,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+19/sapmachine-jdk-22-eabeta.19_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-eabeta.19"
+    "version": "22.0.0-eabeta.19"
   },
   {
     "architecture": "ppc64",
@@ -733,7 +733,7 @@
     "size": 187108126,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+20/sapmachine-jdk-22-eabeta.20_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-eabeta.20"
+    "version": "22.0.0-eabeta.20"
   },
   {
     "architecture": "ppc64",
@@ -756,7 +756,7 @@
     "size": 187335724,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+21/sapmachine-jdk-22-eabeta.21_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-eabeta.21"
+    "version": "22.0.0-eabeta.21"
   },
   {
     "architecture": "ppc64",
@@ -779,7 +779,7 @@
     "size": 187440704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+22/sapmachine-jdk-22-eabeta.22_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-eabeta.22"
+    "version": "22.0.0-eabeta.22"
   },
   {
     "architecture": "ppc64",
@@ -802,7 +802,7 @@
     "size": 187577444,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+23/sapmachine-jdk-22-eabeta.23_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-eabeta.23"
+    "version": "22.0.0-eabeta.23"
   },
   {
     "architecture": "ppc64",
@@ -825,7 +825,7 @@
     "size": 186538407,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+24/sapmachine-jdk-22-eabeta.24_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-eabeta.24"
+    "version": "22.0.0-eabeta.24"
   },
   {
     "architecture": "ppc64",
@@ -848,7 +848,7 @@
     "size": 186585654,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+25/sapmachine-jdk-22-eabeta.25_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-eabeta.25"
+    "version": "22.0.0-eabeta.25"
   },
   {
     "architecture": "ppc64",
@@ -871,7 +871,7 @@
     "size": 187658394,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+26/sapmachine-jdk-22-eabeta.26_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-eabeta.26"
+    "version": "22.0.0-eabeta.26"
   },
   {
     "architecture": "ppc64",
@@ -986,7 +986,7 @@
     "size": 185401323,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+10/sapmachine-jdk-23-ea.10_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.10"
+    "version": "23.0.0-ea.10"
   },
   {
     "architecture": "ppc64",
@@ -1009,7 +1009,7 @@
     "size": 185421007,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+11/sapmachine-jdk-23-ea.11_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.11"
+    "version": "23.0.0-ea.11"
   },
   {
     "architecture": "ppc64",
@@ -1032,7 +1032,7 @@
     "size": 185446348,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+12/sapmachine-jdk-23-ea.12_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.12"
+    "version": "23.0.0-ea.12"
   },
   {
     "architecture": "ppc64",
@@ -1055,7 +1055,7 @@
     "size": 184349246,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+13/sapmachine-jdk-23-ea.13_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.13"
+    "version": "23.0.0-ea.13"
   },
   {
     "architecture": "ppc64",
@@ -1078,7 +1078,7 @@
     "size": 184396660,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+14/sapmachine-jdk-23-ea.14_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.14"
+    "version": "23.0.0-ea.14"
   },
   {
     "architecture": "ppc64",
@@ -1101,7 +1101,7 @@
     "size": 184399005,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+15/sapmachine-jdk-23-ea.15_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.15"
+    "version": "23.0.0-ea.15"
   },
   {
     "architecture": "ppc64",
@@ -1124,7 +1124,7 @@
     "size": 192512817,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+16/sapmachine-jdk-23-ea.16_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.16"
+    "version": "23.0.0-ea.16"
   },
   {
     "architecture": "ppc64",
@@ -1147,7 +1147,7 @@
     "size": 192422418,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+17/sapmachine-jdk-23-ea.17_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.17"
+    "version": "23.0.0-ea.17"
   },
   {
     "architecture": "ppc64",
@@ -1170,7 +1170,7 @@
     "size": 192454495,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+18/sapmachine-jdk-23-ea.18_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.18"
+    "version": "23.0.0-ea.18"
   },
   {
     "architecture": "ppc64",
@@ -1193,7 +1193,7 @@
     "size": 192381229,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+19/sapmachine-jdk-23-ea.19_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.19"
+    "version": "23.0.0-ea.19"
   },
   {
     "architecture": "ppc64",
@@ -1216,7 +1216,7 @@
     "size": 185267551,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+1/sapmachine-jdk-23-ea.1_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.1"
+    "version": "23.0.0-ea.1"
   },
   {
     "architecture": "ppc64",
@@ -1239,7 +1239,7 @@
     "size": 192408424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+20/sapmachine-jdk-23-ea.20_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.20"
+    "version": "23.0.0-ea.20"
   },
   {
     "architecture": "ppc64",
@@ -1262,7 +1262,7 @@
     "size": 192291914,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+21/sapmachine-jdk-23-ea.21_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.21"
+    "version": "23.0.0-ea.21"
   },
   {
     "architecture": "ppc64",
@@ -1285,7 +1285,7 @@
     "size": 192323673,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+22/sapmachine-jdk-23-ea.22_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.22"
+    "version": "23.0.0-ea.22"
   },
   {
     "architecture": "ppc64",
@@ -1308,7 +1308,7 @@
     "size": 192559386,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+23/sapmachine-jdk-23-ea.23_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.23"
+    "version": "23.0.0-ea.23"
   },
   {
     "architecture": "ppc64",
@@ -1331,7 +1331,7 @@
     "size": 193303932,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+24/sapmachine-jdk-23-ea.24_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.24"
+    "version": "23.0.0-ea.24"
   },
   {
     "architecture": "ppc64",
@@ -1354,7 +1354,7 @@
     "size": 193375565,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+25/sapmachine-jdk-23-ea.25_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.25"
+    "version": "23.0.0-ea.25"
   },
   {
     "architecture": "ppc64",
@@ -1377,7 +1377,7 @@
     "size": 193474984,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+26/sapmachine-jdk-23-ea.26_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.26"
+    "version": "23.0.0-ea.26"
   },
   {
     "architecture": "ppc64",
@@ -1400,7 +1400,7 @@
     "size": 193479818,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+27/sapmachine-jdk-23-ea.27_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.27"
+    "version": "23.0.0-ea.27"
   },
   {
     "architecture": "ppc64",
@@ -1423,7 +1423,7 @@
     "size": 193512022,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+28/sapmachine-jdk-23-ea.28_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.28"
+    "version": "23.0.0-ea.28"
   },
   {
     "architecture": "ppc64",
@@ -1446,7 +1446,7 @@
     "size": 193519153,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+29/sapmachine-jdk-23-ea.29_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.29"
+    "version": "23.0.0-ea.29"
   },
   {
     "architecture": "ppc64",
@@ -1469,7 +1469,7 @@
     "size": 185273436,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+2/sapmachine-jdk-23-ea.2_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.2"
+    "version": "23.0.0-ea.2"
   },
   {
     "architecture": "ppc64",
@@ -1492,7 +1492,7 @@
     "size": 193526644,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+30/sapmachine-jdk-23-ea.30_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.30"
+    "version": "23.0.0-ea.30"
   },
   {
     "architecture": "ppc64",
@@ -1515,7 +1515,7 @@
     "size": 193528018,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+31/sapmachine-jdk-23-ea.31_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.31"
+    "version": "23.0.0-ea.31"
   },
   {
     "architecture": "ppc64",
@@ -1538,7 +1538,7 @@
     "size": 193521451,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+32/sapmachine-jdk-23-ea.32_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.32"
+    "version": "23.0.0-ea.32"
   },
   {
     "architecture": "ppc64",
@@ -1561,7 +1561,7 @@
     "size": 193522172,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+33/sapmachine-jdk-23-ea.33_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.33"
+    "version": "23.0.0-ea.33"
   },
   {
     "architecture": "ppc64",
@@ -1584,7 +1584,7 @@
     "size": 193516294,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+34/sapmachine-jdk-23-ea.34_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.34"
+    "version": "23.0.0-ea.34"
   },
   {
     "architecture": "ppc64",
@@ -1607,7 +1607,7 @@
     "size": 185300696,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+3/sapmachine-jdk-23-ea.3_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.3"
+    "version": "23.0.0-ea.3"
   },
   {
     "architecture": "ppc64",
@@ -1630,7 +1630,7 @@
     "size": 185302303,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+4/sapmachine-jdk-23-ea.4_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.4"
+    "version": "23.0.0-ea.4"
   },
   {
     "architecture": "ppc64",
@@ -1653,7 +1653,7 @@
     "size": 185371168,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+5/sapmachine-jdk-23-ea.5_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.5"
+    "version": "23.0.0-ea.5"
   },
   {
     "architecture": "ppc64",
@@ -1676,7 +1676,7 @@
     "size": 185316469,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+6/sapmachine-jdk-23-ea.6_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.6"
+    "version": "23.0.0-ea.6"
   },
   {
     "architecture": "ppc64",
@@ -1699,7 +1699,7 @@
     "size": 185353732,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+7/sapmachine-jdk-23-ea.7_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.7"
+    "version": "23.0.0-ea.7"
   },
   {
     "architecture": "ppc64",
@@ -1722,7 +1722,7 @@
     "size": 185391035,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+8/sapmachine-jdk-23-ea.8_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.8"
+    "version": "23.0.0-ea.8"
   },
   {
     "architecture": "ppc64",
@@ -1745,7 +1745,7 @@
     "size": 185407843,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+9/sapmachine-jdk-23-ea.9_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.9"
+    "version": "23.0.0-ea.9"
   },
   {
     "architecture": "ppc64",
@@ -1768,7 +1768,7 @@
     "size": 193551549,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+1/sapmachine-jdk-24-ea.1_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.1"
+    "version": "24.0.0-ea.1"
   },
   {
     "architecture": "ppc64",
@@ -1791,7 +1791,7 @@
     "size": 193545797,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+2/sapmachine-jdk-24-ea.2_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.2"
+    "version": "24.0.0-ea.2"
   },
   {
     "architecture": "ppc64",
@@ -1814,7 +1814,7 @@
     "size": 193625222,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+3/sapmachine-jdk-24-ea.3_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.3"
+    "version": "24.0.0-ea.3"
   },
   {
     "architecture": "ppc64",
@@ -1837,7 +1837,7 @@
     "size": 193641220,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+4/sapmachine-jdk-24-ea.4_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.4"
+    "version": "24.0.0-ea.4"
   },
   {
     "architecture": "ppc64",
@@ -1860,7 +1860,7 @@
     "size": 193684490,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+5/sapmachine-jdk-24-ea.5_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.5"
+    "version": "24.0.0-ea.5"
   },
   {
     "architecture": "ppc64",
@@ -1883,7 +1883,7 @@
     "size": 193888465,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+6/sapmachine-jdk-24-ea.6_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.6"
+    "version": "24.0.0-ea.6"
   },
   {
     "architecture": "ppc64",
@@ -1906,7 +1906,7 @@
     "size": 193899655,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+7/sapmachine-jdk-24-ea.7_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.7"
+    "version": "24.0.0-ea.7"
   },
   {
     "architecture": "ppc64",
@@ -1929,6 +1929,6 @@
     "size": 194076815,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+8/sapmachine-jdk-24-ea.8_aix-ppc64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.8"
+    "version": "24.0.0-ea.8"
   }
 ]

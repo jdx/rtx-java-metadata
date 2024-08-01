@@ -7196,7 +7196,7 @@
     "size": 205415350,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+32/sapmachine-jdk-14-ea.32_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "14-ea.32"
+    "version": "14.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -7219,7 +7219,7 @@
     "size": 195520487,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+32/sapmachine-jdk-14-ea.32_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "14-ea.32"
+    "version": "14.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -7242,7 +7242,7 @@
     "size": 205645027,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+34/sapmachine-jdk-14-ea.34_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "14-ea.34"
+    "version": "14.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -7265,7 +7265,7 @@
     "size": 195616098,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+34/sapmachine-jdk-14-ea.34_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "14-ea.34"
+    "version": "14.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -7288,7 +7288,7 @@
     "size": 205602538,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+36/sapmachine-jdk-14-ea.36_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "14-ea.36"
+    "version": "14.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -7311,7 +7311,7 @@
     "size": 195625846,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-14+36/sapmachine-jdk-14-ea.36_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "14-ea.36"
+    "version": "14.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -7518,7 +7518,7 @@
     "size": 205093893,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+10/sapmachine-jdk-15-ea.10_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.10"
+    "version": "15.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -7541,7 +7541,7 @@
     "size": 195274454,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+10/sapmachine-jdk-15-ea.10_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.10"
+    "version": "15.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -7564,7 +7564,7 @@
     "size": 204589775,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+11/sapmachine-jdk-15-ea.11_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.11"
+    "version": "15.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -7587,7 +7587,7 @@
     "size": 194803745,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+11/sapmachine-jdk-15-ea.11_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.11"
+    "version": "15.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -7610,7 +7610,7 @@
     "size": 204676297,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+12/sapmachine-jdk-15-ea.12_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.12"
+    "version": "15.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -7633,7 +7633,7 @@
     "size": 204710406,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+13/sapmachine-jdk-15-ea.13_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.13"
+    "version": "15.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -7656,7 +7656,7 @@
     "size": 195001871,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+13/sapmachine-jdk-15-ea.13_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.13"
+    "version": "15.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -7679,7 +7679,7 @@
     "size": 204663424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+14/sapmachine-jdk-15-ea.14_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.14"
+    "version": "15.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -7702,7 +7702,7 @@
     "size": 194982785,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+14/sapmachine-jdk-15-ea.14_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.14"
+    "version": "15.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -7725,7 +7725,7 @@
     "size": 204723157,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+15/sapmachine-jdk-15-ea.15_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.15"
+    "version": "15.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -7748,7 +7748,7 @@
     "size": 194986367,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+15/sapmachine-jdk-15-ea.15_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.15"
+    "version": "15.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -7771,7 +7771,7 @@
     "size": 204721807,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+16/sapmachine-jdk-15-ea.16_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.16"
+    "version": "15.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -7794,7 +7794,7 @@
     "size": 195015232,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+16/sapmachine-jdk-15-ea.16_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.16"
+    "version": "15.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -7817,7 +7817,7 @@
     "size": 204740172,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+17/sapmachine-jdk-15-ea.17_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.17"
+    "version": "15.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -7840,7 +7840,7 @@
     "size": 195026959,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+17/sapmachine-jdk-15-ea.17_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.17"
+    "version": "15.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -7863,7 +7863,7 @@
     "size": 203210706,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+18/sapmachine-jdk-15-ea.18_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.18"
+    "version": "15.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -7886,7 +7886,7 @@
     "size": 193632616,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+18/sapmachine-jdk-15-ea.18_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.18"
+    "version": "15.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -7909,7 +7909,7 @@
     "size": 203297160,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+19/sapmachine-jdk-15-ea.19_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.19"
+    "version": "15.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -7932,7 +7932,7 @@
     "size": 193698685,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+19/sapmachine-jdk-15-ea.19_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.19"
+    "version": "15.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -7955,7 +7955,7 @@
     "size": 198015738,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+20/sapmachine-jdk-15-ea.20_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.20"
+    "version": "15.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -7978,7 +7978,7 @@
     "size": 188544881,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+20/sapmachine-jdk-15-ea.20_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.20"
+    "version": "15.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -8001,7 +8001,7 @@
     "size": 198085890,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+21/sapmachine-jdk-15-ea.21_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.21"
+    "version": "15.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -8024,7 +8024,7 @@
     "size": 188498484,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+21/sapmachine-jdk-15-ea.21_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.21"
+    "version": "15.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -8047,7 +8047,7 @@
     "size": 197891207,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+22/sapmachine-jdk-15-ea.22_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.22"
+    "version": "15.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -8070,7 +8070,7 @@
     "size": 188500707,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+22/sapmachine-jdk-15-ea.22_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.22"
+    "version": "15.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -8093,7 +8093,7 @@
     "size": 198065045,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+23/sapmachine-jdk-15-ea.23_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.23"
+    "version": "15.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -8116,7 +8116,7 @@
     "size": 188525043,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+23/sapmachine-jdk-15-ea.23_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.23"
+    "version": "15.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -8139,7 +8139,7 @@
     "size": 202193541,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+24/sapmachine-jdk-15-ea.24_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.24"
+    "version": "15.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -8162,7 +8162,7 @@
     "size": 192150651,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+24/sapmachine-jdk-15-ea.24_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.24"
+    "version": "15.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -8185,7 +8185,7 @@
     "size": 201790010,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+25/sapmachine-jdk-15-ea.25_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.25"
+    "version": "15.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -8208,7 +8208,7 @@
     "size": 191845771,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+25/sapmachine-jdk-15-ea.25_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.25"
+    "version": "15.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -8231,7 +8231,7 @@
     "size": 201727381,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+26/sapmachine-jdk-15-ea.26_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.26"
+    "version": "15.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -8254,7 +8254,7 @@
     "size": 191783613,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+26/sapmachine-jdk-15-ea.26_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.26"
+    "version": "15.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -8277,7 +8277,7 @@
     "size": 205089231,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+27/sapmachine-jdk-15-ea.27_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.27"
+    "version": "15.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -8300,7 +8300,7 @@
     "size": 194911103,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+27/sapmachine-jdk-15-ea.27_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.27"
+    "version": "15.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -8323,7 +8323,7 @@
     "size": 205101067,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+28/sapmachine-jdk-15-ea.28_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.28"
+    "version": "15.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -8346,7 +8346,7 @@
     "size": 194924831,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+28/sapmachine-jdk-15-ea.28_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.28"
+    "version": "15.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -8369,7 +8369,7 @@
     "size": 205195578,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+29/sapmachine-jdk-15-ea.29_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.29"
+    "version": "15.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -8392,7 +8392,7 @@
     "size": 194947835,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+29/sapmachine-jdk-15-ea.29_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.29"
+    "version": "15.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -8415,7 +8415,7 @@
     "size": 205228584,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+30/sapmachine-jdk-15-ea.30_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.30"
+    "version": "15.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -8438,7 +8438,7 @@
     "size": 194957606,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+30/sapmachine-jdk-15-ea.30_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.30"
+    "version": "15.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -8461,7 +8461,7 @@
     "size": 205231851,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+31/sapmachine-jdk-15-ea.31_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.31"
+    "version": "15.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -8484,7 +8484,7 @@
     "size": 194996678,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+31/sapmachine-jdk-15-ea.31_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.31"
+    "version": "15.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -8507,7 +8507,7 @@
     "size": 205352338,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+32/sapmachine-jdk-15-ea.32_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.32"
+    "version": "15.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -8530,7 +8530,7 @@
     "size": 195003529,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+32/sapmachine-jdk-15-ea.32_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.32"
+    "version": "15.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -8553,7 +8553,7 @@
     "size": 205325623,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+33/sapmachine-jdk-15-ea.33_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.33"
+    "version": "15.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -8576,7 +8576,7 @@
     "size": 195009799,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+33/sapmachine-jdk-15-ea.33_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.33"
+    "version": "15.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -8599,7 +8599,7 @@
     "size": 205321937,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+34/sapmachine-jdk-15-ea.34_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.34"
+    "version": "15.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -8622,7 +8622,7 @@
     "size": 195010626,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+34/sapmachine-jdk-15-ea.34_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.34"
+    "version": "15.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -8645,7 +8645,7 @@
     "size": 205313715,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+35/sapmachine-jdk-15-ea.35_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.35"
+    "version": "15.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -8668,7 +8668,7 @@
     "size": 195012124,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+35/sapmachine-jdk-15-ea.35_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.35"
+    "version": "15.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -8691,7 +8691,7 @@
     "size": 205074745,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+36/sapmachine-jdk-15-ea.36_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.36"
+    "version": "15.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -8714,7 +8714,7 @@
     "size": 195014501,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+36/sapmachine-jdk-15-ea.36_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.36"
+    "version": "15.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -8737,7 +8737,7 @@
     "size": 205610794,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+6/sapmachine-jdk-15-ea.6_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.6"
+    "version": "15.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -8760,7 +8760,7 @@
     "size": 195595987,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+6/sapmachine-jdk-15-ea.6_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.6"
+    "version": "15.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -8783,7 +8783,7 @@
     "size": 205557359,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+7/sapmachine-jdk-15-ea.7_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.7"
+    "version": "15.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -8806,7 +8806,7 @@
     "size": 195652752,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+7/sapmachine-jdk-15-ea.7_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.7"
+    "version": "15.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -8829,7 +8829,7 @@
     "size": 205532361,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+8/sapmachine-jdk-15-ea.8_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.8"
+    "version": "15.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -8852,7 +8852,7 @@
     "size": 195591341,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+8/sapmachine-jdk-15-ea.8_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.8"
+    "version": "15.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -8875,7 +8875,7 @@
     "size": 205581216,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+9/sapmachine-jdk-15-ea.9_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "15-ea.9"
+    "version": "15.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -8898,7 +8898,7 @@
     "size": 195578717,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-15+9/sapmachine-jdk-15-ea.9_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "15-ea.9"
+    "version": "15.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -9013,7 +9013,7 @@
     "size": 210238595,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+0/sapmachine-jdk-16-ea.0_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.0"
+    "version": "16.0.0-ea.0"
   },
   {
     "architecture": "x86_64",
@@ -9036,7 +9036,7 @@
     "size": 199717307,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+0/sapmachine-jdk-16-ea.0_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.0"
+    "version": "16.0.0-ea.0"
   },
   {
     "architecture": "x86_64",
@@ -9059,7 +9059,7 @@
     "size": 205837925,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+10/sapmachine-jdk-16-ea.10_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.10"
+    "version": "16.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -9082,7 +9082,7 @@
     "size": 195593722,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+10/sapmachine-jdk-16-ea.10_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.10"
+    "version": "16.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -9105,7 +9105,7 @@
     "size": 205799086,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+11/sapmachine-jdk-16-ea.11_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.11"
+    "version": "16.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -9128,7 +9128,7 @@
     "size": 195610940,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+11/sapmachine-jdk-16-ea.11_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.11"
+    "version": "16.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -9151,7 +9151,7 @@
     "size": 205894668,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+12/sapmachine-jdk-16-ea.12_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.12"
+    "version": "16.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -9174,7 +9174,7 @@
     "size": 195664983,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+12/sapmachine-jdk-16-ea.12_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.12"
+    "version": "16.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -9197,7 +9197,7 @@
     "size": 205739349,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+13/sapmachine-jdk-16-ea.13_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.13"
+    "version": "16.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -9220,7 +9220,7 @@
     "size": 195680301,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+13/sapmachine-jdk-16-ea.13_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.13"
+    "version": "16.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -9243,7 +9243,7 @@
     "size": 205818004,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+14/sapmachine-jdk-16-ea.14_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.14"
+    "version": "16.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -9266,7 +9266,7 @@
     "size": 195672401,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+14/sapmachine-jdk-16-ea.14_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.14"
+    "version": "16.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -9289,7 +9289,7 @@
     "size": 195596637,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+15/sapmachine-jdk-16-ea.15_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.15"
+    "version": "16.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -9312,7 +9312,7 @@
     "size": 206023831,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+16/sapmachine-jdk-16-ea.16_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.16"
+    "version": "16.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -9335,7 +9335,7 @@
     "size": 195725569,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+16/sapmachine-jdk-16-ea.16_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.16"
+    "version": "16.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -9358,7 +9358,7 @@
     "size": 206055531,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+17/sapmachine-jdk-16-ea.17_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.17"
+    "version": "16.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -9381,7 +9381,7 @@
     "size": 195724885,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+17/sapmachine-jdk-16-ea.17_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.17"
+    "version": "16.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -9404,7 +9404,7 @@
     "size": 205662264,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+18/sapmachine-jdk-16-ea.18_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.18"
+    "version": "16.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -9427,7 +9427,7 @@
     "size": 195596543,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+18/sapmachine-jdk-16-ea.18_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.18"
+    "version": "16.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -9450,7 +9450,7 @@
     "size": 205858720,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+19/sapmachine-jdk-16-ea.19_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.19"
+    "version": "16.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -9473,7 +9473,7 @@
     "size": 195646091,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+19/sapmachine-jdk-16-ea.19_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.19"
+    "version": "16.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -9496,7 +9496,7 @@
     "size": 205288052,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+1/sapmachine-jdk-16-ea.1_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.1"
+    "version": "16.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -9519,7 +9519,7 @@
     "size": 195024292,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+1/sapmachine-jdk-16-ea.1_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.1"
+    "version": "16.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -9542,7 +9542,7 @@
     "size": 206068573,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+20/sapmachine-jdk-16-ea.20_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.20"
+    "version": "16.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -9565,7 +9565,7 @@
     "size": 195753727,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+20/sapmachine-jdk-16-ea.20_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.20"
+    "version": "16.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -9588,7 +9588,7 @@
     "size": 208445767,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+21/sapmachine-jdk-16-ea.21_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.21"
+    "version": "16.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -9611,7 +9611,7 @@
     "size": 198047673,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+21/sapmachine-jdk-16-ea.21_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.21"
+    "version": "16.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -9634,7 +9634,7 @@
     "size": 208453773,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+22/sapmachine-jdk-16-ea.22_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.22"
+    "version": "16.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -9657,7 +9657,7 @@
     "size": 208381794,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+23/sapmachine-jdk-16-ea.23_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.23"
+    "version": "16.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -9680,7 +9680,7 @@
     "size": 198058461,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+23/sapmachine-jdk-16-ea.23_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.23"
+    "version": "16.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -9703,7 +9703,7 @@
     "size": 208839248,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+24/sapmachine-jdk-16-ea.24_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.24"
+    "version": "16.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -9726,7 +9726,7 @@
     "size": 198444499,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+24/sapmachine-jdk-16-ea.24_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.24"
+    "version": "16.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -9749,7 +9749,7 @@
     "size": 209182160,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+25/sapmachine-jdk-16-ea.25_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.25"
+    "version": "16.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -9772,7 +9772,7 @@
     "size": 198786536,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+25/sapmachine-jdk-16-ea.25_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.25"
+    "version": "16.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -9795,7 +9795,7 @@
     "size": 209947756,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+26/sapmachine-jdk-16-ea.26_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.26"
+    "version": "16.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -9818,7 +9818,7 @@
     "size": 199498309,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+26/sapmachine-jdk-16-ea.26_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.26"
+    "version": "16.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -9841,7 +9841,7 @@
     "size": 210117835,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+27/sapmachine-jdk-16-ea.27_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.27"
+    "version": "16.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -9864,7 +9864,7 @@
     "size": 199648042,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+27/sapmachine-jdk-16-ea.27_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.27"
+    "version": "16.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -9887,7 +9887,7 @@
     "size": 210088099,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+28/sapmachine-jdk-16-ea.28_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.28"
+    "version": "16.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -9910,7 +9910,7 @@
     "size": 199716136,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+28/sapmachine-jdk-16-ea.28_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.28"
+    "version": "16.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -9933,7 +9933,7 @@
     "size": 210237739,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+29/sapmachine-jdk-16-ea.29_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.29"
+    "version": "16.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -9956,7 +9956,7 @@
     "size": 199719247,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+29/sapmachine-jdk-16-ea.29_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.29"
+    "version": "16.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -9979,7 +9979,7 @@
     "size": 205353151,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+2/sapmachine-jdk-16-ea.2_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.2"
+    "version": "16.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -10002,7 +10002,7 @@
     "size": 195026563,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+2/sapmachine-jdk-16-ea.2_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.2"
+    "version": "16.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -10025,7 +10025,7 @@
     "size": 210220261,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+30/sapmachine-jdk-16-ea.30_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.30"
+    "version": "16.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -10048,7 +10048,7 @@
     "size": 199735135,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+30/sapmachine-jdk-16-ea.30_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.30"
+    "version": "16.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -10071,7 +10071,7 @@
     "size": 210224592,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+31/sapmachine-jdk-16-ea.31_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.31"
+    "version": "16.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -10094,7 +10094,7 @@
     "size": 199731309,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+31/sapmachine-jdk-16-ea.31_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.31"
+    "version": "16.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -10117,7 +10117,7 @@
     "size": 210122977,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+32/sapmachine-jdk-16-ea.32_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.32"
+    "version": "16.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -10140,7 +10140,7 @@
     "size": 199646761,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+32/sapmachine-jdk-16-ea.32_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.32"
+    "version": "16.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -10163,7 +10163,7 @@
     "size": 210124592,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+33/sapmachine-jdk-16-ea.33_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.33"
+    "version": "16.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -10186,7 +10186,7 @@
     "size": 199649864,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+33/sapmachine-jdk-16-ea.33_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.33"
+    "version": "16.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -10209,7 +10209,7 @@
     "size": 210196705,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+34/sapmachine-jdk-16-ea.34_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.34"
+    "version": "16.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -10232,7 +10232,7 @@
     "size": 199657723,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+34/sapmachine-jdk-16-ea.34_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.34"
+    "version": "16.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -10255,7 +10255,7 @@
     "size": 210104107,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+35/sapmachine-jdk-16-ea.35_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.35"
+    "version": "16.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -10278,7 +10278,7 @@
     "size": 199656651,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+35/sapmachine-jdk-16-ea.35_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.35"
+    "version": "16.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -10301,7 +10301,7 @@
     "size": 210208101,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+36/sapmachine-jdk-16-ea.36_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.36"
+    "version": "16.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -10324,7 +10324,7 @@
     "size": 199665258,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+36/sapmachine-jdk-16-ea.36_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.36"
+    "version": "16.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -10347,7 +10347,7 @@
     "size": 204920527,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+3/sapmachine-jdk-16-ea.3_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.3"
+    "version": "16.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -10370,7 +10370,7 @@
     "size": 194898435,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+3/sapmachine-jdk-16-ea.3_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.3"
+    "version": "16.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -10393,7 +10393,7 @@
     "size": 204922178,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+4/sapmachine-jdk-16-ea.4_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.4"
+    "version": "16.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -10416,7 +10416,7 @@
     "size": 194911418,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+4/sapmachine-jdk-16-ea.4_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.4"
+    "version": "16.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -10439,7 +10439,7 @@
     "size": 205647945,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+5/sapmachine-jdk-16-ea.5_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.5"
+    "version": "16.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -10462,7 +10462,7 @@
     "size": 195488263,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+5/sapmachine-jdk-16-ea.5_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.5"
+    "version": "16.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -10485,7 +10485,7 @@
     "size": 205714224,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+6/sapmachine-jdk-16-ea.6_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.6"
+    "version": "16.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -10508,7 +10508,7 @@
     "size": 195512927,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+6/sapmachine-jdk-16-ea.6_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.6"
+    "version": "16.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -10531,7 +10531,7 @@
     "size": 205718047,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+7/sapmachine-jdk-16-ea.7_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.7"
+    "version": "16.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -10554,7 +10554,7 @@
     "size": 195529198,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+7/sapmachine-jdk-16-ea.7_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.7"
+    "version": "16.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -10577,7 +10577,7 @@
     "size": 205799018,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+8/sapmachine-jdk-16-ea.8_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.8"
+    "version": "16.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -10600,7 +10600,7 @@
     "size": 195556074,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+8/sapmachine-jdk-16-ea.8_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.8"
+    "version": "16.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -10623,7 +10623,7 @@
     "size": 205799268,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+9/sapmachine-jdk-16-ea.9_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "16-ea.9"
+    "version": "16.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -10646,7 +10646,7 @@
     "size": 195572062,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-16+9/sapmachine-jdk-16-ea.9_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "16-ea.9"
+    "version": "16.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -10853,7 +10853,7 @@
     "size": 211348815,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+10/sapmachine-jdk-17-ea.10_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.10"
+    "version": "17.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -10876,7 +10876,7 @@
     "size": 200783810,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+10/sapmachine-jdk-17-ea.10_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.10"
+    "version": "17.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -10899,7 +10899,7 @@
     "size": 211353637,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+11/sapmachine-jdk-17-ea.11_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.11"
+    "version": "17.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -10922,7 +10922,7 @@
     "size": 200779896,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+11/sapmachine-jdk-17-ea.11_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.11"
+    "version": "17.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -10945,7 +10945,7 @@
     "size": 211350204,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+12/sapmachine-jdk-17-ea.12_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.12"
+    "version": "17.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -10968,7 +10968,7 @@
     "size": 200795902,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+12/sapmachine-jdk-17-ea.12_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.12"
+    "version": "17.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -10991,7 +10991,7 @@
     "size": 211142333,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+13/sapmachine-jdk-17-ea.13_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.13"
+    "version": "17.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -11014,7 +11014,7 @@
     "size": 200673566,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+13/sapmachine-jdk-17-ea.13_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.13"
+    "version": "17.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -11037,7 +11037,7 @@
     "size": 211991474,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+14/sapmachine-jdk-17-ea.14_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.14"
+    "version": "17.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -11060,7 +11060,7 @@
     "size": 201575786,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+14/sapmachine-jdk-17-ea.14_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.14"
+    "version": "17.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -11083,7 +11083,7 @@
     "size": 212025178,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+15/sapmachine-jdk-17-ea.15_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.15"
+    "version": "17.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -11106,7 +11106,7 @@
     "size": 201564715,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+15/sapmachine-jdk-17-ea.15_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.15"
+    "version": "17.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -11129,7 +11129,7 @@
     "size": 212153751,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+16/sapmachine-jdk-17-ea.16_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.16"
+    "version": "17.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -11152,7 +11152,7 @@
     "size": 201694832,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+16/sapmachine-jdk-17-ea.16_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.16"
+    "version": "17.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -11175,7 +11175,7 @@
     "size": 212447015,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+17/sapmachine-jdk-17-ea.17_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.17"
+    "version": "17.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -11198,7 +11198,7 @@
     "size": 201969406,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+17/sapmachine-jdk-17-ea.17_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.17"
+    "version": "17.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -11221,7 +11221,7 @@
     "size": 212477970,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+18/sapmachine-jdk-17-ea.18_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.18"
+    "version": "17.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -11244,7 +11244,7 @@
     "size": 201998183,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+18/sapmachine-jdk-17-ea.18_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.18"
+    "version": "17.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -11267,7 +11267,7 @@
     "size": 212493838,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+19/sapmachine-jdk-17-ea.19_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.19"
+    "version": "17.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -11290,7 +11290,7 @@
     "size": 201964315,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+19/sapmachine-jdk-17-ea.19_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.19"
+    "version": "17.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -11313,7 +11313,7 @@
     "size": 211224615,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+1/sapmachine-jdk-17-ea.1_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.1"
+    "version": "17.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -11336,7 +11336,7 @@
     "size": 200668370,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+1/sapmachine-jdk-17-ea.1_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.1"
+    "version": "17.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -11359,7 +11359,7 @@
     "size": 195739297,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+20/sapmachine-jdk-17-ea.20_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.20"
+    "version": "17.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -11382,7 +11382,7 @@
     "size": 186074591,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+20/sapmachine-jdk-17-ea.20_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.20"
+    "version": "17.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -11405,7 +11405,7 @@
     "size": 195733106,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+21/sapmachine-jdk-17-ea.21_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.21"
+    "version": "17.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -11428,7 +11428,7 @@
     "size": 186096788,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+21/sapmachine-jdk-17-ea.21_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.21"
+    "version": "17.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -11451,7 +11451,7 @@
     "size": 195739688,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+22/sapmachine-jdk-17-ea.22_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.22"
+    "version": "17.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -11474,7 +11474,7 @@
     "size": 186091457,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+22/sapmachine-jdk-17-ea.22_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.22"
+    "version": "17.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -11497,7 +11497,7 @@
     "size": 195747566,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+23/sapmachine-jdk-17-ea.23_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.23"
+    "version": "17.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -11520,7 +11520,7 @@
     "size": 186184827,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+23/sapmachine-jdk-17-ea.23_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.23"
+    "version": "17.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -11543,7 +11543,7 @@
     "size": 195893870,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+24/sapmachine-jdk-17-ea.24_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.24"
+    "version": "17.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -11566,7 +11566,7 @@
     "size": 186250740,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+24/sapmachine-jdk-17-ea.24_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.24"
+    "version": "17.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -11589,7 +11589,7 @@
     "size": 195781252,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+25/sapmachine-jdk-17-ea.25_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.25"
+    "version": "17.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -11612,7 +11612,7 @@
     "size": 186110252,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+25/sapmachine-jdk-17-ea.25_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.25"
+    "version": "17.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -11635,7 +11635,7 @@
     "size": 196039635,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+26/sapmachine-jdk-17-ea.26_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.26"
+    "version": "17.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -11658,7 +11658,7 @@
     "size": 186453031,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+26/sapmachine-jdk-17-ea.26_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.26"
+    "version": "17.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -11681,7 +11681,7 @@
     "size": 196036416,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+27/sapmachine-jdk-17-ea.27_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.27"
+    "version": "17.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -11704,7 +11704,7 @@
     "size": 186449599,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+27/sapmachine-jdk-17-ea.27_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.27"
+    "version": "17.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -11727,7 +11727,7 @@
     "size": 196012334,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+28/sapmachine-jdk-17-ea.28_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.28"
+    "version": "17.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -11750,7 +11750,7 @@
     "size": 186405080,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+28/sapmachine-jdk-17-ea.28_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.28"
+    "version": "17.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -11773,7 +11773,7 @@
     "size": 196092227,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+29/sapmachine-jdk-17-ea.29_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.29"
+    "version": "17.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -11796,7 +11796,7 @@
     "size": 186419501,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+29/sapmachine-jdk-17-ea.29_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.29"
+    "version": "17.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -11819,7 +11819,7 @@
     "size": 211336493,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+2/sapmachine-jdk-17-ea.2_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.2"
+    "version": "17.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -11842,7 +11842,7 @@
     "size": 200719519,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+2/sapmachine-jdk-17-ea.2_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.2"
+    "version": "17.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -11865,7 +11865,7 @@
     "size": 196116683,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+30/sapmachine-jdk-17-ea.30_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.30"
+    "version": "17.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -11888,7 +11888,7 @@
     "size": 186453158,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+30/sapmachine-jdk-17-ea.30_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.30"
+    "version": "17.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -11911,7 +11911,7 @@
     "size": 195952578,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+31/sapmachine-jdk-17-ea.31_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.31"
+    "version": "17.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -11934,7 +11934,7 @@
     "size": 186395716,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+31/sapmachine-jdk-17-ea.31_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.31"
+    "version": "17.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -11957,7 +11957,7 @@
     "size": 195978506,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+32/sapmachine-jdk-17-ea.32_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.32"
+    "version": "17.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -11980,7 +11980,7 @@
     "size": 186395062,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+32/sapmachine-jdk-17-ea.32_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.32"
+    "version": "17.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -12003,7 +12003,7 @@
     "size": 195970755,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+33/sapmachine-jdk-17-ea.33_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.33"
+    "version": "17.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -12026,7 +12026,7 @@
     "size": 186417472,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+33/sapmachine-jdk-17-ea.33_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.33"
+    "version": "17.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -12049,7 +12049,7 @@
     "size": 195970556,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+34/sapmachine-jdk-17-ea.34_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.34"
+    "version": "17.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -12072,7 +12072,7 @@
     "size": 186413092,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+34/sapmachine-jdk-17-ea.34_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.34"
+    "version": "17.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -12095,7 +12095,7 @@
     "size": 196002357,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+35/sapmachine-jdk-17-ea.35_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.35"
+    "version": "17.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -12118,7 +12118,7 @@
     "size": 186415576,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+35/sapmachine-jdk-17-ea.35_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.35"
+    "version": "17.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -12141,7 +12141,7 @@
     "size": 211407547,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+3/sapmachine-jdk-17-ea.3_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.3"
+    "version": "17.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -12164,7 +12164,7 @@
     "size": 200829541,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+3/sapmachine-jdk-17-ea.3_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.3"
+    "version": "17.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -12187,7 +12187,7 @@
     "size": 211393945,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+4/sapmachine-jdk-17-ea.4_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.4"
+    "version": "17.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -12210,7 +12210,7 @@
     "size": 200811491,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+4/sapmachine-jdk-17-ea.4_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.4"
+    "version": "17.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -12233,7 +12233,7 @@
     "size": 211607564,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+5/sapmachine-jdk-17-ea.5_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.5"
+    "version": "17.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -12256,7 +12256,7 @@
     "size": 200909158,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+5/sapmachine-jdk-17-ea.5_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.5"
+    "version": "17.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -12279,7 +12279,7 @@
     "size": 211386769,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+6/sapmachine-jdk-17-ea.6_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.6"
+    "version": "17.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -12302,7 +12302,7 @@
     "size": 200724476,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+6/sapmachine-jdk-17-ea.6_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.6"
+    "version": "17.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -12325,7 +12325,7 @@
     "size": 211308475,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+7/sapmachine-jdk-17-ea.7_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.7"
+    "version": "17.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -12348,7 +12348,7 @@
     "size": 200732941,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+7/sapmachine-jdk-17-ea.7_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.7"
+    "version": "17.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -12371,7 +12371,7 @@
     "size": 211297672,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+8/sapmachine-jdk-17-ea.8_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.8"
+    "version": "17.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -12394,7 +12394,7 @@
     "size": 200714969,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+8/sapmachine-jdk-17-ea.8_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.8"
+    "version": "17.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -12417,7 +12417,7 @@
     "size": 211407963,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+9/sapmachine-jdk-17-ea.9_osx-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "17-ea.9"
+    "version": "17.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -12440,7 +12440,7 @@
     "size": 200768390,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-17+9/sapmachine-jdk-17-ea.9_osx-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "17-ea.9"
+    "version": "17.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -16005,7 +16005,7 @@
     "size": 196586387,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+10/sapmachine-jdk-18-ea.10_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.10"
+    "version": "18.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -16028,7 +16028,7 @@
     "size": 186848227,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+10/sapmachine-jdk-18-ea.10_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.10"
+    "version": "18.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -16051,7 +16051,7 @@
     "size": 196637491,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+11/sapmachine-jdk-18-ea.11_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.11"
+    "version": "18.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -16074,7 +16074,7 @@
     "size": 186855441,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+11/sapmachine-jdk-18-ea.11_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.11"
+    "version": "18.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -16097,7 +16097,7 @@
     "size": 196643930,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+12/sapmachine-jdk-18-ea.12_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.12"
+    "version": "18.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -16120,7 +16120,7 @@
     "size": 186875852,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+12/sapmachine-jdk-18-ea.12_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.12"
+    "version": "18.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -16143,7 +16143,7 @@
     "size": 196435830,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+13/sapmachine-jdk-18-ea.13_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.13"
+    "version": "18.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -16166,7 +16166,7 @@
     "size": 186735260,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+13/sapmachine-jdk-18-ea.13_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.13"
+    "version": "18.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -16189,7 +16189,7 @@
     "size": 196511860,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+14/sapmachine-jdk-18-ea.14_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.14"
+    "version": "18.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -16212,7 +16212,7 @@
     "size": 186776274,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+14/sapmachine-jdk-18-ea.14_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.14"
+    "version": "18.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -16235,7 +16235,7 @@
     "size": 196508356,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+15/sapmachine-jdk-18-ea.15_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.15"
+    "version": "18.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -16258,7 +16258,7 @@
     "size": 186779730,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+15/sapmachine-jdk-18-ea.15_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.15"
+    "version": "18.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -16281,7 +16281,7 @@
     "size": 196501051,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+16/sapmachine-jdk-18-ea.16_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.16"
+    "version": "18.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -16304,7 +16304,7 @@
     "size": 186838919,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+16/sapmachine-jdk-18-ea.16_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.16"
+    "version": "18.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -16327,7 +16327,7 @@
     "size": 196566170,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+17/sapmachine-jdk-18-ea.17_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.17"
+    "version": "18.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -16350,7 +16350,7 @@
     "size": 186831628,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+17/sapmachine-jdk-18-ea.17_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.17"
+    "version": "18.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -16373,7 +16373,7 @@
     "size": 196408332,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+18/sapmachine-jdk-18-ea.18_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.18"
+    "version": "18.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -16396,7 +16396,7 @@
     "size": 186802037,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+18/sapmachine-jdk-18-ea.18_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.18"
+    "version": "18.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -16419,7 +16419,7 @@
     "size": 196545284,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+19/sapmachine-jdk-18-ea.19_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.19"
+    "version": "18.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -16442,7 +16442,7 @@
     "size": 186853859,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+19/sapmachine-jdk-18-ea.19_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.19"
+    "version": "18.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -16465,7 +16465,7 @@
     "size": 197049803,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+1/sapmachine-jdk-18-ea.1_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.1"
+    "version": "18.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -16488,7 +16488,7 @@
     "size": 187254456,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+1/sapmachine-jdk-18-ea.1_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.1"
+    "version": "18.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -16511,7 +16511,7 @@
     "size": 196787911,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+20/sapmachine-jdk-18-ea.20_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.20"
+    "version": "18.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -16534,7 +16534,7 @@
     "size": 186983056,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+20/sapmachine-jdk-18-ea.20_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.20"
+    "version": "18.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -16557,7 +16557,7 @@
     "size": 196769456,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+21/sapmachine-jdk-18-ea.21_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.21"
+    "version": "18.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -16580,7 +16580,7 @@
     "size": 187024004,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+21/sapmachine-jdk-18-ea.21_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.21"
+    "version": "18.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -16603,7 +16603,7 @@
     "size": 196899946,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+22/sapmachine-jdk-18-ea.22_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.22"
+    "version": "18.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -16626,7 +16626,7 @@
     "size": 187190335,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+22/sapmachine-jdk-18-ea.22_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.22"
+    "version": "18.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -16649,7 +16649,7 @@
     "size": 196925075,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+23/sapmachine-jdk-18-ea.23_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.23"
+    "version": "18.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -16672,7 +16672,7 @@
     "size": 187108096,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+23/sapmachine-jdk-18-ea.23_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.23"
+    "version": "18.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -16695,7 +16695,7 @@
     "size": 197172407,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+24/sapmachine-jdk-18-ea.24_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.24"
+    "version": "18.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -16718,7 +16718,7 @@
     "size": 187375929,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+24/sapmachine-jdk-18-ea.24_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.24"
+    "version": "18.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -16741,7 +16741,7 @@
     "size": 197153525,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+25/sapmachine-jdk-18-ea.25_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.25"
+    "version": "18.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -16764,7 +16764,7 @@
     "size": 187379435,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+25/sapmachine-jdk-18-ea.25_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.25"
+    "version": "18.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -16787,7 +16787,7 @@
     "size": 196850562,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+26/sapmachine-jdk-18-ea.26_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.26"
+    "version": "18.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -16810,7 +16810,7 @@
     "size": 187255058,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+26/sapmachine-jdk-18-ea.26_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.26"
+    "version": "18.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -16833,7 +16833,7 @@
     "size": 196885406,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+27/sapmachine-jdk-18-ea.27_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.27"
+    "version": "18.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -16856,7 +16856,7 @@
     "size": 187282121,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+27/sapmachine-jdk-18-ea.27_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.27"
+    "version": "18.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -16879,7 +16879,7 @@
     "size": 196957786,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+28/sapmachine-jdk-18-ea.28_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.28"
+    "version": "18.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -16902,7 +16902,7 @@
     "size": 187344509,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+28/sapmachine-jdk-18-ea.28_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.28"
+    "version": "18.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -16925,7 +16925,7 @@
     "size": 196902164,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+29/sapmachine-jdk-18-ea.29_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.29"
+    "version": "18.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -16948,7 +16948,7 @@
     "size": 187347756,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+29/sapmachine-jdk-18-ea.29_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.29"
+    "version": "18.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -16971,7 +16971,7 @@
     "size": 196962609,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+2/sapmachine-jdk-18-ea.2_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.2"
+    "version": "18.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -16994,7 +16994,7 @@
     "size": 187209164,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+2/sapmachine-jdk-18-ea.2_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.2"
+    "version": "18.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -17017,7 +17017,7 @@
     "size": 196939459,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+30/sapmachine-jdk-18-ea.30_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.30"
+    "version": "18.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -17040,7 +17040,7 @@
     "size": 187347363,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+30/sapmachine-jdk-18-ea.30_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.30"
+    "version": "18.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -17063,7 +17063,7 @@
     "size": 196920941,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+31/sapmachine-jdk-18-ea.31_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.31"
+    "version": "18.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -17086,7 +17086,7 @@
     "size": 187353844,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+31/sapmachine-jdk-18-ea.31_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.31"
+    "version": "18.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -17109,7 +17109,7 @@
     "size": 196935971,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+32/sapmachine-jdk-18-ea.32_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.32"
+    "version": "18.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -17132,7 +17132,7 @@
     "size": 187359769,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+32/sapmachine-jdk-18-ea.32_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.32"
+    "version": "18.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -17155,7 +17155,7 @@
     "size": 196920302,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+33/sapmachine-jdk-18-ea.33_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.33"
+    "version": "18.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -17178,7 +17178,7 @@
     "size": 187358394,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+33/sapmachine-jdk-18-ea.33_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.33"
+    "version": "18.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -17201,7 +17201,7 @@
     "size": 196981609,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+34/sapmachine-jdk-18-ea.34_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.34"
+    "version": "18.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -17224,7 +17224,7 @@
     "size": 187359266,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+34/sapmachine-jdk-18-ea.34_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.34"
+    "version": "18.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -17247,7 +17247,7 @@
     "size": 196948660,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+35/sapmachine-jdk-18-ea.35_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.35"
+    "version": "18.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -17270,7 +17270,7 @@
     "size": 187361131,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+35/sapmachine-jdk-18-ea.35_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.35"
+    "version": "18.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -17293,7 +17293,7 @@
     "size": 196918065,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+36/sapmachine-jdk-18-ea.36_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.36"
+    "version": "18.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -17316,7 +17316,7 @@
     "size": 187362927,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+36/sapmachine-jdk-18-ea.36_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.36"
+    "version": "18.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -17339,7 +17339,7 @@
     "size": 197105725,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+3/sapmachine-jdk-18-ea.3_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.3"
+    "version": "18.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -17362,7 +17362,7 @@
     "size": 187293286,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+3/sapmachine-jdk-18-ea.3_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.3"
+    "version": "18.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -17385,7 +17385,7 @@
     "size": 197057296,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+4/sapmachine-jdk-18-ea.4_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.4"
+    "version": "18.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -17408,7 +17408,7 @@
     "size": 187175777,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+4/sapmachine-jdk-18-ea.4_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.4"
+    "version": "18.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -17431,7 +17431,7 @@
     "size": 196980679,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+5/sapmachine-jdk-18-ea.5_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.5"
+    "version": "18.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -17454,7 +17454,7 @@
     "size": 187178115,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+5/sapmachine-jdk-18-ea.5_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.5"
+    "version": "18.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -17477,7 +17477,7 @@
     "size": 196502944,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+6/sapmachine-jdk-18-ea.6_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.6"
+    "version": "18.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -17500,7 +17500,7 @@
     "size": 186878065,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+6/sapmachine-jdk-18-ea.6_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.6"
+    "version": "18.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -17523,7 +17523,7 @@
     "size": 196525012,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+7/sapmachine-jdk-18-ea.7_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.7"
+    "version": "18.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -17546,7 +17546,7 @@
     "size": 186807550,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+7/sapmachine-jdk-18-ea.7_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.7"
+    "version": "18.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -17569,7 +17569,7 @@
     "size": 196609301,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+8/sapmachine-jdk-18-ea.8_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.8"
+    "version": "18.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -17592,7 +17592,7 @@
     "size": 186841966,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+8/sapmachine-jdk-18-ea.8_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.8"
+    "version": "18.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -17615,7 +17615,7 @@
     "size": 196547765,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+9/sapmachine-jdk-18-ea.9_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "18-ea.9"
+    "version": "18.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -17638,7 +17638,7 @@
     "size": 186830122,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-18+9/sapmachine-jdk-18-ea.9_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "18-ea.9"
+    "version": "18.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -17891,7 +17891,7 @@
     "size": 198759334,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+10/sapmachine-jdk-19-ea.10_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.10"
+    "version": "19.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -17914,7 +17914,7 @@
     "size": 188916481,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+10/sapmachine-jdk-19-ea.10_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.10"
+    "version": "19.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -17937,7 +17937,7 @@
     "size": 201662761,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+11/sapmachine-jdk-19-ea.11_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.11"
+    "version": "19.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -17960,7 +17960,7 @@
     "size": 191715348,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+11/sapmachine-jdk-19-ea.11_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.11"
+    "version": "19.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -17983,7 +17983,7 @@
     "size": 201616776,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+12/sapmachine-jdk-19-ea.12_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.12"
+    "version": "19.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -18006,7 +18006,7 @@
     "size": 191752164,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+12/sapmachine-jdk-19-ea.12_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.12"
+    "version": "19.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -18029,7 +18029,7 @@
     "size": 201675295,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+13/sapmachine-jdk-19-ea.13_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.13"
+    "version": "19.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -18052,7 +18052,7 @@
     "size": 191775383,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+13/sapmachine-jdk-19-ea.13_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.13"
+    "version": "19.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -18075,7 +18075,7 @@
     "size": 201682032,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+14/sapmachine-jdk-19-ea.14_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.14"
+    "version": "19.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -18098,7 +18098,7 @@
     "size": 191803233,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+14/sapmachine-jdk-19-ea.14_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.14"
+    "version": "19.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -18121,7 +18121,7 @@
     "size": 201642498,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+15/sapmachine-jdk-19-ea.15_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.15"
+    "version": "19.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -18144,7 +18144,7 @@
     "size": 191790502,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+15/sapmachine-jdk-19-ea.15_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.15"
+    "version": "19.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -18167,7 +18167,7 @@
     "size": 201682446,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+16/sapmachine-jdk-19-ea.16_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.16"
+    "version": "19.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -18190,7 +18190,7 @@
     "size": 191788707,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+16/sapmachine-jdk-19-ea.16_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.16"
+    "version": "19.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -18213,7 +18213,7 @@
     "size": 202226076,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+17/sapmachine-jdk-19-ea.17_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.17"
+    "version": "19.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -18236,7 +18236,7 @@
     "size": 192324959,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+17/sapmachine-jdk-19-ea.17_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.17"
+    "version": "19.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -18259,7 +18259,7 @@
     "size": 203060179,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+18/sapmachine-jdk-19-ea.18_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.18"
+    "version": "19.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -18282,7 +18282,7 @@
     "size": 193161931,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+18/sapmachine-jdk-19-ea.18_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.18"
+    "version": "19.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -18305,7 +18305,7 @@
     "size": 203152128,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+19/sapmachine-jdk-19-ea.19_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.19"
+    "version": "19.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -18328,7 +18328,7 @@
     "size": 193256768,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+19/sapmachine-jdk-19-ea.19_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.19"
+    "version": "19.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -18351,7 +18351,7 @@
     "size": 197874738,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+1/sapmachine-jdk-19-ea.1_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.1"
+    "version": "19.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -18374,7 +18374,7 @@
     "size": 188171389,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+1/sapmachine-jdk-19-ea.1_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.1"
+    "version": "19.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -18397,7 +18397,7 @@
     "size": 203216056,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+20/sapmachine-jdk-19-ea.20_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.20"
+    "version": "19.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -18420,7 +18420,7 @@
     "size": 193291297,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+20/sapmachine-jdk-19-ea.20_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.20"
+    "version": "19.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -18443,7 +18443,7 @@
     "size": 203300820,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+21/sapmachine-jdk-19-ea.21_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.21"
+    "version": "19.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -18466,7 +18466,7 @@
     "size": 193361462,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+21/sapmachine-jdk-19-ea.21_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.21"
+    "version": "19.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -18489,7 +18489,7 @@
     "size": 204361061,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+22/sapmachine-jdk-19-ea.22_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.22"
+    "version": "19.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -18512,7 +18512,7 @@
     "size": 194242690,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+22/sapmachine-jdk-19-ea.22_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.22"
+    "version": "19.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -18535,7 +18535,7 @@
     "size": 204277700,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+23/sapmachine-jdk-19-ea.23_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.23"
+    "version": "19.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -18558,7 +18558,7 @@
     "size": 194217012,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+23/sapmachine-jdk-19-ea.23_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.23"
+    "version": "19.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -18581,7 +18581,7 @@
     "size": 204338690,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jdk-19-ea.24_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.24"
+    "version": "19.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -18604,7 +18604,7 @@
     "size": 194246539,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+24/sapmachine-jdk-19-ea.24_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.24"
+    "version": "19.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -18627,7 +18627,7 @@
     "size": 204483936,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+25/sapmachine-jdk-19-ea.25_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.25"
+    "version": "19.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -18650,7 +18650,7 @@
     "size": 194345010,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+25/sapmachine-jdk-19-ea.25_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.25"
+    "version": "19.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -18673,7 +18673,7 @@
     "size": 204705399,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+26/sapmachine-jdk-19-ea.26_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.26"
+    "version": "19.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -18696,7 +18696,7 @@
     "size": 194627190,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+26/sapmachine-jdk-19-ea.26_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.26"
+    "version": "19.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -18719,7 +18719,7 @@
     "size": 204673372,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+27/sapmachine-jdk-19-ea.27_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.27"
+    "version": "19.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -18742,7 +18742,7 @@
     "size": 194626489,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+27/sapmachine-jdk-19-ea.27_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.27"
+    "version": "19.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -18765,7 +18765,7 @@
     "size": 204725769,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+28/sapmachine-jdk-19-ea.28_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.28"
+    "version": "19.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -18788,7 +18788,7 @@
     "size": 194633761,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+28/sapmachine-jdk-19-ea.28_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.28"
+    "version": "19.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -18811,7 +18811,7 @@
     "size": 204637832,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+29/sapmachine-jdk-19-ea.29_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.29"
+    "version": "19.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -18834,7 +18834,7 @@
     "size": 194638997,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+29/sapmachine-jdk-19-ea.29_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.29"
+    "version": "19.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -18857,7 +18857,7 @@
     "size": 197887935,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+2/sapmachine-jdk-19-ea.2_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.2"
+    "version": "19.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -18880,7 +18880,7 @@
     "size": 188195417,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+2/sapmachine-jdk-19-ea.2_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.2"
+    "version": "19.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -18903,7 +18903,7 @@
     "size": 204673587,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+30/sapmachine-jdk-19-ea.30_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.30"
+    "version": "19.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -18926,7 +18926,7 @@
     "size": 194642869,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+30/sapmachine-jdk-19-ea.30_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.30"
+    "version": "19.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -18949,7 +18949,7 @@
     "size": 204724820,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+31/sapmachine-jdk-19-ea.31_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.31"
+    "version": "19.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -18972,7 +18972,7 @@
     "size": 194648991,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+31/sapmachine-jdk-19-ea.31_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.31"
+    "version": "19.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -18995,7 +18995,7 @@
     "size": 204621099,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+32/sapmachine-jdk-19-ea.32_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.32"
+    "version": "19.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -19018,7 +19018,7 @@
     "size": 194661344,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+32/sapmachine-jdk-19-ea.32_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.32"
+    "version": "19.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -19041,7 +19041,7 @@
     "size": 204647723,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+33/sapmachine-jdk-19-ea.33_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.33"
+    "version": "19.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -19064,7 +19064,7 @@
     "size": 194659895,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+33/sapmachine-jdk-19-ea.33_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.33"
+    "version": "19.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -19087,7 +19087,7 @@
     "size": 204628729,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+34/sapmachine-jdk-19-ea.34_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.34"
+    "version": "19.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -19110,7 +19110,7 @@
     "size": 194670989,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+34/sapmachine-jdk-19-ea.34_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.34"
+    "version": "19.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -19133,7 +19133,7 @@
     "size": 204702731,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+35/sapmachine-jdk-19-ea.35_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.35"
+    "version": "19.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -19156,7 +19156,7 @@
     "size": 194682364,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+35/sapmachine-jdk-19-ea.35_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.35"
+    "version": "19.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -19179,7 +19179,7 @@
     "size": 204628991,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+36/sapmachine-jdk-19-ea.36_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.36"
+    "version": "19.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -19202,7 +19202,7 @@
     "size": 194680382,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+36/sapmachine-jdk-19-ea.36_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.36"
+    "version": "19.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -19225,7 +19225,7 @@
     "size": 197874446,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+3/sapmachine-jdk-19-ea.3_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.3"
+    "version": "19.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -19248,7 +19248,7 @@
     "size": 188210494,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+3/sapmachine-jdk-19-ea.3_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.3"
+    "version": "19.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -19271,7 +19271,7 @@
     "size": 197789595,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+4/sapmachine-jdk-19-ea.4_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.4"
+    "version": "19.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -19294,7 +19294,7 @@
     "size": 188220781,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+4/sapmachine-jdk-19-ea.4_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.4"
+    "version": "19.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -19317,7 +19317,7 @@
     "size": 197917363,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+5/sapmachine-jdk-19-ea.5_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.5"
+    "version": "19.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -19340,7 +19340,7 @@
     "size": 188300496,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+5/sapmachine-jdk-19-ea.5_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.5"
+    "version": "19.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -19363,7 +19363,7 @@
     "size": 197945683,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+6/sapmachine-jdk-19-ea.6_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.6"
+    "version": "19.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -19386,7 +19386,7 @@
     "size": 188291859,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+6/sapmachine-jdk-19-ea.6_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.6"
+    "version": "19.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -19409,7 +19409,7 @@
     "size": 198013442,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+7/sapmachine-jdk-19-ea.7_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.7"
+    "version": "19.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -19432,7 +19432,7 @@
     "size": 188345108,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+7/sapmachine-jdk-19-ea.7_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.7"
+    "version": "19.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -19455,7 +19455,7 @@
     "size": 198631860,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+8/sapmachine-jdk-19-ea.8_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.8"
+    "version": "19.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -19478,7 +19478,7 @@
     "size": 188871040,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+8/sapmachine-jdk-19-ea.8_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.8"
+    "version": "19.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -19501,7 +19501,7 @@
     "size": 198627877,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+9/sapmachine-jdk-19-ea.9_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "19-ea.9"
+    "version": "19.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -19524,7 +19524,7 @@
     "size": 188900450,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-19+9/sapmachine-jdk-19-ea.9_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "19-ea.9"
+    "version": "19.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -19685,7 +19685,7 @@
     "size": 205389583,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+10/sapmachine-jdk-20-ea.10_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.10"
+    "version": "20.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -19708,7 +19708,7 @@
     "size": 195393642,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+10/sapmachine-jdk-20-ea.10_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.10"
+    "version": "20.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -19731,7 +19731,7 @@
     "size": 205178327,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+11/sapmachine-jdk-20-ea.11_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.11"
+    "version": "20.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -19754,7 +19754,7 @@
     "size": 195234324,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+11/sapmachine-jdk-20-ea.11_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.11"
+    "version": "20.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -19777,7 +19777,7 @@
     "size": 205207586,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+12/sapmachine-jdk-20-ea.12_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.12"
+    "version": "20.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -19800,7 +19800,7 @@
     "size": 195265133,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+12/sapmachine-jdk-20-ea.12_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.12"
+    "version": "20.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -19823,7 +19823,7 @@
     "size": 205146935,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+13/sapmachine-jdk-20-ea.13_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.13"
+    "version": "20.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -19846,7 +19846,7 @@
     "size": 195196008,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+13/sapmachine-jdk-20-ea.13_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.13"
+    "version": "20.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -19869,7 +19869,7 @@
     "size": 204868320,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+14/sapmachine-jdk-20-ea.14_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.14"
+    "version": "20.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -19892,7 +19892,7 @@
     "size": 194831859,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+14/sapmachine-jdk-20-ea.14_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.14"
+    "version": "20.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -19915,7 +19915,7 @@
     "size": 204881988,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+15/sapmachine-jdk-20-ea.15_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.15"
+    "version": "20.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -19938,7 +19938,7 @@
     "size": 194853575,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+15/sapmachine-jdk-20-ea.15_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.15"
+    "version": "20.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -19961,7 +19961,7 @@
     "size": 205506448,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+16/sapmachine-jdk-20-ea.16_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.16"
+    "version": "20.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -19984,7 +19984,7 @@
     "size": 195432486,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+16/sapmachine-jdk-20-ea.16_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.16"
+    "version": "20.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -20007,7 +20007,7 @@
     "size": 205483899,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+17/sapmachine-jdk-20-ea.17_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.17"
+    "version": "20.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -20030,7 +20030,7 @@
     "size": 195475814,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+17/sapmachine-jdk-20-ea.17_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.17"
+    "version": "20.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -20053,7 +20053,7 @@
     "size": 205472884,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+18/sapmachine-jdk-20-ea.18_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.18"
+    "version": "20.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -20076,7 +20076,7 @@
     "size": 195516523,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+18/sapmachine-jdk-20-ea.18_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.18"
+    "version": "20.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -20099,7 +20099,7 @@
     "size": 205713106,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+19/sapmachine-jdk-20-ea.19_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.19"
+    "version": "20.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -20122,7 +20122,7 @@
     "size": 195643475,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+19/sapmachine-jdk-20-ea.19_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.19"
+    "version": "20.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -20145,7 +20145,7 @@
     "size": 205760120,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+1/sapmachine-jdk-20-ea.1_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.1"
+    "version": "20.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -20168,7 +20168,7 @@
     "size": 195608587,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+1/sapmachine-jdk-20-ea.1_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.1"
+    "version": "20.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -20191,7 +20191,7 @@
     "size": 205666048,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+20/sapmachine-jdk-20-ea.20_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.20"
+    "version": "20.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -20214,7 +20214,7 @@
     "size": 195691480,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+20/sapmachine-jdk-20-ea.20_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.20"
+    "version": "20.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -20237,7 +20237,7 @@
     "size": 206824005,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+21/sapmachine-jdk-20-ea.21_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.21"
+    "version": "20.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -20260,7 +20260,7 @@
     "size": 196794219,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+21/sapmachine-jdk-20-ea.21_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.21"
+    "version": "20.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -20283,7 +20283,7 @@
     "size": 206813621,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+22/sapmachine-jdk-20-ea.22_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.22"
+    "version": "20.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -20306,7 +20306,7 @@
     "size": 196795231,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+22/sapmachine-jdk-20-ea.22_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.22"
+    "version": "20.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -20329,7 +20329,7 @@
     "size": 206804542,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+23/sapmachine-jdk-20-ea.23_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.23"
+    "version": "20.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -20352,7 +20352,7 @@
     "size": 196751396,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+23/sapmachine-jdk-20-ea.23_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.23"
+    "version": "20.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -20375,7 +20375,7 @@
     "size": 206924558,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+24/sapmachine-jdk-20-ea.24_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.24"
+    "version": "20.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -20398,7 +20398,7 @@
     "size": 196864373,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+24/sapmachine-jdk-20-ea.24_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.24"
+    "version": "20.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -20421,7 +20421,7 @@
     "size": 206549567,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+25/sapmachine-jdk-20-ea.25_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.25"
+    "version": "20.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -20444,7 +20444,7 @@
     "size": 196492198,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+25/sapmachine-jdk-20-ea.25_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.25"
+    "version": "20.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -20467,7 +20467,7 @@
     "size": 206581547,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+26/sapmachine-jdk-20-ea.26_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.26"
+    "version": "20.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -20490,7 +20490,7 @@
     "size": 196495729,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+26/sapmachine-jdk-20-ea.26_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.26"
+    "version": "20.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -20513,7 +20513,7 @@
     "size": 206572593,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+27/sapmachine-jdk-20-ea.27_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.27"
+    "version": "20.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -20536,7 +20536,7 @@
     "size": 196625110,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+27/sapmachine-jdk-20-ea.27_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.27"
+    "version": "20.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -20559,7 +20559,7 @@
     "size": 206575641,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+28/sapmachine-jdk-20-ea.28_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.28"
+    "version": "20.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -20582,7 +20582,7 @@
     "size": 196626635,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+28/sapmachine-jdk-20-ea.28_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.28"
+    "version": "20.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -20605,7 +20605,7 @@
     "size": 206685445,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+29/sapmachine-jdk-20-ea.29_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.29"
+    "version": "20.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -20628,7 +20628,7 @@
     "size": 196672300,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+29/sapmachine-jdk-20-ea.29_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.29"
+    "version": "20.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -20651,7 +20651,7 @@
     "size": 205809678,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+2/sapmachine-jdk-20-ea.2_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.2"
+    "version": "20.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -20674,7 +20674,7 @@
     "size": 195646630,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+2/sapmachine-jdk-20-ea.2_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.2"
+    "version": "20.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -20697,7 +20697,7 @@
     "size": 206770620,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+30/sapmachine-jdk-20-ea.30_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.30"
+    "version": "20.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -20720,7 +20720,7 @@
     "size": 196689794,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+30/sapmachine-jdk-20-ea.30_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.30"
+    "version": "20.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -20743,7 +20743,7 @@
     "size": 206707596,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+31/sapmachine-jdk-20-ea.31_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.31"
+    "version": "20.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -20766,7 +20766,7 @@
     "size": 196690354,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+31/sapmachine-jdk-20-ea.31_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.31"
+    "version": "20.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -20789,7 +20789,7 @@
     "size": 206701971,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+32/sapmachine-jdk-20-ea.32_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.32"
+    "version": "20.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -20812,7 +20812,7 @@
     "size": 196697527,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+32/sapmachine-jdk-20-ea.32_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.32"
+    "version": "20.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -20835,7 +20835,7 @@
     "size": 206719603,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+33/sapmachine-jdk-20-ea.33_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.33"
+    "version": "20.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -20858,7 +20858,7 @@
     "size": 196695523,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+33/sapmachine-jdk-20-ea.33_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.33"
+    "version": "20.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -20881,7 +20881,7 @@
     "size": 206693981,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+34/sapmachine-jdk-20-ea.34_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.34"
+    "version": "20.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -20904,7 +20904,7 @@
     "size": 196720770,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+34/sapmachine-jdk-20-ea.34_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.34"
+    "version": "20.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -20927,7 +20927,7 @@
     "size": 206197201,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jdk-20-ea.35_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.35"
+    "version": "20.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -20950,7 +20950,7 @@
     "size": 196199413,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+35/sapmachine-jdk-20-ea.35_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.35"
+    "version": "20.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -20973,7 +20973,7 @@
     "size": 206283526,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+36/sapmachine-jdk-20-ea.36_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.36"
+    "version": "20.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -20996,7 +20996,7 @@
     "size": 196209591,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+36/sapmachine-jdk-20-ea.36_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.36"
+    "version": "20.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -21019,7 +21019,7 @@
     "size": 205720826,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+3/sapmachine-jdk-20-ea.3_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.3"
+    "version": "20.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -21042,7 +21042,7 @@
     "size": 195649242,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+3/sapmachine-jdk-20-ea.3_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.3"
+    "version": "20.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -21065,7 +21065,7 @@
     "size": 204879298,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+4/sapmachine-jdk-20-ea.4_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.4"
+    "version": "20.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -21088,7 +21088,7 @@
     "size": 194881871,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+4/sapmachine-jdk-20-ea.4_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.4"
+    "version": "20.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -21111,7 +21111,7 @@
     "size": 204878209,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+5/sapmachine-jdk-20-ea.5_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.5"
+    "version": "20.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -21134,7 +21134,7 @@
     "size": 194871978,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+5/sapmachine-jdk-20-ea.5_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.5"
+    "version": "20.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -21157,7 +21157,7 @@
     "size": 205120505,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+6/sapmachine-jdk-20-ea.6_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.6"
+    "version": "20.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -21180,7 +21180,7 @@
     "size": 195139583,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+6/sapmachine-jdk-20-ea.6_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.6"
+    "version": "20.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -21203,7 +21203,7 @@
     "size": 205151784,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+7/sapmachine-jdk-20-ea.7_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.7"
+    "version": "20.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -21226,7 +21226,7 @@
     "size": 195157856,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+7/sapmachine-jdk-20-ea.7_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.7"
+    "version": "20.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -21249,7 +21249,7 @@
     "size": 205121332,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+8/sapmachine-jdk-20-ea.8_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.8"
+    "version": "20.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -21272,7 +21272,7 @@
     "size": 195181825,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+8/sapmachine-jdk-20-ea.8_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.8"
+    "version": "20.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -21295,7 +21295,7 @@
     "size": 205352617,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+9/sapmachine-jdk-20-ea.9_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "20-ea.9"
+    "version": "20.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -21318,7 +21318,7 @@
     "size": 195353049,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-20+9/sapmachine-jdk-20-ea.9_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "20-ea.9"
+    "version": "20.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -21479,7 +21479,7 @@
     "size": 207445957,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+10/sapmachine-jdk-21-ea.10_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.10"
+    "version": "21.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -21502,7 +21502,7 @@
     "size": 197467503,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+10/sapmachine-jdk-21-ea.10_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.10"
+    "version": "21.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -21525,7 +21525,7 @@
     "size": 207462936,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+11/sapmachine-jdk-21-ea.11_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.11"
+    "version": "21.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -21548,7 +21548,7 @@
     "size": 197492546,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+11/sapmachine-jdk-21-ea.11_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.11"
+    "version": "21.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -21571,7 +21571,7 @@
     "size": 207573885,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+12/sapmachine-jdk-21-ea.12_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.12"
+    "version": "21.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -21594,7 +21594,7 @@
     "size": 197538087,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+12/sapmachine-jdk-21-ea.12_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.12"
+    "version": "21.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -21617,7 +21617,7 @@
     "size": 207618086,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+13/sapmachine-jdk-21-ea.13_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.13"
+    "version": "21.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -21640,7 +21640,7 @@
     "size": 197658116,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+13/sapmachine-jdk-21-ea.13_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.13"
+    "version": "21.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -21663,7 +21663,7 @@
     "size": 209663882,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+14/sapmachine-jdk-21-ea.14_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.14"
+    "version": "21.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -21686,7 +21686,7 @@
     "size": 199459018,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+14/sapmachine-jdk-21-ea.14_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.14"
+    "version": "21.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -21709,7 +21709,7 @@
     "size": 209615771,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+15/sapmachine-jdk-21-ea.15_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.15"
+    "version": "21.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -21732,7 +21732,7 @@
     "size": 199484955,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+15/sapmachine-jdk-21-ea.15_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.15"
+    "version": "21.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -21755,7 +21755,7 @@
     "size": 209536967,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+16/sapmachine-jdk-21-ea.16_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.16"
+    "version": "21.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -21778,7 +21778,7 @@
     "size": 199401685,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+16/sapmachine-jdk-21-ea.16_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.16"
+    "version": "21.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -21801,7 +21801,7 @@
     "size": 209642854,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+17/sapmachine-jdk-21-ea.17_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.17"
+    "version": "21.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -21824,7 +21824,7 @@
     "size": 199349429,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+17/sapmachine-jdk-21-ea.17_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.17"
+    "version": "21.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -21847,7 +21847,7 @@
     "size": 209570313,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+18/sapmachine-jdk-21-ea.18_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.18"
+    "version": "21.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -21870,7 +21870,7 @@
     "size": 199340229,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+18/sapmachine-jdk-21-ea.18_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.18"
+    "version": "21.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -21893,7 +21893,7 @@
     "size": 209649314,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+19/sapmachine-jdk-21-ea.19_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.19"
+    "version": "21.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -21916,7 +21916,7 @@
     "size": 199514865,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+19/sapmachine-jdk-21-ea.19_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.19"
+    "version": "21.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -21939,7 +21939,7 @@
     "size": 207574570,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+1/sapmachine-jdk-21-ea.1_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.1"
+    "version": "21.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -21962,7 +21962,7 @@
     "size": 197461355,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+1/sapmachine-jdk-21-ea.1_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.1"
+    "version": "21.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -21985,7 +21985,7 @@
     "size": 209840921,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+20/sapmachine-jdk-21-ea.20_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.20"
+    "version": "21.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -22008,7 +22008,7 @@
     "size": 199641255,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+20/sapmachine-jdk-21-ea.20_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.20"
+    "version": "21.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -22031,7 +22031,7 @@
     "size": 209993786,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+21/sapmachine-jdk-21-ea.21_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.21"
+    "version": "21.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -22054,7 +22054,7 @@
     "size": 199842020,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+21/sapmachine-jdk-21-ea.21_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.21"
+    "version": "21.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -22077,7 +22077,7 @@
     "size": 210150909,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+22/sapmachine-jdk-21-ea.22_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.22"
+    "version": "21.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -22100,7 +22100,7 @@
     "size": 200143927,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+22/sapmachine-jdk-21-ea.22_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.22"
+    "version": "21.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -22123,7 +22123,7 @@
     "size": 210910055,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+23/sapmachine-jdk-21-ea.23_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.23"
+    "version": "21.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -22146,7 +22146,7 @@
     "size": 200706055,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+23/sapmachine-jdk-21-ea.23_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.23"
+    "version": "21.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -22169,7 +22169,7 @@
     "size": 210927975,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+24/sapmachine-jdk-21-ea.24_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.24"
+    "version": "21.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -22192,7 +22192,7 @@
     "size": 200828219,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+24/sapmachine-jdk-21-ea.24_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.24"
+    "version": "21.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -22215,7 +22215,7 @@
     "size": 211436815,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+25/sapmachine-jdk-21-ea.25_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.25"
+    "version": "21.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -22238,7 +22238,7 @@
     "size": 201226664,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+25/sapmachine-jdk-21-ea.25_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.25"
+    "version": "21.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -22261,7 +22261,7 @@
     "size": 211611567,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+26/sapmachine-jdk-21-ea.26_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.26"
+    "version": "21.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -22284,7 +22284,7 @@
     "size": 201397269,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+26/sapmachine-jdk-21-ea.26_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.26"
+    "version": "21.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -22307,7 +22307,7 @@
     "size": 211535165,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+27/sapmachine-jdk-21-ea.27_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.27"
+    "version": "21.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -22330,7 +22330,7 @@
     "size": 201413256,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+27/sapmachine-jdk-21-ea.27_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.27"
+    "version": "21.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -22353,7 +22353,7 @@
     "size": 211607080,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+28/sapmachine-jdk-21-ea.28_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.28"
+    "version": "21.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -22376,7 +22376,7 @@
     "size": 201419974,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+28/sapmachine-jdk-21-ea.28_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.28"
+    "version": "21.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -22399,7 +22399,7 @@
     "size": 211687217,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+29/sapmachine-jdk-21-ea.29_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.29"
+    "version": "21.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -22422,7 +22422,7 @@
     "size": 201466272,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+29/sapmachine-jdk-21-ea.29_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.29"
+    "version": "21.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -22445,7 +22445,7 @@
     "size": 207629824,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+2/sapmachine-jdk-21-ea.2_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.2"
+    "version": "21.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -22468,7 +22468,7 @@
     "size": 197549192,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+2/sapmachine-jdk-21-ea.2_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.2"
+    "version": "21.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -22491,7 +22491,7 @@
     "size": 211678882,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+30/sapmachine-jdk-21-ea.30_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.30"
+    "version": "21.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -22514,7 +22514,7 @@
     "size": 201466363,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+30/sapmachine-jdk-21-ea.30_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.30"
+    "version": "21.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -22537,7 +22537,7 @@
     "size": 211689142,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+31/sapmachine-jdk-21-ea.31_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.31"
+    "version": "21.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -22560,7 +22560,7 @@
     "size": 201463911,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+31/sapmachine-jdk-21-ea.31_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.31"
+    "version": "21.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -22583,7 +22583,7 @@
     "size": 211721316,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+32/sapmachine-jdk-21-ea.32_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.32"
+    "version": "21.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -22606,7 +22606,7 @@
     "size": 201525084,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+32/sapmachine-jdk-21-ea.32_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.32"
+    "version": "21.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -22629,7 +22629,7 @@
     "size": 211754073,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+33/sapmachine-jdk-21-ea.33_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.33"
+    "version": "21.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -22652,7 +22652,7 @@
     "size": 201532494,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+33/sapmachine-jdk-21-ea.33_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.33"
+    "version": "21.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -22675,7 +22675,7 @@
     "size": 211753664,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+34/sapmachine-jdk-21-ea.34_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.34"
+    "version": "21.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -22698,7 +22698,7 @@
     "size": 201529840,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+34/sapmachine-jdk-21-ea.34_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.34"
+    "version": "21.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -22721,7 +22721,7 @@
     "size": 211740447,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+35/sapmachine-jdk-21-ea.35_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.35"
+    "version": "21.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -22744,7 +22744,7 @@
     "size": 201527612,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+35/sapmachine-jdk-21-ea.35_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.35"
+    "version": "21.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -22767,7 +22767,7 @@
     "size": 207736157,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+3/sapmachine-jdk-21-ea.3_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.3"
+    "version": "21.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -22790,7 +22790,7 @@
     "size": 197649601,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+3/sapmachine-jdk-21-ea.3_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.3"
+    "version": "21.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -22813,7 +22813,7 @@
     "size": 207656376,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+4/sapmachine-jdk-21-ea.4_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.4"
+    "version": "21.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -22836,7 +22836,7 @@
     "size": 197655944,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+4/sapmachine-jdk-21-ea.4_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.4"
+    "version": "21.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -22859,7 +22859,7 @@
     "size": 207825017,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+5/sapmachine-jdk-21-ea.5_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.5"
+    "version": "21.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -22882,7 +22882,7 @@
     "size": 197694510,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+5/sapmachine-jdk-21-ea.5_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.5"
+    "version": "21.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -22905,7 +22905,7 @@
     "size": 207692269,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+6/sapmachine-jdk-21-ea.6_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.6"
+    "version": "21.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -22928,7 +22928,7 @@
     "size": 197762449,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+6/sapmachine-jdk-21-ea.6_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.6"
+    "version": "21.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -22951,7 +22951,7 @@
     "size": 207966015,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+7/sapmachine-jdk-21-ea.7_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.7"
+    "version": "21.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -22974,7 +22974,7 @@
     "size": 197875175,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+7/sapmachine-jdk-21-ea.7_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.7"
+    "version": "21.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -22997,7 +22997,7 @@
     "size": 207917443,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+8/sapmachine-jdk-21-ea.8_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.8"
+    "version": "21.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -23020,7 +23020,7 @@
     "size": 197892221,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+8/sapmachine-jdk-21-ea.8_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.8"
+    "version": "21.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -23043,7 +23043,7 @@
     "size": 207457031,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+9/sapmachine-jdk-21-ea.9_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "21-ea.9"
+    "version": "21.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -23066,7 +23066,7 @@
     "size": 197390590,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-21+9/sapmachine-jdk-21-ea.9_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "21-ea.9"
+    "version": "21.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -23871,7 +23871,7 @@
     "size": 212694558,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+10/sapmachine-jdk-22-ea.10_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.10"
+    "version": "22.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -23894,7 +23894,7 @@
     "size": 202344019,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+10/sapmachine-jdk-22-ea.10_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.10"
+    "version": "22.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -23917,7 +23917,7 @@
     "size": 212752345,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+11/sapmachine-jdk-22-ea.11_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.11"
+    "version": "22.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -23940,7 +23940,7 @@
     "size": 202371406,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+11/sapmachine-jdk-22-ea.11_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.11"
+    "version": "22.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -23963,7 +23963,7 @@
     "size": 212813750,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+12/sapmachine-jdk-22-ea.12_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.12"
+    "version": "22.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -23986,7 +23986,7 @@
     "size": 202417138,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+12/sapmachine-jdk-22-ea.12_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.12"
+    "version": "22.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -24009,7 +24009,7 @@
     "size": 212764722,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+13/sapmachine-jdk-22-ea.13_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.13"
+    "version": "22.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -24032,7 +24032,7 @@
     "size": 202442405,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+13/sapmachine-jdk-22-ea.13_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.13"
+    "version": "22.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -24055,7 +24055,7 @@
     "size": 212801143,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+14/sapmachine-jdk-22-ea.14_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.14"
+    "version": "22.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -24078,7 +24078,7 @@
     "size": 202497839,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+14/sapmachine-jdk-22-ea.14_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.14"
+    "version": "22.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -24101,7 +24101,7 @@
     "size": 213039884,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+15/sapmachine-jdk-22-ea.15_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.15"
+    "version": "22.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -24124,7 +24124,7 @@
     "size": 202632621,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+15/sapmachine-jdk-22-ea.15_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.15"
+    "version": "22.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -24147,7 +24147,7 @@
     "size": 212848986,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+16/sapmachine-jdk-22-ea.16_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.16"
+    "version": "22.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -24170,7 +24170,7 @@
     "size": 202596739,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+16/sapmachine-jdk-22-ea.16_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.16"
+    "version": "22.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -24193,7 +24193,7 @@
     "size": 212860542,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+17/sapmachine-jdk-22-ea.17_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.17"
+    "version": "22.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -24216,7 +24216,7 @@
     "size": 202620349,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+17/sapmachine-jdk-22-ea.17_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.17"
+    "version": "22.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -24239,7 +24239,7 @@
     "size": 212883472,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+18/sapmachine-jdk-22-ea.18_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.18"
+    "version": "22.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -24262,7 +24262,7 @@
     "size": 202615932,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+18/sapmachine-jdk-22-ea.18_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.18"
+    "version": "22.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -24285,7 +24285,7 @@
     "size": 212954238,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+19/sapmachine-jdk-22-ea.19_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.19"
+    "version": "22.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -24308,7 +24308,7 @@
     "size": 202631250,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+19/sapmachine-jdk-22-ea.19_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.19"
+    "version": "22.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -24331,7 +24331,7 @@
     "size": 212581959,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+1/sapmachine-jdk-22-ea.1_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.1"
+    "version": "22.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -24354,7 +24354,7 @@
     "size": 202292570,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+1/sapmachine-jdk-22-ea.1_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.1"
+    "version": "22.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -24377,7 +24377,7 @@
     "size": 213039274,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+20/sapmachine-jdk-22-ea.20_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.20"
+    "version": "22.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -24400,7 +24400,7 @@
     "size": 202725572,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+20/sapmachine-jdk-22-ea.20_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.20"
+    "version": "22.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -24423,7 +24423,7 @@
     "size": 213308874,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+21/sapmachine-jdk-22-ea.21_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.21"
+    "version": "22.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -24446,7 +24446,7 @@
     "size": 202992371,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+21/sapmachine-jdk-22-ea.21_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.21"
+    "version": "22.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -24469,7 +24469,7 @@
     "size": 213544881,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+22/sapmachine-jdk-22-ea.22_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.22"
+    "version": "22.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -24492,7 +24492,7 @@
     "size": 203212060,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+22/sapmachine-jdk-22-ea.22_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.22"
+    "version": "22.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -24515,7 +24515,7 @@
     "size": 212910266,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+23/sapmachine-jdk-22-ea.23_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.23"
+    "version": "22.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -24538,7 +24538,7 @@
     "size": 202614943,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+23/sapmachine-jdk-22-ea.23_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.23"
+    "version": "22.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -24561,7 +24561,7 @@
     "size": 211969643,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+24/sapmachine-jdk-22-ea.24_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.24"
+    "version": "22.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -24584,7 +24584,7 @@
     "size": 201541553,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+24/sapmachine-jdk-22-ea.24_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.24"
+    "version": "22.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -24607,7 +24607,7 @@
     "size": 212080852,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+25/sapmachine-jdk-22-ea.25_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.25"
+    "version": "22.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -24630,7 +24630,7 @@
     "size": 201600138,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+25/sapmachine-jdk-22-ea.25_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.25"
+    "version": "22.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -24653,7 +24653,7 @@
     "size": 212760673,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+26/sapmachine-jdk-22-ea.26_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.26"
+    "version": "22.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -24676,7 +24676,7 @@
     "size": 202441804,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+26/sapmachine-jdk-22-ea.26_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.26"
+    "version": "22.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -24699,7 +24699,7 @@
     "size": 210330786,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+27/sapmachine-jdk-22-ea.27_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.27"
+    "version": "22.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -24722,7 +24722,7 @@
     "size": 199995939,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+27/sapmachine-jdk-22-ea.27_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.27"
+    "version": "22.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -24745,7 +24745,7 @@
     "size": 211625153,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+28/sapmachine-jdk-22-ea.28_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.28"
+    "version": "22.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -24768,7 +24768,7 @@
     "size": 201265046,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+28/sapmachine-jdk-22-ea.28_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.28"
+    "version": "22.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -24791,7 +24791,7 @@
     "size": 211697278,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+29/sapmachine-jdk-22-ea.29_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.29"
+    "version": "22.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -24814,7 +24814,7 @@
     "size": 201284025,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+29/sapmachine-jdk-22-ea.29_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.29"
+    "version": "22.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -24837,7 +24837,7 @@
     "size": 212517696,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+2/sapmachine-jdk-22-ea.2_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.2"
+    "version": "22.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -24860,7 +24860,7 @@
     "size": 202183424,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+2/sapmachine-jdk-22-ea.2_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.2"
+    "version": "22.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -24883,7 +24883,7 @@
     "size": 211757859,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+30/sapmachine-jdk-22-ea.30_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.30"
+    "version": "22.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -24906,7 +24906,7 @@
     "size": 201284958,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+30/sapmachine-jdk-22-ea.30_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.30"
+    "version": "22.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -24929,7 +24929,7 @@
     "size": 211774296,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+31/sapmachine-jdk-22-ea.31_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.31"
+    "version": "22.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -24952,7 +24952,7 @@
     "size": 201297103,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+31/sapmachine-jdk-22-ea.31_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.31"
+    "version": "22.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -24975,7 +24975,7 @@
     "size": 211852599,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+32/sapmachine-jdk-22-ea.32_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.32"
+    "version": "22.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -24998,7 +24998,7 @@
     "size": 201317728,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+32/sapmachine-jdk-22-ea.32_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.32"
+    "version": "22.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -25021,7 +25021,7 @@
     "size": 211854136,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+33/sapmachine-jdk-22-ea.33_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.33"
+    "version": "22.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -25044,7 +25044,7 @@
     "size": 201317623,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+33/sapmachine-jdk-22-ea.33_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.33"
+    "version": "22.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -25067,7 +25067,7 @@
     "size": 211712716,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+34/sapmachine-jdk-22-ea.34_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.34"
+    "version": "22.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -25090,7 +25090,7 @@
     "size": 201317714,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+34/sapmachine-jdk-22-ea.34_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.34"
+    "version": "22.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -25113,7 +25113,7 @@
     "size": 211740570,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+35/sapmachine-jdk-22-ea.35_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.35"
+    "version": "22.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -25136,7 +25136,7 @@
     "size": 201318618,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+35/sapmachine-jdk-22-ea.35_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.35"
+    "version": "22.0.0-ea.35"
   },
   {
     "architecture": "x86_64",
@@ -25159,7 +25159,7 @@
     "size": 211720617,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+36/sapmachine-jdk-22-ea.36_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.36"
+    "version": "22.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -25182,7 +25182,7 @@
     "size": 201318338,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+36/sapmachine-jdk-22-ea.36_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.36"
+    "version": "22.0.0-ea.36"
   },
   {
     "architecture": "x86_64",
@@ -25205,7 +25205,7 @@
     "size": 212520777,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+3/sapmachine-jdk-22-ea.3_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.3"
+    "version": "22.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -25228,7 +25228,7 @@
     "size": 202221357,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+3/sapmachine-jdk-22-ea.3_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.3"
+    "version": "22.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -25251,7 +25251,7 @@
     "size": 212574806,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+4/sapmachine-jdk-22-ea.4_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.4"
+    "version": "22.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -25274,7 +25274,7 @@
     "size": 202262102,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+4/sapmachine-jdk-22-ea.4_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.4"
+    "version": "22.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -25297,7 +25297,7 @@
     "size": 212598837,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+5/sapmachine-jdk-22-ea.5_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.5"
+    "version": "22.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -25320,7 +25320,7 @@
     "size": 202279991,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+5/sapmachine-jdk-22-ea.5_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.5"
+    "version": "22.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -25343,7 +25343,7 @@
     "size": 212660914,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+6/sapmachine-jdk-22-ea.6_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.6"
+    "version": "22.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -25366,7 +25366,7 @@
     "size": 202277673,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+6/sapmachine-jdk-22-ea.6_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.6"
+    "version": "22.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -25389,7 +25389,7 @@
     "size": 212723864,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+7/sapmachine-jdk-22-ea.7_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.7"
+    "version": "22.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -25412,7 +25412,7 @@
     "size": 202390488,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+7/sapmachine-jdk-22-ea.7_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.7"
+    "version": "22.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -25435,7 +25435,7 @@
     "size": 212678067,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+8/sapmachine-jdk-22-ea.8_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.8"
+    "version": "22.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -25458,7 +25458,7 @@
     "size": 202332786,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+8/sapmachine-jdk-22-ea.8_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.8"
+    "version": "22.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -25481,7 +25481,7 @@
     "size": 212778507,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+9/sapmachine-jdk-22-ea.9_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "22-ea.9"
+    "version": "22.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -25504,7 +25504,7 @@
     "size": 202397464,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-22+9/sapmachine-jdk-22-ea.9_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "22-ea.9"
+    "version": "22.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -25711,7 +25711,7 @@
     "size": 211881181,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+10/sapmachine-jdk-23-ea.10_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.10"
+    "version": "23.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -25734,7 +25734,7 @@
     "size": 201505628,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+10/sapmachine-jdk-23-ea.10_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.10"
+    "version": "23.0.0-ea.10"
   },
   {
     "architecture": "x86_64",
@@ -25757,7 +25757,7 @@
     "size": 211888245,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+11/sapmachine-jdk-23-ea.11_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.11"
+    "version": "23.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -25780,7 +25780,7 @@
     "size": 201510149,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+11/sapmachine-jdk-23-ea.11_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.11"
+    "version": "23.0.0-ea.11"
   },
   {
     "architecture": "x86_64",
@@ -25803,7 +25803,7 @@
     "size": 211920003,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+12/sapmachine-jdk-23-ea.12_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.12"
+    "version": "23.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -25826,7 +25826,7 @@
     "size": 201526923,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+12/sapmachine-jdk-23-ea.12_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.12"
+    "version": "23.0.0-ea.12"
   },
   {
     "architecture": "x86_64",
@@ -25849,7 +25849,7 @@
     "size": 211715889,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+13/sapmachine-jdk-23-ea.13_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.13"
+    "version": "23.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -25872,7 +25872,7 @@
     "size": 201222983,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+13/sapmachine-jdk-23-ea.13_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.13"
+    "version": "23.0.0-ea.13"
   },
   {
     "architecture": "x86_64",
@@ -25895,7 +25895,7 @@
     "size": 211625741,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+14/sapmachine-jdk-23-ea.14_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.14"
+    "version": "23.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -25918,7 +25918,7 @@
     "size": 201180175,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+14/sapmachine-jdk-23-ea.14_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.14"
+    "version": "23.0.0-ea.14"
   },
   {
     "architecture": "x86_64",
@@ -25941,7 +25941,7 @@
     "size": 211639266,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+15/sapmachine-jdk-23-ea.15_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.15"
+    "version": "23.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -25964,7 +25964,7 @@
     "size": 201158368,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+15/sapmachine-jdk-23-ea.15_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.15"
+    "version": "23.0.0-ea.15"
   },
   {
     "architecture": "x86_64",
@@ -25987,7 +25987,7 @@
     "size": 219784437,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+16/sapmachine-jdk-23-ea.16_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.16"
+    "version": "23.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -26010,7 +26010,7 @@
     "size": 209340331,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+16/sapmachine-jdk-23-ea.16_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.16"
+    "version": "23.0.0-ea.16"
   },
   {
     "architecture": "x86_64",
@@ -26033,7 +26033,7 @@
     "size": 219901300,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+17/sapmachine-jdk-23-ea.17_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.17"
+    "version": "23.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -26056,7 +26056,7 @@
     "size": 209346928,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+17/sapmachine-jdk-23-ea.17_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.17"
+    "version": "23.0.0-ea.17"
   },
   {
     "architecture": "x86_64",
@@ -26079,7 +26079,7 @@
     "size": 219884021,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+18/sapmachine-jdk-23-ea.18_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.18"
+    "version": "23.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -26102,7 +26102,7 @@
     "size": 209383742,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+18/sapmachine-jdk-23-ea.18_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.18"
+    "version": "23.0.0-ea.18"
   },
   {
     "architecture": "x86_64",
@@ -26125,7 +26125,7 @@
     "size": 219692704,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+19/sapmachine-jdk-23-ea.19_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.19"
+    "version": "23.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -26148,7 +26148,7 @@
     "size": 209297939,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+19/sapmachine-jdk-23-ea.19_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.19"
+    "version": "23.0.0-ea.19"
   },
   {
     "architecture": "x86_64",
@@ -26171,7 +26171,7 @@
     "size": 210448560,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+1/sapmachine-jdk-23-ea.1_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.1"
+    "version": "23.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -26194,7 +26194,7 @@
     "size": 200055253,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+1/sapmachine-jdk-23-ea.1_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.1"
+    "version": "23.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -26217,7 +26217,7 @@
     "size": 218761986,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+20/sapmachine-jdk-23-ea.20_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.20"
+    "version": "23.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -26240,7 +26240,7 @@
     "size": 208418351,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+20/sapmachine-jdk-23-ea.20_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.20"
+    "version": "23.0.0-ea.20"
   },
   {
     "architecture": "x86_64",
@@ -26263,7 +26263,7 @@
     "size": 218739913,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+21/sapmachine-jdk-23-ea.21_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.21"
+    "version": "23.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -26286,7 +26286,7 @@
     "size": 208377373,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+21/sapmachine-jdk-23-ea.21_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.21"
+    "version": "23.0.0-ea.21"
   },
   {
     "architecture": "x86_64",
@@ -26309,7 +26309,7 @@
     "size": 218854074,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+22/sapmachine-jdk-23-ea.22_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.22"
+    "version": "23.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -26332,7 +26332,7 @@
     "size": 208410191,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+22/sapmachine-jdk-23-ea.22_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.22"
+    "version": "23.0.0-ea.22"
   },
   {
     "architecture": "x86_64",
@@ -26355,7 +26355,7 @@
     "size": 218747243,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+23/sapmachine-jdk-23-ea.23_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.23"
+    "version": "23.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -26378,7 +26378,7 @@
     "size": 208343970,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+23/sapmachine-jdk-23-ea.23_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.23"
+    "version": "23.0.0-ea.23"
   },
   {
     "architecture": "x86_64",
@@ -26401,7 +26401,7 @@
     "size": 219660088,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+24/sapmachine-jdk-23-ea.24_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.24"
+    "version": "23.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -26424,7 +26424,7 @@
     "size": 209100244,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+24/sapmachine-jdk-23-ea.24_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.24"
+    "version": "23.0.0-ea.24"
   },
   {
     "architecture": "x86_64",
@@ -26447,7 +26447,7 @@
     "size": 220256628,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+25/sapmachine-jdk-23-ea.25_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.25"
+    "version": "23.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -26470,7 +26470,7 @@
     "size": 209798847,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+25/sapmachine-jdk-23-ea.25_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.25"
+    "version": "23.0.0-ea.25"
   },
   {
     "architecture": "x86_64",
@@ -26493,7 +26493,7 @@
     "size": 220476236,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+26/sapmachine-jdk-23-ea.26_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.26"
+    "version": "23.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -26516,7 +26516,7 @@
     "size": 209884628,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+26/sapmachine-jdk-23-ea.26_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.26"
+    "version": "23.0.0-ea.26"
   },
   {
     "architecture": "x86_64",
@@ -26539,7 +26539,7 @@
     "size": 220526784,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+27/sapmachine-jdk-23-ea.27_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.27"
+    "version": "23.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -26562,7 +26562,7 @@
     "size": 209907780,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+27/sapmachine-jdk-23-ea.27_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.27"
+    "version": "23.0.0-ea.27"
   },
   {
     "architecture": "x86_64",
@@ -26585,7 +26585,7 @@
     "size": 220614749,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+28/sapmachine-jdk-23-ea.28_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.28"
+    "version": "23.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -26608,7 +26608,7 @@
     "size": 209952956,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+28/sapmachine-jdk-23-ea.28_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.28"
+    "version": "23.0.0-ea.28"
   },
   {
     "architecture": "x86_64",
@@ -26631,7 +26631,7 @@
     "size": 220486145,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+29/sapmachine-jdk-23-ea.29_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.29"
+    "version": "23.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -26654,7 +26654,7 @@
     "size": 209962851,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+29/sapmachine-jdk-23-ea.29_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.29"
+    "version": "23.0.0-ea.29"
   },
   {
     "architecture": "x86_64",
@@ -26677,7 +26677,7 @@
     "size": 211701851,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+2/sapmachine-jdk-23-ea.2_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.2"
+    "version": "23.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -26700,7 +26700,7 @@
     "size": 201343548,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+2/sapmachine-jdk-23-ea.2_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.2"
+    "version": "23.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -26723,7 +26723,7 @@
     "size": 220536592,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+30/sapmachine-jdk-23-ea.30_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.30"
+    "version": "23.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -26746,7 +26746,7 @@
     "size": 209984861,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+30/sapmachine-jdk-23-ea.30_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.30"
+    "version": "23.0.0-ea.30"
   },
   {
     "architecture": "x86_64",
@@ -26769,7 +26769,7 @@
     "size": 220580866,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+31/sapmachine-jdk-23-ea.31_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.31"
+    "version": "23.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -26792,7 +26792,7 @@
     "size": 209987271,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+31/sapmachine-jdk-23-ea.31_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.31"
+    "version": "23.0.0-ea.31"
   },
   {
     "architecture": "x86_64",
@@ -26815,7 +26815,7 @@
     "size": 220577996,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+32/sapmachine-jdk-23-ea.32_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.32"
+    "version": "23.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -26838,7 +26838,7 @@
     "size": 209987713,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+32/sapmachine-jdk-23-ea.32_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.32"
+    "version": "23.0.0-ea.32"
   },
   {
     "architecture": "x86_64",
@@ -26861,7 +26861,7 @@
     "size": 220579631,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+33/sapmachine-jdk-23-ea.33_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.33"
+    "version": "23.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -26884,7 +26884,7 @@
     "size": 209989088,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+33/sapmachine-jdk-23-ea.33_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.33"
+    "version": "23.0.0-ea.33"
   },
   {
     "architecture": "x86_64",
@@ -26907,7 +26907,7 @@
     "size": 220580899,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+34/sapmachine-jdk-23-ea.34_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.34"
+    "version": "23.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -26930,7 +26930,7 @@
     "size": 209989071,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+34/sapmachine-jdk-23-ea.34_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.34"
+    "version": "23.0.0-ea.34"
   },
   {
     "architecture": "x86_64",
@@ -26953,7 +26953,7 @@
     "size": 211791824,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+3/sapmachine-jdk-23-ea.3_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.3"
+    "version": "23.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -26976,7 +26976,7 @@
     "size": 201370681,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+3/sapmachine-jdk-23-ea.3_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.3"
+    "version": "23.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -26999,7 +26999,7 @@
     "size": 211804439,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+4/sapmachine-jdk-23-ea.4_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.4"
+    "version": "23.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -27022,7 +27022,7 @@
     "size": 201385683,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+4/sapmachine-jdk-23-ea.4_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.4"
+    "version": "23.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -27045,7 +27045,7 @@
     "size": 211872331,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+5/sapmachine-jdk-23-ea.5_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.5"
+    "version": "23.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -27068,7 +27068,7 @@
     "size": 201452507,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+5/sapmachine-jdk-23-ea.5_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.5"
+    "version": "23.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -27091,7 +27091,7 @@
     "size": 211851848,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+6/sapmachine-jdk-23-ea.6_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.6"
+    "version": "23.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -27114,7 +27114,7 @@
     "size": 201408748,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+6/sapmachine-jdk-23-ea.6_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.6"
+    "version": "23.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -27137,7 +27137,7 @@
     "size": 211869117,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+7/sapmachine-jdk-23-ea.7_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.7"
+    "version": "23.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -27160,7 +27160,7 @@
     "size": 201454175,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+7/sapmachine-jdk-23-ea.7_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.7"
+    "version": "23.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -27183,7 +27183,7 @@
     "size": 211841394,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+8/sapmachine-jdk-23-ea.8_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.8"
+    "version": "23.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -27206,7 +27206,7 @@
     "size": 201483639,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+8/sapmachine-jdk-23-ea.8_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.8"
+    "version": "23.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -27229,7 +27229,7 @@
     "size": 211829655,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+9/sapmachine-jdk-23-ea.9_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "23-ea.9"
+    "version": "23.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -27252,7 +27252,7 @@
     "size": 201524335,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-23+9/sapmachine-jdk-23-ea.9_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "23-ea.9"
+    "version": "23.0.0-ea.9"
   },
   {
     "architecture": "x86_64",
@@ -27275,7 +27275,7 @@
     "size": 220492410,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+1/sapmachine-jdk-24-ea.1_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.1"
+    "version": "24.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -27298,7 +27298,7 @@
     "size": 209968405,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+1/sapmachine-jdk-24-ea.1_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.1"
+    "version": "24.0.0-ea.1"
   },
   {
     "architecture": "x86_64",
@@ -27321,7 +27321,7 @@
     "size": 220585648,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+2/sapmachine-jdk-24-ea.2_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.2"
+    "version": "24.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -27344,7 +27344,7 @@
     "size": 209965006,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+2/sapmachine-jdk-24-ea.2_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.2"
+    "version": "24.0.0-ea.2"
   },
   {
     "architecture": "x86_64",
@@ -27367,7 +27367,7 @@
     "size": 220556479,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+3/sapmachine-jdk-24-ea.3_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.3"
+    "version": "24.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -27390,7 +27390,7 @@
     "size": 210006912,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+3/sapmachine-jdk-24-ea.3_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.3"
+    "version": "24.0.0-ea.3"
   },
   {
     "architecture": "x86_64",
@@ -27413,7 +27413,7 @@
     "size": 220476826,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+4/sapmachine-jdk-24-ea.4_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.4"
+    "version": "24.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -27436,7 +27436,7 @@
     "size": 209992311,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+4/sapmachine-jdk-24-ea.4_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.4"
+    "version": "24.0.0-ea.4"
   },
   {
     "architecture": "x86_64",
@@ -27459,7 +27459,7 @@
     "size": 220644735,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+5/sapmachine-jdk-24-ea.5_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.5"
+    "version": "24.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -27482,7 +27482,7 @@
     "size": 210061973,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+5/sapmachine-jdk-24-ea.5_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.5"
+    "version": "24.0.0-ea.5"
   },
   {
     "architecture": "x86_64",
@@ -27505,7 +27505,7 @@
     "size": 220676531,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+6/sapmachine-jdk-24-ea.6_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.6"
+    "version": "24.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -27528,7 +27528,7 @@
     "size": 210181193,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+6/sapmachine-jdk-24-ea.6_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.6"
+    "version": "24.0.0-ea.6"
   },
   {
     "architecture": "x86_64",
@@ -27551,7 +27551,7 @@
     "size": 220762057,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+7/sapmachine-jdk-24-ea.7_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.7"
+    "version": "24.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -27574,7 +27574,7 @@
     "size": 210188312,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+7/sapmachine-jdk-24-ea.7_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.7"
+    "version": "24.0.0-ea.7"
   },
   {
     "architecture": "x86_64",
@@ -27597,7 +27597,7 @@
     "size": 220904643,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+8/sapmachine-jdk-24-ea.8_macos-x64_bin.dmg",
     "vendor": "sapmachine",
-    "version": "24-ea.8"
+    "version": "24.0.0-ea.8"
   },
   {
     "architecture": "x86_64",
@@ -27620,6 +27620,6 @@
     "size": 210384653,
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+8/sapmachine-jdk-24-ea.8_macos-x64_bin.tar.gz",
     "vendor": "sapmachine",
-    "version": "24-ea.8"
+    "version": "24.0.0-ea.8"
   }
 ]
