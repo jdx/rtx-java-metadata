@@ -116,7 +116,7 @@ function metadata_json {
 
 function normalize_version {
   local version="${1}"
-  if [[ "${version}" =~ ^(.[^+]*-[0-9]+)([-+].+)?$ ]]
+  if [[ "${version}" =~ ^([0-9]+)([-+].+)?$ ]]
   then
     if [[ -z "${BASH_REMATCH[2]}" ]]
     then
