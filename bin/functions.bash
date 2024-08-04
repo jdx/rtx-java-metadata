@@ -104,17 +104,17 @@ function metadata_json {
 }
 
 function normalize_version {
-  local version="${1}"
-  if [[ "${version}" =~ ^([0-9]+)([-+].+)?$ ]]
-  then
-    if [[ -z "${BASH_REMATCH[2]}" ]]
-    then
-      version="${BASH_REMATCH[1]}.0.0"
-    else
-      version="${BASH_REMATCH[1]}.0.0${BASH_REMATCH[2]}"
-    fi
-  fi
-  echo "${version}"
+	local version="${1}"
+	if [[ "${version}" =~ ^([0-9]+)([-+].+)?$ ]]
+	then
+		if [[ -z "${BASH_REMATCH[2]}" ]]
+		then
+			version="${BASH_REMATCH[1]}.0.0"
+		else
+			version="${BASH_REMATCH[1]}.0.0${BASH_REMATCH[2]}"
+		fi
+	fi
+	echo "${version}"
 }
 
 function normalize_os {
@@ -199,12 +199,18 @@ function aggregate_metadata {
 
 		for os in $supported_os
 		do
+			if [ "${os}" == "unknown-os-" ]; then
+				continue
+			fi
 			local os_dir="${release_type_dir}/${os}"
 			ensure_directory "${os_dir}"
 			jq -S "[.[] | select(.os == \"${os}\")]" "${release_type_dir}/../${release_type}.json" > "${os_dir}/../${os}.json"
 
 			for arch in $supported_arch
 			do
+				if [ "${arch}" == "unknown-architecture-" ]; then
+					continue
+				fi
 				local arch_dir="${os_dir}/${arch}"
 				ensure_directory "${arch_dir}"
 				jq -S "[.[] | select(.architecture == \"${arch}\")]" "${os_dir}/../${os}.json" > "${arch_dir}/../${arch}.json"
