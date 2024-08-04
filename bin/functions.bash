@@ -183,7 +183,7 @@ function aggregate_metadata {
 	supported_arch=$(find_supported_arch "${all_json}")
 	local supported_os
 	supported_os=$(find_supported_os "${all_json}")
-	local supported_image_type='jre jdk'
+	local supported_image_type='jdk'
 	local release_types='ea ga'
 	local jvm_impls='hotspot openj9 graalvm'
 	local vendors
