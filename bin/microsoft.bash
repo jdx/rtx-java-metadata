@@ -5,9 +5,9 @@ set -Euo pipefail
 TEMP_DIR=$(mktemp -d)
 trap 'rm -rf ${TEMP_DIR}' EXIT
 
-if [[ "$#" -lt 2 ]]
+if [[ "$#" -lt 1 ]]
 then
-	echo "Usage: ${0} metadata-directory checksum-directory"
+	echo "Usage: ${0} metadata-directory"
 	exit 1
 fi
 
@@ -16,10 +16,8 @@ source "$(dirname "${0}")/functions.bash"
 
 VENDOR='microsoft'
 METADATA_DIR="${1}/${VENDOR}"
-CHECKSUM_DIR="${2}/${VENDOR}"
 
 ensure_directory "${METADATA_DIR}"
-ensure_directory "${CHECKSUM_DIR}"
 
 # shellcheck disable=SC2016
 REGEX='s/^microsoft-jdk-([0-9+.]{3,})-(linux|macos|macOS|windows)-(x64|aarch64)\.(.*)$/VERSION="$1" OS="$2" ARCH="$3" ARCHIVE="$4"/g'
@@ -72,10 +70,10 @@ do
 			"jdk" \
 			"" \
 			"${MSJDK_URL}" \
-			"$(hash_file 'md5' "${MSJDK_ARCHIVE}" "${CHECKSUM_DIR}")" \
-			"$(hash_file 'sha1' "${MSJDK_ARCHIVE}" "${CHECKSUM_DIR}")" \
-			"$(hash_file 'sha256' "${MSJDK_ARCHIVE}" "${CHECKSUM_DIR}")" \
-			"$(hash_file 'sha512' "${MSJDK_ARCHIVE}" "${CHECKSUM_DIR}")" \
+			"$(hash_file 'md5' "${MSJDK_ARCHIVE}")" \
+			"$(hash_file 'sha1' "${MSJDK_ARCHIVE}")" \
+			"$(hash_file 'sha256' "${MSJDK_ARCHIVE}")" \
+			"$(hash_file 'sha512' "${MSJDK_ARCHIVE}")" \
 			"$(file_size "${MSJDK_ARCHIVE}")" \
 			"${MSJDK_FILE}"
 		)"

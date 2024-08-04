@@ -12,10 +12,8 @@ SCRIPT_DIR=$(dirname "${0}")
 source "${SCRIPT_DIR}/functions.bash"
 
 ROOT_DIR='./docs'
-ensure_directory "${ROOT_DIR}/checksums"
 ensure_directory "${ROOT_DIR}/metadata"
  
-CHECKSUM_DIR=$(readlink -f "${ROOT_DIR}/checksums")
 METADATA_DIR=$(readlink -f "${ROOT_DIR}/metadata")
 
 function cmd() {
@@ -65,7 +63,7 @@ vendors=(
 	"$(cmd 'kona17')"
 )
 
-printf '%s\n' "${vendors[@]}" | parallel -P 4 --verbose "bash {} ${METADATA_DIR}/vendor ${CHECKSUM_DIR} ; echo \"{} EXIT CODE: \$?\""
+printf '%s\n' "${vendors[@]}" | parallel -P 4 --verbose "bash {} ${METADATA_DIR}/vendor ; echo \"{} EXIT CODE: \$?\""
 
 jq -s 'add' "${METADATA_DIR}"/vendor/*/all.json > "${METADATA_DIR}/all.json"
 aggregate_metadata "${METADATA_DIR}/all.json" "${METADATA_DIR}"

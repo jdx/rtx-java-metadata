@@ -38,23 +38,12 @@ function check_url_exists {
 function hash_file {
 	local hashalg="${1}"
 	local archive="${2}"
-	local output_directory="${3}"
-	local filename
-	filename="$(basename "${archive}")"
-	local real_filename
-	if [[ $# == 4 && -n "${4}" ]]
-	then
-		real_filename="${4}"
-	else
-		real_filename="${filename}"
-	fi
+
 	local cmd
 	cmd="$(command -v "${hashalg}sum")"
 	local checksum
 	checksum=$("${cmd}" "${archive}" | cut -f 1 -d ' ')
 
-	ensure_directory "${output_directory}"
-	echo "${checksum}  ${real_filename}" > "${output_directory}/${filename}.${hashalg}"
 	echo "${checksum}"
 }
 
@@ -104,13 +93,13 @@ function metadata_json {
 		features="$(jo -a "${features[@]}" < /dev/null)" \
 		url="${12}" \
 		-s md5="${13}" \
-		md5_file="${18}.md5" \
+		md5_file="" \
 		-s sha1="${14}" \
-		sha1_file="${18}.sha1" \
+		sha1_file="" \
 		-s sha256="${15}" \
-		sha256_file="${18}.sha256" \
+		sha256_file="" \
 		-s sha512="${16}" \
-		sha512_file="${18}.sha512" \
+		sha512_file="" \
 		size="${17}"
 }
 

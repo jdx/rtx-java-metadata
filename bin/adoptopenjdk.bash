@@ -5,9 +5,9 @@ set -Euo pipefail
 TEMP_DIR=$(mktemp -d)
 trap 'rm -rf ${TEMP_DIR}' EXIT
 
-if [[ "$#" -lt 2 ]]
+if [[ "$#" -lt 1 ]]
 then
-	echo "Usage: ${0} metadata-directory checksum-directory"
+	echo "Usage: ${0} metadata-directory"
 	exit 1
 fi
 
@@ -16,10 +16,8 @@ source "$(dirname "${0}")/functions.bash"
 
 VENDOR='adoptopenjdk'
 METADATA_DIR="${1}/${VENDOR}"
-CHECKSUM_DIR="${2}/${VENDOR}"
 
 ensure_directory "${METADATA_DIR}"
-ensure_directory "${CHECKSUM_DIR}"
 
 function normalize_version {
 	local jvm_impl="$1"
@@ -102,10 +100,10 @@ function download {
 			"$(jq -r '.image_type' <<< "${json}")" \
 			"$(normalize_features "$(jq -r '.heap_size' <<< "${json}")")" \
 			"${url}" \
-			"$(hash_file 'md5' "${archive}" "${CHECKSUM_DIR}")" \
-			"$(hash_file 'sha1' "${archive}" "${CHECKSUM_DIR}")" \
-			"$(hash_file 'sha256' "${archive}" "${CHECKSUM_DIR}")" \
-			"$(hash_file 'sha512' "${archive}" "${CHECKSUM_DIR}")" \
+			"$(hash_file 'md5' "${archive}")" \
+			"$(hash_file 'sha1' "${archive}")" \
+			"$(hash_file 'sha256' "${archive}")" \
+			"$(hash_file 'sha512' "${archive}")" \
 			"$(file_size "${archive}")" \
 			"${filename}"
 		)"

@@ -5,9 +5,9 @@ set -Euo pipefail
 TEMP_DIR=$(mktemp -d)
 trap 'rm -rf ${TEMP_DIR}' EXIT
 
-if [[ "$#" -lt 2 ]]
+if [[ "$#" -lt 1 ]]
 then
-	echo "Usage: ${0} metadata-directory checksum-directory"
+	echo "Usage: ${0} metadata-directory"
 	exit 1
 fi
 
@@ -16,10 +16,8 @@ source "$(dirname "${0}")/functions.bash"
 
 VENDOR='oracle-graalvm'
 METADATA_DIR="${1}/${VENDOR}"
-CHECKSUM_DIR="${2}/${VENDOR}"
 
 ensure_directory "${METADATA_DIR}"
-ensure_directory "${CHECKSUM_DIR}"
 
 # shellcheck disable=SC2016
 REGEX='s/^graalvm-jdk-([0-9+.]{2,})_(linux|macos|windows)-(x64|aarch64)_bin\.(tar\.gz|zip|msi|dmg|exe|deb|rpm)$/VERSION="$1" OS="$2" ARCH="$3" ARCHIVE="$4"/g'
@@ -106,10 +104,10 @@ function download_and_parse {
 				"jdk" \
 				"" \
 				"${JDK_URL}" \
-				"$(hash_file 'md5' "${JDK_ARCHIVE}" "${CHECKSUM_DIR}")" \
-				"$(hash_file 'sha1' "${JDK_ARCHIVE}" "${CHECKSUM_DIR}")" \
-				"$(hash_file 'sha256' "${JDK_ARCHIVE}" "${CHECKSUM_DIR}")" \
-				"$(hash_file 'sha512' "${JDK_ARCHIVE}" "${CHECKSUM_DIR}")" \
+				"$(hash_file 'md5' "${JDK_ARCHIVE}")" \
+				"$(hash_file 'sha1' "${JDK_ARCHIVE}")" \
+				"$(hash_file 'sha256' "${JDK_ARCHIVE}")" \
+				"$(hash_file 'sha512' "${JDK_ARCHIVE}")" \
 				"$(file_size "${JDK_ARCHIVE}")" \
 				"${JDK_FILE}"
 			)"
