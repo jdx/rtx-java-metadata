@@ -164,15 +164,11 @@ function normalize_arch {
 }
 
 function find_supported_os {
-	jq -r '.[].os' "$1" | sort | uniq
+	jq -r '.[].os | select(. == "linux" or . == "macosx" or . == "windows")' "$1" | sort | uniq
 }
 
 function find_supported_arch {
-	jq -r '.[].architecture' "$1" | sort | uniq
-}
-
-function find_supported_vendors {
-	jq -r '.[].vendor' "$1" | sort | uniq
+	jq -r '.[].architecture | select(. == "aarch64" or . == "arm32" or . == "x86_64")' "$1" | sort | uniq
 }
 
 function aggregate_metadata {
@@ -183,11 +179,7 @@ function aggregate_metadata {
 	supported_arch=$(find_supported_arch "${all_json}")
 	local supported_os
 	supported_os=$(find_supported_os "${all_json}")
-	local supported_image_type='jdk'
 	local release_types='ga'
-	local jvm_impls='hotspot openj9 graalvm'
-	local vendors
-	vendors=$(find_supported_vendors "${all_json}")
 
 	# https://api.adoptopenjdk.net/swagger-ui/
 	# /v3/binary/latest/{feature_version}/{release_type}/{os}/{arch}/{image_type}/{jvm_impl}/{heap_size}/{vendor}
@@ -211,30 +203,7 @@ function aggregate_metadata {
 				if [ "${arch}" == "unknown-architecture-" ]; then
 					continue
 				fi
-				local arch_dir="${os_dir}/${arch}"
-				ensure_directory "${arch_dir}"
-				jq -S "[.[] | select(.architecture == \"${arch}\")]" "${os_dir}/../${os}.json" > "${arch_dir}/../${arch}.json"
-
-				for image_type in $supported_image_type
-				do
-					local image_type_dir="${arch_dir}/${image_type}"
-					ensure_directory "${image_type_dir}"
-					jq -S "[.[] | select(.image_type == \"${image_type}\")]" "${arch_dir}/../${arch}.json" > "${image_type_dir}/../${image_type}.json"
-
-					for jvm_impl in $jvm_impls
-					do
-						local jvm_impl_dir="${image_type_dir}/${jvm_impl}"
-						ensure_directory "${jvm_impl_dir}"
-						jq -S "[.[] | select(.jvm_impl == \"${jvm_impl}\")]" "${image_type_dir}/../${image_type}.json" > "${jvm_impl_dir}/../${jvm_impl}.json"
-
-						for vendor in $vendors
-						do
-							local vendor_dir="${jvm_impl_dir}/${vendor}"
-							ensure_directory "${vendor_dir}"
-							jq -S "[.[] | select(.vendor == \"${vendor}\")]" "${jvm_impl_dir}/../${jvm_impl}.json" > "${vendor_dir}/../${vendor}.json"
-						done
-					done
-				done
+				jq -S "[.[] | select(.architecture == \"${arch}\")]" "${os_dir}/../${os}.json" > "${os_dir}/${arch}.json"
 			done
 		done
 

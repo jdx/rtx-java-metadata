@@ -49,7 +49,7 @@ testNormalizeMetadata_Vendor_Changed() {
 
 testNormalizeMetadata_Aggregations_GA_Os_Arch() {
   for os in "linux" "macosx"; do
-    for arch in "aarch64" "x86_64" "i686"; do
+    for arch in "aarch64" "arm32" "x86_64"; do
       verify_array "../docs/metadata/ga/${os}/${arch}.json"
     done
   done
