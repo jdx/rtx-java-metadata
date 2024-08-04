@@ -11751,5 +11751,30 @@
     "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+8/sapmachine-jdk-24-ea.8_linux-ppc64le_bin.tar.gz",
     "vendor": "sapmachine",
     "version": "24.0.0-ea.8"
+  },
+  {
+    "architecture": "ppc64",
+    "features": [
+      "le"
+    ],
+    "file_type": "tar.gz",
+    "filename": "sapmachine-jdk-24-ea.9_linux-ppc64le_bin.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24-ea.9",
+    "jvm_impl": "hotspot",
+    "md5": "e61eb78a6b3fc28c01cd50446fe4d95c",
+    "md5_file": "sapmachine-jdk-24-ea.9_linux-ppc64le_bin.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "517c1cac64d8304f3c4f62e9be2a8311e434d189",
+    "sha1_file": "sapmachine-jdk-24-ea.9_linux-ppc64le_bin.tar.gz.sha1",
+    "sha256": "fdc63afe7a9d0461f947296dad63240fadac2a6e02d04a560f52dfb5ce31e99e",
+    "sha256_file": "sapmachine-jdk-24-ea.9_linux-ppc64le_bin.tar.gz.sha256",
+    "sha512": "9ed6a861b778c74ba40ed0805f75e3dcde5258ddc14c7f1c96639f57e038d3c882415ffb96babcab00d6231540b11d554e76c555bb90acbec8e467dfb9f4b333",
+    "sha512_file": "sapmachine-jdk-24-ea.9_linux-ppc64le_bin.tar.gz.sha512",
+    "size": 214579242,
+    "url": "https://github.com/SAP/SapMachine/releases/download/sapmachine-24+9/sapmachine-jdk-24-ea.9_linux-ppc64le_bin.tar.gz",
+    "vendor": "sapmachine",
+    "version": "24.0.0-ea.9"
   }
 ]
