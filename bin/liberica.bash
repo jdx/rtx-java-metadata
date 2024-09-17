@@ -77,7 +77,7 @@ function download {
 		echo "Skipping ${tag_name} - ${filename}"
 	else
 		# shellcheck disable=SC2016
-		local regex='s/^bellsoft-(jre|jdk)(.+)-(linux|windows|macos|solaris)-(amd64|i386|i586|aarch64|arm64|ppc64le|arm32-vfp-hflt|x64|sparcv9|riscv64)-?(fx|lite|full|musl|musl-lite|crac|musl-crac|leyden|musl-leyden)?\.(apk|deb|rpm|msi|dmg|pkg|tar\.gz|zip)$/IMAGE_TYPE="$1" VERSION="$2" OS="$3" ARCH="$4" FEATURES="$5" EXT="$6"/g'
+		local regex='s/^bellsoft-(jre|jdk)(.+)-(?:ea-)?(linux|windows|macos|solaris)-(amd64|i386|i586|aarch64|arm64|ppc64le|arm32-vfp-hflt|x64|sparcv9|riscv64)-?(fx|lite|full|musl|musl-lite|crac|musl-crac|leyden|musl-leyden|lite-leyden|musl-lite-leyden)?\.(apk|deb|rpm|msi|dmg|pkg|tar\.gz|zip)$/IMAGE_TYPE="$1" VERSION="$2" OS="$3" ARCH="$4" FEATURES="$5" EXT="$6"/g'
 
 		local IMAGE_TYPE=""
 		local VERSION=""
