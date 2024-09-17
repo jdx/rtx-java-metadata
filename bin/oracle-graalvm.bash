@@ -118,7 +118,7 @@ function download_and_parse {
 	done
 }
 
-for version in 17 20 21 22
+for version in 17 20 21 22 23
 do
 	download_and_parse "$version"
 done
