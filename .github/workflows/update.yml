@@ -6,6 +6,9 @@ on:
   #   - main
   schedule:
     - cron: '0 1 * * *'
+permissions:
+  contents: write
+  pull-requests: write
 jobs:
   update:
     runs-on: 'ubuntu-latest'
@@ -30,7 +33,13 @@ jobs:
         git config --local user.name "GitHub Action"
         git add docs/
         git diff-index --quiet HEAD || git commit -m "Update release metadata"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v4
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: Update metadata
+        title: Update metadata
+        base: main
+        labels: automated-pr
+        branch: issues/update-metadata
+        delete-branch: true
