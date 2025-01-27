@@ -33,7 +33,6 @@ vendors=(
 	"$(cmd 'semeru20')"
 	"$(cmd 'semeru21')"
 	"$(cmd 'semeru22')"
-	"$(cmd 'semeru23')"
 	"$(cmd 'semeru11-certified')"
 	"$(cmd 'semeru17-certified')"
 	"$(cmd 'semeru21-certified')"
@@ -62,6 +61,7 @@ vendors=(
 	"$(cmd 'kona8')"
 	"$(cmd 'kona11')"
 	"$(cmd 'kona17')"
+	"$(cmd 'jetbrains')"
 )
 
 printf '%s\n' "${vendors[@]}" | parallel -P 4 --verbose "bash {} ${METADATA_DIR}/vendor ; echo \"{} EXIT CODE: \$?\""
