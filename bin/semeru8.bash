@@ -78,7 +78,7 @@ function download {
 			"${VENDOR}" \
 			"${filename}" \
 			"$(normalize_release_type "${RELEASE_TYPE}")" \
-			"${VERSION}" \
+			"$(normalize_version "${VERSION}")" \
 			"${JAVA_VERSION}" \
 			'openj9' \
 			"$(normalize_os "${OS}")" \
